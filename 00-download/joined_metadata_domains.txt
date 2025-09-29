@@ -1,4 +1,16 @@
 sid	id	Trait	uniqTrait	N	Ncontrol	Ncase	sex	source	uniqTrait_	sTrait	PMID	uniqValue	pair	pair_m_f	TYPE
+ch1m	ch1	Nonword reading (requested)	Nonword reading	8383			male		Nonword reading	Nonword reading (requested) [male]	35998220	Nonword reading (requested) 35998220	ch1f ch1m	ch1m ch1f	Behavioural
+ch1f	ch1	Nonword reading (requested)	Nonword reading	8264			female		Nonword reading	Nonword reading (requested) [female]	35998220	Nonword reading (requested) 35998220	ch1m ch1f	ch1m ch1f	Behavioural			
+ch2m	ch2	Nonword repetition (requested)	Nonword repetition	6475			male		Nonword repetition	Nonword repetition (requested) [male]	35998220	Nonword repetition (requested) 35998220	ch2f ch2m	ch2m ch2f	Behavioural
+ch2f	ch2	Nonword repetition (requested)	Nonword repetition	6250			female		Nonword repetition	Nonword repetition (requested) [female]	35998220	Nonword repetition (requested) 35998220	ch2f ch2m	ch2m ch2f	Behavioural
+ch3m	ch3	Phoneme awareness (requested)	Phoneme awareness	6516			male		Phoneme awareness	Phoneme awareness (requested) [male]	35998220	Phoneme awareness (requested) 35998220	ch3f ch3m	ch3m ch3f	Behavioural
+ch3f	ch3	Phoneme awareness (requested)	Phoneme awareness	5793			female		Phoneme awareness	Phoneme awareness (requested) [female]	35998220	Phoneme awareness (requested) 35998220	ch3f ch3m	ch3m ch3f	Behavioural
+ch4m	ch4	Performance IQ (requested)	Performance IQ	9317			male		Performance IQ	Performance IQ (requested) [male]	35998220	Performance IQ (requested) 35998220	ch4f ch4m	ch4m ch4f	Behavioural
+ch4f	ch4	Performance IQ (requested)	Performance IQ	9301			female		Performance IQ	Performance IQ (requested) [female]	35998220	Performance IQ (requested) 35998220	ch4f ch4m	ch4m ch4f	Behavioural
+ch5m	ch5	Spelling (requested)	Spelling	8727			male		Spelling	Spelling (requested) [male]	35998220	Spelling (requested) 35998220	ch5f ch5m	ch5m ch5f	Behavioural
+ch5f	ch5	Spelling (requested)	Spelling	8454			female		Spelling	Spelling (requested) [female]	35998220	Spelling (requested) 35998220	ch5f ch5m	ch5m ch5f	Behavioural
+ch6m	ch6	Word reading (requested)	Word reading	14277			male		Word reading	Word reading (requested) [male]	35998220	Word reading (requested) 35998220	ch6f ch6m	ch6m ch6f	Behavioural
+ch6f	ch6	Word reading (requested)	Word reading	13202			female		Word reading	Word reading (requested) [female]	35998220	Word reading (requested) 35998220	ch6f ch6m	ch6m ch6f	Behavioural
 100m	100	Pubertal growth  (atlas)	Pubertal growth	5043	NA	NA	male	atlas	Pubertal growth	Pubertal growth  (atlas) [male]	23449627	Pubertal growth  (atlas) 23449627	100m 99f	100m 99f	Developmental
 105f	105	Tanner scale  (atlas)	Tanner scale	6147	NA	NA	female	atlas	Tanner scale	Tanner scale  (atlas) [female]	24770850	Tanner scale  (atlas) 24770850	105f 106m	106m 105f	Developmental
 106m	106	Tanner scale  (atlas)	Tanner scale	3769	NA	NA	male	atlas	Tanner scale	Tanner scale  (atlas) [male]	24770850	Tanner scale  (atlas) 24770850	105f 106m	106m 105f	Developmental
