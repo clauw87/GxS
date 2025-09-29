@@ -1,0 +1,2 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/03-power-calc/real/scripts/run.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/03-power-calc/command.sh

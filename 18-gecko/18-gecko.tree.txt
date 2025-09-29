@@ -1,0 +1,6 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/18-gecko/2-sex-diff/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/18-gecko/0-munge/real/scripts/reformat.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/18-gecko/0-munge/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/18-gecko/1-run/real/inputs/create_ldfile.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/18-gecko/1-run/real/scripts/run_gecko.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/18-gecko/1-run/command.sh

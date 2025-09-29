@@ -1,0 +1,4 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/09-hyprcoloc/real/scripts/run_hyprcoloc.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/09-hyprcoloc/real/scripts/run_install.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/09-hyprcoloc/real/scripts/cut.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/09-hyprcoloc/command.sh

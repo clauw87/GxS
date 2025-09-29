@@ -1,0 +1,1 @@
+sbatch repeated_shared_SNPs.sh

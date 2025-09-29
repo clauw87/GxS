@@ -1,0 +1,14 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/2-prune.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/step1.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/annotations/src/run/run_bad_qual.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/annotations/src/run/run_makeinput.e1_real.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/annotations/src/run/run_optimize.e1.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/annotations/src/run/run_hsq_i.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/annotations/src/run/run_optimize.e1_real.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/annotations/src/cfg/e1/make_e1_cfg.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/scripts/saga_ugmg_script.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/scripts/tsd_bgmg_script.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/scripts/xsede_snps_script.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/scripts/saga_bgmg_script.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/scripts/tsd_ugmg_script.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer/mixer/src/semt/benchmark_semt.sh

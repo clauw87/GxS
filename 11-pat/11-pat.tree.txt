@@ -1,0 +1,2 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/11-pat/real/scripts/pat/main.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/11-pat/command.sh

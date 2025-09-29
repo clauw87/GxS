@@ -1,0 +1,12 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/3-sex-diff/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/2-format/real/scripts/change_names.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/2-format/real/scripts/lcv_res_format.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/2-format/real/scripts/joinres.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/2-format/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/0-munge/real/scripts/reformat.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/0-munge/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/1-run/change_names.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/1-run/real/inputs/create_ldfile.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/1-run/real/scripts/trait_combinations.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/1-run/real/scripts/run_lcv.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/07-lcv-intrasex/1-run/command.sh

@@ -1,0 +1,10 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/2-ldsc/3-sample_overlap/real/scripts/trait_combinations.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/2-ldsc/3-sample_overlap/real/scripts/rg_res_join.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/2-ldsc/3-sample_overlap/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/2-ldsc/2-rg/TODEL/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/1-inputs/real/scripts/run_info.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/1-inputs/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/4-run-lava-combis/real/scripts/run_lava.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/4-run-lava-combis/command.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/3-run_lava_targeted/real/scripts/job.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/10-lava/3-run_lava_targeted/command.sh

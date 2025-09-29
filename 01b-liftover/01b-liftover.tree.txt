@@ -1,0 +1,3 @@
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/01b-liftover/real/scripts/lift_hg38_to_hg19.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/01b-liftover/real/scripts/lift.sh
+/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/01b-liftover/command.sh
