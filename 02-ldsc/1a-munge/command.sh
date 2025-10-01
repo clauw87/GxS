@@ -8,14 +8,8 @@ main(){
   #clean_directory
  
   # Configuration
-  find $(readlink -f ../0-reformat/real/outputs/) -iname '*.gz'    | grep ADr1su > ./real/inputs/formatted-sumstats.list
-  #find $(readlink -f ../0-reformat/real/outputs/) -iname '*.gz'    | grep ADr  >> ./real/inputs/formatted-sumstats.list
-
-  #find $(readlink -f ../0-reformat/real/outputs/) -iname '*.gz'    | grep 107    >> ./real/inputs/formatted-sumstats.list
-  #find $(readlink -f ../0-reformat/real/outputs/) -iname '*.gz'    | grep 110    >> ./real/inputs/formatted-sumstats.list
-
+  find $(readlink -f ../0-reformat/real/outputs/) -iname '*.gz'   > ./real/inputs/formatted-sumstats.list
   
-
   FORMATTED_SUMSTATS_LIST=./real/inputs/formatted-sumstats.list  
   OUTPUT_DIR=./real/outputs
   REF_ALLELES=./real/inputs/w_hm3.snplist
@@ -35,9 +29,6 @@ main(){
   sbatch --array=1-${JOBS_COUNT} ${COMMAND}
   exit
 
-  # Direct execution, first element test
-  bash ${COMMAND}
-  exit 
      
 } 
 
