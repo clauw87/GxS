@@ -17,7 +17,7 @@ source activate ldsc
 # Config
 INPUTS_LIST=$1
 OUTPUT_DIR=$2
-REF_ALLELES=$3
+REF_SNPS=$3
 
 
 
@@ -42,7 +42,7 @@ munge_sumstats.py \
   --signed-sumstats Z,0 \
   --ignore BETA \
   --chunksize 50000 \
-  --merge-alleles ${REF_ALLELES} \
+  --merge-alleles ${REF_SNPS} \
   --out ${OUTPUT_DIR}/${BASENAME}
 
 
