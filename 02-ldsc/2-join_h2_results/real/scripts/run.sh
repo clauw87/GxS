@@ -11,16 +11,15 @@
 #SBATCH --mail-user=claudia.vasallo@upf.edu
 
 
+module purge
+module load modulepath/haswell
+module load R/4.3.2-gfbf-2023a
 
 
 # CONFIG
 H2_OUTPUTS_FOLDER=$1
 META_FILE=$2
 OUTPUT_FILE=$3
-
-module purge
-module load modulepath/haswell
-module load R/4.3.2-gfbf-2023a
 
 
 main(){
