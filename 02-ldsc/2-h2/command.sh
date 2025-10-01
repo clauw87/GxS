@@ -8,26 +8,13 @@
 main(){
 
   # Creates and cleans directory structure
- # clean_directory
+  clean_directory
 
   # Configuration
-  
-  ls -d ../1a-munge/real/outputs/* | grep gz  | grep ADr1su > ./real/inputs/munged-sumstats.list
-
-  #ls -d ../1a-munge/real/outputs/* | grep gz  |  grep peg >> ./real/inputs/munged-sumstats.list
-
-  #ls -d ../1a-munge/real/outputs/* | grep gz  |  grep 110 >> ./real/inputs/munged-sumstats.list
-  #ls -d ../1b-munge-assoc-in-A1/real/outputs/* | grep gz >> ./real/inputs/munged-sumstats.list 
-  
-  SUMSTATS_LIST=./real/inputs/munged-sumstats.list
-  
-
-
-  # Configuration  
+  ls -d ../1a-munge/real/outputs/* | grep gz  > ./real/inputs/munged-sumstats.list
+  SUMSTATS_LIST=./real/inputs/munged-sumstats.list  
   LDSC_OUTPUT_DIR=./real/outputs
   EUR_REFERENCE=./real/inputs/eur_w_ld_chr/
-
-
 
 
   # Runs
@@ -44,9 +31,6 @@ main(){
   sbatch --array=1-${JOBS_COUNT} ${COMMAND}
   exit
 
-  # Direct execution
-  bash ${COMMAND}
-  exit 
 
 } 
 
