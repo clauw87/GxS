@@ -16,9 +16,8 @@ source activate ldsc
 
 # Config
 SUMSTATS_LIST=$1
-LDSC_OUTPUT_DIR=$2 #Output directory
-EUR_REFERENCE=$3 #directory with european reference LD score
-
+LDSC_OUTPUT_DIR=$2 # Output directory
+EUR_REFERENCE=$3 # directory with European reference LD score from LDSC software
 
 
 # Array Dependent Config
