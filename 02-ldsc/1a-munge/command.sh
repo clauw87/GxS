@@ -5,7 +5,7 @@
 main(){
   
   # Creates and cleans directory structure
-  #clean_directory
+  clean_directory
  
   # Configuration
   find $(readlink -f ../0-reformat/real/outputs/) -iname '*.gz'   > ./real/inputs/formatted-sumstats.list
