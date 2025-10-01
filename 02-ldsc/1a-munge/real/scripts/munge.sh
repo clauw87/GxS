@@ -38,12 +38,12 @@ fi
 # Execution
 BASENAME=$( basename ${INPUT_FILE} | sed s/'.ldsc-munged-sumstats.gz'//g)
 munge_sumstats.py \
+  --sumstats ${INPUT_FILE} \
   --signed-sumstats Z,0 \
   --ignore BETA \
   --chunksize 50000 \
-  --sumstats ${INPUT_FILE} \
-  --out ${OUTPUT_DIR}/${BASENAME} \
-  --merge-alleles ${REF_ALLELES}
+  --merge-alleles ${REF_ALLELES} \
+  --out ${OUTPUT_DIR}/${BASENAME}
 
 
 # --signed-sumstats
