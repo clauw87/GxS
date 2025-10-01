@@ -27,9 +27,7 @@ main(){
   sbatch --array=1-${JOBS_COUNT} ${COMMAND}
   exit
 
-  # Direct execution
-  bash ${COMMAND}
-  exit 
+
      
 } 
 
