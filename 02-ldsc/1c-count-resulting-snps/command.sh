@@ -8,8 +8,9 @@ main(){
   clean_directory
 
 
-  ls -d ../1a-munge/real/outputs/* | grep munged > ./real/inputs/sumstats.list 
-  #ls -d ../1b-munge-assoc-in-A1/real/outputs/* | grep munged >> ./real/inputs/sumstats.list 
+  ls -d ../1a-munge/real/outputs/* | grep munged > ./real/inputs/sumstats.list
+  ls -d ../1b-munge-assoc-in-A1/real/outputs/* | grep munged >> ./real/inputs/sumstats.list 
+
   
   # Job configuration
   COMMAND="
