@@ -10,11 +10,15 @@ main(){
   
   # Configuration
   H2_OUTPUTS_FOLDER=../2-h2/real/outputs
-
+  METAS_FILE=../00-download/real/outputs/joined_metadata_domains.txt
+  OUTPUTS_FILE=./real/outputs/h2.txt
+  
   # COMMAND
   COMMAND=" \
     ./real/scripts/run.sh \
         ${H2_OUTPUTS_FOLDER} \
+        ${METAS_FILE} \
+        ${OUTPUTS_FILE}
   "
           
   sbatch ${COMMAND}
