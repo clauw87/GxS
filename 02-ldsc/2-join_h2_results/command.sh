@@ -17,19 +17,10 @@ main(){
         ${H2_OUTPUTS_FOLDER} \
   "
           
-  # Execution 
-  # Cluster execution
-  #JOBS_COUNT=$(cat "${FORMATTED_SUMSTATS_LIST}" | wc -l)
-  #sbatch --array=1-${JOBS_COUNT} ${COMMAND}
-  #exit
-   
   sbatch ${COMMAND}
   exit
 
-  # Direct execution
-  bash ${COMMAND}
-  exit 
-     
+
 } 
 
 
