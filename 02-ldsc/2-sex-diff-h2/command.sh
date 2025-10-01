@@ -1,22 +1,30 @@
+#!/bin/bash
+
+# Main Code --------------------------------------------------------
+
+
+main(){
+
+# Creates and cleans directory structure
+clean_directory
+
+# Configuration
+POWER_FILE=../../01d-power-calc/real/outputs/joined_metadata_domains_power.txt
+METAS_FILE=../../00-download/real/outputs/oined_metadata_domains.txt
 OUTPUTS_DIR=./real/outputs
-rm -rf ./real/outputs/*
 
+# POWER CALC - Add liability scale column
+POWER="/gpfs/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/01d-power-calc/command.sh"
+JOBID=$(sbatch ${POWER})
 
+  # COMMAND
+  COMMAND=" \
+    ./real/scripts/run.sh \
+        ${POWER_FILE} \
+        ${METAS_FILE} \
+        ${OUTPUTS_DIR}
+  "
 
-module load R
+  sbatch ${COMMAND} --dependency=afterany:${JOBID}
+  exit
 
-
-#METADATA=../03-power-calc/real/outputs/joined_metadata_power.txt
-
-
-H2_FILE=../../03-power-calc/real/outputs/h2_liab.txt
-POWERED_FILE=../2-join_h2_results/real/outputs/h2_powered_2.txt
-
-cat ${POWERED_FILE} | grep -v em_ | grep -v ef_ > ./real/inputs/target.txt
-
-TARGET=./real/inputs/target.txt
-
-Rscript ./real/scripts/compare_h2.R ${H2_FILE} ${TARGET} ${OUTPUTS_DIR}
-
-
-Rscript ./real/scripts/h2_plot_table.R ./real/outputs/compare_h2_liab_scale.txt
