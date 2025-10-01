@@ -27,4 +27,4 @@ TARGET=./real/inputs/target.txt
 
 Rscript ./real/scripts/compare_h2.R ${H2_FILE} ${TARGET} ${OUTPUTS_DIR}
 
-Rscript ./real/scripts/h2_plot_table.R ./real/outputs/compare_h2_liab_scale.txt
+Rscript ./real/scripts/h2_plot_table.R ./real/outputs/compare_h2_liab_scale.txt ${OUTPUTS_DIR}
