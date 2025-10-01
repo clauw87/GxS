@@ -37,9 +37,12 @@ fi
 BASENAME=$( basename ${INPUT_FILE} | cut -d'.' -f1)
 munge_sumstats.py \
   --sumstats ${INPUT_FILE} \
-  --out ${OUTPUT_DIR}/${BASENAME} \
   --a1-inc \
+  --signed-sumstats Z,0 \
+  --ignore BETA \
+  --chunksize 50000 \
   --merge-alleles ${REF_SNPS}
+  --out ${OUTPUT_DIR}/${BASENAME}
 
 
 mv ${OUTPUT_DIR}/${BASENAME}.sumstats.gz ${OUTPUT_DIR}/${BASENAME}.munged-sumstats.gz
