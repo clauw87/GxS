@@ -2,11 +2,53 @@
 RES=../3-join_rg_results/real/outputs/mf_shared_sig.txt
 
 
-#module load R 
-module load  R/4.2.0-foss-2021b
 
 
-Rscript ./real/scripts/intratrait_diff.R  ${RES}
 
 
-Rscript ./real/scripts/rg-diff1-barplot.R
+
+
+
+
+
+# FUNCTIONS ==========================================================
+
+
+clean_directory(){
+  # Creates and cleans directory structure
+  
+  if [ ! -d "real" ]; then
+
+    mkdir real
+    mkdir real/scripts
+    mkdir real/inputs
+    mkdir real/tmp
+    mkdir real/outputs
+
+  else
+
+    if [ ! -d "real/scripts" ]; then
+  mkdir real/scripts
+    fi
+
+    if [ ! -d "real/inputs" ]; then
+  mkdir real/inputs
+    fi
+
+    if [ ! -d "real/tmp" ]; then
+  mkdir real/tmp
+    else
+  rm -fR real/tmp/*
+    fi
+
+    if [ ! -d "real/outputs" ]; then
+  mkdir real/outputs
+    else
+  rm -fR real/outputs/*
+    fi
+
+  fi
+}
+ 
+ 
+main
