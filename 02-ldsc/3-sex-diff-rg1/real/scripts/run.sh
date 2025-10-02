@@ -16,13 +16,13 @@ module purge
 module load modulepath/haswell
 module load R/4.3.2-gfbf-2023a
 
-
+# CONFIG
+RES=$1
 
 Rscript ./real/scripts/intratrait_diff.R  ${RES}
 
 Rscript ./real/scripts/rg-diff1-barplot.R
 
 
-# CONFIG
-RES=$1
+
 
