@@ -1,11 +1,34 @@
+#!/bin/bash
 
-RES=../3-join_rg_results/real/outputs/mf_shared_sig.txt
+# Main Code --------------------------------------------------------
+
+main(){
+  
+ # Creates and cleans directory structure
+ clean_directory
+
+
+
+  # Configuration
+  RES=../3-join_rg_results/real/outputs/
 
 
 
 
 
 
+  # COMMAND
+  COMMAND=" \
+    ./real/scripts/run.sh \
+        ${RES_FILE} 
+  "
+          
+   
+  sbatch ${COMMAND}
+  exit
+
+     
+} 
 
 
 
