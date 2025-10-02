@@ -13,7 +13,7 @@ POWERED=../2-join_h2_results/real/outputs/h2_powered_4.txt
 METAFILE=../../00-download/1-get_traitsinfo/real/outputs/joined_metadata_domains.txt
 
 
-COMMAND="./real/scripts/job.sh ${RES} ${POWERED} ${METAFILE}"
+COMMAND="./real/scripts/run.sh ${RES} ${POWERED} ${METAFILE}"
 
 sbatch ${COMMAND}
      
