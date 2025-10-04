@@ -12,6 +12,8 @@ if (!require(dplyr)) {install.packages("dplyr"); library(dplyr)}
 library(stringr)
 library(ggplot2)
 
+args <-	commandArgs(T)
+
 
 # --------------------------------------------------------------------------------------------------
 # Config
