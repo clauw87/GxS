@@ -21,9 +21,11 @@ target_file <- "real/outputs/mf_diff.txt"
 # unfiltered ct pairs results in each sex
 m_ct_file <- "./real/outputs/m_crosstrait.txt"
 f_ct_file <- "./real/outputs/f_crosstrait.txt"
-# diff test # pairs with FDR significant sex differences
-sex_diff_file <- "./real/outputs/mf_diff_fdr.txt"
 
+
+sig_level <- args[1]
+
+sex_diff_file <- paste0("./real/outputs/mf_diff_", sig_level ,".txt")
 
 
 
@@ -77,7 +79,7 @@ na_color <- "#FAF9F6"
 font_size_1 = 10 
 font_size_2 = 12  
 font_size_3 = 9  
-type = "intrasex.f"
+type = paste0("intrasex.f", ".", sig_level)
 pdf(file = paste0(outputs_dir, "/", "heatmap.rg2.", type,  ".pdf"), height = 15, width = 15)
 #jpeg(file = paste0(outputs_dir, "/", "heatmap.rg2.", type,  ".jpeg"), height = 15, width = 15)
 Heatmap(colors_f, name = "rg",
@@ -145,7 +147,7 @@ numbers_m <- colors_m
 numbers_text_m <- ifelse(is.na(numbers_m), "", as.character(round(numbers_m, 1)))
 row_order <- 1:length(rownames(colors_m))
 column_order <- length(colnames(colors_m)):1
-type = "intrasex.m"
+type = paste0("intrasex.m", ".", sig_level)
 pdf(file = paste0(outputs_dir, "/", "heatmap.rg2.", type,  ".pdf"), height = 15, width = 15)
 #jpeg(file = paste0(outputs_dir, "/", "heatmap.rg2.", type,  ".jpeg"), height = 15, width = 15)
 Heatmap(colors_m, name = "rg",
@@ -181,6 +183,56 @@ Heatmap(colors_m, name = "rg",
 
 )
 dev.off()
+
+
+
+# Heatmap of sex differences rgm -rgf
+colors_diff <- abs(colors_m - colors_f)
+numbers_diff <- colors_diff
+numbers_text_diff <- ifelse(!is.na(numbers_diff), as.character(round(numbers_diff,1)) , "")
+row_order <- 1:length(rownames(colors_diff))
+column_order <- length(colnames(colors_diff)):1
+col_fun <- colorRamp2(
+  #breaks = c( 0, 0.25, 0.5, 0.75, 1),
+   breaks = c(0,0.5,1), 
+   colors = c("#FAF9F6", "#8c7f99", "#70518f")
+)
+na_color <- "#FAF9F6"	   #"#FBFBEA"
+type = paste0("intrasex.diff", ".", sig_level)
+pdf(file = paste0(outputs_dir, "/", "heatmap.rg2.", type,  ".pdf"), height = 15, width = 15)
+#jpeg(file = paste0(outputs_dir, "/", "heatmap.rg2.", type,  ".jpeg"), height = 15, width = 15)
+Heatmap(colors_diff, name = "rg diff (m-f)",
+        col = col_fun,  # Add color mapping here 
+        row_order = row_order, # [length(row_order):1]
+        column_order = column_order[length(column_order):1],
+        row_names_side = "left", 
+        column_names_side = "bottom", 
+        na_col = na_color, # "grey",
+        rect_gp = gpar(col = "grey", lwd = 0.05),  # Add borders to all cells
+        row_title_gp = gpar(fontsize = font_size_1),
+        column_title_gp = gpar(fontsize = font_size_1),
+        #colorRamp2(c(-1,-0.5, 0, 0.5, 1), c("#C7DB53", "#e6ebb9", "#FBFBEA",  "#9EC0BE", "#2A8490")),  # #B4D743 "azure" #F3F7D4 #CBEE86 #f4fac3 #e6ebb9 #f4fac3
+        show_column_dend = FALSE, 
+        show_row_dend = FALSE, 
+        row_names_max_width = unit(12, "cm"),
+        row_names_gp = gpar(fontsize = font_size_2),
+        #row_labels = gt_render(sapply(rownames(colors_m), strrep, 1), align_widths = TRUE),
+        row_names_rot = 0,
+        row_names_centered = FALSE,
+        column_names_max_height = unit(12, "cm"),
+        column_names_gp = gpar(fontsize = font_size_2),
+        column_names_rot = 90,
+        column_names_centered = FALSE,
+        cell_fun = function(j, i, x, y, w, h, col) { # add text to each grid
+          if(j >= i) {
+          grid.rect(x, y, w, h, gp = gpar(fill = "#ffffff", col = "#ffffff"))
+          } else {
+          grid.text(numbers_text_diff[i, j], x, y, gp=gpar(fontsize = font_size_3)) # fontface = "bold"
+          }
+        }
+)
+dev.off()
+
 
 
 
