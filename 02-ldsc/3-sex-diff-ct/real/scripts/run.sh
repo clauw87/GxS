@@ -21,3 +21,4 @@ POWER=$2
 META=$3
 
 Rscript ./real/scripts/crosstrait_diff.R  ${RESULT} ${POWER} ${META}
+Rscript ./real/scripts/heatmaps.ct.R
