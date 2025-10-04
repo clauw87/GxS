@@ -19,10 +19,14 @@ module load R/4.3.2-gfbf-2023a
 RESULT=$1
 POWER=$2
 META=$3
-SIG_LEVEL=$4
+
 
 Rscript ./real/scripts/crosstrait_diff.R  ${RESULT} ${POWER} ${META}
 
+SIG_LEVEL="nominal" 
+Rscript ./real/scripts/heatmaps.ct.R ${SIG_LEVEL}
+
+SIG_LEVEL="fdr" 
 Rscript ./real/scripts/heatmaps.ct.R ${SIG_LEVEL}
 
 
