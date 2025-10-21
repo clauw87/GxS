@@ -1,8 +1,49 @@
-% latex table generated in R 4.3.2 by xtable 1.8-4 package
-% Mon Oct 13 19:52:13 2025
-\begin{table}[ht]
-\centering
-\begin{tabular}{lllr}
+% !TEX TS-program = knitr
+\documentclass{article}\usepackage[]{graphicx}\usepackage[dvipsnames]{xcolor}
+
+
+%Area
+\usepackage{geometry}
+\geometry{a4paper, 
+total={170mm,257mm}, 
+left=10mm, 
+top=20mm,
+}
+
+% Tables
+\usepackage{fixltx2e}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{textgreek}
+\usepackage{booktabs}
+% tables
+\usepackage{xcolor}
+\usepackage{colortbl}
+%It sets your colour line and then sets back to default (black)
+\newcommand{\grayline}{\arrayrulecolor{black!20!mint}\hline\arrayrulecolor{black}}
+%Space table caption
+\usepackage{caption}
+\captionsetup[table]{skip=10pt}
+\usepackage{tabularx}
+\newcolumntype{L}{>{\raggedright\arraybackslash}}
+ \usepackage{array,makecell}
+ \usepackage{longtable}
+ \usepackage{multirow}
+  \usepackage{array}
+%\newcolumntype{P}[1]{>{\centering\arraybackslach}p{#1}}
+ \usepackage{lscape}
+\begin{document}
+
+\renewcommand{\arraystretch}{1.3}
+
+% 
+\setcounter{table}{3}
+\renewcommand{\tablename}{Supplementary Table} % Set the tablename to Panel, instead of Table
+%\renewcommand{\thetable}{\Alph{table}} % Setting the table number output to letters 
+
+
+\begin{longtable}{p{6cm}|p{1.5cm}|p{1.5cm}|p{1.5cm}}
+\caption{Sex differences in trait SNP heritability estimates}\\
   \hline
 Pair & rg(se) males & rg(se) females & P diff adj \\ 
   \hline
@@ -80,6 +121,8 @@ HDL---LDL & 0.1617 (0.0236) & -0.1129 (0.0237) & 0.00 \\
   Height SDS---Hip circumference & 0.6936 (0.0904) & 0.4014 (0.0589) & 0.04 \\ 
   logTG---Waist-hip ratio & 0.4628 (0.0374) & 0.5927 (0.0305) & 0.04 \\ 
    \hline
-\end{tabular}
-\end{table}
+ \end{longtable}
+  
+  
 
+\end{document}
