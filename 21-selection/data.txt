@@ -1,0 +1,25 @@
+# CADD
+# https://cadd.gs.washington.edu/download
+
+
+# All 1000G Phase 3 SNVs and all annotations
+#https://kircherlab.bihealth.org/download/CADD/v1.3/1000G_phase3_inclAnno.tsv.gz
+# 1000G Phase 3 SNVs and indels
+https://kircherlab.bihealth.org/download/CADD/v1.3/1000G.tsv.gz
+
+# All gnomad variants
+https://kircherlab.bihealth.org/download/CADD/v1.4/GRCh37/gnomad.genomes.r2.0.1.sites.tsv.gz
+
+# iHS and SDS
+Supplementary material in the PopHuman paper 2015: https://static-content.springer.com/esm/art%3A10.1038%2Fnature15393/MediaObjects/41586_2015_BFnature15393_MOESM86_ESM.pdf (ancestral allele (AA) derived using the 6-way EPO alignments available in Ensembl v71 (section 8.3))
+FTP site: ftp://ftp.ensembl.org/pub/release-74/fasta/ancestral_allele
+FTP site README: ftp://ftp.ensembl.org:21/pub/release-74/fasta/ancestral_alleles/homo_sapiens_ancestor_GRCh37_e71.README
+ancestral state obtained from https://ftp.ensembl.org/pub/release-74/variation/gvf/homo_sapiens/
+
+# FST males vs females (EUR)
+# Obtained by PLINK on 1000G  sex stratified data of EUR AF . see get_sex_AF.sh
+allchr.EUR.sexfreq.frq.strat
+
+
+
+
