@@ -1,1 +1,26 @@
 Sources
+
+# Between-sex FST
+
+
+# Other between-sex FST metrics
+https://github.com/filipluca/Polygenic_SA_selection_in_the_UK_Biobank/tree/main
+https://zenodo.org/records/6824671
+Fst_Data.txt
+
+
+# SNPs LD partners
+snpsnap_ok.tsv
+
+
+# ihs 
+CEU.ihs.norm
+
+# SDS
+SDS_UK10K_n3195_release_Sep_19_2016.tab.gz
+
+
+# Beta 2 scores
+allchrs_B2std.out
+
+
