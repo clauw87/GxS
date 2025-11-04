@@ -1,0 +1,1185 @@
+trait_pair	all_male	all_female	all_shared	all_shared_concordant	all_shared_discordant	all_male_pos	all_female_pos	all_shared_pos	all_shared_concordant_pos	all_shared_discordant_pos	all_male_neg	all_female_neg	all_shared_neg	all_shared_concordant_neg	all_shared_discordant_neg	same_male	same_female	same_shared	same_shared_concordant	same_shared_discordant	same_male_pos	same_female_pos	same_shared_pos	same_shared_concordant_pos	same_shared_discordant_pos	same_male_neg	same_female_neg	same_shared_neg	same_shared_concordant_neg	same_shared_discordant_neg	distinct_male	distinct_female	distinct_shared	distinct_shared_concordant	distinct_shared_discordant	distinct_male_pos	distinct_female_pos	distinct_shared_pos	distinct_shared_concordant_pos	distinct_shared_discordant_pos	distinct_male_neg	distinct_female_neg	distinct_shared_neg	distinct_shared_concordant_neg	distinct_shared_discordant_neg
+ADHD : Alzheimer's Disease	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Body Mass Index 	6	3	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Cardiovascular disease	5	3	0	0	0	3	3	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Diagnoses - main ICD10: H26 Other cataract	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Diagnoses - main ICD10: K57 Diverticular disease of intestine	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Diagnoses - main ICD10: M23 Internal derangement of knee	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Educational attainment	5	6	0	0	0	0	0	0	0	0	5	6	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Fasting glucose	1	5	0	0	0	0	4	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Fasting insulin	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Free thyroxine (FT4)	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Glycine level 	4	5	0	0	0	1	4	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : HDL	19	7	0	0	0	8	2	0	0	0	11	5	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Height 	3	5	0	0	0	1	3	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Hip circumference 	4	1	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Hip circumference (adjBMI)	4	2	0	0	0	3	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Insomnia	4	0	0	0	0	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : LDL	19	12	0	0	0	9	9	0	0	0	10	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Left Caudate	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Left Putamen	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : logTG	20	5	0	0	0	11	4	0	0	0	9	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Multisite chronic pain	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : nonHDL	17	12	0	0	0	7	8	0	0	0	10	4	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Number of children ever born 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Parkinson's disease	2	2	1	1	0	1	1	0	0	0	1	1	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : PTSD	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Risk-taking behaviour	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Schizophrenia	6	1	0	0	0	4	1	0	0	0	2	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+ADHD : Snoring	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : TC	17	18	0	0	0	9	8	0	0	0	8	10	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Thyroid-stimulating hormone 	1	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Type 2 diabetes	7	5	0	0	0	5	4	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Waist circumference 	6	2	1	1	0	5	2	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Waist circumference (adjBMI)	5	2	0	0	0	3	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Waist-hip ratio 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Waist-hip ratio (adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ADHD : Weight 	1	3	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Body Mass Index 	3	8	0	0	0	0	2	0	0	0	3	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Cardiovascular disease	3	1	1	1	0	2	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Diagnoses - main ICD10: R07 Pain in throat and chest	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Educational attainment	1	6	0	0	0	1	6	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0
+Age at first birth  : Fasting glucose	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Fasting insulin	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Free thyroxine (FT4)	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Glycine level 	4	1	0	0	0	0	0	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Grip strength measurement/ Muscle weakness	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : HDL	6	16	0	0	0	3	5	0	0	0	3	11	0	0	0	1	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Height 	1	9	0	0	0	1	5	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Hip circumference 	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Hip circumference (adjBMI)	3	5	0	0	0	1	3	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Insomnia	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : LDL	13	15	0	0	0	8	7	0	0	0	5	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Left Putamen	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : logTG	12	15	0	0	0	4	11	0	0	0	8	4	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Multisite chronic pain	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : nonHDL	13	18	0	0	0	6	9	0	0	0	7	9	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Number of children ever born 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Parkinson's disease	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : PTSD	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Pubertal growth 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Risk-taking behaviour	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Age at first birth  : Schizophrenia	3	5	0	0	0	1	1	0	0	0	2	4	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Snoring	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : TC	10	18	0	0	0	4	8	0	0	0	6	10	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Thyroid-stimulating hormone 	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Type 2 diabetes	7	4	0	0	0	4	1	0	0	0	3	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Waist circumference 	3	4	0	0	0	1	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Age at first birth  : Waist circumference (adjBMI)	1	4	0	0	0	1	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Waist-hip ratio 	1	3	0	0	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Waist-hip ratio (> 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Waist-hip ratio (adjBMI)	0	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age at first birth  : Weight 	0	5	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Body Mass Index 	1	4	0	0	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Cardiovascular disease	5	2	1	1	0	1	1	1	1	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0
+Alzheimer's Disease : Carotid intima-media thickness	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: H26 Other cataract	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: K29 Gastritis and duodenitis	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: K57 Diverticular disease of intestine	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: M23 Internal derangement of knee	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: R07 Pain in throat and chest	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Diagnoses - main ICD10: R10 Abdominal and pelvic pain	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Fasting glucose	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Fasting insulin	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Free thyroxine (FT4)	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Glycine level 	5	4	0	0	0	2	0	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : HDL	16	19	1	0	1	10	14	0	0	0	6	5	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+Alzheimer's Disease : Height 	6	4	0	0	0	3	1	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Hip circumference 	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Hip circumference (adjBMI)	4	1	0	0	0	2	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Insomnia	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : LDL	21	26	1	1	0	13	9	0	0	0	8	17	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Left 5m area	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Left Caudate	2	2	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Left MST area	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Left PoI GM thikness	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Left Putamen	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : logTG	17	15	0	0	0	7	8	0	0	0	10	7	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Multisite chronic pain	3	1	1	1	0	0	0	0	0	0	3	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : nonHDL	19	20	0	0	0	7	6	0	0	0	12	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Parkinson's disease	2	3	0	0	0	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : PTSD	2	1	1	0	1	1	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Risk-taking behaviour	3	1	0	0	0	1	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Schizophrenia	6	1	0	0	0	4	0	0	0	0	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : TC	25	23	0	0	0	13	11	0	0	0	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0
+Alzheimer's Disease : Thyroid-stimulating hormone 	4	5	0	0	0	2	1	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Type 2 diabetes	6	3	0	0	0	2	1	0	0	0	4	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Waist circumference 	1	4	0	0	0	0	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Waist circumference (adjBMI)	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Waist-hip ratio 	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Waist-hip ratio (<= 50 yrs, adjBMI)	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Waist-hip ratio (> 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Waist-hip ratio (adjBMI)	0	6	0	0	0	0	1	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Alzheimer's Disease : Weight 	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Cardiovascular disease	13	9	0	0	0	7	5	0	0	0	6	4	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Body Mass Index  : Carotid intima-media thickness	3	3	1	1	0	3	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: H26 Other cataract	1	4	0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: I84 Haemorrhoids	2	6	0	0	0	2	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: K29 Gastritis and duodenitis	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: K57 Diverticular disease of intestine	5	4	0	0	0	2	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	6	6	0	0	0	6	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: M23 Internal derangement of knee	2	3	0	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: R07 Pain in throat and chest	2	6	0	0	0	2	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Diagnoses - main ICD10: R10 Abdominal and pelvic pain	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Educational attainment	11	12	1	1	0	2	2	1	1	0	9	10	0	0	0	3	3	0	0	0	0	0	0	0	0	3	3	0	0	0	1	3	0	0	0	1	1	0	0	0	0	2	0	0	0
+Body Mass Index  : Fasting glucose	4	6	0	0	0	1	2	0	0	0	3	4	0	0	0	2	1	0	0	0	0	0	0	0	0	2	1	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Body Mass Index  : Fasting insulin	6	6	0	0	0	5	4	0	0	0	1	2	0	0	0	4	2	0	0	0	3	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Free thyroxine (FT4)	9	7	1	1	0	2	3	0	0	0	7	4	1	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Glycine level 	6	3	0	0	0	4	2	0	0	0	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Grip strength measurement/ Muscle weakness	2	6	1	1	0	2	3	1	1	0	0	3	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Body Mass Index  : HDL	57	69	0	0	0	42	43	0	0	0	15	26	0	0	0	14	20	0	0	0	4	1	0	0	0	10	19	0	0	0	4	5	0	0	0	1	1	0	0	0	3	4	0	0	0
+Body Mass Index  : Height 	19	19	0	0	0	10	7	0	0	0	9	12	0	0	0	1	2	0	0	0	1	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0
+Body Mass Index  : Height SDS	8	5	0	0	0	8	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Hip circumference 	21	25	1	1	0	17	23	1	1	0	4	2	0	0	0	17	23	1	1	0	17	23	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Hip circumference (adjBMI)	17	20	0	0	0	12	14	0	0	0	5	6	0	0	0	2	2	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Insomnia	8	6	0	0	0	4	2	0	0	0	4	4	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : LDL	39	46	1	1	0	13	21	1	1	0	26	25	0	0	0	5	4	0	0	0	1	2	0	0	0	4	2	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0
+Body Mass Index  : Left 5m area	4	1	1	0	1	3	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Left Caudate	5	7	0	0	0	4	3	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Left MST area	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Left PoI GM thikness	1	4	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Left Putamen	6	5	0	0	0	2	2	0	0	0	4	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : logTG	48	69	0	0	0	13	15	0	0	0	35	54	0	0	0	8	14	0	0	0	6	9	0	0	0	2	5	0	0	0	3	3	0	0	0	2	3	0	0	0	1	0	0	0	0
+Body Mass Index  : Major Depression	2	5	0	0	0	2	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Multisite chronic pain	6	12	0	0	0	5	11	0	0	0	1	1	0	0	0	1	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : nonHDL	37	45	1	1	0	14	27	0	0	0	23	18	1	1	0	3	5	0	0	0	0	4	0	0	0	3	1	0	0	0	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0
+Body Mass Index  : Number of children ever born 	5	8	0	0	0	3	6	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Parkinson's disease	4	7	0	0	0	2	2	0	0	0	2	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : PTSD	5	3	1	1	0	4	3	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Pubertal growth 	4	6	1	1	0	0	1	0	0	0	4	5	1	1	0	1	2	1	1	0	0	0	0	0	0	1	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Risk-taking behaviour	8	6	0	0	0	4	5	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Body Mass Index  : Schizophrenia	11	17	0	0	0	5	9	0	0	0	6	8	0	0	0	3	4	0	0	0	1	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Snoring	7	10	0	0	0	6	9	0	0	0	1	1	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : TC	34	44	0	0	0	9	19	0	0	0	25	25	0	0	0	7	4	0	0	0	1	2	0	0	0	6	2	0	0	0	2	5	0	0	0	1	1	0	0	0	1	4	0	0	0
+Body Mass Index  : Thyroid-stimulating hormone 	8	5	1	1	0	5	2	1	1	0	3	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Type 2 diabetes	54	47	0	0	0	22	22	0	0	0	32	25	0	0	0	14	11	0	0	0	11	10	0	0	0	3	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Body Mass Index  : Waist circumference 	21	35	0	0	0	18	26	0	0	0	3	9	0	0	0	17	26	0	0	0	17	26	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Waist circumference (adjBMI)	22	17	0	0	0	6	6	0	0	0	16	11	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Body Mass Index  : Waist-hip ratio 	15	38	0	0	0	13	13	0	0	0	2	25	0	0	0	10	7	0	0	0	10	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Waist-hip ratio (<= 50 yrs, adjBMI)	3	7	0	0	0	1	0	0	0	0	2	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Waist-hip ratio (> 50 yrs, adjBMI)	7	14	0	0	0	4	4	0	0	0	3	10	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Waist-hip ratio (adjBMI)	12	18	0	0	0	3	1	0	0	0	9	17	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Body Mass Index  : Weight 	19	19	0	0	0	9	14	0	0	0	10	5	0	0	0	9	14	0	0	0	9	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Carotid intima-media thickness	11	3	1	1	0	10	2	1	1	0	1	1	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: H26 Other cataract	4	2	1	1	0	3	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: I84 Haemorrhoids	6	1	0	0	0	3	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: K29 Gastritis and duodenitis	4	1	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: K57 Diverticular disease of intestine	6	1	0	0	0	2	1	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	7	1	1	1	0	3	0	0	0	0	4	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: M23 Internal derangement of knee	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: R07 Pain in throat and chest	6	1	0	0	0	6	0	0	0	0	0	1	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Diagnoses - main ICD10: R10 Abdominal and pelvic pain	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Educational attainment	7	8	1	1	0	2	0	0	0	0	5	8	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Cardiovascular disease : Fasting glucose	10	5	1	1	0	7	3	1	1	0	3	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Fasting insulin	10	2	1	1	0	3	0	0	0	0	7	2	1	1	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Free thyroxine (FT4)	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Glycine level 	11	5	0	0	0	4	1	0	0	0	7	4	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Grip strength measurement/ Muscle weakness	8	3	0	0	0	4	3	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : HDL	75	35	1	1	0	40	17	0	0	0	35	18	1	1	0	17	6	0	0	0	3	0	0	0	0	14	6	0	0	0	6	3	0	0	0	3	1	0	0	0	3	2	0	0	0
+Cardiovascular disease : Height 	16	11	1	1	0	6	5	1	1	0	10	6	0	0	0	3	0	0	0	0	1	0	1	1	0	2	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+Cardiovascular disease : Height SDS	5	1	0	0	0	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Hip circumference 	12	10	0	0	0	5	6	0	0	0	7	4	0	0	0	2	2	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Hip circumference (adjBMI)	12	13	1	1	0	4	4	1	1	0	8	9	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Insomnia	8	1	0	0	0	6	1	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : LDL	112	57	0	0	0	82	44	0	0	0	30	13	0	0	0	24	8	0	0	0	17	6	0	0	0	7	2	0	0	0	5	1	0	0	0	1	1	0	0	0	4	0	0	0	0
+Cardiovascular disease : Left 5m area	4	2	0	0	0	0	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Left Caudate	5	2	1	1	0	2	1	0	0	0	3	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Left MST area	4	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Left PoI GM thikness	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Left Putamen	7	4	0	0	0	3	3	0	0	0	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : logTG	82	32	0	0	0	66	20	0	0	0	16	12	0	0	0	13	7	0	0	0	13	6	0	0	0	0	1	0	0	0	5	2	0	0	0	4	2	0	0	0	1	0	0	0	0
+Cardiovascular disease : Major Depression	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Multisite chronic pain	8	5	0	0	0	5	2	0	0	0	3	3	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : nonHDL	89	54	0	0	0	67	43	0	0	0	22	11	0	0	0	22	8	0	0	0	16	7	0	0	0	6	1	0	0	0	3	1	0	0	0	1	0	0	0	0	2	1	0	0	0
+Cardiovascular disease : Number of children ever born 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Parkinson's disease	6	1	0	0	0	2	0	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : PTSD	8	3	1	1	0	3	2	0	0	0	5	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Pubertal growth 	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Risk-taking behaviour	4	1	0	0	0	1	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Schizophrenia	13	4	1	1	0	6	1	0	0	0	7	3	1	1	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+Cardiovascular disease : Snoring	5	3	0	0	0	2	2	0	0	0	3	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : TC	101	58	1	1	0	69	39	1	1	0	32	19	0	0	0	22	11	1	1	0	15	7	1	1	0	7	4	0	0	0	4	1	0	0	0	0	1	0	0	0	4	0	0	0	0
+Cardiovascular disease : Thyroid-stimulating hormone 	8	7	0	0	0	5	4	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Type 2 diabetes	31	17	0	0	0	17	16	0	0	0	14	1	0	0	0	6	2	0	0	0	6	2	0	0	0	0	0	0	0	0	3	2	0	0	0	2	1	0	0	0	1	1	0	0	0
+Cardiovascular disease : Waist circumference 	8	7	0	0	0	2	6	0	0	0	6	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Waist circumference (adjBMI)	8	10	0	0	0	5	8	0	0	0	3	2	0	0	0	2	2	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Waist-hip ratio 	5	9	0	0	0	1	8	0	0	0	4	1	0	0	0	1	3	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Waist-hip ratio (<= 50 yrs, adjBMI)	3	4	0	0	0	3	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Waist-hip ratio (> 50 yrs, adjBMI)	5	9	0	0	0	2	8	0	0	0	3	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Waist-hip ratio (adjBMI)	6	13	0	0	0	2	11	0	0	0	4	2	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cardiovascular disease : Weight 	9	5	0	0	0	4	4	0	0	0	5	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Diagnoses - main ICD10: K57 Diverticular disease of intestine	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Diagnoses - main ICD10: R07 Pain in throat and chest	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Educational attainment	1	3	0	0	0	0	0	0	0	0	1	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Fasting glucose	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Fasting insulin	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Free thyroxine (FT4)	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Glycine level 	5	2	0	0	0	2	2	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Grip strength measurement/ Muscle weakness	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : HDL	14	16	0	0	0	4	5	0	0	0	10	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Height 	6	5	0	0	0	5	3	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Height SDS	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Hip circumference 	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Hip circumference (adjBMI)	3	5	0	0	0	1	2	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Insomnia	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : LDL	24	33	0	0	0	15	18	0	0	0	9	15	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Left Caudate	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Left MST area	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Left PoI GM thikness	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Left Putamen	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : logTG	14	17	0	0	0	5	7	0	0	0	9	10	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Multisite chronic pain	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : nonHDL	24	27	0	0	0	17	16	0	0	0	7	11	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Parkinson's disease	3	1	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : PTSD	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Risk-taking behaviour	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Schizophrenia	2	1	1	1	0	0	0	0	0	0	2	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Carotid intima-media thickness : Snoring	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : TC	18	32	0	0	0	11	15	0	0	0	7	17	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Thyroid-stimulating hormone 	6	2	0	0	0	4	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Type 2 diabetes	8	6	0	0	0	5	4	0	0	0	3	2	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Waist circumference 	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Waist circumference (adjBMI)	3	5	0	0	0	1	4	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Waist-hip ratio 	1	4	0	0	0	1	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Waist-hip ratio (<= 50 yrs, adjBMI)	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Waist-hip ratio (> 50 yrs, adjBMI)	0	4	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Waist-hip ratio (adjBMI)	0	5	0	0	0	0	3	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Carotid intima-media thickness : Weight 	4	1	0	0	0	3	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Diagnoses - main ICD10: K57 Diverticular disease of intestine	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Diagnoses - main ICD10: R10 Abdominal and pelvic pain	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Fasting glucose	2	3	0	0	0	2	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Fasting insulin	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Free thyroxine (FT4)	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Glycine level 	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Grip strength measurement/ Muscle weakness	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : HDL	14	16	0	0	0	5	6	0	0	0	9	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Height 	4	3	0	0	0	3	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Hip circumference 	2	3	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Hip circumference (adjBMI)	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : LDL	25	20	0	0	0	7	12	0	0	0	18	8	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Left Caudate	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Left PoI GM thikness	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Left Putamen	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : logTG	17	17	0	0	0	7	10	0	0	0	10	7	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : nonHDL	19	18	0	0	0	9	11	0	0	0	10	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Parkinson's disease	2	3	0	0	0	0	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : PTSD	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Schizophrenia	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Snoring	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : TC	26	24	0	0	0	10	14	0	0	0	16	10	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Thyroid-stimulating hormone 	5	5	1	1	0	0	1	0	0	0	5	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Type 2 diabetes	6	4	0	0	0	3	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Waist circumference 	1	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Waist circumference (adjBMI)	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Waist-hip ratio 	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Waist-hip ratio (<= 50 yrs, adjBMI)	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Waist-hip ratio (> 50 yrs, adjBMI)	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Waist-hip ratio (adjBMI)	3	3	0	0	0	2	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: H26 Other cataract : Weight 	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Diagnoses - main ICD10: K57 Diverticular disease of intestine	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Diagnoses - main ICD10: R07 Pain in throat and chest	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Educational attainment	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Fasting glucose	1	4	0	0	0	1	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Fasting insulin	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Free thyroxine (FT4)	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Glycine level 	8	5	1	1	0	5	5	1	1	0	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : HDL	13	16	0	0	0	7	7	0	0	0	6	9	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Height 	3	4	0	0	0	2	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Hip circumference 	1	3	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Hip circumference (adjBMI)	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Insomnia	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : LDL	21	19	0	0	0	13	7	0	0	0	8	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Left Putamen	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : logTG	11	10	0	0	0	6	7	0	0	0	5	3	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Multisite chronic pain	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : nonHDL	24	19	0	0	0	14	8	0	0	0	10	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Parkinson's disease	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : PTSD	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Risk-taking behaviour	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Schizophrenia	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Snoring	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : TC	19	23	0	0	0	13	10	0	0	0	6	13	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Thyroid-stimulating hormone 	5	3	0	0	0	2	2	0	0	0	3	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Type 2 diabetes	11	6	0	0	0	2	2	0	0	0	9	4	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Waist circumference 	2	2	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Waist circumference (adjBMI)	4	4	0	0	0	1	3	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Waist-hip ratio 	1	5	0	0	0	0	3	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Waist-hip ratio (<= 50 yrs, adjBMI)	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Waist-hip ratio (> 50 yrs, adjBMI)	1	5	0	0	0	0	2	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Waist-hip ratio (adjBMI)	1	6	0	0	0	0	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: I84 Haemorrhoids : Weight 	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Diagnoses - main ICD10: K57 Diverticular disease of intestine	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Diagnoses - main ICD10: R10 Abdominal and pelvic pain	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Educational attainment	2	4	0	0	0	0	1	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Fasting glucose	2	3	1	1	0	0	1	0	0	0	2	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Fasting insulin	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Free thyroxine (FT4)	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Glycine level 	4	3	0	0	0	2	2	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Grip strength measurement/ Muscle weakness	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : HDL	14	13	1	1	0	6	4	0	0	0	8	9	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Height 	3	6	0	0	0	0	2	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Hip circumference 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Hip circumference (adjBMI)	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : LDL	22	19	0	0	0	10	10	0	0	0	12	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Left 5m area	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Left Putamen	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : logTG	12	15	0	0	0	7	12	0	0	0	5	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Multisite chronic pain	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : nonHDL	18	19	0	0	0	10	13	0	0	0	8	6	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Parkinson's disease	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Risk-taking behaviour	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Schizophrenia	2	1	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : TC	17	17	0	0	0	8	8	0	0	0	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Thyroid-stimulating hormone 	2	3	0	0	0	0	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Type 2 diabetes	5	5	0	0	0	2	4	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Waist circumference 	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Waist circumference (adjBMI)	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Waist-hip ratio 	1	2	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Waist-hip ratio (<= 50 yrs, adjBMI)	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Waist-hip ratio (> 50 yrs, adjBMI)	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Waist-hip ratio (adjBMI)	0	4	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K29 Gastritis and duodenitis : Weight 	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Educational attainment	1	5	0	0	0	0	1	0	0	0	1	4	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Fasting glucose	2	1	1	1	0	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Free thyroxine (FT4)	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Glycine level 	3	5	0	0	0	0	3	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Grip strength measurement/ Muscle weakness	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : HDL	24	25	0	0	0	7	14	0	0	0	17	11	0	0	0	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Height 	6	4	0	0	0	4	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Hip circumference 	3	3	1	1	0	1	1	0	0	0	2	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Hip circumference (adjBMI)	3	8	0	0	0	2	3	0	0	0	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Insomnia	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : LDL	26	31	0	0	0	12	16	0	0	0	14	15	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Left Caudate	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Left MST area	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Left Putamen	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : logTG	21	20	0	0	0	13	12	0	0	0	8	8	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Multisite chronic pain	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : nonHDL	20	25	0	0	0	9	9	0	0	0	11	16	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Parkinson's disease	3	2	1	1	0	0	0	0	0	0	3	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : PTSD	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Pubertal growth 	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Schizophrenia	3	1	0	0	0	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Snoring	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : TC	25	29	1	0	1	11	14	0	0	0	14	15	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Thyroid-stimulating hormone 	6	3	0	0	0	5	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Type 2 diabetes	7	6	0	0	0	4	3	0	0	0	3	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Waist circumference 	3	2	1	1	0	1	1	0	0	0	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Waist circumference (adjBMI)	2	6	0	0	0	1	4	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Waist-hip ratio 	3	3	0	0	0	2	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Waist-hip ratio (> 50 yrs, adjBMI)	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Waist-hip ratio (adjBMI)	1	5	0	0	0	1	4	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: K57 Diverticular disease of intestine : Weight 	4	1	1	1	0	1	0	0	0	0	3	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Diagnoses - main ICD10: M23 Internal derangement of knee	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Diagnoses - main ICD10: R07 Pain in throat and chest	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Educational attainment	2	4	0	0	0	0	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Fasting glucose	4	3	0	0	0	2	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Fasting insulin	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Free thyroxine (FT4)	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Glycine level 	6	3	0	0	0	4	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Grip strength measurement/ Muscle weakness	4	3	0	0	0	4	3	0	0	0	0	0	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : HDL	19	22	0	0	0	7	7	0	0	0	12	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Height 	9	13	0	0	0	5	8	0	0	0	4	5	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Height SDS	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Hip circumference 	6	7	1	1	0	5	6	1	1	0	1	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Hip circumference (adjBMI)	7	7	0	0	0	4	4	0	0	0	3	3	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Insomnia	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : LDL	18	27	0	0	0	10	10	0	0	0	8	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Left Caudate	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Left MST area	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Left PoI GM thikness	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Left Putamen	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : logTG	20	24	0	0	0	9	13	0	0	0	11	11	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Major Depression	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Multisite chronic pain	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : nonHDL	21	26	0	0	0	7	12	0	0	0	14	14	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Parkinson's disease	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : PTSD	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Risk-taking behaviour	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Schizophrenia	4	1	0	0	0	1	0	0	0	0	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : TC	27	31	0	0	0	11	11	0	0	0	16	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Thyroid-stimulating hormone 	3	3	0	0	0	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Type 2 diabetes	11	9	0	0	0	9	5	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Waist circumference 	3	3	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Waist circumference (adjBMI)	5	6	0	0	0	3	3	0	0	0	2	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Waist-hip ratio 	2	7	0	0	0	2	5	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Waist-hip ratio (<= 50 yrs, adjBMI)	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Waist-hip ratio (> 50 yrs, adjBMI)	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Waist-hip ratio (adjBMI)	3	4	0	0	0	1	2	0	0	0	2	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee] : Weight 	4	6	1	1	0	3	5	1	1	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Educational attainment	2	5	0	0	0	0	1	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Fasting glucose	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Free thyroxine (FT4)	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Glycine level 	2	5	0	0	0	0	3	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Grip strength measurement/ Muscle weakness	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : HDL	16	13	0	0	0	8	7	0	0	0	8	6	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Height 	6	8	1	1	0	3	3	0	0	0	3	5	1	1	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Height SDS	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Hip circumference 	3	3	0	0	0	1	2	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Hip circumference (adjBMI)	4	6	0	0	0	3	0	0	0	0	1	6	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : LDL	17	21	0	0	0	10	10	0	0	0	7	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Left Caudate	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Left Putamen	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : logTG	7	11	0	0	0	2	5	0	0	0	5	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Multisite chronic pain	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : nonHDL	13	15	0	0	0	6	6	0	0	0	7	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Parkinson's disease	2	4	0	0	0	2	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Pubertal growth 	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Risk-taking behaviour	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Schizophrenia	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Snoring	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : TC	11	14	0	0	0	6	7	0	0	0	5	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Thyroid-stimulating hormone 	7	4	1	1	0	3	2	1	1	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Type 2 diabetes	4	2	0	0	0	1	1	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Waist circumference 	1	3	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Waist circumference (adjBMI)	2	2	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Waist-hip ratio 	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Waist-hip ratio (<= 50 yrs, adjBMI)	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Waist-hip ratio (> 50 yrs, adjBMI)	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Waist-hip ratio (adjBMI)	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: M23 Internal derangement of knee : Weight 	3	3	1	1	0	2	2	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Educational attainment	2	3	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Fasting glucose	1	4	0	0	0	1	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Free thyroxine (FT4)	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Glycine level 	2	3	0	0	0	0	2	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Grip strength measurement/ Muscle weakness	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : HDL	17	18	1	1	0	4	8	0	0	0	13	10	1	1	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Height 	4	5	0	0	0	1	2	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Height SDS	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Hip circumference 	2	3	0	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Hip circumference (adjBMI)	6	2	0	0	0	1	1	0	0	0	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : LDL	31	24	1	1	0	19	17	1	1	0	12	7	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Left Putamen	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : logTG	10	15	0	0	0	5	10	0	0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Multisite chronic pain	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : nonHDL	26	24	0	0	0	19	16	0	0	0	7	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Number of children ever born 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Schizophrenia	7	3	0	0	0	5	3	0	0	0	2	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Snoring	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : TC	32	21	0	0	0	17	12	0	0	0	15	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Thyroid-stimulating hormone 	4	4	0	0	0	2	3	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Type 2 diabetes	11	4	0	0	0	5	3	0	0	0	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Waist circumference 	3	2	0	0	0	2	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Waist circumference (adjBMI)	2	2	0	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Waist-hip ratio 	1	4	0	0	0	1	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Waist-hip ratio (> 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Waist-hip ratio (adjBMI)	0	6	0	0	0	0	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R07 Pain in throat and chest : Weight 	1	3	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Educational attainment	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Fasting glucose	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Free thyroxine (FT4)	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Glycine level 	2	3	0	0	0	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : HDL	15	12	0	0	0	6	4	0	0	0	9	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Height 	2	4	1	1	0	1	0	0	0	0	1	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Hip circumference 	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Hip circumference (adjBMI)	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Insomnia	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : LDL	23	19	0	0	0	12	11	0	0	0	11	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Left Putamen	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : logTG	10	12	0	0	0	7	8	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Multisite chronic pain	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : nonHDL	19	17	0	0	0	10	7	0	0	0	9	10	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Parkinson's disease	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : PTSD	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Schizophrenia	2	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Snoring	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : TC	20	27	0	0	0	10	9	0	0	0	10	18	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Thyroid-stimulating hormone 	3	3	1	1	0	2	2	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Type 2 diabetes	7	3	0	0	0	3	1	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Waist circumference 	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Waist circumference (adjBMI)	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Waist-hip ratio 	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Waist-hip ratio (> 50 yrs, adjBMI)	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Waist-hip ratio (adjBMI)	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diagnoses - main ICD10: R10 Abdominal and pelvic pain : Weight 	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Fasting glucose	4	4	1	1	0	2	1	0	0	0	2	3	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Educational attainment : Fasting insulin	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Free thyroxine (FT4)	4	5	0	0	0	2	2	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Glycine level 	3	4	0	0	0	1	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Grip strength measurement/ Muscle weakness	0	9	0	0	0	0	0	0	0	0	0	9	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : HDL	36	60	0	0	0	23	26	0	0	0	13	34	0	0	0	3	8	0	0	0	2	7	0	0	0	1	1	0	0	0	5	6	0	0	0	4	5	0	0	0	1	1	0	0	0
+Educational attainment : Height 	7	11	0	0	0	6	9	0	0	0	1	2	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Educational attainment : Height SDS	2	3	0	0	0	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Hip circumference 	5	9	0	0	0	3	3	0	0	0	2	6	0	0	0	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Educational attainment : Hip circumference (adjBMI)	3	5	0	0	0	3	3	0	0	0	0	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Educational attainment : Insomnia	6	10	0	0	0	3	0	0	0	0	3	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : LDL	36	45	0	0	0	17	20	0	0	0	19	25	0	0	0	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0	1	5	0	0	0	1	1	0	0	0	0	4	0	0	0
+Educational attainment : Left 5m area	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Left Caudate	2	7	0	0	0	1	4	0	0	0	1	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Left MST area	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Left PoI GM thikness	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Left Putamen	1	7	1	1	0	0	3	0	0	0	1	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0
+Educational attainment : logTG	32	54	1	1	0	9	31	0	0	0	23	23	1	1	0	4	8	0	0	0	0	0	0	0	0	4	8	0	0	0	1	10	0	0	0	0	2	0	0	0	1	8	0	0	0
+Educational attainment : Major Depression	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Multisite chronic pain	4	14	0	0	0	0	2	0	0	0	4	12	0	0	0	2	6	0	0	0	0	0	0	0	0	2	6	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0
+Educational attainment : nonHDL	31	48	0	0	0	16	17	0	0	0	15	31	0	0	0	0	4	0	0	0	0	1	0	0	0	0	3	0	0	0	1	5	0	0	0	0	1	0	0	0	1	4	0	0	0
+Educational attainment : Number of children ever born 	3	3	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Parkinson's disease	5	3	0	0	0	4	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Educational attainment : PTSD	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Risk-taking behaviour	3	6	0	0	0	0	6	0	0	0	3	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0
+Educational attainment : Schizophrenia	14	15	0	0	0	10	10	0	0	0	4	5	0	0	0	3	4	0	0	0	3	2	0	0	0	0	2	0	0	0	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0
+Educational attainment : Snoring	2	19	0	0	0	0	2	0	0	0	2	17	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0
+Educational attainment : TC	39	44	0	0	0	21	21	0	0	0	18	23	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	3	5	0	0	0	2	1	0	0	0	1	4	0	0	0
+Educational attainment : Thyroid-stimulating hormone 	2	3	0	0	0	1	3	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Type 2 diabetes	15	21	0	0	0	8	5	0	0	0	7	16	0	0	0	3	1	0	0	0	1	0	0	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+Educational attainment : Waist circumference 	7	11	0	0	0	1	1	0	0	0	6	10	0	0	0	2	3	0	0	0	0	0	0	0	0	2	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Educational attainment : Waist circumference (adjBMI)	2	4	0	0	0	1	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0
+Educational attainment : Waist-hip ratio 	3	6	0	0	0	1	1	0	0	0	2	5	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Waist-hip ratio (<= 50 yrs, adjBMI)	0	4	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Waist-hip ratio (> 50 yrs, adjBMI)	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Educational attainment : Waist-hip ratio (adjBMI)	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Educational attainment : Weight 	6	12	0	0	0	4	4	0	0	0	2	8	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0
+Fasting glucose : Fasting insulin	12	16	0	0	0	3	2	0	0	0	9	14	0	0	0	2	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Free thyroxine (FT4)	6	6	0	0	0	5	4	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Glycine level 	5	6	0	0	0	2	4	0	0	0	3	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Fasting glucose : Grip strength measurement/ Muscle weakness	1	3	0	0	0	1	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Fasting glucose : HDL	19	14	0	0	0	9	5	0	0	0	10	9	0	0	0	2	4	0	0	0	1	3	0	0	0	1	1	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0
+Fasting glucose : Height 	0	8	0	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Fasting glucose : Height SDS	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Hip circumference 	4	4	0	0	0	2	2	0	0	0	2	2	0	0	0	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Hip circumference (adjBMI)	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Insomnia	3	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : LDL	28	27	0	0	0	15	16	0	0	0	13	11	0	0	0	4	2	0	0	0	1	2	0	0	0	3	0	0	0	0	1	3	0	0	0	1	0	0	0	0	0	3	0	0	0
+Fasting glucose : Left 5m area	3	2	1	1	0	3	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Left Caudate	3	4	0	0	0	2	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Left MST area	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Left PoI GM thikness	1	6	0	0	0	1	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Left Putamen	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : logTG	24	28	0	0	0	11	22	0	0	0	13	6	0	0	0	1	8	0	0	0	0	6	0	0	0	1	2	0	0	0	4	5	0	0	0	2	3	0	0	0	2	2	0	0	0
+Fasting glucose : Major Depression	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Multisite chronic pain	7	3	0	0	0	1	1	0	0	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : nonHDL	28	30	0	0	0	12	20	0	0	0	16	10	0	0	0	4	4	0	0	0	2	4	0	0	0	2	0	0	0	0	1	4	0	0	0	0	0	0	0	0	1	4	0	0	0
+Fasting glucose : Number of children ever born 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Parkinson's disease	7	4	1	1	0	5	4	1	1	0	2	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : PTSD	1	5	0	0	0	0	1	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Pubertal growth 	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Risk-taking behaviour	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Schizophrenia	2	3	0	0	0	0	1	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Snoring	3	2	0	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : TC	27	25	0	0	0	14	18	0	0	0	13	7	0	0	0	3	3	0	0	0	2	3	0	0	0	1	0	0	0	0	2	6	0	0	0	2	2	0	0	0	0	4	0	0	0
+Fasting glucose : Thyroid-stimulating hormone 	10	9	1	1	0	3	4	1	1	0	7	5	0	0	0	2	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Type 2 diabetes	38	35	0	0	0	37	35	0	0	0	1	0	0	0	0	15	9	0	0	0	15	9	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Fasting glucose : Waist circumference 	3	3	0	0	0	2	0	0	0	0	1	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Fasting glucose : Waist circumference (adjBMI)	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Waist-hip ratio 	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Waist-hip ratio (<= 50 yrs, adjBMI)	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Waist-hip ratio (> 50 yrs, adjBMI)	0	4	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Waist-hip ratio (adjBMI)	1	4	0	0	0	0	3	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting glucose : Weight 	5	3	0	0	0	3	2	0	0	0	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Fasting insulin : Free thyroxine (FT4)	1	3	0	0	0	0	2	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Glycine level 	11	3	0	0	0	6	3	0	0	0	5	0	0	0	0	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Grip strength measurement/ Muscle weakness	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : HDL	25	22	0	0	0	5	11	0	0	0	20	11	0	0	0	3	4	0	0	0	0	1	0	0	0	3	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Fasting insulin : Height 	0	11	0	0	0	0	7	0	0	0	0	4	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Height SDS	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Hip circumference 	5	8	0	0	0	3	3	0	0	0	2	5	0	0	0	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Hip circumference (adjBMI)	1	9	1	1	0	0	1	0	0	0	1	8	1	1	0	0	4	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : LDL	24	29	0	0	0	10	17	0	0	0	14	12	0	0	0	3	5	0	0	0	0	3	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Left Putamen	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : logTG	23	19	0	0	0	20	10	0	0	0	3	9	0	0	0	3	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0
+Fasting insulin : Major Depression	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : nonHDL	23	23	0	0	0	11	12	0	0	0	12	11	0	0	0	3	4	0	0	0	1	3	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Fasting insulin : Parkinson's disease	3	1	1	0	1	2	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : PTSD	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Risk-taking behaviour	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Schizophrenia	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Snoring	1	2	1	1	0	1	2	1	1	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : TC	17	25	0	0	0	8	14	0	0	0	9	11	0	0	0	1	5	0	0	0	0	1	0	0	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Thyroid-stimulating hormone 	6	5	0	0	0	4	0	0	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Type 2 diabetes	26	17	0	0	0	14	13	0	0	0	12	4	0	0	0	3	7	0	0	0	3	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Waist circumference 	4	3	0	0	0	3	2	0	0	0	1	1	0	0	0	3	1	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Waist circumference (adjBMI)	2	13	0	0	0	1	11	0	0	0	1	2	0	0	0	1	3	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Waist-hip ratio 	3	8	1	1	0	1	6	1	1	0	2	2	0	0	0	2	4	1	1	0	1	4	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Waist-hip ratio (<= 50 yrs, adjBMI)	0	7	0	0	0	0	6	0	0	0	0	1	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Waist-hip ratio (> 50 yrs, adjBMI)	1	8	0	0	0	0	8	0	0	0	1	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Waist-hip ratio (adjBMI)	2	16	0	0	0	0	15	0	0	0	2	1	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fasting insulin : Weight 	2	4	0	0	0	2	2	0	0	0	0	2	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Glycine level 	8	6	0	0	0	3	2	0	0	0	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Grip strength measurement/ Muscle weakness	5	4	0	0	0	2	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : HDL	24	18	0	0	0	9	11	0	0	0	15	7	0	0	0	4	1	0	0	0	3	0	0	0	0	1	1	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Height 	9	10	0	0	0	5	7	0	0	0	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Height SDS	3	1	0	0	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Hip circumference 	4	6	1	1	0	0	1	0	0	0	4	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Hip circumference (adjBMI)	4	7	0	0	0	0	4	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Insomnia	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : LDL	25	34	1	1	0	12	15	1	1	0	13	19	0	0	0	3	3	0	0	0	1	0	0	0	0	2	3	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Left 5m area	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Left Caudate	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Left PoI GM thikness	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Left Putamen	2	4	0	0	0	0	1	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : logTG	20	24	0	0	0	8	9	0	0	0	12	15	0	0	0	5	1	0	0	0	1	0	0	0	0	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Free thyroxine (FT4) : Multisite chronic pain	3	1	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : nonHDL	25	34	0	0	0	11	15	0	0	0	14	19	0	0	0	2	2	0	0	0	0	0	0	0	0	2	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Number of children ever born 	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Parkinson's disease	4	7	1	1	0	4	5	1	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : PTSD	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Pubertal growth 	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Risk-taking behaviour	1	3	0	0	0	1	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Schizophrenia	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Free thyroxine (FT4) : Snoring	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : TC	27	38	0	0	0	13	18	0	0	0	14	20	0	0	0	4	3	0	0	0	2	0	0	0	0	2	3	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Thyroid-stimulating hormone 	11	12	1	1	0	2	6	1	1	0	9	6	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Type 2 diabetes	9	8	0	0	0	6	4	0	0	0	3	4	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Waist circumference 	6	7	0	0	0	1	2	0	0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Free thyroxine (FT4) : Waist circumference (adjBMI)	4	7	0	0	0	2	2	0	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Waist-hip ratio 	3	4	0	0	0	2	1	0	0	0	1	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Waist-hip ratio (> 50 yrs, adjBMI)	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Waist-hip ratio (adjBMI)	2	2	0	0	0	2	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Free thyroxine (FT4) : Weight 	4	6	0	0	0	1	2	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Grip strength measurement/ Muscle weakness	3	3	0	0	0	0	1	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : HDL	27	18	0	0	0	17	9	0	0	0	10	9	0	0	0	4	3	0	0	0	3	0	0	0	0	1	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Glycine level  : Height 	4	3	0	0	0	3	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Height SDS	1	3	0	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Hip circumference 	6	7	0	0	0	3	6	0	0	0	3	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Hip circumference (adjBMI)	7	4	0	0	0	1	2	0	0	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Insomnia	2	5	1	1	0	1	4	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : LDL	39	22	1	1	0	27	8	0	0	0	12	14	1	1	0	8	2	1	1	0	5	0	0	0	0	3	2	1	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Glycine level  : Left 5m area	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Left Caudate	4	4	0	0	0	2	3	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Left MST area	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Left PoI GM thikness	2	5	0	0	0	1	3	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Left Putamen	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : logTG	27	14	0	0	0	13	7	0	0	0	14	7	0	0	0	2	1	0	0	0	0	1	0	0	0	2	0	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0
+Glycine level  : Major Depression	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Multisite chronic pain	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : nonHDL	37	21	0	0	0	21	7	0	0	0	16	14	0	0	0	7	1	0	0	0	4	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Number of children ever born 	3	3	0	0	0	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Parkinson's disease	5	5	0	0	0	0	4	0	0	0	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : PTSD	2	6	0	0	0	2	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Pubertal growth 	3	3	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Risk-taking behaviour	5	3	0	0	0	3	2	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Schizophrenia	5	2	0	0	0	2	1	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Snoring	1	4	0	0	0	0	3	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : TC	34	23	0	0	0	19	11	0	0	0	15	12	0	0	0	8	1	0	0	0	6	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Thyroid-stimulating hormone 	6	6	0	0	0	2	4	0	0	0	4	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Type 2 diabetes	15	11	0	0	0	5	3	0	0	0	10	8	0	0	0	4	1	0	0	0	2	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Waist circumference 	6	2	0	0	0	3	2	0	0	0	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Waist circumference (adjBMI)	8	4	0	0	0	3	0	0	0	0	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Waist-hip ratio 	5	3	1	0	1	3	2	0	0	0	2	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Waist-hip ratio (<= 50 yrs, adjBMI)	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Waist-hip ratio (> 50 yrs, adjBMI)	3	4	1	0	1	1	2	0	0	0	2	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Waist-hip ratio (adjBMI)	4	8	0	0	0	1	1	0	0	0	3	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Glycine level  : Weight 	1	2	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : HDL	23	28	3	3	0	9	14	0	0	0	14	14	3	3	0	1	4	0	0	0	1	1	0	0	0	0	3	0	0	0	0	4	0	0	0	0	2	0	0	0	0	2	0	0	0
+Grip strength measurement/ Muscle weakness : Height 	12	25	2	2	0	0	0	0	0	0	12	25	2	2	0	3	5	0	0	0	0	0	0	0	0	3	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Grip strength measurement/ Muscle weakness : Height SDS	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Hip circumference 	8	5	0	0	0	2	1	0	0	0	6	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Hip circumference (adjBMI)	8	17	1	1	0	0	0	0	0	0	8	17	1	1	0	3	4	0	0	0	0	0	0	0	0	3	4	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Grip strength measurement/ Muscle weakness : Insomnia	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : LDL	31	36	1	1	0	15	18	0	0	0	16	18	1	1	0	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	1	2	0	0	0	0	2	0	0	0	1	0	0	0	0
+Grip strength measurement/ Muscle weakness : Left 5m area	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Left Caudate	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Left MST area	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Left PoI GM thikness	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Left Putamen	1	3	0	0	0	0	3	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : logTG	21	26	0	0	0	11	15	0	0	0	10	11	0	0	0	3	3	0	0	0	1	1	0	0	0	2	2	0	0	0	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0
+Grip strength measurement/ Muscle weakness : Major Depression	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Multisite chronic pain	3	4	1	1	0	3	3	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : nonHDL	38	36	0	0	0	21	22	0	0	0	17	14	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0
+Grip strength measurement/ Muscle weakness : Number of children ever born 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Parkinson's disease	2	3	1	1	0	0	1	0	0	0	2	2	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : PTSD	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Pubertal growth 	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Risk-taking behaviour	1	3	0	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Schizophrenia	2	3	1	1	0	2	2	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Snoring	0	5	0	0	0	0	3	0	0	0	0	2	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : TC	37	36	0	0	0	22	16	0	0	0	15	20	0	0	0	3	1	0	0	0	1	0	0	0	0	2	1	0	0	0	1	3	0	0	0	1	2	0	0	0	0	1	0	0	0
+Grip strength measurement/ Muscle weakness : Thyroid-stimulating hormone 	5	5	0	0	0	0	3	0	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Type 2 diabetes	8	12	0	0	0	6	7	0	0	0	2	5	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Waist circumference 	3	4	0	0	0	2	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Waist circumference (adjBMI)	5	12	0	0	0	1	2	0	0	0	4	10	0	0	0	3	1	0	0	0	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Waist-hip ratio 	1	6	0	0	0	1	2	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Waist-hip ratio (<= 50 yrs, adjBMI)	0	4	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Waist-hip ratio (> 50 yrs, adjBMI)	2	4	0	0	0	2	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Waist-hip ratio (adjBMI)	2	7	0	0	0	1	2	0	0	0	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Grip strength measurement/ Muscle weakness : Weight 	7	7	1	1	0	0	1	0	0	0	7	6	1	1	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+HDL : Height 	32	37	0	0	0	12	21	0	0	0	20	16	0	0	0	9	8	0	0	0	2	3	0	0	0	7	5	0	0	0	4	8	0	0	0	3	6	0	0	0	1	2	0	0	0
+HDL : Height SDS	10	10	0	0	0	6	3	0	0	0	4	7	0	0	0	2	1	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : Hip circumference 	45	61	0	0	0	29	40	0	0	0	16	21	0	0	0	14	24	0	0	0	5	7	0	0	0	9	17	0	0	0	5	1	0	0	0	2	0	0	0	0	3	1	0	0	0
+HDL : Hip circumference (adjBMI)	30	50	0	0	0	14	32	0	0	0	16	18	0	0	0	8	20	0	0	0	5	16	0	0	0	3	4	0	0	0	4	4	0	0	0	2	3	0	0	0	2	1	0	0	0
+HDL : Insomnia	19	23	0	0	0	14	8	0	0	0	5	15	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : LDL	210	240	0	0	0	139	92	0	0	0	71	148	0	0	0	66	89	0	0	0	42	37	0	0	0	24	52	0	0	0	57	52	0	0	0	40	23	0	0	0	17	29	0	0	0
+HDL : Left 5m area	6	13	0	0	0	2	7	0	0	0	4	6	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+HDL : Left Caudate	22	20	0	0	0	7	11	0	0	0	15	9	0	0	0	2	3	0	0	0	0	2	0	0	0	2	1	0	0	0	2	2	0	0	0	1	2	0	0	0	1	0	0	0	0
+HDL : Left MST area	13	13	0	0	0	10	10	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : Left PoI GM thikness	15	13	0	0	0	7	5	0	0	0	8	8	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : Left Putamen	17	25	0	0	0	7	9	0	0	0	10	16	0	0	0	2	2	0	0	0	0	0	0	0	0	2	2	0	0	0	1	4	0	0	0	1	1	0	0	0	0	3	0	0	0
+HDL : logTG	266	282	1	1	0	130	118	0	0	0	136	164	1	1	0	127	158	1	1	0	13	12	0	0	0	114	146	1	1	0	40	33	0	0	0	18	17	0	0	0	22	16	0	0	0
+HDL : Major Depression	5	4	0	0	0	3	2	0	0	0	2	2	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : Multisite chronic pain	33	43	0	0	0	8	36	0	0	0	25	7	0	0	0	3	3	0	0	0	0	1	0	0	0	3	2	0	0	0	3	1	0	0	0	0	0	0	0	0	3	1	0	0	0
+HDL : nonHDL	196	244	0	0	0	86	127	0	0	0	110	117	0	0	0	59	104	0	0	0	26	31	0	0	0	33	73	0	0	0	46	55	0	0	0	23	25	0	0	0	23	30	0	0	0
+HDL : Number of children ever born 	8	12	0	0	0	5	4	0	0	0	3	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : Parkinson's disease	23	25	0	0	0	12	11	0	0	0	11	14	0	0	0	2	3	0	0	0	1	2	0	0	0	1	1	0	0	0	4	5	0	0	0	2	2	0	0	0	2	3	0	0	0
+HDL : PTSD	15	18	0	0	0	7	6	0	0	0	8	12	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+HDL : Pubertal growth 	7	7	0	0	0	3	4	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HDL : Risk-taking behaviour	29	19	0	0	0	14	9	0	0	0	15	10	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+HDL : Schizophrenia	44	35	0	0	0	27	16	0	0	0	17	19	0	0	0	7	6	0	0	0	3	3	0	0	0	4	3	0	0	0	10	6	0	0	0	8	4	0	0	0	2	2	0	0	0
+HDL : Snoring	33	51	0	0	0	7	16	0	0	0	26	35	0	0	0	4	6	0	0	0	1	1	0	0	0	3	5	0	0	0	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0
+HDL : TC	233	254	1	1	0	134	131	1	1	0	99	123	0	0	0	87	99	1	1	0	70	73	1	1	0	17	26	0	0	0	61	57	0	0	0	38	27	0	0	0	23	30	0	0	0
+HDL : Thyroid-stimulating hormone 	25	22	0	0	0	13	13	0	0	0	12	9	0	0	0	4	5	0	0	0	1	2	0	0	0	3	3	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+HDL : Type 2 diabetes	119	92	0	0	0	59	34	0	0	0	60	58	0	0	0	37	33	0	0	0	3	4	0	0	0	34	29	0	0	0	15	7	0	0	0	6	4	0	0	0	9	3	0	0	0
+HDL : Waist circumference 	42	47	0	0	0	26	27	0	0	0	16	20	0	0	0	15	19	0	0	0	4	2	0	0	0	11	17	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+HDL : Waist circumference (adjBMI)	40	55	1	1	0	15	7	0	0	0	25	48	1	1	0	12	20	0	0	0	3	3	0	0	0	9	17	1	1	0	1	4	0	0	0	1	0	0	0	0	0	4	0	0	0
+HDL : Waist-hip ratio 	34	48	0	0	0	21	23	0	0	0	13	25	0	0	0	12	19	0	0	0	3	2	0	0	0	9	17	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+HDL : Waist-hip ratio (<= 50 yrs, adjBMI)	10	29	0	0	0	5	3	0	0	0	5	26	0	0	0	0	12	0	0	0	0	0	0	0	0	0	12	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+HDL : Waist-hip ratio (> 50 yrs, adjBMI)	17	44	0	0	0	8	5	0	0	0	9	39	0	0	0	3	19	0	0	0	1	0	0	0	0	2	19	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+HDL : Waist-hip ratio (adjBMI)	21	50	0	0	0	7	12	0	0	0	14	38	0	0	0	5	22	0	0	0	1	3	0	0	0	4	19	0	0	0	2	3	0	0	0	2	0	0	0	0	0	3	0	0	0
+HDL : Weight 	38	43	0	0	0	25	28	0	0	0	13	15	0	0	0	10	10	0	0	0	2	2	0	0	0	8	8	0	0	0	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0
+Height  : Height SDS	17	17	0	0	0	17	17	0	0	0	0	0	0	0	0	10	7	0	0	0	10	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Hip circumference 	21	27	0	0	0	19	25	0	0	0	2	2	0	0	0	10	8	0	0	0	10	7	0	0	0	0	1	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0
+Height  : Hip circumference (adjBMI)	42	60	1	1	0	41	59	1	1	0	1	1	0	0	0	39	48	1	1	0	39	48	1	1	0	0	0	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0
+Height  : Insomnia	6	8	0	0	0	3	4	0	0	0	3	4	0	0	0	2	2	0	0	0	0	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : LDL	34	51	0	0	0	6	15	0	0	0	28	36	0	0	0	5	7	0	0	0	0	2	0	0	0	5	5	0	0	0	4	8	0	0	0	1	1	0	0	0	3	7	0	0	0
+Height  : Left 5m area	2	4	0	0	0	0	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Left Caudate	3	4	0	0	0	1	0	0	0	0	2	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Left MST area	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Left PoI GM thikness	4	7	0	0	0	2	2	0	0	0	2	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Left Putamen	5	8	0	0	0	2	3	0	0	0	3	5	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : logTG	36	46	1	1	0	11	13	0	0	0	25	33	1	1	0	7	16	1	1	0	2	4	0	0	0	5	12	1	1	0	7	8	0	0	0	1	2	0	0	0	6	6	0	0	0
+Height  : Major Depression	2	2	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Multisite chronic pain	8	9	0	0	0	2	5	0	0	0	6	4	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Height  : nonHDL	32	52	0	0	0	3	14	0	0	0	29	38	0	0	0	6	13	0	0	0	0	4	0	0	0	6	9	0	0	0	3	7	0	0	0	0	1	0	0	0	3	6	0	0	0
+Height  : Number of children ever born 	1	5	0	0	0	0	2	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Parkinson's disease	7	3	1	1	0	5	1	1	1	0	2	2	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : PTSD	4	3	0	0	0	1	2	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Pubertal growth 	6	16	1	1	0	6	16	1	1	0	0	0	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Risk-taking behaviour	3	5	0	0	0	2	4	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Schizophrenia	7	8	0	0	0	5	5	0	0	0	2	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0
+Height SDS : Hip circumference 	6	7	0	0	0	6	7	0	0	0	0	0	0	0	0	5	2	0	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Hip circumference (adjBMI)	12	8	0	0	0	12	8	0	0	0	0	0	0	0	0	5	3	0	0	0	5	3	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Height SDS : LDL	9	16	0	0	0	3	7	0	0	0	6	9	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Height SDS : Left Putamen	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : logTG	11	12	0	0	0	2	5	0	0	0	9	7	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Multisite chronic pain	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : nonHDL	17	13	0	0	0	6	6	0	0	0	11	7	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Parkinson's disease	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Pubertal growth 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Schizophrenia	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Snoring	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : TC	13	15	0	0	0	4	7	0	0	0	9	8	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Height SDS : Thyroid-stimulating hormone 	3	1	0	0	0	0	0	0	0	0	3	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Type 2 diabetes	8	6	0	0	0	6	4	0	0	0	2	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Waist circumference 	11	8	0	0	0	10	8	0	0	0	1	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Waist circumference (adjBMI)	12	12	0	0	0	12	11	0	0	0	0	1	0	0	0	4	3	0	0	0	4	3	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Height SDS : Waist-hip ratio 	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Waist-hip ratio (> 50 yrs, adjBMI)	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Waist-hip ratio (adjBMI)	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height SDS : Weight 	8	10	0	0	0	8	10	0	0	0	0	0	0	0	0	4	2	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Snoring	8	18	0	0	0	2	6	0	0	0	6	12	0	0	0	1	3	0	0	0	0	0	0	0	0	1	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Height  : TC	38	53	0	0	0	8	15	0	0	0	30	38	0	0	0	3	8	0	0	0	0	2	0	0	0	3	6	0	0	0	6	7	0	0	0	2	2	0	0	0	4	5	0	0	0
+Height  : Thyroid-stimulating hormone 	13	10	1	1	0	4	2	0	0	0	9	8	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Type 2 diabetes	19	26	0	0	0	7	16	0	0	0	12	10	0	0	0	4	3	0	0	0	2	2	0	0	0	2	1	0	0	0	3	2	0	0	0	1	1	0	0	0	2	1	0	0	0
+Height  : Waist circumference 	17	17	0	0	0	16	16	0	0	0	1	1	0	0	0	5	5	0	0	0	5	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Height  : Waist circumference (adjBMI)	40	44	1	1	0	39	41	1	1	0	1	3	0	0	0	37	25	1	1	0	37	25	1	1	0	0	0	0	0	0	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0
+Height  : Waist-hip ratio 	10	19	0	0	0	1	9	0	0	0	9	10	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Height  : Waist-hip ratio (<= 50 yrs, adjBMI)	6	14	0	0	0	4	6	0	0	0	2	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Height  : Waist-hip ratio (> 50 yrs, adjBMI)	13	17	0	0	0	5	11	0	0	0	8	6	0	0	0	2	2	0	0	0	0	2	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Height  : Waist-hip ratio (adjBMI)	19	24	0	0	0	11	15	0	0	0	8	9	0	0	0	2	3	0	0	0	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Height  : Weight 	18	15	0	0	0	17	13	0	0	0	1	2	0	0	0	14	8	0	0	0	14	8	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Insomnia	2	5	0	0	0	1	1	0	0	0	1	4	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : LDL	33	54	0	0	0	13	14	0	0	0	20	40	0	0	0	2	8	0	0	0	0	0	0	0	0	2	8	0	0	0	4	3	0	0	0	1	1	0	0	0	3	2	0	0	0
+Hip circumference (adjBMI) : Left 5m area	2	4	0	0	0	0	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Left Caudate	3	4	1	1	0	0	0	0	0	0	3	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Left MST area	2	2	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Left PoI GM thikness	3	6	0	0	0	2	4	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Left Putamen	5	4	0	0	0	1	1	0	0	0	4	3	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : logTG	46	57	0	0	0	11	10	0	0	0	35	47	0	0	0	11	17	0	0	0	0	1	0	0	0	11	16	0	0	0	5	4	0	0	0	0	0	0	0	0	5	4	0	0	0
+Hip circumference (adjBMI) : Major Depression	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Multisite chronic pain	5	7	0	0	0	2	5	0	0	0	3	2	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : nonHDL	41	58	0	0	0	10	9	0	0	0	31	49	0	0	0	6	10	0	0	0	0	0	0	0	0	6	10	0	0	0	2	3	0	0	0	0	0	0	0	0	2	3	0	0	0
+Hip circumference (adjBMI) : Number of children ever born 	2	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Parkinson's disease	7	4	0	0	0	5	0	0	0	0	2	4	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : PTSD	4	1	0	0	0	2	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Pubertal growth 	5	12	0	0	0	5	12	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Risk-taking behaviour	6	2	0	0	0	4	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Schizophrenia	7	5	0	0	0	2	3	0	0	0	5	2	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Hip circumference (adjBMI) : Snoring	4	10	0	0	0	1	3	0	0	0	3	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : TC	38	52	0	0	0	10	17	0	0	0	28	35	0	0	0	5	8	0	0	0	0	0	0	0	0	5	8	0	0	0	4	4	0	0	0	1	1	0	0	0	3	3	0	0	0
+Hip circumference (adjBMI) : Thyroid-stimulating hormone 	9	6	0	0	0	2	1	0	0	0	7	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Type 2 diabetes	29	24	0	0	0	11	7	0	0	0	18	17	0	0	0	7	8	0	0	0	2	0	0	0	0	5	8	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0
+Hip circumference (adjBMI) : Waist circumference 	14	16	1	1	0	13	10	1	1	0	1	6	0	0	0	5	5	0	0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Waist circumference (adjBMI)	30	50	0	0	0	27	24	0	0	0	3	26	0	0	0	27	21	0	0	0	27	17	0	0	0	0	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0
+Hip circumference (adjBMI) : Waist-hip ratio 	16	29	0	0	0	9	9	0	0	0	7	20	0	0	0	5	18	0	0	0	0	0	0	0	0	5	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Waist-hip ratio (<= 50 yrs, adjBMI)	7	22	0	0	0	4	5	0	0	0	3	17	0	0	0	1	12	0	0	0	0	0	0	0	0	1	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Waist-hip ratio (> 50 yrs, adjBMI)	9	30	0	0	0	4	10	0	0	0	5	20	0	0	0	2	16	0	0	0	0	0	0	0	0	2	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference (adjBMI) : Waist-hip ratio (adjBMI)	23	40	0	0	0	15	14	0	0	0	8	26	0	0	0	6	22	0	0	0	0	0	0	0	0	6	22	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Hip circumference (adjBMI) : Weight 	22	18	0	0	0	22	18	0	0	0	0	0	0	0	0	15	8	0	0	0	15	8	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Hip circumference  : Hip circumference (adjBMI)	18	25	0	0	0	15	20	0	0	0	3	5	0	0	0	15	19	0	0	0	15	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Insomnia	4	5	0	0	0	2	1	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : LDL	31	47	0	0	0	9	16	0	0	0	22	31	0	0	0	4	6	0	0	0	0	2	0	0	0	4	4	0	0	0	4	2	0	0	0	0	0	0	0	0	4	2	0	0	0
+Hip circumference  : Left 5m area	1	2	1	0	1	0	1	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Left Caudate	3	4	0	0	0	1	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Left MST area	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Left PoI GM thikness	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Left Putamen	3	3	0	0	0	1	1	0	0	0	2	2	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : logTG	47	66	0	0	0	14	11	0	0	0	33	55	0	0	0	15	15	0	0	0	8	8	0	0	0	7	7	0	0	0	2	2	0	0	0	0	1	0	0	0	2	1	0	0	0
+Hip circumference  : Major Depression	2	2	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Multisite chronic pain	6	6	0	0	0	6	5	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : nonHDL	37	56	0	0	0	10	19	0	0	0	27	37	0	0	0	6	7	0	0	0	1	2	0	0	0	5	5	0	0	0	2	4	0	0	0	0	1	0	0	0	2	3	0	0	0
+Hip circumference  : Number of children ever born 	2	5	0	0	0	1	2	0	0	0	1	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Parkinson's disease	4	3	0	0	0	2	1	0	0	0	2	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : PTSD	2	2	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Pubertal growth 	5	5	0	0	0	4	1	0	0	0	1	4	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Risk-taking behaviour	3	4	0	0	0	3	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Hip circumference  : Schizophrenia	5	7	0	0	0	3	5	0	0	0	2	2	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Hip circumference  : Snoring	6	6	0	0	0	4	3	0	0	0	2	3	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : TC	35	55	0	0	0	11	20	0	0	0	24	35	0	0	0	5	7	0	0	0	0	2	0	0	0	5	5	0	0	0	4	2	0	0	0	1	1	0	0	0	3	1	0	0	0
+Hip circumference  : Thyroid-stimulating hormone 	8	7	0	0	0	3	2	0	0	0	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Type 2 diabetes	33	39	0	0	0	14	14	0	0	0	19	25	0	0	0	15	9	0	0	0	9	6	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Waist circumference 	17	33	0	0	0	14	15	0	0	0	3	18	0	0	0	14	15	0	0	0	14	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Waist circumference (adjBMI)	18	27	0	0	0	14	6	0	0	0	4	21	0	0	0	10	4	0	0	0	10	3	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+Hip circumference  : Waist-hip ratio 	16	39	0	0	0	9	9	0	0	0	7	30	0	0	0	8	10	0	0	0	7	3	0	0	0	1	7	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Hip circumference  : Waist-hip ratio (<= 50 yrs, adjBMI)	2	12	0	0	0	0	0	0	0	0	2	12	0	0	0	0	3	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Waist-hip ratio (> 50 yrs, adjBMI)	9	21	0	0	0	2	3	0	0	0	7	18	0	0	0	1	8	0	0	0	0	0	0	0	0	1	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Waist-hip ratio (adjBMI)	10	25	0	0	0	2	1	0	0	0	8	24	0	0	0	5	11	0	0	0	0	0	0	0	0	5	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hip circumference  : Weight 	15	16	1	1	0	15	16	1	1	0	0	0	0	0	0	15	16	1	1	0	15	16	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : LDL	33	22	1	1	0	18	11	0	0	0	15	11	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Left 5m area	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Left Caudate	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Left MST area	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Left PoI GM thikness	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Left Putamen	1	3	0	0	0	1	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : logTG	23	24	0	0	0	10	16	0	0	0	13	8	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Insomnia : Multisite chronic pain	3	4	0	0	0	3	4	0	0	0	0	0	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Insomnia : nonHDL	20	27	0	0	0	12	15	0	0	0	8	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Parkinson's disease	2	3	0	0	0	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : PTSD	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Pubertal growth 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Risk-taking behaviour	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Schizophrenia	2	7	0	0	0	1	3	0	0	0	1	4	0	0	0	1	5	0	0	0	1	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Snoring	1	2	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : TC	27	33	1	1	0	17	22	1	1	0	10	11	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Thyroid-stimulating hormone 	3	4	0	0	0	1	3	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Type 2 diabetes	8	8	0	0	0	7	5	0	0	0	1	3	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Waist circumference 	6	2	0	0	0	3	0	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Waist circumference (adjBMI)	4	4	0	0	0	2	1	0	0	0	2	3	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Waist-hip ratio 	1	5	0	0	0	1	2	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Waist-hip ratio (<= 50 yrs, adjBMI)	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Waist-hip ratio (> 50 yrs, adjBMI)	0	5	0	0	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Waist-hip ratio (adjBMI)	1	6	0	0	0	0	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insomnia : Weight 	5	2	0	0	0	3	1	0	0	0	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Left 5m area	17	27	0	0	0	7	14	0	0	0	10	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+LDL : Left Caudate	31	29	1	1	0	17	14	0	0	0	14	15	1	1	0	2	2	0	0	0	2	1	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+LDL : Left MST area	15	17	0	0	0	7	7	0	0	0	8	10	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Left PoI GM thikness	27	18	0	0	0	14	8	0	0	0	13	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Left Putamen	31	30	0	0	0	15	14	0	0	0	16	16	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	2	2	0	0	0	2	2	0	0	0	0	0	0	0	0
+LDL : logTG	215	217	1	1	0	111	136	1	1	0	104	81	0	0	0	86	109	1	1	0	65	92	1	1	0	21	17	0	0	0	39	36	0	0	0	24	26	0	0	0	15	10	0	0	0
+LDL : Major Depression	12	10	0	0	0	5	5	0	0	0	7	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Multisite chronic pain	34	47	0	0	0	13	26	0	0	0	21	21	0	0	0	3	1	0	0	0	1	0	0	0	0	2	1	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0
+LDL : nonHDL	193	223	0	0	0	180	213	0	0	0	13	10	0	0	0	178	214	0	0	0	176	211	0	0	0	2	3	0	0	0	5	2	0	0	0	4	2	0	0	0	1	0	0	0	0
+LDL : Number of children ever born 	8	15	0	0	0	5	10	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Parkinson's disease	23	24	0	0	0	14	12	0	0	0	9	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	6	0	0	0	1	2	0	0	0	2	4	0	0	0
+LDL : PTSD	21	30	0	0	0	6	19	0	0	0	15	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+LDL : Pubertal growth 	13	16	0	0	0	7	4	0	0	0	6	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Risk-taking behaviour	31	36	0	0	0	19	18	0	0	0	12	18	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Schizophrenia	51	37	0	0	0	26	12	0	0	0	25	25	0	0	0	5	2	0	0	0	3	0	0	0	0	2	2	0	0	0	6	4	0	0	0	3	1	0	0	0	3	3	0	0	0
+LDL : Snoring	36	46	0	0	0	21	29	0	0	0	15	17	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	4	0	0	0	1	2	0	0	0	0	2	0	0	0
+LDL : TC	224	246	3	3	0	177	196	3	3	0	47	50	0	0	0	184	207	3	3	0	174	194	3	3	0	10	13	0	0	0	10	7	0	0	0	3	2	0	0	0	7	5	0	0	0
+LDL : Thyroid-stimulating hormone 	32	31	0	0	0	18	21	0	0	0	14	10	0	0	0	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0
+LDL : Type 2 diabetes	96	92	0	0	0	37	58	0	0	0	59	34	0	0	0	14	17	0	0	0	4	14	0	0	0	10	3	0	0	0	14	14	0	0	0	6	8	0	0	0	8	6	0	0	0
+LDL : Waist circumference 	30	41	0	0	0	8	23	0	0	0	22	18	0	0	0	3	5	0	0	0	1	4	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Waist circumference (adjBMI)	28	48	0	0	0	11	29	0	0	0	17	19	0	0	0	1	9	0	0	0	1	8	0	0	0	0	1	0	0	0	1	3	0	0	0	0	2	0	0	0	1	1	0	0	0
+LDL : Waist-hip ratio 	18	50	0	0	0	7	42	0	0	0	11	8	0	0	0	2	11	0	0	0	2	10	0	0	0	0	1	0	0	0	1	2	0	0	0	0	2	0	0	0	1	0	0	0	0
+LDL : Waist-hip ratio (<= 50 yrs, adjBMI)	11	26	0	0	0	7	21	0	0	0	4	5	0	0	0	0	5	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LDL : Waist-hip ratio (> 50 yrs, adjBMI)	13	35	0	0	0	6	33	0	0	0	7	2	0	0	0	0	13	0	0	0	0	13	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+LDL : Waist-hip ratio (adjBMI)	22	60	0	0	0	13	47	0	0	0	9	13	0	0	0	1	13	0	0	0	0	12	0	0	0	1	1	0	0	0	2	4	0	0	0	2	3	0	0	0	0	1	0	0	0
+LDL : Weight 	31	25	0	0	0	7	12	0	0	0	24	13	0	0	0	5	3	0	0	0	0	1	0	0	0	5	2	0	0	0	2	1	0	0	0	0	0	0	0	0	2	1	0	0	0
+Left 5m area : Left Putamen	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : logTG	13	16	0	0	0	7	7	0	0	0	6	9	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : nonHDL	16	22	0	0	0	8	10	0	0	0	8	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Left 5m area : Number of children ever born 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Parkinson's disease	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Snoring	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : TC	21	22	0	0	0	14	9	0	0	0	7	13	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Left 5m area : Thyroid-stimulating hormone 	3	4	0	0	0	1	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Type 2 diabetes	13	3	0	0	0	3	2	0	0	0	10	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Waist circumference 	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Waist circumference (adjBMI)	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Waist-hip ratio 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Waist-hip ratio (> 50 yrs, adjBMI)	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Waist-hip ratio (adjBMI)	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left 5m area : Weight 	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Left MST area	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Left PoI GM thikness	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Left Putamen	11	11	1	1	0	4	3	0	0	0	7	8	1	1	0	6	4	0	0	0	4	3	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : logTG	22	28	0	0	0	8	14	0	0	0	14	14	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0
+Left Caudate : Multisite chronic pain	3	2	0	0	0	0	2	0	0	0	3	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Left Caudate : nonHDL	28	28	1	1	0	17	15	0	0	0	11	13	1	1	0	2	2	0	0	0	2	1	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+Left Caudate : Number of children ever born 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Parkinson's disease	3	3	0	0	0	0	2	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Left Caudate : PTSD	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Risk-taking behaviour	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Schizophrenia	4	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Snoring	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : TC	30	29	0	0	0	13	16	0	0	0	17	13	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+Left Caudate : Thyroid-stimulating hormone 	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Type 2 diabetes	6	9	0	0	0	3	5	0	0	0	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Left Caudate : Waist circumference 	2	4	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Waist circumference (adjBMI)	0	6	0	0	0	0	2	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Waist-hip ratio 	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Waist-hip ratio (<= 50 yrs, adjBMI)	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Waist-hip ratio (> 50 yrs, adjBMI)	1	2	0	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Waist-hip ratio (adjBMI)	2	5	0	0	0	2	2	0	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Caudate : Weight 	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Left MST area : Left PoI GM thikness	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : logTG	11	13	0	0	0	8	6	0	0	0	3	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : nonHDL	10	22	0	0	0	6	10	0	0	0	4	12	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Parkinson's disease	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Schizophrenia	3	2	0	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Left MST area : Snoring	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : TC	9	20	0	0	0	4	12	0	0	0	5	8	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Thyroid-stimulating hormone 	4	2	0	0	0	2	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Type 2 diabetes	4	6	0	0	0	2	1	0	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Waist circumference 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Waist circumference (adjBMI)	4	1	0	0	0	1	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Waist-hip ratio 	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Waist-hip ratio (> 50 yrs, adjBMI)	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Waist-hip ratio (adjBMI)	1	2	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left MST area : Weight 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Left Putamen	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : logTG	13	15	0	0	0	4	7	0	0	0	9	8	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Multisite chronic pain	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : nonHDL	19	19	0	0	0	6	9	0	0	0	13	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Parkinson's disease	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Schizophrenia	2	2	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Snoring	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : TC	24	24	0	0	0	11	13	0	0	0	13	11	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Thyroid-stimulating hormone 	5	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Type 2 diabetes	10	5	0	0	0	6	4	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Waist circumference 	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Waist circumference (adjBMI)	0	5	0	0	0	0	4	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Waist-hip ratio 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Waist-hip ratio (> 50 yrs, adjBMI)	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Waist-hip ratio (adjBMI)	1	5	0	0	0	1	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left PoI GM thikness : Weight 	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : logTG	21	18	1	1	0	8	6	0	0	0	13	12	1	1	0	1	1	0	0	0	0	1	0	0	0	1	0	1	1	0	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0
+Left Putamen : Major Depression	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Multisite chronic pain	1	4	1	1	0	1	4	1	1	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Left Putamen : nonHDL	29	23	0	0	0	17	12	0	0	0	12	11	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	2	0	0	0	2	2	0	0	0	0	0	0	0	0
+Left Putamen : Number of children ever born 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Parkinson's disease	4	4	0	0	0	1	2	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+Left Putamen : PTSD	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Pubertal growth 	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Risk-taking behaviour	2	4	0	0	0	2	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Schizophrenia	5	3	0	0	0	3	3	0	0	0	2	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	3	1	0	0	0	2	1	0	0	0	1	0	0	0	0
+Left Putamen : Snoring	2	4	0	0	0	1	3	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Left Putamen : TC	31	30	0	0	0	18	9	0	0	0	13	21	0	0	0	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0
+Left Putamen : Thyroid-stimulating hormone 	10	4	0	0	0	5	3	0	0	0	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Type 2 diabetes	6	6	0	0	0	2	2	0	0	0	4	4	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	3	0	0	0	1	1	0	0	0	0	2	0	0	0
+Left Putamen : Waist circumference 	4	5	0	0	0	0	3	0	0	0	4	2	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Waist circumference (adjBMI)	2	4	0	0	0	1	2	0	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Left Putamen : Waist-hip ratio 	3	2	1	1	0	2	2	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Left Putamen : Waist-hip ratio (<= 50 yrs, adjBMI)	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Waist-hip ratio (> 50 yrs, adjBMI)	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Left Putamen : Waist-hip ratio (adjBMI)	0	5	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Left Putamen : Weight 	2	2	0	0	0	0	1	0	0	0	2	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+logTG : Major Depression	8	3	0	0	0	3	3	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+logTG : Multisite chronic pain	33	42	0	0	0	26	16	0	0	0	7	26	0	0	0	3	4	0	0	0	3	4	0	0	0	0	0	0	0	0	1	2	0	0	0	1	0	0	0	0	0	2	0	0	0
+logTG : nonHDL	173	219	1	1	0	109	144	0	0	0	64	75	1	1	0	98	130	0	0	0	85	118	0	0	0	13	12	0	0	0	25	35	0	0	0	18	25	0	0	0	7	10	0	0	0
+logTG : Number of children ever born 	6	7	0	0	0	4	2	0	0	0	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+logTG : Parkinson's disease	19	20	0	0	0	6	8	0	0	0	13	12	0	0	0	3	2	0	0	0	1	2	0	0	0	2	0	0	0	0	2	5	0	0	0	1	1	0	0	0	1	4	0	0	0
+logTG : PTSD	13	15	0	0	0	9	11	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0
+logTG : Pubertal growth 	7	3	0	0	0	1	2	0	0	0	6	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+logTG : Risk-taking behaviour	24	15	0	0	0	12	8	0	0	0	12	7	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+logTG : Schizophrenia	48	41	0	0	0	27	20	0	0	0	21	21	0	0	0	8	9	0	0	0	4	3	0	0	0	4	6	0	0	0	6	5	0	0	0	3	2	0	0	0	3	3	0	0	0
+logTG : Snoring	27	52	0	0	0	21	40	0	0	0	6	12	0	0	0	2	8	0	0	0	2	8	0	0	0	0	0	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0
+logTG : TC	227	245	2	2	0	122	138	0	0	0	105	107	2	2	0	100	107	0	0	0	85	92	0	0	0	15	15	0	0	0	39	45	0	0	0	20	25	0	0	0	19	20	0	0	0
+logTG : Thyroid-stimulating hormone 	22	30	0	0	0	12	17	0	0	0	10	13	0	0	0	3	5	0	0	0	2	2	0	0	0	1	3	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+logTG : Type 2 diabetes	111	100	0	0	0	59	69	0	0	0	52	31	0	0	0	34	44	0	0	0	31	43	0	0	0	3	1	0	0	0	14	12	0	0	0	10	6	0	0	0	4	6	0	0	0
+logTG : Waist circumference 	43	47	0	0	0	13	17	0	0	0	30	30	0	0	0	12	16	0	0	0	7	14	0	0	0	5	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+logTG : Waist circumference (adjBMI)	37	61	0	0	0	18	54	0	0	0	19	7	0	0	0	6	11	0	0	0	3	10	0	0	0	3	1	0	0	0	4	7	0	0	0	1	7	0	0	0	3	0	0	0	0
+logTG : Waist-hip ratio 	20	49	0	0	0	8	34	0	0	0	12	15	0	0	0	6	23	0	0	0	4	20	0	0	0	2	3	0	0	0	2	4	0	0	0	2	4	0	0	0	0	0	0	0	0
+logTG : Waist-hip ratio (<= 50 yrs, adjBMI)	12	37	0	0	0	9	35	0	0	0	3	2	0	0	0	1	17	0	0	0	1	17	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+logTG : Waist-hip ratio (> 50 yrs, adjBMI)	12	45	0	0	0	10	38	0	0	0	2	7	0	0	0	2	19	0	0	0	2	19	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+logTG : Waist-hip ratio (adjBMI)	21	53	1	1	0	19	46	1	1	0	2	7	0	0	0	4	24	0	0	0	4	22	0	0	0	0	2	0	0	0	3	8	0	0	0	3	8	0	0	0	0	0	0	0	0
+logTG : Weight 	24	46	0	0	0	7	10	0	0	0	17	36	0	0	0	7	7	0	0	0	4	5	0	0	0	3	2	0	0	0	2	5	0	0	0	0	3	0	0	0	2	2	0	0	0
+Major Depression : Multisite chronic pain	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : nonHDL	13	7	1	1	0	5	4	1	1	0	8	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Parkinson's disease	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Pubertal growth 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Risk-taking behaviour	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Schizophrenia	1	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Major Depression : TC	6	9	0	0	0	2	5	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Thyroid-stimulating hormone 	6	1	0	0	0	2	0	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Type 2 diabetes	4	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Waist circumference 	3	3	0	0	0	3	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Waist circumference (adjBMI)	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Waist-hip ratio 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Waist-hip ratio (> 50 yrs, adjBMI)	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Waist-hip ratio (adjBMI)	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Major Depression : Weight 	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : nonHDL	40	39	0	0	0	19	23	0	0	0	21	16	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0
+Multisite chronic pain : Number of children ever born 	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Parkinson's disease	5	2	0	0	0	1	0	0	0	0	4	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Multisite chronic pain : PTSD	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Pubertal growth 	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Risk-taking behaviour	5	1	0	0	0	4	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Schizophrenia	7	5	1	1	0	4	2	1	1	0	3	3	0	0	0	3	1	1	1	0	2	1	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Snoring	2	4	1	1	0	2	2	1	1	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : TC	39	48	0	0	0	17	29	0	0	0	22	19	0	0	0	5	3	0	0	0	3	1	0	0	0	2	2	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+Multisite chronic pain : Thyroid-stimulating hormone 	5	6	0	0	0	3	1	0	0	0	2	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Type 2 diabetes	17	12	0	0	0	11	8	0	0	0	6	4	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Multisite chronic pain : Waist circumference 	3	5	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Waist circumference (adjBMI)	4	3	0	0	0	1	3	0	0	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Waist-hip ratio 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Waist-hip ratio (<= 50 yrs, adjBMI)	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Waist-hip ratio (> 50 yrs, adjBMI)	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Waist-hip ratio (adjBMI)	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Multisite chronic pain : Weight 	3	4	0	0	0	1	3	0	0	0	2	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nonHDL : Number of children ever born 	17	15	0	0	0	7	9	0	0	0	10	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nonHDL : Parkinson's disease	33	20	0	0	0	15	10	0	0	0	18	10	0	0	0	2	1	0	0	0	0	1	0	0	0	2	0	0	0	0	2	6	0	0	0	1	2	0	0	0	1	4	0	0	0
+nonHDL : PTSD	24	24	0	0	0	10	16	0	0	0	14	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+nonHDL : Pubertal growth 	6	13	0	0	0	4	5	0	0	0	2	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nonHDL : Risk-taking behaviour	28	27	0	0	0	14	15	0	0	0	14	12	0	0	0	1	2	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nonHDL : Schizophrenia	43	37	1	1	0	20	13	1	1	0	23	24	0	0	0	3	3	0	0	0	2	0	0	0	0	1	3	0	0	0	3	4	0	0	0	1	1	0	0	0	2	3	0	0	0
+nonHDL : Snoring	34	50	1	1	0	17	33	0	0	0	17	17	1	1	0	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0
+nonHDL : TC	193	228	0	0	0	172	176	0	0	0	21	52	0	0	0	170	178	0	0	0	163	170	0	0	0	7	8	0	0	0	12	11	0	0	0	9	6	0	0	0	3	5	0	0	0
+nonHDL : Thyroid-stimulating hormone 	30	29	0	0	0	20	19	0	0	0	10	10	0	0	0	2	3	0	0	0	1	3	0	0	0	1	0	0	0	0	4	3	0	0	0	3	2	0	0	0	1	1	0	0	0
+nonHDL : Type 2 diabetes	92	88	0	0	0	52	64	0	0	0	40	24	0	0	0	16	24	0	0	0	8	20	0	0	0	8	4	0	0	0	13	10	0	0	0	8	6	0	0	0	5	4	0	0	0
+nonHDL : Waist circumference 	27	40	0	0	0	9	25	0	0	0	18	15	0	0	0	2	4	0	0	0	1	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+nonHDL : Waist circumference (adjBMI)	29	57	0	0	0	14	40	0	0	0	15	17	0	0	0	1	12	0	0	0	0	12	0	0	0	1	0	0	0	0	0	6	0	0	0	0	6	0	0	0	0	0	0	0	0
+nonHDL : Waist-hip ratio 	16	55	1	0	1	9	35	1	0	1	7	20	0	0	0	3	16	0	0	0	2	16	0	0	0	1	0	0	0	0	1	3	0	0	0	1	3	0	0	0	0	0	0	0	0
+nonHDL : Waist-hip ratio (<= 50 yrs, adjBMI)	17	26	0	0	0	11	23	0	0	0	6	3	0	0	0	1	12	0	0	0	1	11	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+nonHDL : Waist-hip ratio (> 50 yrs, adjBMI)	19	43	0	0	0	10	40	0	0	0	9	3	0	0	0	0	15	0	0	0	0	15	0	0	0	0	0	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0
+nonHDL : Waist-hip ratio (adjBMI)	28	52	0	0	0	19	48	0	0	0	9	4	0	0	0	2	17	0	0	0	2	17	0	0	0	0	0	0	0	0	2	8	0	0	0	2	8	0	0	0	0	0	0	0	0
+nonHDL : Weight 	22	26	1	1	0	4	14	1	1	0	18	12	0	0	0	4	1	0	0	0	0	1	0	0	0	4	0	0	0	0	3	2	0	0	0	0	0	0	0	0	3	2	0	0	0
+Number of children ever born  : Parkinson's disease	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Risk-taking behaviour	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Schizophrenia	4	0	0	0	0	0	0	0	0	0	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Snoring	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : TC	11	17	0	0	0	4	9	0	0	0	7	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Thyroid-stimulating hormone 	3	1	1	1	0	0	0	0	0	0	3	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Type 2 diabetes	2	2	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Waist circumference 	1	5	0	0	0	0	3	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Waist circumference (adjBMI)	2	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Waist-hip ratio 	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Waist-hip ratio (adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Number of children ever born  : Weight 	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : PTSD	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Pubertal growth 	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Risk-taking behaviour	1	4	0	0	0	1	1	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Schizophrenia	8	5	0	0	0	5	4	0	0	0	3	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+Parkinson's disease : Snoring	2	3	1	1	0	0	0	0	0	0	2	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0
+Parkinson's disease : TC	26	21	0	0	0	9	11	0	0	0	17	10	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	4	0	0	0	1	1	0	0	0	2	3	0	0	0
+Parkinson's disease : Thyroid-stimulating hormone 	4	6	0	0	0	1	1	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Parkinson's disease : Type 2 diabetes	12	9	0	0	0	5	3	0	0	0	7	6	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Parkinson's disease : Waist circumference 	5	5	0	0	0	2	0	0	0	0	3	5	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Waist circumference (adjBMI)	5	4	0	0	0	3	1	0	0	0	2	3	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Parkinson's disease : Waist-hip ratio 	2	5	1	1	0	1	1	1	1	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Waist-hip ratio (<= 50 yrs, adjBMI)	1	3	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Waist-hip ratio (> 50 yrs, adjBMI)	3	2	0	0	0	1	1	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Parkinson's disease : Waist-hip ratio (adjBMI)	1	6	0	0	0	0	3	0	0	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parkinson's disease : Weight 	5	3	0	0	0	4	0	0	0	0	1	3	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Risk-taking behaviour	0	3	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Schizophrenia	4	3	0	0	0	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+PTSD : Snoring	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : TC	18	34	0	0	0	4	17	0	0	0	14	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+PTSD : Thyroid-stimulating hormone 	1	3	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Type 2 diabetes	6	3	0	0	0	4	0	0	0	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Waist circumference 	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Waist circumference (adjBMI)	3	1	0	0	0	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Waist-hip ratio 	0	4	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Waist-hip ratio (> 50 yrs, adjBMI)	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Waist-hip ratio (adjBMI)	1	3	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PTSD : Weight 	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Schizophrenia	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : TC	7	14	0	0	0	4	5	0	0	0	3	9	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Thyroid-stimulating hormone 	2	3	0	0	0	1	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Type 2 diabetes	5	2	0	0	0	2	1	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Waist circumference 	1	5	0	0	0	0	1	0	0	0	1	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Waist circumference (adjBMI)	6	3	0	0	0	6	3	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Waist-hip ratio 	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Waist-hip ratio (> 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Waist-hip ratio (adjBMI)	1	2	0	0	0	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Pubertal growth  : Weight 	3	3	0	0	0	3	1	0	0	0	0	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Schizophrenia	5	9	0	0	0	5	8	0	0	0	0	1	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0	1	2	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Snoring	1	3	0	0	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : TC	32	24	0	0	0	20	10	0	0	0	12	14	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Thyroid-stimulating hormone 	7	4	0	0	0	5	3	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Type 2 diabetes	6	4	0	0	0	4	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Waist circumference 	6	5	0	0	0	4	4	0	0	0	2	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Waist circumference (adjBMI)	1	3	0	0	0	1	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Waist-hip ratio 	3	3	0	0	0	2	1	0	0	0	1	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Waist-hip ratio (> 50 yrs, adjBMI)	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Waist-hip ratio (adjBMI)	1	4	0	0	0	0	2	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Risk-taking behaviour : Weight 	4	4	0	0	0	1	4	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Schizophrenia : Snoring	8	6	0	0	0	0	1	0	0	0	8	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Schizophrenia : TC	50	42	0	0	0	29	15	0	0	0	21	27	0	0	0	6	4	0	0	0	5	0	0	0	0	1	4	0	0	0	8	3	0	0	0	5	1	0	0	0	3	2	0	0	0
+Schizophrenia : Thyroid-stimulating hormone 	5	3	0	0	0	1	2	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Schizophrenia : Type 2 diabetes	22	14	0	0	0	9	6	0	0	0	13	8	0	0	0	5	3	0	0	0	2	1	0	0	0	3	2	0	0	0	4	1	0	0	0	3	0	0	0	0	1	1	0	0	0
+Schizophrenia : Waist circumference 	3	7	0	0	0	2	3	0	0	0	1	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schizophrenia : Waist circumference (adjBMI)	6	6	0	0	0	3	3	0	0	0	3	3	0	0	0	2	2	0	0	0	0	0	0	0	0	2	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Schizophrenia : Waist-hip ratio 	2	6	0	0	0	2	2	0	0	0	0	4	0	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schizophrenia : Waist-hip ratio (<= 50 yrs, adjBMI)	2	3	0	0	0	2	1	0	0	0	0	2	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Schizophrenia : Waist-hip ratio (> 50 yrs, adjBMI)	2	3	0	0	0	2	1	0	0	0	0	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Schizophrenia : Waist-hip ratio (adjBMI)	5	5	0	0	0	3	2	0	0	0	2	3	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Schizophrenia : Weight 	4	6	0	0	0	2	3	0	0	0	2	3	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+Snoring : TC	28	44	1	0	1	17	19	1	0	1	11	25	0	0	0	1	3	0	0	0	1	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Snoring : Thyroid-stimulating hormone 	5	4	1	1	0	3	4	1	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Type 2 diabetes	16	16	0	0	0	10	12	0	0	0	6	4	0	0	0	1	3	0	0	0	1	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Snoring : Waist circumference 	6	5	1	1	0	4	5	1	1	0	2	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Waist circumference (adjBMI)	8	6	0	0	0	0	4	0	0	0	8	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Waist-hip ratio 	4	6	0	0	0	3	5	0	0	0	1	1	0	0	0	2	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Waist-hip ratio (<= 50 yrs, adjBMI)	2	3	0	0	0	0	2	0	0	0	2	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Waist-hip ratio (> 50 yrs, adjBMI)	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Waist-hip ratio (adjBMI)	4	7	0	0	0	2	5	0	0	0	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Snoring : Weight 	5	4	1	1	0	3	3	0	0	0	2	1	1	1	0	2	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TC : Thyroid-stimulating hormone 	40	35	0	0	0	19	23	0	0	0	21	12	0	0	0	1	6	0	0	0	1	5	0	0	0	0	1	0	0	0	4	2	0	0	0	2	1	0	0	0	2	1	0	0	0
+TC : Type 2 diabetes	96	99	0	0	0	40	57	0	0	0	56	42	0	0	0	12	14	0	0	0	6	12	0	0	0	6	2	0	0	0	18	12	0	0	0	6	7	0	0	0	12	5	0	0	0
+TC : Waist circumference 	28	43	1	1	0	12	25	1	1	0	16	18	0	0	0	6	4	1	1	0	2	4	1	1	0	4	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1	2	0	0	0
+TC : Waist circumference (adjBMI)	31	44	0	0	0	15	25	0	0	0	16	19	0	0	0	1	8	0	0	0	0	7	0	0	0	1	1	0	0	0	2	1	0	0	0	0	1	0	0	0	2	0	0	0	0
+TC : Waist-hip ratio 	19	49	0	0	0	10	42	0	0	0	9	7	0	0	0	3	7	0	0	0	2	6	0	0	0	1	1	0	0	0	1	2	0	0	0	0	2	0	0	0	1	0	0	0	0
+TC : Waist-hip ratio (<= 50 yrs, adjBMI)	15	19	0	0	0	11	15	0	0	0	4	4	0	0	0	0	6	0	0	0	0	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TC : Waist-hip ratio (> 50 yrs, adjBMI)	13	29	0	0	0	8	28	0	0	0	5	1	0	0	0	0	10	0	0	0	0	10	0	0	0	0	0	0	0	0	2	1	0	0	0	2	1	0	0	0	0	0	0	0	0
+TC : Waist-hip ratio (adjBMI)	22	47	0	0	0	12	38	0	0	0	10	9	0	0	0	3	11	0	0	0	1	11	0	0	0	2	0	0	0	0	2	3	0	0	0	2	3	0	0	0	0	0	0	0	0
+TC : Weight 	31	27	0	0	0	5	11	0	0	0	26	16	0	0	0	7	5	0	0	0	0	2	0	0	0	7	3	0	0	0	4	0	0	0	0	2	0	0	0	0	2	0	0	0	0
+Thyroid-stimulating hormone  : Type 2 diabetes	16	11	1	1	0	8	5	1	1	0	8	6	0	0	0	5	1	0	0	0	3	1	0	0	0	2	0	0	0	0	3	0	0	0	0	1	0	0	0	0	2	0	0	0	0
+Thyroid-stimulating hormone  : Waist circumference 	6	7	0	0	0	3	4	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid-stimulating hormone  : Waist circumference (adjBMI)	10	5	0	0	0	4	2	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid-stimulating hormone  : Waist-hip ratio 	4	4	0	0	0	2	2	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid-stimulating hormone  : Waist-hip ratio (<= 50 yrs, adjBMI)	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid-stimulating hormone  : Waist-hip ratio (> 50 yrs, adjBMI)	6	2	1	1	0	2	1	0	0	0	4	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid-stimulating hormone  : Waist-hip ratio (adjBMI)	6	8	0	0	0	3	3	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thyroid-stimulating hormone  : Weight 	3	1	0	0	0	2	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Type 2 diabetes : Waist circumference 	43	28	0	0	0	15	17	0	0	0	28	11	0	0	0	14	12	0	0	0	10	11	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Type 2 diabetes : Waist circumference (adjBMI)	27	25	1	0	1	9	20	0	0	0	18	5	1	0	1	7	8	0	0	0	2	7	0	0	0	5	1	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0
+Type 2 diabetes : Waist-hip ratio 	18	29	0	0	0	8	24	0	0	0	10	5	0	0	0	9	12	0	0	0	5	11	0	0	0	4	1	0	0	0	1	2	0	0	0	0	1	0	0	0	1	1	0	0	0
+Type 2 diabetes : Waist-hip ratio (<= 50 yrs, adjBMI)	8	17	0	0	0	4	17	0	0	0	4	0	0	0	0	1	6	0	0	0	0	6	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Type 2 diabetes : Waist-hip ratio (> 50 yrs, adjBMI)	17	31	0	0	0	8	31	0	0	0	9	0	0	0	0	2	11	0	0	0	0	11	0	0	0	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+Type 2 diabetes : Waist-hip ratio (adjBMI)	15	39	0	0	0	7	36	0	0	0	8	3	0	0	0	2	11	0	0	0	0	11	0	0	0	2	0	0	0	0	2	2	0	0	0	1	2	0	0	0	1	0	0	0	0
+Type 2 diabetes : Weight 	27	19	0	0	0	11	8	0	0	0	16	11	0	0	0	9	9	0	0	0	8	8	0	0	0	1	1	0	0	0	2	1	0	0	0	1	0	0	0	0	1	1	0	0	0
+Waist circumference (adjBMI) : Waist-hip ratio 	16	37	0	0	0	4	18	0	0	0	12	19	0	0	0	4	17	0	0	0	4	17	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Waist circumference (adjBMI) : Waist-hip ratio (<= 50 yrs, adjBMI)	8	18	0	0	0	6	14	0	0	0	2	4	0	0	0	6	12	0	0	0	6	12	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0
+Waist circumference (adjBMI) : Waist-hip ratio (> 50 yrs, adjBMI)	10	27	0	0	0	4	19	0	0	0	6	8	0	0	0	2	18	0	0	0	2	18	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Waist circumference (adjBMI) : Waist-hip ratio (adjBMI)	23	40	0	0	0	7	21	0	0	0	16	19	0	0	0	7	22	0	0	0	7	20	0	0	0	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+Waist circumference (adjBMI) : Weight 	11	12	0	0	0	11	6	0	0	0	0	6	0	0	0	6	3	0	0	0	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist circumference  : Waist circumference (adjBMI)	13	10	1	1	0	5	4	0	0	0	8	6	1	1	0	5	2	0	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist circumference  : Waist-hip ratio 	14	20	0	0	0	6	1	0	0	0	8	19	0	0	0	6	1	0	0	0	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist circumference  : Waist-hip ratio (<= 50 yrs, adjBMI)	5	10	0	0	0	1	3	0	0	0	4	7	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist circumference  : Waist-hip ratio (> 50 yrs, adjBMI)	9	7	0	0	0	4	3	0	0	0	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist circumference  : Waist-hip ratio (adjBMI)	11	13	0	0	0	3	2	0	0	0	8	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist circumference  : Weight 	12	15	0	0	0	12	13	0	0	0	0	2	0	0	0	12	13	0	0	0	12	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio (<= 50 yrs, adjBMI) : Waist-hip ratio (> 50 yrs, adjBMI)	6	32	0	0	0	6	32	0	0	0	0	0	0	0	0	0	15	0	0	0	0	15	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+Waist-hip ratio (<= 50 yrs, adjBMI) : Waist-hip ratio (adjBMI)	3	21	0	0	0	3	21	0	0	0	0	0	0	0	0	3	21	0	0	0	3	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio (> 50 yrs, adjBMI) : Waist-hip ratio (adjBMI)	4	22	0	0	0	4	22	0	0	0	0	0	0	0	0	4	22	0	0	0	4	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio (<= 50 yrs, adjBMI) : Weight 	3	5	0	0	0	0	0	0	0	0	3	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio (> 50 yrs, adjBMI) : Weight 	6	6	0	0	0	0	2	0	0	0	6	4	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio (adjBMI) : Weight 	7	10	0	0	0	0	2	0	0	0	7	8	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Waist-hip ratio  : Waist-hip ratio (<= 50 yrs, adjBMI)	4	19	0	0	0	2	16	0	0	0	2	3	0	0	0	2	16	0	0	0	2	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio  : Waist-hip ratio (> 50 yrs, adjBMI)	6	20	0	0	0	4	19	0	0	0	2	1	0	0	0	4	19	0	0	0	4	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio  : Waist-hip ratio (adjBMI)	11	36	1	1	0	4	21	0	0	0	7	15	1	1	0	4	21	0	0	0	4	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Waist-hip ratio  : Weight 	13	17	0	0	0	9	8	0	0	0	4	9	0	0	0	8	3	0	0	0	7	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
