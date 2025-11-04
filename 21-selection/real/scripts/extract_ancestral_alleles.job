@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# GET ANCESTRAL ALLELE FROM ENSEMBL FILE
+
+rm -fr ./outputs/*
+rm -fr ./tmp/*
+
+# Configuration
+INPUT_FILE=./inputs/ancestral_state_ensembl_release74.tsv.gz
+OUTPUT_RSID=./tmp/rsid.tsv
+OUTPUT_ANCESTRAL=./tmp/ancestral.tsv
+MERGED_OUTPUT=./outputs/ensembl_release74_ancestral_alleles.tsv
+
+#--Command
+sbatch ./scripts/extract_ancestral_alleles.sh ${INPUT_FILE} \
+                                              ${OUTPUT_RSID} \
+                                              ${OUTPUT_ANCESTRAL} \
+                                              ${MERGED_OUTPUT}
