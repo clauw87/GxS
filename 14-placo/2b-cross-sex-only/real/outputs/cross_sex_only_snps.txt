@@ -1,0 +1,1282 @@
+ [101] "Waist-hip ratio (> 50 yrs, adjBMI):Weight"                                     
+ [102] "Waist-hip ratio (<= 50 yrs, adjBMI):Weight"                                    
+ [112] "Age at first birth:Weight"                                                     
+ [148] "Body Mass Index:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [149] "Body Mass Index:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [159] "Age at first birth:Body Mass Index"                                            
+  [15] "Age at first birth:Pubertal growth"                                            
+ [195] "Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)"        
+ [196] "Hip circumference:Waist-hip ratio (> 50 yrs, adjBMI)"                          
+ [197] "Hip circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)"                 
+ [198] "Waist circumference:Waist-hip ratio (> 50 yrs, adjBMI)"                        
+ [199] "Waist circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)"               
+ [200] "Waist-hip ratio:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [201] "Waist-hip ratio (> 50 yrs, adjBMI):Waist-hip ratio (adjBMI)"                   
+ [202] "Glycine level:Waist-hip ratio (> 50 yrs, adjBMI)"                              
+ [203] "Thyroid-stimulating hormone:Waist-hip ratio (> 50 yrs, adjBMI)"                
+ [204] "Free thyroxine (FT4):Waist-hip ratio (> 50 yrs, adjBMI)"                       
+ [205] "Age at first birth:Waist-hip ratio (> 50 yrs, adjBMI)"                         
+ [206] "Number of children ever born:Waist-hip ratio (> 50 yrs, adjBMI)"               
+ [207] "Height SDS:Waist-hip ratio (> 50 yrs, adjBMI)"                                 
+ [208] "Alzheimer's Disease:Waist-hip ratio (> 50 yrs, adjBMI)"                        
+ [209] "Cardiovascular disease:Waist-hip ratio (> 50 yrs, adjBMI)"                     
+ [210] "Insomnia:Waist-hip ratio (> 50 yrs, adjBMI)"                                   
+ [211] "Grip strength measurement/ Muscle weakness:Waist-hip ratio (> 50 yrs, adjBMI)" 
+ [212] "Snoring:Waist-hip ratio (> 50 yrs, adjBMI)"                                    
+ [213] "Fasting glucose:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [214] "Fasting insulin:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [215] "Multisite chronic pain:Waist-hip ratio (> 50 yrs, adjBMI)"                     
+ [216] "Educational attainment:Waist-hip ratio (> 50 yrs, adjBMI)"                     
+ [217] "Parkinson's disease:Waist-hip ratio (> 50 yrs, adjBMI)"                        
+ [218] "Type 2 diabetes:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [219] "ADHD:Waist-hip ratio (> 50 yrs, adjBMI)"                                       
+ [220] "Left PoI GM thikness:Waist-hip ratio (> 50 yrs, adjBMI)"                       
+ [221] "Left 5m area:Waist-hip ratio (> 50 yrs, adjBMI)"                               
+ [222] "Left MST area:Waist-hip ratio (> 50 yrs, adjBMI)"                              
+ [223] "Left Caudate:Waist-hip ratio (> 50 yrs, adjBMI)"                               
+ [224] "Left Putamen:Waist-hip ratio (> 50 yrs, adjBMI)"                               
+ [225] "Right Putamen:Waist-hip ratio (> 50 yrs, adjBMI)"                              
+ [226] "CC Central:Waist-hip ratio (> 50 yrs, adjBMI)"                                 
+ [227] "Nonword reading:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [228] "Performance IQ:Waist-hip ratio (> 50 yrs, adjBMI)"                             
+ [229] "Spelling:Waist-hip ratio (> 50 yrs, adjBMI)"                                   
+ [230] "Waist-hip ratio (> 50 yrs, adjBMI):Word reading"                               
+ [231] "HDL:Waist-hip ratio (> 50 yrs, adjBMI)"                                        
+ [232] "LDL:Waist-hip ratio (> 50 yrs, adjBMI)"                                        
+ [233] "TC:Waist-hip ratio (> 50 yrs, adjBMI)"                                         
+ [234] "logTG:Waist-hip ratio (> 50 yrs, adjBMI)"                                      
+ [235] "nonHDL:Waist-hip ratio (> 50 yrs, adjBMI)"                                     
+ [236] "Major Depression:Waist-hip ratio (> 50 yrs, adjBMI)"                           
+ [237] "PTSD:Waist-hip ratio (> 50 yrs, adjBMI)"                                       
+ [238] "Schizophrenia:Waist-hip ratio (> 50 yrs, adjBMI)"                              
+ [239] "Risk-taking behaviour:Waist-hip ratio (> 50 yrs, adjBMI)"                      
+ [240] "Carotid intima-media thickness:Waist-hip ratio (> 50 yrs, adjBMI)"             
+ [241] "Hip circumference:Waist-hip ratio (<= 50 yrs, adjBMI)"                         
+ [242] "Hip circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)"                
+ [243] "Waist circumference:Waist-hip ratio (<= 50 yrs, adjBMI)"                       
+ [244] "Waist circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)"              
+ [245] "Waist-hip ratio:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [246] "Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (adjBMI)"                  
+ [247] "Glycine level:Waist-hip ratio (<= 50 yrs, adjBMI)"                             
+ [248] "Thyroid-stimulating hormone:Waist-hip ratio (<= 50 yrs, adjBMI)"               
+ [249] "Free thyroxine (FT4):Waist-hip ratio (<= 50 yrs, adjBMI)"                      
+ [250] "Age at first birth:Waist-hip ratio (<= 50 yrs, adjBMI)"                        
+ [251] "Number of children ever born:Waist-hip ratio (<= 50 yrs, adjBMI)"              
+ [252] "Height SDS:Waist-hip ratio (<= 50 yrs, adjBMI)"                                
+ [253] "Alzheimer's Disease:Waist-hip ratio (<= 50 yrs, adjBMI)"                       
+ [254] "Cardiovascular disease:Waist-hip ratio (<= 50 yrs, adjBMI)"                    
+ [255] "Insomnia:Waist-hip ratio (<= 50 yrs, adjBMI)"                                  
+ [256] "Grip strength measurement/ Muscle weakness:Waist-hip ratio (<= 50 yrs, adjBMI)"
+ [257] "Snoring:Waist-hip ratio (<= 50 yrs, adjBMI)"                                   
+ [258] "Fasting glucose:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [259] "Fasting insulin:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [260] "Multisite chronic pain:Waist-hip ratio (<= 50 yrs, adjBMI)"                    
+ [261] "Educational attainment:Waist-hip ratio (<= 50 yrs, adjBMI)"                    
+ [262] "Parkinson's disease:Waist-hip ratio (<= 50 yrs, adjBMI)"                       
+ [263] "Type 2 diabetes:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [264] "ADHD:Waist-hip ratio (<= 50 yrs, adjBMI)"                                      
+ [265] "Left PoI GM thikness:Waist-hip ratio (<= 50 yrs, adjBMI)"                      
+ [266] "Left 5m area:Waist-hip ratio (<= 50 yrs, adjBMI)"                              
+ [267] "Left MST area:Waist-hip ratio (<= 50 yrs, adjBMI)"                             
+ [268] "Left Caudate:Waist-hip ratio (<= 50 yrs, adjBMI)"                              
+ [269] "Left Putamen:Waist-hip ratio (<= 50 yrs, adjBMI)"                              
+ [270] "Right Putamen:Waist-hip ratio (<= 50 yrs, adjBMI)"                             
+ [271] "CC Central:Waist-hip ratio (<= 50 yrs, adjBMI)"                                
+ [272] "Nonword reading:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [273] "Performance IQ:Waist-hip ratio (<= 50 yrs, adjBMI)"                            
+ [274] "Spelling:Waist-hip ratio (<= 50 yrs, adjBMI)"                                  
+ [275] "Waist-hip ratio (<= 50 yrs, adjBMI):Word reading"                              
+ [276] "HDL:Waist-hip ratio (<= 50 yrs, adjBMI)"                                       
+ [277] "LDL:Waist-hip ratio (<= 50 yrs, adjBMI)"                                       
+ [278] "TC:Waist-hip ratio (<= 50 yrs, adjBMI)"                                        
+ [279] "logTG:Waist-hip ratio (<= 50 yrs, adjBMI)"                                     
+ [280] "nonHDL:Waist-hip ratio (<= 50 yrs, adjBMI)"                                    
+ [281] "Major Depression:Waist-hip ratio (<= 50 yrs, adjBMI)"                          
+ [282] "PTSD:Waist-hip ratio (<= 50 yrs, adjBMI)"                                      
+ [283] "Schizophrenia:Waist-hip ratio (<= 50 yrs, adjBMI)"                             
+ [284] "Risk-taking behaviour:Waist-hip ratio (<= 50 yrs, adjBMI)"                     
+ [285] "Carotid intima-media thickness:Waist-hip ratio (<= 50 yrs, adjBMI)"            
+ [294] "Age at first birth:Hip circumference"                                          
+ [337] "Age at first birth:Hip circumference (adjBMI)"                                 
+ [379] "Age at first birth:Waist circumference"                                        
+ [420] "Age at first birth:Waist circumference (adjBMI)"                               
+ [460] "Age at first birth:Waist-hip ratio"                                            
+ [499] "Age at first birth:Waist-hip ratio (adjBMI)"                                   
+   [4] "Pubertal growth:Waist-hip ratio (> 50 yrs, adjBMI)"                            
+ [537] "Age at first birth:Glycine level"                                              
+  [53] "Height:Waist-hip ratio (> 50 yrs, adjBMI)"                                     
+  [54] "Height:Waist-hip ratio (<= 50 yrs, adjBMI)"                                    
+ [574] "Age at first birth:Thyroid-stimulating hormone"                                
+   [5] "Pubertal growth:Waist-hip ratio (<= 50 yrs, adjBMI)"                           
+ [610] "Age at first birth:Free thyroxine (FT4)"                                       
+ [646] "Age at first birth:Number of children ever born"                               
+ [647] "Age at first birth:Height SDS"                                                 
+ [648] "Age at first birth:Alzheimer's Disease"                                        
+ [649] "Age at first birth:Cardiovascular disease"                                     
+  [64] "Age at first birth:Height"                                                     
+ [650] "Age at first birth:Insomnia"                                                   
+ [651] "Age at first birth:Grip strength measurement/ Muscle weakness"                 
+ [652] "Age at first birth:Snoring"                                                    
+ [653] "Age at first birth:Fasting glucose"                                            
+ [654] "Age at first birth:Fasting insulin"                                            
+ [655] "Age at first birth:Multisite chronic pain"                                     
+ [656] "Age at first birth:Educational attainment"                                     
+ [657] "Age at first birth:Parkinson's disease"                                        
+ [658] "Age at first birth:Type 2 diabetes"                                            
+ [659] "ADHD:Age at first birth"                                                       
+ [660] "Age at first birth:Left PoI GM thikness"                                       
+ [661] "Age at first birth:Left 5m area"                                               
+ [662] "Age at first birth:Left MST area"                                              
+ [663] "Age at first birth:Left Caudate"                                               
+ [664] "Age at first birth:Left Putamen"                                               
+ [665] "Age at first birth:Right Putamen"                                              
+ [666] "Age at first birth:CC Central"                                                 
+ [667] "Age at first birth:Nonword reading"                                            
+ [668] "Age at first birth:Performance IQ"                                             
+ [669] "Age at first birth:Spelling"                                                   
+ [670] "Age at first birth:Word reading"                                               
+ [671] "Age at first birth:HDL"                                                        
+ [672] "Age at first birth:LDL"                                                        
+ [673] "Age at first birth:TC"                                                         
+ [674] "Age at first birth:logTG"                                                      
+ [675] "Age at first birth:nonHDL"                                                     
+ [676] "Age at first birth:Major Depression"                                           
+ [677] "Age at first birth:PTSD"                                                       
+ [678] "Age at first birth:Schizophrenia"                                              
+ [679] "Age at first birth:Risk-taking behaviour"                                      
+ [680] "Age at first birth:Carotid intima-media thickness"                             
+    between, first, last
+    intersect, setdiff, setequal, union
+rs10039630
+rs10048173
+rs1005294
+rs10066168
+rs10066231
+rs10114002
+rs10116422
+rs10117691
+rs10128705
+rs10152355
+rs10153726
+rs10172631
+rs10188003
+rs10189685
+rs10208580
+rs10215292
+rs10252404
+rs10262866
+rs1038025
+rs1038026
+rs10401030
+rs10401176
+rs10402642
+rs10410
+rs10419086
+rs10423208
+rs10437364
+rs10459232
+rs10490694
+rs10495121
+rs1049532
+rs10510418
+rs1055348
+rs1059267
+rs1059612
+rs1065806
+rs10747592
+rs10750219
+rs10761238
+rs10773009
+rs10773010
+rs10774579
+rs10783366
+rs10783388
+rs10786680
+rs10821168
+rs10846499
+rs10846501
+rs10846509
+rs10846514
+rs1085071
+rs10874708
+rs10874710
+rs10874711
+rs10874713
+rs10875918
+rs10876044
+rs10900219
+rs10934888
+rs10934894
+rs10995566
+rs11039265
+rs11039355
+rs11057182
+rs11057186
+rs11057199
+rs11057243
+rs11057250
+rs11057266
+rs11057285
+rs11057403
+rs11057509
+rs11060703
+rs11060762
+rs11061615
+rs11071380
+rs11078677
+rs11079868
+rs11083752
+rs111044084
+rs11111172
+rs11118305
+rs11118306
+rs11118307
+rs11118316
+rs11118319
+rs11118336
+rs11150388
+rs111527555
+rs11154386
+rs11158
+rs111809714
+rs111965535
+rs111997200
+rs112001035
+rs11216105
+rs11216164
+rs112391061
+rs11239524
+rs1124881
+rs11249925
+rs112516541
+rs112554101
+rs112665364
+rs112681709
+rs112735232
+rs112884371
+rs113190075
+rs113270742
+rs113522178
+rs1136553
+rs113804400
+rs113867238
+rs114185526
+rs114615849
+rs114746443
+rs114804066
+rs114927020
+rs11540085
+rs115620789
+rs1160985
+rs116109100
+rs11614506
+rs116466322
+rs11651643
+rs11655466
+rs11659574
+rs11678155
+rs116843064
+rs116855742
+rs1169286
+rs11696767
+rs11696804
+rs11697325
+rs11698788
+rs1172128
+rs117330369
+rs11750165
+rs117523171
+rs1175544
+rs117612135
+rs11764817
+rs11764937
+rs11765979
+rs117695622
+rs117726219
+rs117729940
+rs117760106
+rs117777747
+rs117790475
+rs117830118
+rs118146420
+rs11823949
+rs11828763
+rs11853674
+rs11855284
+rs11856159
+rs11868838
+rs11871606
+rs11878597
+rs11893885
+rs11948286
+rs11948892
+rs11950527
+rs11958798
+rs12022722
+rs12024459
+rs12025220
+rs12025363
+rs12027371
+rs12030393
+rs12030989
+rs12031603
+rs12031608
+rs12031785
+rs12034581
+rs12034686
+rs12063539
+rs12112029
+rs12122434
+rs12150526
+rs12185242
+rs12234117
+rs12234163
+rs12299752
+rs12368208
+rs12369179
+rs12371718
+rs12371973
+rs12372699
+rs12403367
+rs1241657
+rs1242127
+rs12446228
+rs12447620
+rs12451766
+rs12485251
+rs12494774
+rs12564421
+rs12570235
+rs12574790
+rs1260387
+rs12615923
+rs12636474
+rs12638238
+rs1264350
+rs1264376
+rs12673975
+rs12692745
+rs12700680
+rs12700681
+rs12701278
+rs12702092
+rs12702117
+rs12720918
+rs12721041
+rs12721109
+rs12735157
+rs12783001
+rs12784963
+rs12824096
+rs12861645
+rs12906722
+rs12936468
+rs12937560
+rs12937634
+rs12940278
+rs12943264
+rs12948299
+rs12951873
+rs12965513
+rs12980623
+rs13016862
+rs13029520
+rs13040272
+rs13207064
+rs13212496
+rs13226702
+rs13242034
+rs1325434
+rs13255625
+rs13291079
+rs1337098
+rs1337101
+rs13375469
+rs13376205
+rs1338219
+rs1340097
+rs1340098
+rs13405357
+rs1343220
+rs1345230
+rs1346408
+rs1367083
+rs1371466
+rs138607350
+rs1389742
+rs13969
+rs1399627
+rs14000
+rs140231532
+rs1405296
+rs1405297
+rs1415288
+rs1417066
+rs141864196
+rs143578173
+rs143864334
+rs144078421
+rs144194221
+rs144305620
+rs1446524
+rs1451378
+rs145341911
+rs145542470
+rs146390218
+rs1464601
+rs146496844
+rs146920296
+rs147005365
+rs1474517
+rs1474518
+rs147810061
+rs147901416
+rs147974517
+rs148662400
+rs148701621
+rs148933445
+rs149074578
+rs149480839
+rs150133427
+rs150622308
+rs1515100
+rs1515114
+rs1531095
+rs1531096
+rs1537817
+rs1538742
+rs1538748
+rs1544913
+rs1560312
+rs1563353
+rs1563355
+rs1565922
+rs1568427
+rs1572505
+rs1623060
+rs1628050
+rs1631685
+rs1632855
+rs1632864
+rs1634714
+rs1634716
+rs1634721
+rs1634726
+rs1652343
+rs1652344
+rs1652348
+rs16825887
+rs16825939
+rs16826012
+rs16826038
+rs16826069
+rs16837533
+rs16863175
+rs16940204
+rs16979595
+rs17092008
+rs17158803
+rs17216271
+rs17277932
+rs17341094
+rs17381154
+rs17440824
+rs174464
+rs174473
+rs174474
+rs174476
+rs174478
+rs17528752
+rs17576
+rs17625694
+rs17645441
+rs17676309
+rs17727064
+rs17728
+rs1775654
+rs17789218
+rs17817276
+rs1784042
+rs1788817
+rs1797912
+rs1800777
+rs1801689
+rs1809167
+rs1810132
+rs1812175
+rs1815786
+rs182472492
+rs1830141
+rs1832986
+rs1836003
+rs184713109
+rs185574863
+rs1863868
+rs1872116
+rs1880814
+rs1880815
+rs1880816
+rs1885659
+rs1886684
+rs190529145
+rs1907953
+rs191350575
+rs1920792
+rs193143021
+rs1963870
+rs1971740
+rs200908868
+rs201329238
+rs2018212
+rs2036464
+rs2040748
+rs20544
+rs2061155
+rs2066152
+rs2066153
+rs2106072
+rs2107634
+rs2138157
+rs2141372
+rs2176040
+rs2199576
+rs2205265
+rs2205266
+rs2213586
+rs2223058
+rs2230876
+rs2239375
+rs2240301
+rs2251396
+rs2251579
+rs2254401
+rs2254555
+rs2255400
+rs2282888
+rs2296172
+rs2296173
+rs230489
+rs2307019
+rs2308759
+rs2326565
+rs2348475
+rs2369633
+rs2376866
+rs2390539
+rs2391175
+rs2393792
+rs2411977
+rs241442
+rs241444
+rs2422139
+rs2472680
+rs2485301
+rs2487294
+rs2494192
+rs2494195
+rs2494196
+rs2503109
+rs2517546
+rs2517617
+rs2523463
+rs2523469
+rs2523594
+rs2523659
+rs2605097
+rs2605098
+rs2605100
+rs2605107
+rs2605108
+rs2605110
+rs2627641
+rs2639378
+rs2644349
+rs2651190
+rs2652667
+rs2673131
+rs2694036
+rs2694037
+rs2694045
+rs2694048
+rs2694049
+rs2713540
+rs2713557
+rs2736203
+rs2736208
+rs2736209
+rs2736212
+rs2736213
+rs2736233
+rs2736234
+rs2756173
+rs2769071
+rs2780873
+rs2780874
+rs2780875
+rs2780876
+rs2780877
+rs2785980
+rs2785981
+rs2785990
+rs2791544
+rs2791550
+rs2791552
+rs2791553
+rs2800708
+rs2803240
+rs2803621
+rs2811434
+rs2811435
+rs2811469
+rs2811963
+rs2811964
+rs2820426
+rs2820427
+rs2820430
+rs2820441
+rs2820443
+rs2820449
+rs2820460
+rs2820464
+rs2820465
+rs2820468
+rs28366137
+rs28367651
+rs28367652
+rs2841658
+rs2841659
+rs2841660
+rs28442086
+rs2844287
+rs2844518
+rs28483960
+rs2853989
+rs28618326
+rs28622891
+rs28646281
+rs28861152
+rs2905878
+rs2906093
+rs2906095
+rs2906101
+rs2921188
+rs2934101
+rs2935183
+rs2941503
+rs2943635
+rs2943636
+rs2943640
+rs2943641
+rs2943645
+rs2943646
+rs2943652
+rs2943658
+rs2952999
+rs2953000
+rs2960146
+rs2960148
+rs2960151
+rs2960156
+rs2960164
+rs2960169
+rs2960170
+rs2960171
+rs2960578
+rs2966086
+rs2972143
+rs2972144
+rs2972146
+rs2972147
+rs3001032
+rs3094024
+rs3094056
+rs3094057
+rs3094058
+rs3094059
+rs3094087
+rs3094704
+rs3094712
+rs3095276
+rs312942
+rs312946
+rs312947
+rs312948
+rs312951
+rs312954
+rs312955
+rs312956
+rs312957
+rs312958
+rs312961
+rs312962
+rs312963
+rs312964
+rs312966
+rs312967
+rs312968
+rs312969
+rs312971
+rs3129718
+rs312972
+rs312973
+rs312975
+rs312977
+rs312978
+rs3129810
+rs3129812
+rs3129815
+rs3130116
+rs3130117
+rs3130247
+rs3130350
+rs3130351
+rs3130352
+rs3130356
+rs3130365
+rs3130377
+rs3131010
+rs3131296
+rs3131643
+rs3131781
+rs3132566
+rs3132579
+rs3132647
+rs3132956
+rs3134796
+rs3134942
+rs3179840
+rs337139
+rs34109603
+rs34208541
+rs34580753
+rs34592756
+rs34696066
+rs34821683
+rs34904312
+rs34931250
+rs35186928
+rs35202091
+rs35363812
+rs35495923
+rs35567443
+rs355810
+rs355811
+rs355825
+rs355827
+rs355831
+rs355837
+rs355838
+rs355844
+rs355865
+rs355874
+rs355875
+rs355876
+rs355888
+rs355889
+rs355895
+rs355896
+rs355899
+rs355907
+rs355908
+rs35794672
+rs35806769
+rs35811865
+rs35823964
+rs35831332
+rs35919601
+rs35973557
+rs36027823
+rs36043200
+rs36145427
+rs36169251
+rs36172763
+rs36178456
+rs36229786
+rs369648654
+rs370335292
+rs3732356
+rs3751813
+rs3754346
+rs3756054
+rs3760625
+rs3760626
+rs3760627
+rs3760628
+rs3760629
+rs3761158
+rs3761159
+rs376460183
+rs376570508
+rs3768302
+rs3769876
+rs3769891
+rs3792603
+rs3803452
+rs3806661
+rs3818806
+rs3828886
+rs3848721
+rs3848722
+rs3851294
+rs3874910
+rs3897379
+rs3903212
+rs3918240
+rs3918249
+rs3918251
+rs3925681
+rs3933239
+rs3943093
+rs395908
+rs404935
+rs4060889
+rs41284484
+rs41284485
+rs41314509
+rs4132932
+rs4132933
+rs4148010
+rs415799
+rs4239437
+rs4308051
+rs4313445
+rs4313613
+rs4323719
+rs4324463
+rs438244
+rs4392602
+rs440224
+rs4411878
+rs4413654
+rs4444384
+rs4484938
+rs4490793
+rs4497739
+rs4500327
+rs450244
+rs4514717
+rs4574742
+rs4596617
+rs4607103
+rs4611812
+rs4623705
+rs4635117
+rs4646699
+rs4660208
+rs4660214
+rs4660293
+rs4660443
+rs4660543
+rs4666366
+rs4666368
+rs4688807
+rs4701032
+rs4722033
+rs4722557
+rs4724725
+rs4792891
+rs4793614
+rs4794031
+rs4794035
+rs4794036
+rs4800451
+rs4803774
+rs4803779
+rs4803780
+rs4803791
+rs4846565
+rs4846567
+rs487766
+rs4896469
+rs4896599
+rs491626
+rs4917973
+rs4917978
+rs492488
+rs493246
+rs493258
+rs4938305
+rs4948496
+rs495203
+rs4953027
+rs4954193
+rs4968320
+rs4970707
+rs4970708
+rs4970935
+rs502055
+rs505922
+rs527210
+rs528069313
+rs529565
+rs533059696
+rs534100
+rs538656
+rs545971
+rs554833
+rs55640703
+rs55696635
+rs55723005
+rs55852408
+rs55864353
+rs559163390
+rs559872399
+rs56048221
+rs56099083
+rs56104963
+rs56131210
+rs56193547
+rs56236159
+rs56242234
+rs56325564
+rs56347904
+rs570349
+rs571513
+rs575905
+rs581998
+rs582118
+rs582747
+rs586017
+rs590856
+rs592362
+rs592423
+rs59515242
+rs59854182
+rs60315394
+rs60335445
+rs605003
+rs6065913
+rs60809620
+rs6090049
+rs6104417
+rs6104418
+rs612169
+rs6136208
+rs614174
+rs61882708
+rs61953413
+rs62073965
+rs62074014
+rs62076398
+rs62076505
+rs62076541
+rs62117162
+rs625421
+rs635243
+rs636202
+rs6431630
+rs6432817
+rs6435161
+rs6435162
+rs6439200
+rs645258
+rs645456
+rs6461568
+rs6463317
+rs6507947
+rs6531209
+rs6535311
+rs6541227
+rs6541228
+rs656029
+rs658435
+rs6589574
+rs6602903
+rs6602906
+rs6602907
+rs6603976
+rs6603986
+rs6603989
+rs661316
+rs663576
+rs6660962
+rs666870
+rs6669442
+rs6671638
+rs6672377
+rs66771331
+rs6686253
+rs66867801
+rs6693567
+rs6694509
+rs6695638
+rs6697491
+rs6703440
+rs6705646
+rs6707039
+rs6742663
+rs6742681
+rs67431680
+rs6748088
+rs6749689
+rs6756290
+rs676996
+rs677355
+rs6775974
+rs6784404
+rs6795735
+rs681331
+rs687289
+rs687621
+rs6877025
+rs6925325
+rs6930344
+rs6932014
+rs6937174
+rs6941645
+rs6951827
+rs6955290
+rs6974974
+rs6980357
+rs698915
+rs6997340
+rs7003489
+rs702771
+rs702772
+rs702774
+rs702775
+rs707949
+rs707962
+rs707963
+rs7115242
+rs7118178
+rs71352241
+rs7195
+rs7210728
+rs7210738
+rs7211910
+rs7213090
+rs722356
+rs7225606
+rs7225787
+rs7226079
+rs7235010
+rs7246900
+rs7247227
+rs7248162
+rs7249082
+rs7251501
+rs7256684
+rs7257468
+rs7257476
+rs7258345
+rs7259620
+rs7259679
+rs72693213
+rs7271846
+rs72731914
+rs72731930
+rs72749499
+rs72854468
+rs72926946
+rs72926952
+rs72926966
+rs72926976
+rs72926986
+rs72927001
+rs72928934
+rs7300136
+rs73047641
+rs73219860
+rs73231994
+rs732692
+rs73394251
+rs73487492
+rs735316
+rs73579370
+rs73859024
+rs7386735
+rs7386937
+rs7387969
+rs7406234
+rs7411478
+rs7412448
+rs7417452
+rs741780
+rs7428936
+rs74399178
+rs74548983
+rs747039
+rs74708591
+rs74815034
+rs74855257
+rs7508123
+rs7513775
+rs7514156
+rs7520254
+rs7521752
+rs7538503
+rs7540564
+rs7541942
+rs7547740
+rs75481785
+rs7549396
+rs75501914
+rs7555150
+rs7558332
+rs7563386
+rs7568438
+rs7578326
+rs760136
+rs7601375
+rs76052051
+rs7613516
+rs76169821
+rs76185048
+rs76269172
+rs76508224
+rs765751
+rs76580625
+rs76609555
+rs76796707
+rs77089711
+rs7721615
+rs7736117
+rs7739560
+rs7742668
+rs77449055
+rs7745882
+rs7748828
+rs77619009
+rs7766269
+rs7771165
+rs77762937
+rs77778613
+rs7782024
+rs7784403
+rs7799656
+rs783166
+rs7834801
+rs78357146
+rs78856660
+rs78881808
+rs78935817
+rs7902146
+rs79245272
+rs7925256
+rs79293855
+rs79437820
+rs7969413
+rs79709419
+rs7974321
+rs7977742
+rs7997328
+rs80023119
+rs800507
+rs800511
+rs800512
+rs800516
+rs800521
+rs800537
+rs800538
+rs800539
+rs800540
+rs800541
+rs800542
+rs800544
+rs800547
+rs800552
+rs800553
+rs800571
+rs800572
+rs800574
+rs800575
+rs800587
+rs800589
+rs80101064
+rs80194043
+rs8044843
+rs8065099
+rs8075566
+rs8077485
+rs8100120
+rs8100236
+rs8106922
+rs8113877
+rs8114050
+rs8176663
+rs8178824
+rs8192589
+rs825455
+rs850520
+rs850521
+rs891387
+rs892101
+rs896319
+rs905381
+rs912796
+rs918466
+rs922049
+rs9262126
+rs9262130
+rs9262132
+rs9262135
+rs9262141
+rs9262142
+rs9262143
+rs9266791
+rs9268469
+rs9270752
+rs9271427
+rs9271428
+rs9271545
+rs9271573
+rs9271593
+rs9272225
+rs9272255
+rs9272261
+rs9272627
+rs9272729
+rs9272743
+rs9273012
+rs9275427
+rs9303523
+rs9304644
+rs9311910
+rs9355814
+rs9365179
+rs9376710
+rs9390025
+rs9414802
+rs9431559
+rs9436117
+rs9436422
+rs9456552
+rs9462031
+rs9469004
+rs9482770
+rs948934
+rs9496471
+rs9500880
+rs9501117
+rs952227
+rs9577921
+rs960273
+rs963029
+rs9638973
+rs9639377
+rs9639378
+rs9639882
+rs964686
+rs9655452
+rs973129
+rs979012
+rs985161
+rs9866391
+rs9875338
+rs9892234
+rs9894179
+rs9894371
+rs9895986
+rs9897492
+rs9897957
+rs9898399
+rs9899665
+rs9899833
+rs9908393
+rs9909827
+rs9911944
+rs9912450
+rs9926533
+rs9940384
+rs994176
