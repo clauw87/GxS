@@ -1,62 +1,35 @@
-Trait	Total Sex-Differential Loci	Same Direction	Opposite Direction
-Tanner scale  (atlas) 24770850	1594	454	1140
-HDL (requested) 36575460	407	363	44
-logTG (requested) 36575460	293	276	17
-TC (requested) 36575460	282	252	30
-LDL (requested) 36575460	271	233	38
-nonHDL (requested) 36575460	205	175	30
-Type 2 diabetes (requested) 30297969	53	39	14
-Waist-hip ratio  (atlas) 25673412	46	30	16
-Waist circumference (adjusted for BMI) (atlas) 25673412	44	28	16
-Waist-hip ratio (adjusted for BMI) (atlas) 25673412	43	26	17
-Schizophrenia (requested) 35396580	41	22	19
-Multisite chronic pain (requested) 33830993	36	14	22
-Snoring (requested) 32060260	33	16	17
-Fasting insulin (requested) 33402679	32	18	14
-Risk-taking behaviour (requested) 30181555	31	9	22
-Waist-hip ratio (> 50 yrs, adjusted for BMI) (atlas) 26426971	28	16	12
-Hip circumference (adjusted for BMI) (atlas) 25673412	25	16	9
-Left 5m area (requested) NA	25	7	18
-ADHD (requested) 29325848	23	12	11
-Left Putamen (requested) NA	23	7	16
-Insomnia (requested) 35835914	22	8	14
-PTSD (requested) 31594949	22	7	15
-Glycine level  (atlas) 31070104	21	14	7
-Waist-hip ratio (<= 50 yrs, adjusted for BMI) (atlas) 26426971	19	12	7
-Educational attainment (requested) 27225129	19	9	10
-Left MST area (requested) NA	19	5	14
-Cardiovascular disease (requested) 36474045	18	3	15
-Carotid intima-media thickness (requested) 31801372	18	4	14
-Fasting glucose (requested) 33402679	16	4	12
-Left Caudate (requested) NA	16	4	12
-Right Putamen (requested) NA	15	1	14
-CC Central (requested) NA	15	1	14
-Grip strength measurement/ Muscle weakness (requested) 33510174	14	5	9
-Alzheimer's Disease (requested) NA	14	4	10
-Colorectal Cancer (requested) 36635305	14	2	12
-Left LO1 GMV (requested) NA	13	4	9
-Free thyroxine (FT4) (atlas) 30367059	12	2	10
-Alcohol consumption (dichotomous) (atlas) 27911795	11	7	4
-Left PoI GM thikness (requested) NA	11	2	9
-Word reading (requested) 35998220	11	8	3
-Lung Cancer (requested) 36635305	10	3	7
-Phoneme awareness (requested) 35998220	10	5	5
-Body Mass Index  (atlas) 25673413	9	6	3
-Hip circumference  (atlas) 25673412	9	5	4
-Number of children ever born  (atlas) 27798627	9	1	8
-Hematologic Malignancies (requested) 36635305	9	3	6
-Nonword repetition (requested) 35998220	9	1	8
-Spelling (requested) 35998220	9	5	4
-Height SDS (atlas) 23449627	8	2	6
-Nonword reading (requested) 35998220	8	3	5
-Major Depression (requested) 31206164	8	2	6
-Antisocial behavior  (atlas) 28979981	7	2	5
-COVID19 Hospitalization (A1HOSP) (requested) 37198478	7	3	4
-Pubertal growth  (atlas) 23449627	5	1	4
-Waist circumference  (atlas) 25673412	5	1	4
-Parkinson's disease (requested) 33901317	4	0	4
-Thyroid-stimulating hormone  (atlas) 30367059	3	0	3
-Height  (atlas) 23754948	1	0	1
-Age at first birth  (atlas) 27798627	1	0	1
-Broad antisocial behaviour (requested) 36284158	1	0	1
-Performance IQ (requested) 35998220	1	0	1
+trait	TOTAL	SAMEDIR	OPPDIR	PDIFF_TOTAL	PDIFF_SAMEDIR	PDIFF_OPPDIR	FIL_TOTAL	FIL_SAMEDIR	FIL_OPPDIR
+Type 2 diabetes	34	34	0	9	9	0	25	25	0
+Body Mass Index	20	20	0	5	5	0	15	15	0
+Height	18	18	0	2	2	0	16	16	0
+Waist-hip ratio (adjBMI)	16	12	4	4	3	1	12	9	3
+Waist circumference (adjBMI)	13	7	6	6	0	6	7	7	0
+Waist-hip ratio	11	5	6	5	1	4	6	4	2
+Schizophrenia	11	10	1	1	1	0	10	9	1
+Weight	9	9	0	1	1	0	8	8	0
+Hip circumference	9	9	0	1	1	0	8	8	0
+Educational attainment	9	9	0	9	9	0	NA	NA	NA
+Hip circumference (adjBMI)	8	7	1	2	1	1	6	6	0
+Waist-hip ratio (> 50 yrs, adjBMI)	7	6	1	2	1	1	5	5	0
+Waist circumference	7	6	1	1	1	0	6	5	1
+Cardiovascular disease	7	7	0	2	2	0	5	5	0
+Waist-hip ratio (<= 50 yrs, adjBMI)	5	3	2	2	0	2	3	3	0
+Glycine level	3	3	0	1	1	0	2	2	0
+Fasting insulin	3	0	3	2	0	2	1	0	1
+Carotid intima-media thickness	3	1	2	2	0	2	1	1	0
+Tanner scale	2	2	0	2	2	0	NA	NA	NA
+Thyroid-stimulating hormone	2	2	0	1	1	0	1	1	0
+Free thyroxine (FT4)	2	2	0	2	2	0	NA	NA	NA
+Grip strength measurement/ Muscle weakness	2	2	0	1	1	0	1	1	0
+Multisite chronic pain	2	2	0	2	2	0	NA	NA	NA
+Parkinson's disease	2	2	0	2	2	0	NA	NA	NA
+Word reading	2	2	0	2	2	0	NA	NA	NA
+Age at first birth	1	1	0	1	1	0	NA	NA	NA
+Insomnia	1	1	0	1	1	0	NA	NA	NA
+Fasting glucose	1	0	1	1	0	1	NA	NA	NA
+Left PoI GM thikness	1	0	1	1	0	1	NA	NA	NA
+Left Putamen	1	1	0	1	1	0	NA	NA	NA
+Right Putamen	1	1	0	1	1	0	NA	NA	NA
+PTSD	1	1	0	1	1	0	NA	NA	NA
+COVID19 Hospitalization (A1HOSP)	1	1	0	1	1	0	NA	NA	NA
+Risk-taking behaviour	1	1	0	1	1	0	NA	NA	NA
