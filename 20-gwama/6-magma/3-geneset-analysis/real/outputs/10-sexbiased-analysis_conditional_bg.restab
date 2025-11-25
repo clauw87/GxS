@@ -1,0 +1,7 @@
+CODE GENESET MODELGENES NGENES PVALUE
+ch1m:ch1f Brain_Anterior_cingulate_cortex_BA24 8 1521 0.00110958
+ch1m:ch1f Brain_Cortex 12 1568 0.00041764
+ch3m:ch3f Colon_Sigmoid 23 2552 0.000332812
+ch5m:ch5f Adipose_Visceral_Omentum 2 1801 0.000682433
+ch5m:ch5f Colon_Transverse 24 2315 0.0010759
+ch5m:ch5f Small_Intestine_Terminal_Ileum 40 1958 0.00029435
