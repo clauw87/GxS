@@ -1,12 +1,13 @@
 Sources
 
 # Between-sex FST
-
-
-# Other between-sex FST metrics
+# and other between-sex FST metrics
 https://github.com/filipluca/Polygenic_SA_selection_in_the_UK_Biobank/tree/main
 https://zenodo.org/records/6824671
 Fst_Data.txt
+
+(# first version obtained by me using PLINK on 1000G  sex stratified data of EUR AF . see get_sex_AF.sh
+allchr.EUR.sexfreq.frq.strat)
 
 
 # SNPs LD partners
