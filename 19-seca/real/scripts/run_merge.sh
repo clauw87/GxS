@@ -14,7 +14,11 @@
 
 
 # Modules
-module load R
+# module load R
+module purge
+module load modulepath/haswell
+module load R/4.3.2-gfbf-2023a
+
 
 
 # Configuration

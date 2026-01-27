@@ -10,15 +10,15 @@
 
 
 # Modules
-
+module purge
+module load modulepath/haswell
+module load PLINK/1.9b
+module load R/4.3.2-gfbf-2023a
 
 # Configuration
-
-
-# Config
 FILE_LIST=$1
-TMP=$2
-
+INPUT_DIR=$2
+TMP_DIR=$3
 
 
 # Array Dependent Config
@@ -49,14 +49,10 @@ REF_BED=real/inputs/1000G_20101123_v3_GIANT_chr1_23_minimacnamesifnotRS_CEU_MAF0
 # 2 sumstats with columns: SNP        EA  NEA  P       BETA
 
 
+FILE1=${INPUT_DIR}/${CODE2}
+FILE2=${INPUT_DIR}/${CODE1}
 
 
-FILE1=./real/inputs/${CODE2}
-FILE2=./real/inputs/${CODE1}
-
-
-
-module load PLINK/1.9b
 
 
 
@@ -69,63 +65,63 @@ module load PLINK/1.9b
 # SNPs subset overlap: SNP column is $3
 #awk  'NR==FNR {ARR1[$3]=$0; next} ($3 in ARR1) {print $0}' $FILE2 $FILE1  > ${TMP}/${CODE1}_overlapping_${CODE2}
 # col 1
-awk  'NR==FNR {ARR1[$1]=$0; next} ($1 in ARR1) {print $0}' $FILE2 $FILE1  > ${TMP}/${CODE1}_overlapping_${CODE2}
+awk  'NR==FNR {ARR1[$1]=$0; next} ($1 in ARR1) {print $0}' $FILE2 $FILE1  > ${TMP_DIR}/${CODE1}_overlapping_${CODE2}
 
 
 # First clumping 
 plink \
 --bfile ${REF_BED} \
---clump ${TMP}/${CODE1}_overlapping_${CODE2} \
+--clump ${TMP_DIR}/${CODE1}_overlapping_${CODE2} \
 --clump-snp-field SNP \
 --clump-field PVAL \
 --clump-p1 1 \
 --clump-p2 1 \
 --clump-r2 0.1 \
 --clump-kb 1000 \
---out ${TMP}/${CODE1}_overlapping_${CODE2}.clump1
+--out ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1
 
-awk '{ print $3 }' ${TMP}/${CODE1}_overlapping_${CODE2}.clump1.clumped > ${TMP}/${CODE1}_overlapping_${CODE2}.clump1.SNPs
+awk '{ print $3 }' ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1.clumped > ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1.SNPs
 
-awk 'NR==FNR {ARR1[$3]=$0; next} ($1 in ARR1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}.clump1.clumped ${TMP}/${CODE1}_overlapping_${CODE2} \
-> ${TMP}/${CODE1}_overlapping_${CODE2}.clump1_clump1
+awk 'NR==FNR {ARR1[$3]=$0; next} ($1 in ARR1) {print $0}' ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1.clumped ${TMP_DIR}/${CODE1}_overlapping_${CODE2} \
+> ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1_clump1
 
 
 
 # Second clumping (long range LD)
 plink \
 --bfile ${REF_BED} \
---extract ${TMP}/${CODE1}_overlapping_${CODE2}.clump1.SNPs \
---clump ${TMP}/${CODE1}_overlapping_${CODE2}.clump1_clump1 \
+--extract ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1.SNPs \
+--clump ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump1_clump1 \
 --clump-field PVAL \
 --clump-p1 1 \
 --clump-p2 1 \
 --clump-r2 0.1 \
 --clump-kb 10000 \
---out ${TMP}/${CODE1}_overlapping_${CODE2}.clump2
+--out ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump2
 
 
 # Generate set of indep SNPs by matching the PLINK –clump output (‘dataset1_subset_overlapping_dataset2_clump2.clumped’) which lists the independent SNPs in field #3,
 # with ‘dataset1_subset_overlapping_dataset2’ GWAS summary file which has SNP in field #1 
 # to obtain file ‘dataset1.independent’, containing a subset of GWAS summary results from dataset1 for a set of independent SNPs.
 
-awk 'NR==FNR {ARR1[$3]=$0; next} ($1 in ARR1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}.clump2.clumped ${TMP}/${CODE1}_overlapping_${CODE2} \
-> ${TMP}/${CODE1}.${CODE1}_${CODE2}.independent
+awk 'NR==FNR {ARR1[$3]=$0; next} ($1 in ARR1) {print $0}' ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump2.clumped ${TMP_DIR}/${CODE1}_overlapping_${CODE2} \
+> ${TMP_DIR}/${CODE1}.${CODE1}_${CODE2}.independent
 
 
 
 # For the 2nd file
-awk 'NR==FNR {ARR1[$3]=$0; next} ($1 in ARR1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}.clump2.clumped ${FILE2} \
-> ${TMP}/${CODE2}.${CODE1}_${CODE2}.independent
+awk 'NR==FNR {ARR1[$3]=$0; next} ($1 in ARR1) {print $0}' ${TMP_DIR}/${CODE1}_overlapping_${CODE2}.clump2.clumped ${FILE2} \
+> ${TMP_DIR}/${CODE2}.${CODE1}_${CODE2}.independent
 
 
 
 
 
 # Merge in an independent aligned effects file to feed run seca.sh
-module load R
+
 
 INDEP_SUFFIX=.${CODE1}_${CODE2}.independent
 
 
-Rscript ./real/scripts/merge.R ${CODE1} ${CODE2} ${INDEP_SUFFIX} ${TMP} ${TMP}
+Rscript ./real/scripts/merge.R ${CODE1} ${CODE2} ${INDEP_SUFFIX} ${TMP_DIR} ${TMP_DIR}
 

@@ -1,0 +1,132 @@
+
+
+
+TMP=./real/tmp
+REF_BED=real/inputs/1000G_20101123_v3_GIANT_chr1_23_minimacnamesifnotRS_CEU_MAF0.01
+
+
+module load PLINK/1.9b
+
+
+
+
+
+# CLumping LD for SECA
+
+# 2 sumstats with columns: SNP        EA  NEA  P       BETA
+
+FILE1GZ=../08-coloc/0-munge/real/outputs/r5m.coloc-munged-sumstats.gz
+FILE2GZ=../08-coloc/0-munge/real/outputs/a9m.coloc-munged-sumstats.gz
+
+
+CODE1=$(basename ${FILE1GZ} | sed 's/.coloc-munged-sumstats.gz//g')
+CODE2=$(basename ${FILE2GZ} | sed 's/.coloc-munged-sumstats.gz//g')
+
+zcat $FILE1GZ >	${TMP}/${CODE1}
+zcat ${FILE2GZ} > ${TMP}/${CODE2}
+
+FILE1=${TMP}/${CODE1}
+FILE2=${TMP}/${CODE2}
+
+
+
+module load PLINK/1.9b
+
+
+# SNPs subset overlap: SNP column is $3
+awk  'NR==FNR {ARR1[$3]=$0; next} ($3 in ARR1) {print $0}' $FILE2 $FILE1  > ${TMP}/${CODE1}_overlapping_${CODE2}
+
+
+
+# Independent overlap SNPs set
+
+plink \
+--bfile ${REF_BED} \
+--clump ${TMP}/${CODE1}_overlapping_${CODE2} \
+--clump-field PVAL \
+--clump-p1 1 \
+--clump-p2 1 \
+--clump-r2 0.1 \
+--clump-kb 1000 \
+--out ${TMP}/${CODE1}_overlapping_${CODE2}_clump1
+
+
+# Independent (index) SNPs from field 3
+
+awk '{ print $3 }' ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.clumped > ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.SNPs
+
+
+# Index SNPs' data
+
+awk 'NR==FNR { ARR1[$3]=$0; next} ($1 in FILE1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.clumped ${TMP}/${CODE1}_overlapping_${CODE2} > ${TMP}/${CODE1}_overlapping_${CODE2}.clump1
+
+# pvalue-informed LD clumping
+# Now perform p-value informed LD clumping on your ‘dataset1_subset_overlapping_dataset2.clump1’ file to ensure none of the index SNPs within 10 Mb of each other are in long-range LD (r2 > 0.1):
+
+plink \
+--bfile ${REF_BED} \
+--extract ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.SNPs \
+--clump ${TMP}/${CODE1}_overlapping_${CODE2}.clump1 \
+--clump-field PVAL \
+--clump-p1 1 \
+--clump-p2 1 \
+--clump-r2 0.1 \
+--clump-kb 10000 \
+--out ${TMP}/${CODE1}_overlapping_${CODE2}_clump2
+
+
+
+# not pvalue-informed LD clumping
+# If you do not want to perform p-value informed LD clumping then you could repeat the above PLINK analysis using a version of the –clump input file (‘dataset1_subset_overlapping_dataset2’) in which all of the observed p-values have been replaced with “0.5”, for example, by using the following awk command:
+
+awk '{print $3,0.5}' ${TMP}/${CODE1}_overlapping_${CODE2} > ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5
+
+# NB: make sure to change the column name for the dummy p-values from “0.5” to “P”, using a text editor or simple command, for example:
+sed -i 's/SNP 0.5/SNP PVAL/g' ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5
+
+plink \
+--bfile ${REF_BED} \
+--clump ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5 \
+--clump-field PVAL \
+--clump-p1 1 \
+--clump-p2 1 \
+--clump-r2 0.1 \
+--clump-kb 1000 \
+--out ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5_clump1
+
+awk '{ print $3 }' ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.clumped > ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.SNPs
+
+awk 'NR==FNR {ARR1[$3]=$0; next} ($3 in ARR1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.clumped ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5 \
+> ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5.clump1
+
+
+plink \
+--bfile ${REF_BED} \
+--extract ${TMP}/${CODE1}_overlapping_${CODE2}_clump1.SNPs \
+--clump ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5.clump1 \
+--clump-field PVAL \
+--clump-p1 1 \
+--clump-p2 1 \
+--clump-r2 0.1 \
+--clump-kb 10000 \
+--out ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5_clump2
+
+
+
+# 3 Set of indep SNPs
+# the default output from PLINK –clump analysis (‘dataset1_subset_overlapping_dataset2_clump2.clumped’) lists the independent SNPs in field #3, while field #1 contains the SNP name in the ‘dataset1_subset_overlapping_dataset2’ GWAS summary file. Therefore we need to match on field #3 in FILE1 and field #3 (SNP) in FILE2.
+
+
+awk 'NR==FNR {ARR1[$3]=$0; next} ($3 in ARR1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5_clump2.clumped ${TMP}/${CODE1}_overlapping_${CODE2} \
+> ${TMP}/${CODE1}.independent
+
+#The resulting file ‘dataset1.independent’, contains a subset of GWAS summary results from dataset1 for a set of independent SNPs.
+
+
+
+# For the 2nd file
+awk 'NR==FNR {ARR1[$3]=$0; next} ($3 in ARR1) {print $0}' ${TMP}/${CODE1}_overlapping_${CODE2}.P0.5_clump2.clumped ${FILE2} \
+> ${TMP}/${CODE2}.independent
+
+
+# The resulting two files ‘dataset1.independent’ and ‘dataset2.independent’ can now be uploaded to iSECA for analysis…
