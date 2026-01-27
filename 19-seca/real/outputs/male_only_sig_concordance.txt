@@ -1,0 +1,103 @@
+x
+Pubertal growth:Weight
+Pubertal growth:Waist-hip ratio (<= 50 yrs, adjBMI)
+Hip circumference:Pubertal growth
+Pubertal growth:Waist circumference
+Number of children ever born:Pubertal growth
+Free thyroxine (FT4):Height
+Risk-taking behaviour:Weight
+Body Mass Index:Waist-hip ratio (<= 50 yrs, adjBMI)
+Body Mass Index:Left Caudate
+Body Mass Index:Risk-taking behaviour
+Body Mass Index:Carotid intima-media thickness
+Free thyroxine (FT4):Waist-hip ratio (> 50 yrs, adjBMI)
+Grip strength measurement/ Muscle weakness:Waist-hip ratio (> 50 yrs, adjBMI)
+Schizophrenia:Waist-hip ratio (> 50 yrs, adjBMI)
+Left 5m area:Waist-hip ratio (<= 50 yrs, adjBMI)
+Major Depression:Waist-hip ratio (<= 50 yrs, adjBMI)
+Hip circumference:Risk-taking behaviour
+Risk-taking behaviour:Waist circumference
+Free thyroxine (FT4):Waist circumference (adjBMI)
+Left 5m area:Waist circumference (adjBMI)
+Waist circumference (adjBMI):Word reading
+Schizophrenia:Waist-hip ratio
+Schizophrenia:Waist-hip ratio (adjBMI)
+Risk-taking behaviour:Waist-hip ratio (adjBMI)
+Educational attainment:Thyroid-stimulating hormone
+Left 5m area:Thyroid-stimulating hormone
+Nonword reading:Thyroid-stimulating hormone
+Free thyroxine (FT4):Word reading
+Number of children ever born:Parkinson's disease
+Left MST area:Number of children ever born
+Number of children ever born:Risk-taking behaviour
+Height SDS:Parkinson's disease
+Height SDS:Type 2 diabetes
+Height SDS:Spelling
+Carotid intima-media thickness:Height SDS
+Insomnia:Left MST area
+Insomnia:Schizophrenia
+Insomnia:Risk-taking behaviour
+Fasting glucose:Grip strength measurement/ Muscle weakness
+Grip strength measurement/ Muscle weakness:Major Depression
+Alzheimer's Disease:Snoring
+Right Putamen:Snoring
+Fasting glucose:Left Putamen
+Fasting glucose:Right Putamen
+Educational attainment:Left Putamen
+Left Caudate:Parkinson's disease
+Parkinson's disease:Right Putamen
+Risk-taking behaviour:Type 2 diabetes
+ADHD:Schizophrenia
+Alzheimer's Disease:LDL
+Alzheimer's Disease:nonHDL
+HDL:Left PoI GM thikness
+HDL:Left 5m area
+Left MST area:logTG
+Left MST area:Schizophrenia
+Left Caudate:logTG
+Left Putamen:Spelling
+LDL:Left Putamen
+Left Putamen:TC
+Left Putamen:Risk-taking behaviour
+LDL:Right Putamen
+Right Putamen:TC
+nonHDL:Right Putamen
+Right Putamen:Schizophrenia
+CC Central:Performance IQ
+CC Central:TC
+CC Central:logTG
+CC Central:PTSD
+HDL:LDL
+LDL:Major Depression
+LDL:Schizophrenia
+LDL:Risk-taking behaviour
+Major Depression:TC
+Schizophrenia:TC
+Risk-taking behaviour:TC
+Carotid intima-media thickness:TC
+logTG:Risk-taking behaviour
+nonHDL:Risk-taking behaviour
+Multisite chronic pain:Pubertal growth
+Alzheimer's Disease:Pubertal growth
+Major Depression:Pubertal growth
+Left MST area:Waist-hip ratio (<= 50 yrs, adjBMI)
+Hip circumference:Right Putamen
+Hip circumference (adjBMI):Performance IQ
+Hip circumference (adjBMI):Spelling
+Right Putamen:Thyroid-stimulating hormone
+Free thyroxine (FT4):Snoring
+Age at first birth:Right Putamen
+Carotid intima-media thickness:Number of children ever born
+Height SDS:Left MST area
+Alzheimer's Disease:Insomnia
+Grip strength measurement/ Muscle weakness:Left 5m area
+Fasting glucose:Left 5m area
+Left MST area:Multisite chronic pain
+Carotid intima-media thickness:Multisite chronic pain
+Left Putamen:Parkinson's disease
+Parkinson's disease:Spelling
+Left Caudate:Type 2 diabetes
+ADHD:Left PoI GM thikness
+Left PoI GM thikness:Spelling
+Left Putamen:nonHDL
+CC Central:Spelling

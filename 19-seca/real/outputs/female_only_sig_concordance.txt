@@ -1,0 +1,126 @@
+x
+Height:Waist-hip ratio (<= 50 yrs, adjBMI)
+Height:Performance IQ
+HDL:Height
+Number of children ever born:Weight
+Fasting insulin:Weight
+Left MST area:Weight
+LDL:Weight
+Body Mass Index:Hip circumference (adjBMI)
+Body Mass Index:Waist circumference (adjBMI)
+Body Mass Index:Grip strength measurement/ Muscle weakness
+Body Mass Index:LDL
+Body Mass Index:TC
+Body Mass Index:Major Depression
+Fasting insulin:Waist-hip ratio (> 50 yrs, adjBMI)
+Number of children ever born:Waist-hip ratio (<= 50 yrs, adjBMI)
+Fasting insulin:Waist-hip ratio (<= 50 yrs, adjBMI)
+PTSD:Waist-hip ratio (<= 50 yrs, adjBMI)
+Hip circumference:Left PoI GM thikness
+Hip circumference:LDL
+Hip circumference:Major Depression
+Carotid intima-media thickness:Hip circumference
+Hip circumference (adjBMI):Left PoI GM thikness
+Hip circumference (adjBMI):Left 5m area
+Hip circumference (adjBMI):Nonword reading
+Hip circumference (adjBMI):Word reading
+Carotid intima-media thickness:Hip circumference (adjBMI)
+Left MST area:Waist circumference
+LDL:Waist circumference
+TC:Waist circumference
+Major Depression:Waist circumference
+Cardiovascular disease:Waist circumference (adjBMI)
+Snoring:Waist circumference (adjBMI)
+Performance IQ:Waist circumference (adjBMI)
+Spelling:Waist circumference (adjBMI)
+LDL:Waist circumference (adjBMI)
+TC:Waist circumference (adjBMI)
+nonHDL:Waist circumference (adjBMI)
+Major Depression:Waist circumference (adjBMI)
+Carotid intima-media thickness:Waist circumference (adjBMI)
+Thyroid-stimulating hormone:Waist-hip ratio
+Carotid intima-media thickness:Waist-hip ratio
+Fasting insulin:Waist-hip ratio (adjBMI)
+Pubertal growth:Thyroid-stimulating hormone
+Risk-taking behaviour:Thyroid-stimulating hormone
+Free thyroxine (FT4):Left Caudate
+Age at first birth:Parkinson's disease
+Grip strength measurement/ Muscle weakness:Number of children ever born
+Fasting insulin:Height SDS
+Left Caudate:Pubertal growth
+Performance IQ:Pubertal growth
+Pubertal growth:Risk-taking behaviour
+Carotid intima-media thickness:Pubertal growth
+Cardiovascular disease:Left MST area
+Insomnia:Snoring
+Fasting glucose:Insomnia
+Insomnia:Left 5m area
+Insomnia:Left Putamen
+Grip strength measurement/ Muscle weakness:Snoring
+Grip strength measurement/ Muscle weakness:Parkinson's disease
+ADHD:Grip strength measurement/ Muscle weakness
+Grip strength measurement/ Muscle weakness:Left PoI GM thikness
+Grip strength measurement/ Muscle weakness:nonHDL
+ADHD:Fasting glucose
+Fasting glucose:Spelling
+Fasting glucose:LDL
+Fasting glucose:TC
+Fasting insulin:LDL
+Fasting insulin:TC
+Multisite chronic pain:Parkinson's disease
+Educational attainment:Left PoI GM thikness
+Educational attainment:Schizophrenia
+Educational attainment:Risk-taking behaviour
+Left PoI GM thikness:Parkinson's disease
+Carotid intima-media thickness:Parkinson's disease
+LDL:Type 2 diabetes
+nonHDL:Type 2 diabetes
+ADHD:Left 5m area
+Alzheimer's Disease:Nonword reading
+Alzheimer's Disease:Word reading
+Alzheimer's Disease:Major Depression
+Alzheimer's Disease:Risk-taking behaviour
+Left PoI GM thikness:Nonword reading
+Left PoI GM thikness:Performance IQ
+Left 5m area:PTSD
+Left 5m area:Risk-taking behaviour
+CC Central:Left MST area
+HDL:Left MST area
+Left Caudate:Nonword reading
+Left Caudate:Performance IQ
+Major Depression:Right Putamen
+Nonword reading:Schizophrenia
+Carotid intima-media thickness:Nonword reading
+Carotid intima-media thickness:Performance IQ
+Schizophrenia:Word reading
+Carotid intima-media thickness:Word reading
+LDL:PTSD
+Height:Risk-taking behaviour
+Performance IQ:Weight
+Number of children ever born:Waist-hip ratio (> 50 yrs, adjBMI)
+Carotid intima-media thickness:Waist-hip ratio (> 50 yrs, adjBMI)
+Left Caudate:Waist-hip ratio (<= 50 yrs, adjBMI)
+Left Putamen:Waist-hip ratio (<= 50 yrs, adjBMI)
+Hip circumference (adjBMI):Parkinson's disease
+Parkinson's disease:Waist circumference (adjBMI)
+Number of children ever born:Waist-hip ratio (adjBMI)
+Parkinson's disease:Waist-hip ratio (adjBMI)
+Carotid intima-media thickness:Waist-hip ratio (adjBMI)
+Free thyroxine (FT4):Insomnia
+Free thyroxine (FT4):Parkinson's disease
+Major Depression:Number of children ever born
+Height SDS:Left 5m area
+Cardiovascular disease:Parkinson's disease
+Grip strength measurement/ Muscle weakness:Left MST area
+Grip strength measurement/ Muscle weakness:LDL
+Fasting insulin:Major Depression
+Parkinson's disease:Risk-taking behaviour
+Alzheimer's Disease:Left 5m area
+Alzheimer's Disease:Spelling
+Alzheimer's Disease:PTSD
+Left PoI GM thikness:Schizophrenia
+Left 5m area:logTG
+Left 5m area:Schizophrenia
+Performance IQ:Risk-taking behaviour
+Risk-taking behaviour:Spelling
+Carotid intima-media thickness:Spelling
