@@ -1,0 +1,817 @@
+pair_name	sex	pleio_total	pleio_type_ANTAGONIST	pleio_type_AGONIST	pleio_agonist_dir_POSITIVE	pleio_agonist_dir_NEGATIVE	convincing_CONVINCING	convincing_type_CONVINCING_SAME	convincing_type_CONVINCING_DISTINCT
+ADHD:Cardiovascular disease	male	1	NA	1	1	NA	1	1	NA
+ADHD:Educational attainment	female	1	1	NA	NA	NA	1	1	NA
+ADHD:Educational attainment	male	1	1	NA	NA	NA	1	1	NA
+ADHD:Fasting insulin	male	1	1	NA	NA	NA	1	1	NA
+ADHD:Insomnia	male	1	NA	1	NA	1	1	1	NA
+ADHD:LDL	female	3	1	2	1	1	3	3	NA
+ADHD:Left Caudate	female	1	1	NA	NA	NA	1	1	NA
+ADHD:Multisite chronic pain	male	1	NA	1	1	NA	1	1	NA
+ADHD:Number of children ever born	male	1	NA	1	1	NA	1	1	NA
+ADHD:Parkinson's disease	female	1	NA	1	NA	1	1	1	NA
+ADHD:Schizophrenia	male	3	NA	3	1	2	3	2	1
+ADHD:TC	female	2	1	1	1	NA	2	2	NA
+ADHD:logTG	female	1	NA	1	1	NA	1	1	NA
+ADHD:nonHDL	female	2	1	1	NA	1	2	1	1
+Age at first birth:Body Mass Index	female	1	1	NA	NA	NA	1	1	NA
+Age at first birth:Educational attainment	female	4	NA	4	3	1	4	2	2
+Age at first birth:HDL	female	2	NA	2	1	1	2	2	NA
+Age at first birth:HDL	male	1	NA	1	NA	1	1	1	NA
+Age at first birth:Multisite chronic pain	male	1	1	NA	NA	NA	1	1	NA
+Age at first birth:Risk-taking behaviour	female	1	1	NA	NA	NA	1	1	NA
+Age at first birth:Schizophrenia	male	1	1	NA	NA	NA	1	1	NA
+Age at first birth:TC	female	1	NA	1	1	NA	1	1	NA
+Age at first birth:Type 2 diabetes	male	1	1	NA	NA	NA	1	1	NA
+Age at first birth:logTG	male	1	1	NA	NA	NA	1	1	NA
+Alzheimer's Disease:Cardiovascular disease	female	1	NA	1	NA	1	1	NA	1
+Alzheimer's Disease:Cardiovascular disease	male	1	NA	1	NA	1	1	NA	1
+Alzheimer's Disease:Carotid intima-media thickness	male	1	NA	1	NA	1	1	NA	1
+Alzheimer's Disease:HDL	female	1	1	NA	NA	NA	1	NA	1
+Alzheimer's Disease:HDL	male	1	1	NA	NA	NA	1	NA	1
+Alzheimer's Disease:LDL	female	1	NA	1	1	NA	1	NA	1
+Alzheimer's Disease:LDL	male	1	NA	1	1	NA	1	NA	1
+Alzheimer's Disease:Schizophrenia	male	1	NA	1	NA	1	1	1	NA
+Alzheimer's Disease:TC	female	1	NA	1	1	NA	1	NA	1
+Alzheimer's Disease:TC	male	1	1	NA	NA	NA	1	NA	1
+Alzheimer's Disease:Type 2 diabetes	male	1	1	NA	NA	NA	1	1	NA
+Alzheimer's Disease:Waist circumference	female	1	1	NA	NA	NA	1	1	NA
+Alzheimer's Disease:logTG	female	1	NA	1	NA	1	1	NA	1
+Alzheimer's Disease:logTG	male	1	NA	1	1	NA	1	NA	1
+Alzheimer's Disease:nonHDL	female	1	NA	1	1	NA	1	NA	1
+Alzheimer's Disease:nonHDL	male	1	NA	1	1	NA	1	NA	1
+Body Mass Index:Cardiovascular disease	female	2	1	1	1	NA	2	1	1
+Body Mass Index:Cardiovascular disease	male	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:Educational attainment	female	6	5	1	1	NA	6	3	3
+Body Mass Index:Educational attainment	male	3	2	1	1	NA	3	2	1
+Body Mass Index:Fasting glucose	female	2	1	1	NA	1	2	1	1
+Body Mass Index:Fasting glucose	male	3	2	1	NA	1	3	2	1
+Body Mass Index:Fasting insulin	female	2	NA	2	2	NA	2	2	NA
+Body Mass Index:Fasting insulin	male	4	1	3	2	1	4	4	NA
+Body Mass Index:Free thyroxine (FT4)	male	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:Glycine level	male	1	NA	1	NA	1	1	1	NA
+Body Mass Index:Grip strength measurement/ Muscle weakness	female	2	NA	2	2	NA	2	1	1
+Body Mass Index:Grip strength measurement/ Muscle weakness	male	1	NA	1	1	NA	1	1	NA
+Body Mass Index:HDL	female	25	22	3	2	1	25	20	5
+Body Mass Index:HDL	male	18	13	5	1	4	18	11	7
+Body Mass Index:Height	female	4	3	1	1	NA	4	2	2
+Body Mass Index:Height	male	1	NA	1	NA	1	1	1	NA
+Body Mass Index:Height SDS	female	1	NA	1	NA	1	1	1	NA
+Body Mass Index:Hip circumference	female	22	NA	22	14	8	22	22	NA
+Body Mass Index:Hip circumference	male	17	NA	17	12	5	17	17	NA
+Body Mass Index:Hip circumference (adjBMI)	female	2	NA	2	1	1	2	2	NA
+Body Mass Index:Hip circumference (adjBMI)	male	2	1	1	NA	1	2	2	NA
+Body Mass Index:Insomnia	male	1	NA	1	NA	1	1	1	NA
+Body Mass Index:LDL	female	6	3	3	1	2	6	2	4
+Body Mass Index:LDL	male	6	5	1	NA	1	6	4	2
+Body Mass Index:Left Putamen	female	1	NA	1	1	NA	1	1	NA
+Body Mass Index:Multisite chronic pain	female	3	NA	3	3	NA	3	3	NA
+Body Mass Index:Multisite chronic pain	male	1	NA	1	1	NA	1	1	NA
+Body Mass Index:Parkinson's disease	female	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:Performance IQ	male	1	NA	1	1	NA	1	1	NA
+Body Mass Index:Pubertal growth	female	2	2	NA	NA	NA	2	2	NA
+Body Mass Index:Pubertal growth	male	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:Right Putamen	female	1	NA	1	1	NA	1	1	NA
+Body Mass Index:Risk-taking behaviour	female	1	NA	1	NA	1	1	NA	1
+Body Mass Index:Schizophrenia	female	4	2	2	2	NA	4	4	NA
+Body Mass Index:Schizophrenia	male	3	2	1	1	NA	3	3	NA
+Body Mass Index:Snoring	female	1	NA	1	NA	1	1	1	NA
+Body Mass Index:Snoring	male	1	NA	1	1	NA	1	1	NA
+Body Mass Index:Spelling	female	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:TC	female	7	4	3	1	2	7	2	5
+Body Mass Index:TC	male	10	8	2	NA	2	10	8	2
+Body Mass Index:Thyroid-stimulating hormone	female	1	NA	1	1	NA	1	1	NA
+Body Mass Index:Type 2 diabetes	female	13	1	12	7	5	13	11	2
+Body Mass Index:Type 2 diabetes	male	15	4	11	9	2	15	14	1
+Body Mass Index:Waist circumference	female	20	NA	20	10	10	20	20	NA
+Body Mass Index:Waist circumference	male	18	NA	18	9	9	18	17	1
+Body Mass Index:Waist circumference (adjBMI)	female	2	2	NA	NA	NA	2	1	1
+Body Mass Index:Waist circumference (adjBMI)	male	3	2	1	NA	1	3	3	NA
+Body Mass Index:Waist-hip ratio	female	6	NA	6	2	4	6	6	NA
+Body Mass Index:Waist-hip ratio	male	10	NA	10	6	4	10	10	NA
+Body Mass Index:Waist-hip ratio (> 50 yrs, adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:Waist-hip ratio (adjBMI)	female	2	2	NA	NA	NA	2	2	NA
+Body Mass Index:Waist-hip ratio (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Body Mass Index:Weight	female	14	NA	14	11	3	14	14	NA
+Body Mass Index:Weight	male	9	NA	9	7	2	9	9	NA
+Body Mass Index:logTG	female	16	4	12	9	3	16	13	3
+Body Mass Index:logTG	male	12	4	8	6	2	12	9	3
+Body Mass Index:nonHDL	female	7	2	5	1	4	7	4	3
+Body Mass Index:nonHDL	male	4	3	1	NA	1	4	2	2
+CC Central:Educational attainment	female	1	NA	1	1	NA	1	1	NA
+CC Central:HDL	male	1	1	NA	NA	NA	1	1	NA
+CC Central:Left 5m area	female	1	1	NA	NA	NA	1	1	NA
+CC Central:Left Caudate	female	1	1	NA	NA	NA	1	1	NA
+CC Central:Left Putamen	female	1	NA	1	1	NA	1	1	NA
+CC Central:logTG	female	1	NA	1	1	NA	1	1	NA
+CC Central:nonHDL	female	1	NA	1	NA	1	1	1	NA
+Cardiovascular disease:CC Central	male	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:Carotid intima-media thickness	female	1	NA	1	NA	1	1	1	NA
+Cardiovascular disease:Carotid intima-media thickness	male	2	NA	2	NA	2	2	2	NA
+Cardiovascular disease:Educational attainment	female	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:Educational attainment	male	2	2	NA	NA	NA	2	2	NA
+Cardiovascular disease:Fasting glucose	female	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Fasting insulin	male	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Glycine level	female	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:Glycine level	male	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:HDL	female	10	8	2	1	1	10	8	2
+Cardiovascular disease:HDL	male	22	17	5	4	1	22	12	10
+Cardiovascular disease:Height	female	1	1	NA	NA	NA	1	NA	1
+Cardiovascular disease:Height	male	3	1	2	1	1	3	2	1
+Cardiovascular disease:Hip circumference	male	2	1	1	1	NA	2	2	NA
+Cardiovascular disease:Hip circumference (adjBMI)	male	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Insomnia	male	1	NA	1	NA	1	1	1	NA
+Cardiovascular disease:LDL	female	10	2	8	5	3	10	8	2
+Cardiovascular disease:LDL	male	27	12	15	7	8	27	21	6
+Cardiovascular disease:Major Depression	male	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Multisite chronic pain	female	2	2	NA	NA	NA	2	2	NA
+Cardiovascular disease:Multisite chronic pain	male	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Schizophrenia	female	2	2	NA	NA	NA	2	2	NA
+Cardiovascular disease:Schizophrenia	male	3	3	NA	NA	NA	3	1	2
+Cardiovascular disease:Snoring	male	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Spelling	male	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:TC	female	12	4	8	6	2	12	11	1
+Cardiovascular disease:TC	male	28	14	14	10	4	28	20	8
+Cardiovascular disease:Type 2 diabetes	female	4	1	3	3	NA	4	2	2
+Cardiovascular disease:Type 2 diabetes	male	10	1	9	5	4	10	6	4
+Cardiovascular disease:Waist circumference	female	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:Waist circumference	male	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:Waist circumference (adjBMI)	female	2	NA	2	2	NA	2	2	NA
+Cardiovascular disease:Waist circumference (adjBMI)	male	2	1	1	1	NA	2	2	NA
+Cardiovascular disease:Waist-hip ratio	female	3	1	2	2	NA	3	3	NA
+Cardiovascular disease:Waist-hip ratio	male	1	1	NA	NA	NA	1	1	NA
+Cardiovascular disease:Waist-hip ratio (<= 50 yrs, adjBMI)	female	2	NA	2	2	NA	2	2	NA
+Cardiovascular disease:Waist-hip ratio (> 50 yrs, adjBMI)	female	1	NA	1	1	NA	1	1	NA
+Cardiovascular disease:Waist-hip ratio (adjBMI)	female	2	NA	2	2	NA	2	2	NA
+Cardiovascular disease:Weight	female	1	NA	1	NA	1	1	1	NA
+Cardiovascular disease:logTG	female	8	1	7	5	2	8	6	2
+Cardiovascular disease:logTG	male	18	2	16	10	6	18	15	3
+Cardiovascular disease:nonHDL	female	9	2	7	6	1	9	8	1
+Cardiovascular disease:nonHDL	male	27	9	18	12	6	27	24	3
+Carotid intima-media thickness:Educational attainment	female	1	1	NA	NA	NA	1	1	NA
+Carotid intima-media thickness:Fasting glucose	male	1	NA	1	1	NA	1	1	NA
+Carotid intima-media thickness:LDL	female	1	NA	1	NA	1	1	1	NA
+Carotid intima-media thickness:Schizophrenia	male	1	1	NA	NA	NA	1	NA	1
+Carotid intima-media thickness:TC	female	1	NA	1	1	NA	1	1	NA
+Carotid intima-media thickness:Type 2 diabetes	male	3	1	2	1	1	3	2	1
+Carotid intima-media thickness:logTG	female	2	1	1	1	NA	2	2	NA
+Carotid intima-media thickness:logTG	male	1	1	NA	NA	NA	1	1	NA
+Carotid intima-media thickness:nonHDL	female	1	NA	1	NA	1	1	1	NA
+Carotid intima-media thickness:nonHDL	male	1	NA	1	1	NA	1	1	NA
+Educational attainment:Fasting glucose	female	1	1	NA	NA	NA	1	NA	1
+Educational attainment:Fasting glucose	male	1	NA	1	NA	1	1	1	NA
+Educational attainment:Grip strength measurement/ Muscle weakness	female	2	2	NA	NA	NA	2	2	NA
+Educational attainment:HDL	female	12	2	10	6	4	12	6	6
+Educational attainment:HDL	male	9	2	7	4	3	9	4	5
+Educational attainment:Height	female	2	NA	2	1	1	2	2	NA
+Educational attainment:Height	male	1	NA	1	NA	1	1	1	NA
+Educational attainment:Hip circumference	female	4	3	1	NA	1	4	3	1
+Educational attainment:Hip circumference (adjBMI)	female	2	1	1	NA	1	2	2	NA
+Educational attainment:LDL	female	6	5	1	NA	1	6	1	5
+Educational attainment:LDL	male	3	1	2	1	1	3	2	1
+Educational attainment:Left Caudate	female	1	1	NA	NA	NA	1	1	NA
+Educational attainment:Left Putamen	female	1	1	NA	NA	NA	1	NA	1
+Educational attainment:Multisite chronic pain	female	8	8	NA	NA	NA	8	6	2
+Educational attainment:Multisite chronic pain	male	3	3	NA	NA	NA	3	2	1
+Educational attainment:Nonword reading	male	1	NA	1	1	NA	1	1	NA
+Educational attainment:PTSD	female	1	1	NA	NA	NA	1	1	NA
+Educational attainment:Parkinson's disease	female	1	NA	1	NA	1	1	NA	1
+Educational attainment:Right Putamen	female	1	1	NA	NA	NA	1	NA	1
+Educational attainment:Risk-taking behaviour	female	2	NA	2	1	1	2	1	1
+Educational attainment:Risk-taking behaviour	male	1	1	NA	NA	NA	1	NA	1
+Educational attainment:Schizophrenia	female	6	2	4	2	2	6	4	2
+Educational attainment:Schizophrenia	male	5	1	4	1	3	5	3	2
+Educational attainment:Snoring	female	4	3	1	1	NA	4	2	2
+Educational attainment:TC	female	6	4	2	1	1	6	2	4
+Educational attainment:TC	male	5	3	2	1	1	5	1	4
+Educational attainment:Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	1	NA
+Educational attainment:Type 2 diabetes	female	1	1	NA	NA	NA	1	NA	1
+Educational attainment:Type 2 diabetes	male	4	3	1	NA	1	4	3	1
+Educational attainment:Waist circumference	female	4	3	1	1	NA	4	3	1
+Educational attainment:Waist-hip ratio	male	1	1	NA	NA	NA	1	1	NA
+Educational attainment:Waist-hip ratio (adjBMI)	female	1	1	NA	NA	NA	1	NA	1
+Educational attainment:Weight	female	2	2	NA	NA	NA	2	2	NA
+Educational attainment:Weight	male	1	NA	1	1	NA	1	NA	1
+Educational attainment:Word reading	male	1	NA	1	1	NA	1	1	NA
+Educational attainment:logTG	female	16	14	2	1	1	16	9	7
+Educational attainment:logTG	male	5	5	NA	NA	NA	5	4	1
+Educational attainment:nonHDL	female	8	7	1	NA	1	8	3	5
+Fasting glucose:Fasting insulin	female	2	NA	2	1	1	2	2	NA
+Fasting glucose:Fasting insulin	male	2	NA	2	1	1	2	2	NA
+Fasting glucose:Glycine level	female	1	NA	1	NA	1	1	1	NA
+Fasting glucose:Glycine level	male	1	NA	1	1	NA	1	NA	1
+Fasting glucose:Grip strength measurement/ Muscle weakness	female	1	NA	1	NA	1	1	NA	1
+Fasting glucose:HDL	female	4	1	3	1	2	4	2	2
+Fasting glucose:HDL	male	4	1	3	NA	3	4	2	2
+Fasting glucose:Height	female	1	NA	1	1	NA	1	NA	1
+Fasting glucose:Hip circumference	female	1	1	NA	NA	NA	1	1	NA
+Fasting glucose:Hip circumference	male	2	1	1	NA	1	2	2	NA
+Fasting glucose:LDL	female	6	4	2	NA	2	6	2	4
+Fasting glucose:LDL	male	5	3	2	2	NA	5	4	1
+Fasting glucose:Parkinson's disease	female	1	NA	1	1	NA	1	1	NA
+Fasting glucose:TC	female	10	4	6	3	3	10	3	7
+Fasting glucose:TC	male	6	2	4	2	2	6	4	2
+Fasting glucose:Thyroid-stimulating hormone	male	3	1	2	1	1	3	2	1
+Fasting glucose:Type 2 diabetes	female	10	NA	10	4	6	10	9	1
+Fasting glucose:Type 2 diabetes	male	17	NA	17	7	10	17	15	2
+Fasting glucose:Waist circumference	male	2	1	1	NA	1	2	1	1
+Fasting glucose:Weight	male	1	NA	1	1	NA	1	1	NA
+Fasting glucose:logTG	female	14	5	9	2	7	14	9	5
+Fasting glucose:logTG	male	7	4	3	2	1	7	2	5
+Fasting glucose:nonHDL	female	8	4	4	NA	4	8	3	5
+Fasting glucose:nonHDL	male	4	2	2	1	1	4	4	NA
+Fasting insulin:Glycine level	female	1	NA	1	NA	1	1	1	NA
+Fasting insulin:Glycine level	male	2	1	1	NA	1	2	2	NA
+Fasting insulin:HDL	female	5	4	1	1	NA	5	4	1
+Fasting insulin:HDL	male	4	4	NA	NA	NA	4	4	NA
+Fasting insulin:Height	female	1	1	NA	NA	NA	1	NA	1
+Fasting insulin:Hip circumference	female	3	2	1	1	NA	3	3	NA
+Fasting insulin:Hip circumference	male	3	1	2	1	1	3	3	NA
+Fasting insulin:Hip circumference (adjBMI)	female	3	3	NA	NA	NA	3	3	NA
+Fasting insulin:LDL	female	4	1	3	2	1	4	4	NA
+Fasting insulin:LDL	male	3	2	1	NA	1	3	3	NA
+Fasting insulin:Snoring	male	1	NA	1	1	NA	1	1	NA
+Fasting insulin:TC	female	5	4	1	NA	1	5	4	1
+Fasting insulin:TC	male	1	NA	1	NA	1	1	1	NA
+Fasting insulin:Type 2 diabetes	female	6	1	5	2	3	6	6	NA
+Fasting insulin:Type 2 diabetes	male	3	NA	3	3	NA	3	3	NA
+Fasting insulin:Waist circumference	female	1	NA	1	1	NA	1	1	NA
+Fasting insulin:Waist circumference	male	3	1	2	1	1	3	3	NA
+Fasting insulin:Waist circumference (adjBMI)	female	2	NA	2	1	1	2	2	NA
+Fasting insulin:Waist circumference (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Fasting insulin:Waist-hip ratio	female	4	NA	4	3	1	4	4	NA
+Fasting insulin:Waist-hip ratio	male	2	1	1	1	NA	2	2	NA
+Fasting insulin:Waist-hip ratio (<= 50 yrs, adjBMI)	female	3	NA	3	1	2	3	3	NA
+Fasting insulin:Waist-hip ratio (> 50 yrs, adjBMI)	female	3	NA	3	2	1	3	3	NA
+Fasting insulin:Waist-hip ratio (adjBMI)	female	3	NA	3	2	1	3	3	NA
+Fasting insulin:Weight	female	2	NA	2	2	NA	2	2	NA
+Fasting insulin:Weight	male	1	NA	1	1	NA	1	1	NA
+Fasting insulin:logTG	female	3	NA	3	1	2	3	1	2
+Fasting insulin:logTG	male	3	1	2	2	NA	3	3	NA
+Fasting insulin:nonHDL	female	4	2	2	1	1	4	3	1
+Fasting insulin:nonHDL	male	3	1	2	1	1	3	3	NA
+Free thyroxine (FT4):HDL	female	2	NA	2	1	1	2	NA	2
+Free thyroxine (FT4):HDL	male	6	1	5	4	1	6	5	1
+Free thyroxine (FT4):Height	female	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):Height	male	1	NA	1	1	NA	1	NA	1
+Free thyroxine (FT4):Insomnia	male	1	NA	1	NA	1	1	1	NA
+Free thyroxine (FT4):LDL	female	2	2	NA	NA	NA	2	2	NA
+Free thyroxine (FT4):LDL	male	4	2	2	2	NA	4	3	1
+Free thyroxine (FT4):Multisite chronic pain	male	1	NA	1	NA	1	1	1	NA
+Free thyroxine (FT4):Nonword reading	female	1	NA	1	1	NA	1	NA	1
+Free thyroxine (FT4):TC	female	2	2	NA	NA	NA	2	2	NA
+Free thyroxine (FT4):TC	male	5	2	3	2	1	5	4	1
+Free thyroxine (FT4):Thyroid-stimulating hormone	female	2	1	1	1	NA	2	2	NA
+Free thyroxine (FT4):Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):Type 2 diabetes	male	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):Waist-hip ratio	female	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):Waist-hip ratio (> 50 yrs, adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):Waist-hip ratio (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):logTG	female	1	1	NA	NA	NA	1	1	NA
+Free thyroxine (FT4):logTG	male	6	4	2	2	NA	6	4	2
+Free thyroxine (FT4):nonHDL	female	2	2	NA	NA	NA	2	2	NA
+Free thyroxine (FT4):nonHDL	male	3	2	1	1	NA	3	2	1
+Glycine level:HDL	female	3	3	NA	NA	NA	3	2	1
+Glycine level:HDL	male	4	1	3	1	2	4	3	1
+Glycine level:Hip circumference	male	1	NA	1	NA	1	1	1	NA
+Glycine level:LDL	female	2	2	NA	NA	NA	2	2	NA
+Glycine level:LDL	male	7	3	4	3	1	7	6	1
+Glycine level:Multisite chronic pain	female	1	NA	1	NA	1	1	1	NA
+Glycine level:Performance IQ	female	1	1	NA	NA	NA	1	1	NA
+Glycine level:TC	female	2	2	NA	NA	NA	2	2	NA
+Glycine level:TC	male	10	3	7	5	2	10	9	1
+Glycine level:Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	1	NA
+Glycine level:Type 2 diabetes	female	1	NA	1	NA	1	1	1	NA
+Glycine level:Type 2 diabetes	male	4	3	1	NA	1	4	4	NA
+Glycine level:Waist circumference	male	1	NA	1	1	NA	1	1	NA
+Glycine level:logTG	female	2	NA	2	NA	2	2	1	1
+Glycine level:logTG	male	6	4	2	1	1	6	4	2
+Glycine level:nonHDL	female	2	2	NA	NA	NA	2	2	NA
+Glycine level:nonHDL	male	6	3	3	2	1	6	6	NA
+Grip strength measurement/ Muscle weakness:HDL	female	6	4	2	NA	2	6	3	3
+Grip strength measurement/ Muscle weakness:HDL	male	3	1	2	1	1	3	3	NA
+Grip strength measurement/ Muscle weakness:Height	female	6	6	NA	NA	NA	6	5	1
+Grip strength measurement/ Muscle weakness:Height	male	2	2	NA	NA	NA	2	2	NA
+Grip strength measurement/ Muscle weakness:Height SDS	female	1	1	NA	NA	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Hip circumference	female	2	2	NA	NA	NA	2	2	NA
+Grip strength measurement/ Muscle weakness:Hip circumference (adjBMI)	female	5	5	NA	NA	NA	5	3	2
+Grip strength measurement/ Muscle weakness:Hip circumference (adjBMI)	male	3	3	NA	NA	NA	3	3	NA
+Grip strength measurement/ Muscle weakness:LDL	female	2	1	1	NA	1	2	1	1
+Grip strength measurement/ Muscle weakness:LDL	male	2	2	NA	NA	NA	2	1	1
+Grip strength measurement/ Muscle weakness:Left Caudate	male	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Left Putamen	female	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Multisite chronic pain	female	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Multisite chronic pain	male	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Right Putamen	female	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Schizophrenia	female	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Schizophrenia	male	1	NA	1	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Snoring	female	3	2	1	NA	1	3	3	NA
+Grip strength measurement/ Muscle weakness:TC	female	3	2	1	NA	1	3	1	2
+Grip strength measurement/ Muscle weakness:TC	male	3	2	1	1	NA	3	2	1
+Grip strength measurement/ Muscle weakness:Type 2 diabetes	female	2	NA	2	1	1	2	2	NA
+Grip strength measurement/ Muscle weakness:Type 2 diabetes	male	1	1	NA	NA	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Waist circumference (adjBMI)	male	3	3	NA	NA	NA	3	3	NA
+Grip strength measurement/ Muscle weakness:Waist-hip ratio	female	1	1	NA	NA	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Weight	female	2	2	NA	NA	NA	2	2	NA
+Grip strength measurement/ Muscle weakness:logTG	female	3	1	2	2	NA	3	2	1
+Grip strength measurement/ Muscle weakness:logTG	male	4	2	2	2	NA	4	3	1
+Grip strength measurement/ Muscle weakness:nonHDL	female	1	NA	1	NA	1	1	NA	1
+Grip strength measurement/ Muscle weakness:nonHDL	male	1	1	NA	NA	NA	1	NA	1
+HDL:Height	female	17	6	11	6	5	17	9	8
+HDL:Height	male	12	7	5	2	3	12	8	4
+HDL:Height SDS	female	1	1	NA	NA	NA	1	1	NA
+HDL:Height SDS	male	2	NA	2	NA	2	2	2	NA
+HDL:Hip circumference	female	26	17	9	6	3	26	25	1
+HDL:Hip circumference	male	17	10	7	4	3	17	11	6
+HDL:Hip circumference (adjBMI)	female	20	3	17	9	8	20	15	5
+HDL:Hip circumference (adjBMI)	male	10	2	8	4	4	10	7	3
+HDL:Insomnia	female	2	1	1	NA	1	2	2	NA
+HDL:LDL	female	137	80	57	30	27	137	83	54
+HDL:LDL	male	114	41	73	30	43	114	63	51
+HDL:Left 5m area	male	1	1	NA	NA	NA	1	1	NA
+HDL:Left Caudate	female	4	2	2	NA	2	4	3	1
+HDL:Left Caudate	male	2	2	NA	NA	NA	2	1	1
+HDL:Left PoI GM thikness	male	1	1	NA	NA	NA	1	1	NA
+HDL:Left Putamen	female	5	4	1	NA	1	5	3	2
+HDL:Left Putamen	male	1	1	NA	NA	NA	1	1	NA
+HDL:Major Depression	female	1	1	NA	NA	NA	1	1	NA
+HDL:Major Depression	male	1	1	NA	NA	NA	1	1	NA
+HDL:Multisite chronic pain	female	4	3	1	1	NA	4	4	NA
+HDL:Multisite chronic pain	male	7	7	NA	NA	NA	7	5	2
+HDL:Nonword reading	female	1	1	NA	NA	NA	1	1	NA
+HDL:PTSD	female	1	1	NA	NA	NA	1	1	NA
+HDL:Parkinson's disease	female	7	3	4	2	2	7	3	4
+HDL:Parkinson's disease	male	5	3	2	1	1	5	2	3
+HDL:Performance IQ	male	1	NA	1	1	NA	1	NA	1
+HDL:Right Putamen	female	4	3	1	NA	1	4	3	1
+HDL:Right Putamen	male	1	1	NA	NA	NA	1	NA	1
+HDL:Schizophrenia	female	8	4	4	3	1	8	5	3
+HDL:Schizophrenia	male	16	5	11	5	6	16	6	10
+HDL:Snoring	female	5	4	1	NA	1	5	4	1
+HDL:Snoring	male	4	3	1	NA	1	4	4	NA
+HDL:Spelling	female	1	NA	1	NA	1	1	1	NA
+HDL:TC	female	159	58	101	43	58	159	95	64
+HDL:TC	male	149	41	108	48	60	149	84	65
+HDL:Thyroid-stimulating hormone	female	3	2	1	1	NA	3	3	NA
+HDL:Thyroid-stimulating hormone	male	5	3	2	NA	2	5	3	2
+HDL:Type 2 diabetes	female	43	35	8	3	5	43	34	9
+HDL:Type 2 diabetes	male	51	43	8	5	3	51	36	15
+HDL:Waist circumference	female	17	14	3	1	2	17	16	1
+HDL:Waist circumference	male	14	9	5	1	4	14	12	2
+HDL:Waist circumference (adjBMI)	female	24	21	3	NA	3	24	18	6
+HDL:Waist circumference (adjBMI)	male	13	9	4	2	2	13	11	2
+HDL:Waist-hip ratio	female	18	16	2	NA	2	18	16	2
+HDL:Waist-hip ratio	male	11	9	2	1	1	11	11	NA
+HDL:Waist-hip ratio (<= 50 yrs, adjBMI)	female	11	11	NA	NA	NA	11	10	1
+HDL:Waist-hip ratio (<= 50 yrs, adjBMI)	male	1	1	NA	NA	NA	1	NA	1
+HDL:Waist-hip ratio (> 50 yrs, adjBMI)	female	20	20	NA	NA	NA	20	18	2
+HDL:Waist-hip ratio (> 50 yrs, adjBMI)	male	4	2	2	2	NA	4	3	1
+HDL:Waist-hip ratio (adjBMI)	female	24	21	3	NA	3	24	20	4
+HDL:Waist-hip ratio (adjBMI)	male	5	3	2	1	1	5	4	1
+HDL:Weight	female	12	9	3	2	1	12	10	2
+HDL:Weight	male	12	9	3	NA	3	12	10	2
+HDL:logTG	female	191	161	30	16	14	191	158	33
+HDL:logTG	male	173	136	37	14	23	173	127	46
+HDL:nonHDL	female	154	100	54	26	28	154	97	57
+HDL:nonHDL	male	106	58	48	23	25	106	61	45
+Height SDS:Hip circumference	female	2	NA	2	1	1	2	2	NA
+Height SDS:Hip circumference	male	4	NA	4	2	2	4	4	NA
+Height SDS:Hip circumference (adjBMI)	female	3	NA	3	3	NA	3	3	NA
+Height SDS:Hip circumference (adjBMI)	male	5	NA	5	2	3	5	4	1
+Height SDS:LDL	male	2	2	NA	NA	NA	2	1	1
+Height SDS:Snoring	female	1	1	NA	NA	NA	1	1	NA
+Height SDS:TC	male	3	2	1	1	NA	3	2	1
+Height SDS:Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	1	NA
+Height SDS:Type 2 diabetes	female	1	NA	1	1	NA	1	1	NA
+Height SDS:Waist circumference	female	1	NA	1	1	NA	1	1	NA
+Height SDS:Waist circumference (adjBMI)	female	3	NA	3	2	1	3	3	NA
+Height SDS:Waist circumference (adjBMI)	male	5	NA	5	2	3	5	4	1
+Height SDS:Waist-hip ratio	male	1	1	NA	NA	NA	1	1	NA
+Height SDS:Waist-hip ratio (> 50 yrs, adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Height SDS:Waist-hip ratio (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Height SDS:Weight	female	1	NA	1	1	NA	1	1	NA
+Height SDS:Weight	male	3	NA	3	3	NA	3	3	NA
+Height SDS:nonHDL	male	2	2	NA	NA	NA	2	2	NA
+Height:Height SDS	female	7	NA	7	6	1	7	7	NA
+Height:Height SDS	male	8	NA	8	4	4	8	8	NA
+Height:Hip circumference	female	8	1	7	4	3	8	7	1
+Height:Hip circumference	male	9	NA	9	2	7	9	8	1
+Height:Hip circumference (adjBMI)	female	45	NA	45	22	23	45	42	3
+Height:Hip circumference (adjBMI)	male	37	NA	37	20	17	37	36	1
+Height:Insomnia	female	2	1	1	1	NA	2	2	NA
+Height:Insomnia	male	1	1	NA	NA	NA	1	1	NA
+Height:LDL	female	13	10	3	2	1	13	8	5
+Height:LDL	male	7	6	1	NA	1	7	4	3
+Height:Left MST area	male	1	1	NA	NA	NA	1	1	NA
+Height:Left PoI GM thikness	female	1	1	NA	NA	NA	1	1	NA
+Height:Left Putamen	female	1	1	NA	NA	NA	1	1	NA
+Height:Multisite chronic pain	female	1	1	NA	NA	NA	1	1	NA
+Height:Multisite chronic pain	male	1	1	NA	NA	NA	1	1	NA
+Height:Parkinson's disease	male	1	NA	1	NA	1	1	1	NA
+Height:Pubertal growth	female	2	NA	2	1	1	2	2	NA
+Height:Risk-taking behaviour	female	1	NA	1	1	NA	1	1	NA
+Height:Schizophrenia	female	1	NA	1	NA	1	1	NA	1
+Height:Schizophrenia	male	1	NA	1	1	NA	1	1	NA
+Height:Snoring	female	4	3	1	NA	1	4	3	1
+Height:Snoring	male	1	1	NA	NA	NA	1	1	NA
+Height:TC	female	14	10	4	2	2	14	7	7
+Height:TC	male	7	6	1	NA	1	7	3	4
+Height:Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	NA	1
+Height:Type 2 diabetes	female	5	2	3	1	2	5	3	2
+Height:Type 2 diabetes	male	5	2	3	2	1	5	3	2
+Height:Waist circumference	female	3	1	2	2	NA	3	3	NA
+Height:Waist circumference	male	2	NA	2	1	1	2	2	NA
+Height:Waist circumference (adjBMI)	female	25	1	24	11	13	25	22	3
+Height:Waist circumference (adjBMI)	male	35	NA	35	14	21	35	34	1
+Height:Waist-hip ratio	female	2	2	NA	NA	NA	2	1	1
+Height:Waist-hip ratio	male	1	1	NA	NA	NA	1	1	NA
+Height:Waist-hip ratio (<= 50 yrs, adjBMI)	female	1	1	NA	NA	NA	1	NA	1
+Height:Waist-hip ratio (> 50 yrs, adjBMI)	female	2	1	1	NA	1	2	1	1
+Height:Waist-hip ratio (> 50 yrs, adjBMI)	male	2	2	NA	NA	NA	2	2	NA
+Height:Waist-hip ratio (adjBMI)	female	4	2	2	NA	2	4	2	2
+Height:Waist-hip ratio (adjBMI)	male	2	1	1	NA	1	2	2	NA
+Height:Weight	female	5	NA	5	2	3	5	5	NA
+Height:Weight	male	13	NA	13	7	6	13	12	1
+Height:logTG	female	21	17	4	3	1	21	14	7
+Height:logTG	male	10	8	2	2	NA	10	5	5
+Height:nonHDL	female	15	12	3	2	1	15	9	6
+Height:nonHDL	male	6	6	NA	NA	NA	6	3	3
+Hip circumference (adjBMI):Insomnia	female	1	NA	1	1	NA	1	1	NA
+Hip circumference (adjBMI):LDL	female	9	8	1	NA	1	9	7	2
+Hip circumference (adjBMI):LDL	male	4	3	1	1	NA	4	3	1
+Hip circumference (adjBMI):Left Putamen	male	1	1	NA	NA	NA	1	1	NA
+Hip circumference (adjBMI):Multisite chronic pain	female	1	NA	1	NA	1	1	1	NA
+Hip circumference (adjBMI):Multisite chronic pain	male	1	1	NA	NA	NA	1	1	NA
+Hip circumference (adjBMI):Parkinson's disease	male	1	NA	1	NA	1	1	1	NA
+Hip circumference (adjBMI):Right Putamen	male	1	1	NA	NA	NA	1	1	NA
+Hip circumference (adjBMI):Spelling	female	1	NA	1	1	NA	1	1	NA
+Hip circumference (adjBMI):TC	female	10	8	2	1	1	10	7	3
+Hip circumference (adjBMI):TC	male	8	7	1	NA	1	8	5	3
+Hip circumference (adjBMI):Type 2 diabetes	female	10	9	1	NA	1	10	8	2
+Hip circumference (adjBMI):Type 2 diabetes	male	6	5	1	1	NA	6	6	NA
+Hip circumference (adjBMI):Waist circumference	female	4	NA	4	3	1	4	4	NA
+Hip circumference (adjBMI):Waist circumference	male	2	NA	2	2	NA	2	2	NA
+Hip circumference (adjBMI):Waist circumference (adjBMI)	female	22	6	16	8	8	22	20	2
+Hip circumference (adjBMI):Waist circumference (adjBMI)	male	24	NA	24	12	12	24	24	NA
+Hip circumference (adjBMI):Waist-hip ratio	female	17	17	NA	NA	NA	17	17	NA
+Hip circumference (adjBMI):Waist-hip ratio	male	5	5	NA	NA	NA	5	5	NA
+Hip circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)	female	12	12	NA	NA	NA	12	12	NA
+Hip circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	female	16	16	NA	NA	NA	16	16	NA
+Hip circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	male	2	2	NA	NA	NA	2	2	NA
+Hip circumference (adjBMI):Waist-hip ratio (adjBMI)	female	23	23	NA	NA	NA	23	22	1
+Hip circumference (adjBMI):Waist-hip ratio (adjBMI)	male	6	6	NA	NA	NA	6	6	NA
+Hip circumference (adjBMI):Weight	female	4	NA	4	3	1	4	4	NA
+Hip circumference (adjBMI):Weight	male	14	NA	14	9	5	14	13	1
+Hip circumference (adjBMI):logTG	female	18	18	NA	NA	NA	18	14	4
+Hip circumference (adjBMI):logTG	male	15	15	NA	NA	NA	15	10	5
+Hip circumference (adjBMI):nonHDL	female	11	11	NA	NA	NA	11	9	2
+Hip circumference (adjBMI):nonHDL	male	6	6	NA	NA	NA	6	4	2
+Hip circumference:Hip circumference (adjBMI)	female	17	NA	17	11	6	17	17	NA
+Hip circumference:Hip circumference (adjBMI)	male	13	NA	13	4	9	13	13	NA
+Hip circumference:LDL	female	7	5	2	1	1	7	5	2
+Hip circumference:LDL	male	6	6	NA	NA	NA	6	4	2
+Hip circumference:Multisite chronic pain	female	1	NA	1	1	NA	1	1	NA
+Hip circumference:Number of children ever born	female	1	NA	1	1	NA	1	1	NA
+Hip circumference:Parkinson's disease	male	1	1	NA	NA	NA	1	1	NA
+Hip circumference:Pubertal growth	female	2	2	NA	NA	NA	2	2	NA
+Hip circumference:Risk-taking behaviour	female	1	NA	1	NA	1	1	NA	1
+Hip circumference:Schizophrenia	female	2	1	1	1	NA	2	2	NA
+Hip circumference:Snoring	female	1	NA	1	NA	1	1	1	NA
+Hip circumference:Snoring	male	2	NA	2	1	1	2	2	NA
+Hip circumference:TC	female	8	6	2	NA	2	8	6	2
+Hip circumference:TC	male	6	5	1	NA	1	6	3	3
+Hip circumference:Type 2 diabetes	female	11	3	8	6	2	11	11	NA
+Hip circumference:Type 2 diabetes	male	14	5	9	8	1	14	14	NA
+Hip circumference:Waist circumference	female	13	NA	13	10	3	13	13	NA
+Hip circumference:Waist circumference	male	11	NA	11	8	3	11	11	NA
+Hip circumference:Waist circumference (adjBMI)	female	4	2	2	2	NA	4	3	1
+Hip circumference:Waist circumference (adjBMI)	male	9	NA	9	3	6	9	8	1
+Hip circumference:Waist-hip ratio	female	10	7	3	1	2	10	10	NA
+Hip circumference:Waist-hip ratio	male	9	1	8	5	3	9	8	1
+Hip circumference:Waist-hip ratio (<= 50 yrs, adjBMI)	female	3	3	NA	NA	NA	3	3	NA
+Hip circumference:Waist-hip ratio (> 50 yrs, adjBMI)	female	7	7	NA	NA	NA	7	7	NA
+Hip circumference:Waist-hip ratio (> 50 yrs, adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Hip circumference:Waist-hip ratio (adjBMI)	female	11	11	NA	NA	NA	11	11	NA
+Hip circumference:Waist-hip ratio (adjBMI)	male	4	4	NA	NA	NA	4	4	NA
+Hip circumference:Weight	female	14	NA	14	12	2	14	14	NA
+Hip circumference:Weight	male	15	NA	15	9	6	15	15	NA
+Hip circumference:logTG	female	17	8	9	6	3	17	15	2
+Hip circumference:logTG	male	18	10	8	6	2	18	16	2
+Hip circumference:nonHDL	female	9	7	2	NA	2	9	5	4
+Hip circumference:nonHDL	male	6	6	NA	NA	NA	6	4	2
+Insomnia:Multisite chronic pain	female	1	NA	1	NA	1	1	1	NA
+Insomnia:Multisite chronic pain	male	1	NA	1	NA	1	1	1	NA
+Insomnia:Schizophrenia	female	3	1	2	1	1	3	2	1
+Insomnia:Schizophrenia	male	1	NA	1	1	NA	1	1	NA
+Insomnia:TC	female	1	NA	1	1	NA	1	1	NA
+Insomnia:TC	male	1	NA	1	NA	1	1	1	NA
+Insomnia:Type 2 diabetes	male	1	NA	1	NA	1	1	1	NA
+Insomnia:Waist circumference (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Insomnia:Waist-hip ratio (<= 50 yrs, adjBMI)	female	1	1	NA	NA	NA	1	NA	1
+Insomnia:Weight	female	1	1	NA	NA	NA	1	1	NA
+Insomnia:logTG	female	2	NA	2	NA	2	2	1	1
+LDL:Left 5m area	female	1	NA	1	1	NA	1	NA	1
+LDL:Left 5m area	male	1	1	NA	NA	NA	1	1	NA
+LDL:Left Caudate	female	3	2	1	NA	1	3	2	1
+LDL:Left Caudate	male	2	NA	2	1	1	2	2	NA
+LDL:Left Putamen	female	2	2	NA	NA	NA	2	2	NA
+LDL:Left Putamen	male	2	NA	2	2	NA	2	1	1
+LDL:Multisite chronic pain	female	1	1	NA	NA	NA	1	1	NA
+LDL:Multisite chronic pain	male	4	3	1	NA	1	4	4	NA
+LDL:Nonword reading	male	1	1	NA	NA	NA	1	1	NA
+LDL:Parkinson's disease	female	5	4	1	NA	1	5	1	4
+LDL:Parkinson's disease	male	2	2	NA	NA	NA	2	NA	2
+LDL:Right Putamen	female	3	2	1	1	NA	3	2	1
+LDL:Right Putamen	male	3	1	2	2	NA	3	2	1
+LDL:Risk-taking behaviour	female	2	NA	2	1	1	2	2	NA
+LDL:Schizophrenia	female	6	6	NA	NA	NA	6	2	4
+LDL:Schizophrenia	male	11	6	5	3	2	11	6	5
+LDL:Snoring	female	4	2	2	1	1	4	1	3
+LDL:Snoring	male	1	NA	1	NA	1	1	NA	1
+LDL:Spelling	female	1	NA	1	NA	1	1	1	NA
+LDL:TC	female	210	17	193	101	92	210	202	8
+LDL:TC	male	191	16	175	89	86	191	184	7
+LDL:Thyroid-stimulating hormone	female	3	1	2	1	1	3	2	1
+LDL:Thyroid-stimulating hormone	male	5	2	3	2	1	5	NA	5
+LDL:Type 2 diabetes	female	32	11	21	8	13	32	18	14
+LDL:Type 2 diabetes	male	25	16	9	2	7	25	11	14
+LDL:Waist circumference	female	5	1	4	2	2	5	4	1
+LDL:Waist circumference	male	2	1	1	NA	1	2	1	1
+LDL:Waist circumference (adjBMI)	female	12	2	10	5	5	12	9	3
+LDL:Waist circumference (adjBMI)	male	1	NA	1	NA	1	1	1	NA
+LDL:Waist-hip ratio	female	13	1	12	9	3	13	11	2
+LDL:Waist-hip ratio	male	2	1	1	1	NA	2	NA	2
+LDL:Waist-hip ratio (<= 50 yrs, adjBMI)	female	6	1	5	3	2	6	6	NA
+LDL:Waist-hip ratio (> 50 yrs, adjBMI)	female	13	1	12	5	7	13	13	NA
+LDL:Waist-hip ratio (> 50 yrs, adjBMI)	male	1	NA	1	1	NA	1	NA	1
+LDL:Waist-hip ratio (adjBMI)	female	15	1	14	9	5	15	13	2
+LDL:Waist-hip ratio (adjBMI)	male	1	NA	1	NA	1	1	NA	1
+LDL:Weight	male	6	6	NA	NA	NA	6	5	1
+LDL:logTG	female	145	28	117	60	57	145	110	35
+LDL:logTG	male	125	38	87	46	41	125	84	41
+LDL:nonHDL	female	209	3	206	110	96	209	207	2
+LDL:nonHDL	male	180	4	176	86	90	180	174	6
+Left 5m area:Snoring	female	1	1	NA	NA	NA	1	1	NA
+Left 5m area:Snoring	male	1	1	NA	NA	NA	1	1	NA
+Left 5m area:TC	female	2	1	1	1	NA	2	1	1
+Left 5m area:TC	male	1	1	NA	NA	NA	1	1	NA
+Left 5m area:logTG	female	1	NA	1	NA	1	1	1	NA
+Left 5m area:nonHDL	female	1	NA	1	1	NA	1	NA	1
+Left Caudate:Left Putamen	female	3	1	2	NA	2	3	3	NA
+Left Caudate:Left Putamen	male	5	2	3	1	2	5	5	NA
+Left Caudate:Multisite chronic pain	male	1	1	NA	NA	NA	1	NA	1
+Left Caudate:Right Putamen	female	3	1	2	NA	2	3	3	NA
+Left Caudate:Right Putamen	male	6	2	4	1	3	6	6	NA
+Left Caudate:TC	female	3	2	1	NA	1	3	2	1
+Left Caudate:TC	male	1	NA	1	NA	1	1	1	NA
+Left Caudate:Waist circumference (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Left Caudate:Waist-hip ratio	female	2	2	NA	NA	NA	2	2	NA
+Left Caudate:Waist-hip ratio (> 50 yrs, adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Left Caudate:Waist-hip ratio (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Left Caudate:logTG	female	2	2	NA	NA	NA	2	NA	2
+Left Caudate:logTG	male	3	2	1	NA	1	3	1	2
+Left Caudate:nonHDL	female	3	2	1	NA	1	3	2	1
+Left Caudate:nonHDL	male	2	NA	2	1	1	2	2	NA
+Left MST area:Schizophrenia	male	1	1	NA	NA	NA	1	NA	1
+Left PoI GM thikness:Snoring	female	2	NA	2	2	NA	2	2	NA
+Left PoI GM thikness:TC	male	1	1	NA	NA	NA	1	1	NA
+Left PoI GM thikness:Waist circumference (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Left PoI GM thikness:Waist-hip ratio (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Left PoI GM thikness:logTG	male	1	1	NA	NA	NA	1	1	NA
+Left Putamen:Multisite chronic pain	female	2	NA	2	2	NA	2	2	NA
+Left Putamen:Multisite chronic pain	male	1	NA	1	1	NA	1	NA	1
+Left Putamen:PTSD	male	1	1	NA	NA	NA	1	1	NA
+Left Putamen:Parkinson's disease	female	1	1	NA	NA	NA	1	NA	1
+Left Putamen:Parkinson's disease	male	1	1	NA	NA	NA	1	NA	1
+Left Putamen:Right Putamen	female	8	NA	8	4	4	8	8	NA
+Left Putamen:Right Putamen	male	3	NA	3	NA	3	3	3	NA
+Left Putamen:Schizophrenia	female	1	NA	1	1	NA	1	1	NA
+Left Putamen:Schizophrenia	male	3	1	2	2	NA	3	2	1
+Left Putamen:Snoring	female	1	NA	1	NA	1	1	NA	1
+Left Putamen:Spelling	female	1	1	NA	NA	NA	1	1	NA
+Left Putamen:TC	female	2	2	NA	NA	NA	2	2	NA
+Left Putamen:TC	male	2	NA	2	2	NA	2	1	1
+Left Putamen:Type 2 diabetes	female	2	2	NA	NA	NA	2	1	1
+Left Putamen:Type 2 diabetes	male	1	1	NA	NA	NA	1	1	NA
+Left Putamen:Waist circumference (adjBMI)	female	1	NA	1	1	NA	1	1	NA
+Left Putamen:Waist-hip ratio	female	1	NA	1	1	NA	1	1	NA
+Left Putamen:logTG	female	3	2	1	1	NA	3	2	1
+Left Putamen:logTG	male	2	2	NA	NA	NA	2	1	1
+Left Putamen:nonHDL	female	1	NA	1	1	NA	1	NA	1
+Left Putamen:nonHDL	male	2	NA	2	2	NA	2	1	1
+Major Depression:Schizophrenia	female	1	NA	1	NA	1	1	1	NA
+Multisite chronic pain:PTSD	female	1	NA	1	NA	1	1	1	NA
+Multisite chronic pain:Right Putamen	female	2	NA	2	2	NA	2	2	NA
+Multisite chronic pain:Right Putamen	male	1	NA	1	1	NA	1	NA	1
+Multisite chronic pain:Risk-taking behaviour	female	1	1	NA	NA	NA	1	1	NA
+Multisite chronic pain:Schizophrenia	female	1	NA	1	1	NA	1	1	NA
+Multisite chronic pain:Schizophrenia	male	4	1	3	2	1	4	3	1
+Multisite chronic pain:Snoring	female	1	NA	1	NA	1	1	1	NA
+Multisite chronic pain:Spelling	female	1	1	NA	NA	NA	1	1	NA
+Multisite chronic pain:TC	female	3	2	1	NA	1	3	3	NA
+Multisite chronic pain:TC	male	5	2	3	2	1	5	4	1
+Multisite chronic pain:Thyroid-stimulating hormone	female	1	1	NA	NA	NA	1	1	NA
+Multisite chronic pain:Type 2 diabetes	male	3	1	2	2	NA	3	1	2
+Multisite chronic pain:Waist circumference (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Multisite chronic pain:Waist-hip ratio (<= 50 yrs, adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+Multisite chronic pain:Weight	male	1	1	NA	NA	NA	1	1	NA
+Multisite chronic pain:nonHDL	female	1	NA	1	NA	1	1	NA	1
+Multisite chronic pain:nonHDL	male	1	NA	1	NA	1	1	1	NA
+Nonword reading:TC	female	1	NA	1	1	NA	1	1	NA
+Nonword reading:TC	male	1	1	NA	NA	NA	1	1	NA
+Number of children ever born:Risk-taking behaviour	male	1	NA	1	NA	1	1	1	NA
+PTSD:Right Putamen	male	1	1	NA	NA	NA	1	1	NA
+Parkinson's disease:Right Putamen	female	1	1	NA	NA	NA	1	NA	1
+Parkinson's disease:Right Putamen	male	1	1	NA	NA	NA	1	NA	1
+Parkinson's disease:Schizophrenia	male	2	NA	2	NA	2	2	NA	2
+Parkinson's disease:Snoring	female	2	2	NA	NA	NA	2	NA	2
+Parkinson's disease:Snoring	male	1	1	NA	NA	NA	1	NA	1
+Parkinson's disease:TC	female	3	3	NA	NA	NA	3	NA	3
+Parkinson's disease:TC	male	3	3	NA	NA	NA	3	1	2
+Parkinson's disease:Thyroid-stimulating hormone	female	1	1	NA	NA	NA	1	1	NA
+Parkinson's disease:Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	NA	1
+Parkinson's disease:Type 2 diabetes	female	2	1	1	1	NA	2	2	NA
+Parkinson's disease:Waist circumference (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Parkinson's disease:Waist circumference (adjBMI)	male	1	NA	1	NA	1	1	1	NA
+Parkinson's disease:Weight	male	1	NA	1	NA	1	1	1	NA
+Pubertal growth:Waist circumference	female	2	2	NA	NA	NA	2	2	NA
+Pubertal growth:Waist circumference (adjBMI)	male	2	NA	2	2	NA	2	2	NA
+Pubertal growth:Weight	female	1	1	NA	NA	NA	1	1	NA
+Right Putamen:Schizophrenia	female	1	NA	1	1	NA	1	1	NA
+Right Putamen:Schizophrenia	male	3	1	2	2	NA	3	2	1
+Right Putamen:Snoring	female	1	NA	1	1	NA	1	NA	1
+Right Putamen:Spelling	female	1	1	NA	NA	NA	1	1	NA
+Right Putamen:TC	female	1	1	NA	NA	NA	1	1	NA
+Right Putamen:TC	male	2	NA	2	2	NA	2	NA	2
+Right Putamen:Thyroid-stimulating hormone	male	1	NA	1	1	NA	1	1	NA
+Right Putamen:Type 2 diabetes	female	1	1	NA	NA	NA	1	1	NA
+Right Putamen:Type 2 diabetes	male	1	1	NA	NA	NA	1	1	NA
+Right Putamen:Waist circumference (adjBMI)	female	1	NA	1	1	NA	1	1	NA
+Right Putamen:Waist-hip ratio	female	1	NA	1	1	NA	1	1	NA
+Risk-taking behaviour:Schizophrenia	female	2	NA	2	NA	2	2	1	1
+Risk-taking behaviour:Schizophrenia	male	1	NA	1	1	NA	1	1	NA
+Risk-taking behaviour:TC	female	1	NA	1	1	NA	1	1	NA
+Risk-taking behaviour:Waist circumference	female	2	NA	2	2	NA	2	1	1
+Risk-taking behaviour:Waist circumference	male	1	NA	1	NA	1	1	1	NA
+Risk-taking behaviour:Waist-hip ratio	female	1	NA	1	1	NA	1	1	NA
+Risk-taking behaviour:Weight	female	1	NA	1	NA	1	1	NA	1
+Schizophrenia:Snoring	female	1	1	NA	NA	NA	1	1	NA
+Schizophrenia:Snoring	male	1	1	NA	NA	NA	1	NA	1
+Schizophrenia:Spelling	female	1	1	NA	NA	NA	1	1	NA
+Schizophrenia:TC	female	7	7	NA	NA	NA	7	3	4
+Schizophrenia:TC	male	10	4	6	5	1	10	6	4
+Schizophrenia:Thyroid-stimulating hormone	male	1	1	NA	NA	NA	1	1	NA
+Schizophrenia:Type 2 diabetes	female	2	2	NA	NA	NA	2	2	NA
+Schizophrenia:Type 2 diabetes	male	8	4	4	3	1	8	5	3
+Schizophrenia:Waist circumference	female	1	1	NA	NA	NA	1	1	NA
+Schizophrenia:Waist circumference (adjBMI)	female	2	1	1	1	NA	2	1	1
+Schizophrenia:Waist circumference (adjBMI)	male	2	2	NA	NA	NA	2	2	NA
+Schizophrenia:Waist-hip ratio	female	2	2	NA	NA	NA	2	2	NA
+Schizophrenia:Waist-hip ratio (<= 50 yrs, adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Schizophrenia:Waist-hip ratio (<= 50 yrs, adjBMI)	male	1	NA	1	1	NA	1	1	NA
+Schizophrenia:Waist-hip ratio (> 50 yrs, adjBMI)	female	2	1	1	NA	1	2	1	1
+Schizophrenia:Waist-hip ratio (adjBMI)	female	2	1	1	1	NA	2	2	NA
+Schizophrenia:Weight	female	3	2	1	1	NA	3	3	NA
+Snoring:TC	female	4	2	2	1	1	4	3	1
+Snoring:TC	male	1	NA	1	NA	1	1	1	NA
+Snoring:Type 2 diabetes	female	4	1	3	2	1	4	3	1
+Snoring:Type 2 diabetes	male	1	NA	1	1	NA	1	1	NA
+Snoring:Waist circumference	female	1	NA	1	NA	1	1	1	NA
+Snoring:Waist circumference (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Snoring:Waist-hip ratio	female	1	NA	1	1	NA	1	1	NA
+Snoring:Waist-hip ratio	male	2	1	1	1	NA	2	2	NA
+Snoring:Waist-hip ratio (> 50 yrs, adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Snoring:Waist-hip ratio (adjBMI)	female	1	1	NA	NA	NA	1	1	NA
+Snoring:Weight	female	2	NA	2	1	1	2	2	NA
+Snoring:Weight	male	2	NA	2	1	1	2	2	NA
+Spelling:TC	female	1	NA	1	NA	1	1	1	NA
+TC:Thyroid-stimulating hormone	female	6	3	3	3	NA	6	5	1
+TC:Thyroid-stimulating hormone	male	6	2	4	1	3	6	1	5
+TC:Type 2 diabetes	female	30	9	21	10	11	30	15	15
+TC:Type 2 diabetes	male	34	20	14	8	6	34	15	19
+TC:Waist circumference	female	6	2	4	1	3	6	3	3
+TC:Waist circumference	male	6	4	2	NA	2	6	4	2
+TC:Waist circumference (adjBMI)	female	8	NA	8	4	4	8	7	1
+TC:Waist circumference (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+TC:Waist-hip ratio	female	9	1	8	5	3	9	7	2
+TC:Waist-hip ratio	male	3	2	1	1	NA	3	1	2
+TC:Waist-hip ratio (<= 50 yrs, adjBMI)	female	6	1	5	3	2	6	6	NA
+TC:Waist-hip ratio (> 50 yrs, adjBMI)	female	8	1	7	3	4	8	7	1
+TC:Waist-hip ratio (> 50 yrs, adjBMI)	male	1	NA	1	1	NA	1	NA	1
+TC:Waist-hip ratio (adjBMI)	female	13	NA	13	7	6	13	11	2
+TC:Waist-hip ratio (adjBMI)	male	2	1	1	NA	1	2	1	1
+TC:Weight	female	1	NA	1	NA	1	1	1	NA
+TC:Weight	male	8	6	2	1	1	8	5	3
+Thyroid-stimulating hormone:Type 2 diabetes	female	2	1	1	1	NA	2	1	1
+Thyroid-stimulating hormone:Type 2 diabetes	male	7	4	3	3	NA	7	4	3
+Type 2 diabetes:Waist circumference	female	11	NA	11	6	5	11	10	1
+Type 2 diabetes:Waist circumference	male	11	4	7	5	2	11	11	NA
+Type 2 diabetes:Waist circumference (adjBMI)	female	9	1	8	2	6	9	7	2
+Type 2 diabetes:Waist circumference (adjBMI)	male	7	5	2	1	1	7	6	1
+Type 2 diabetes:Waist-hip ratio	female	13	2	11	6	5	13	10	3
+Type 2 diabetes:Waist-hip ratio	male	10	5	5	5	NA	10	9	1
+Type 2 diabetes:Waist-hip ratio (<= 50 yrs, adjBMI)	female	6	NA	6	2	4	6	6	NA
+Type 2 diabetes:Waist-hip ratio (<= 50 yrs, adjBMI)	male	1	1	NA	NA	NA	1	NA	1
+Type 2 diabetes:Waist-hip ratio (> 50 yrs, adjBMI)	female	11	NA	11	3	8	11	11	NA
+Type 2 diabetes:Waist-hip ratio (> 50 yrs, adjBMI)	male	3	3	NA	NA	NA	3	2	1
+Type 2 diabetes:Waist-hip ratio (adjBMI)	female	12	NA	12	6	6	12	11	1
+Type 2 diabetes:Waist-hip ratio (adjBMI)	male	3	3	NA	NA	NA	3	2	1
+Type 2 diabetes:Weight	female	9	1	8	5	3	9	9	NA
+Type 2 diabetes:Weight	male	10	1	9	8	1	10	9	1
+Waist circumference (adjBMI):Waist-hip ratio	female	17	NA	17	10	7	17	16	1
+Waist circumference (adjBMI):Waist-hip ratio	male	4	NA	4	2	2	4	4	NA
+Waist circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)	female	14	NA	14	7	7	14	12	2
+Waist circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)	male	6	NA	6	5	1	6	6	NA
+Waist circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	female	18	NA	18	9	9	18	17	1
+Waist circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	male	3	NA	3	2	1	3	2	1
+Waist circumference (adjBMI):Waist-hip ratio (adjBMI)	female	22	2	20	11	9	22	21	1
+Waist circumference (adjBMI):Waist-hip ratio (adjBMI)	male	7	NA	7	4	3	7	7	NA
+Waist circumference (adjBMI):Weight	female	1	NA	1	1	NA	1	1	NA
+Waist circumference (adjBMI):Weight	male	6	NA	6	3	3	6	5	1
+Waist circumference:Waist circumference (adjBMI)	female	2	NA	2	2	NA	2	2	NA
+Waist circumference:Waist circumference (adjBMI)	male	2	NA	2	1	1	2	2	NA
+Waist circumference:Waist-hip ratio	female	2	NA	2	1	1	2	2	NA
+Waist circumference:Waist-hip ratio	male	5	NA	5	3	2	5	5	NA
+Waist circumference:Waist-hip ratio (<= 50 yrs, adjBMI)	female	1	NA	1	1	NA	1	1	NA
+Waist circumference:Weight	female	12	NA	12	8	4	12	12	NA
+Waist circumference:Weight	male	11	NA	11	8	3	11	11	NA
+Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	female	16	NA	16	8	8	16	14	2
+Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	male	1	NA	1	1	NA	1	NA	1
+Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (adjBMI)	female	21	NA	21	12	9	21	21	NA
+Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (adjBMI)	male	3	NA	3	2	1	3	3	NA
+Waist-hip ratio (> 50 yrs, adjBMI):Waist-hip ratio (adjBMI)	female	22	NA	22	11	11	22	22	NA
+Waist-hip ratio (> 50 yrs, adjBMI):Waist-hip ratio (adjBMI)	male	4	NA	4	4	NA	4	4	NA
+Waist-hip ratio (> 50 yrs, adjBMI):Weight	male	1	1	NA	NA	NA	1	1	NA
+Waist-hip ratio (adjBMI):Weight	male	1	1	NA	NA	NA	1	1	NA
+Waist-hip ratio:Waist-hip ratio (<= 50 yrs, adjBMI)	female	16	NA	16	8	8	16	16	NA
+Waist-hip ratio:Waist-hip ratio (<= 50 yrs, adjBMI)	male	2	NA	2	1	1	2	2	NA
+Waist-hip ratio:Waist-hip ratio (> 50 yrs, adjBMI)	female	19	NA	19	11	8	19	19	NA
+Waist-hip ratio:Waist-hip ratio (> 50 yrs, adjBMI)	male	4	NA	4	3	1	4	4	NA
+Waist-hip ratio:Waist-hip ratio (adjBMI)	female	21	NA	21	13	8	21	21	NA
+Waist-hip ratio:Waist-hip ratio (adjBMI)	male	4	NA	4	3	1	4	4	NA
+Waist-hip ratio:Weight	female	2	NA	2	2	NA	2	2	NA
+Waist-hip ratio:Weight	male	8	1	7	5	2	8	8	NA
+logTG:Multisite chronic pain	female	6	3	3	1	2	6	3	3
+logTG:Multisite chronic pain	male	4	NA	4	1	3	4	2	2
+logTG:Nonword reading	female	1	1	NA	NA	NA	1	1	NA
+logTG:PTSD	female	1	NA	1	1	NA	1	NA	1
+logTG:Parkinson's disease	female	6	4	2	2	NA	6	2	4
+logTG:Parkinson's disease	male	4	2	2	1	1	4	3	1
+logTG:Right Putamen	female	4	3	1	1	NA	4	3	1
+logTG:Right Putamen	male	1	1	NA	NA	NA	1	NA	1
+logTG:Schizophrenia	female	12	8	4	3	1	12	9	3
+logTG:Schizophrenia	male	11	5	6	5	1	11	5	6
+logTG:Snoring	female	10	3	7	5	2	10	6	4
+logTG:Snoring	male	2	NA	2	2	NA	2	2	NA
+logTG:Spelling	female	1	1	NA	NA	NA	1	1	NA
+logTG:TC	female	152	35	117	59	58	152	110	42
+logTG:TC	male	141	36	105	57	48	141	102	39
+logTG:Thyroid-stimulating hormone	female	4	2	2	1	1	4	4	NA
+logTG:Thyroid-stimulating hormone	male	4	1	3	1	2	4	3	1
+logTG:Type 2 diabetes	female	56	7	49	26	23	56	42	14
+logTG:Type 2 diabetes	male	47	7	40	22	18	47	32	15
+logTG:Waist circumference	female	12	2	10	5	5	12	11	1
+logTG:Waist circumference	male	9	2	7	5	2	9	8	1
+logTG:Waist circumference (adjBMI)	female	19	1	18	4	14	19	12	7
+logTG:Waist circumference (adjBMI)	male	10	7	3	1	2	10	6	4
+logTG:Waist-hip ratio	female	28	3	25	10	15	28	24	4
+logTG:Waist-hip ratio	male	7	1	6	3	3	7	5	2
+logTG:Waist-hip ratio (<= 50 yrs, adjBMI)	female	17	NA	17	7	10	17	16	1
+logTG:Waist-hip ratio (<= 50 yrs, adjBMI)	male	2	NA	2	1	1	2	1	1
+logTG:Waist-hip ratio (> 50 yrs, adjBMI)	female	20	NA	20	5	15	20	17	3
+logTG:Waist-hip ratio (> 50 yrs, adjBMI)	male	3	1	2	2	NA	3	2	1
+logTG:Waist-hip ratio (adjBMI)	female	29	2	27	12	15	29	21	8
+logTG:Waist-hip ratio (adjBMI)	male	6	NA	6	3	3	6	4	2
+logTG:Weight	female	10	3	7	6	1	10	6	4
+logTG:Weight	male	8	4	4	4	NA	8	7	1
+logTG:nonHDL	female	161	22	139	69	70	161	124	37
+logTG:nonHDL	male	125	22	103	58	45	125	99	26
+nonHDL:Nonword reading	male	1	1	NA	NA	NA	1	1	NA
+nonHDL:Parkinson's disease	female	6	5	1	1	NA	6	1	5
+nonHDL:Parkinson's disease	male	3	3	NA	NA	NA	3	2	1
+nonHDL:Right Putamen	female	2	1	1	1	NA	2	1	1
+nonHDL:Right Putamen	male	2	1	1	1	NA	2	1	1
+nonHDL:Risk-taking behaviour	female	2	NA	2	1	1	2	2	NA
+nonHDL:Schizophrenia	female	7	7	NA	NA	NA	7	2	5
+nonHDL:Schizophrenia	male	4	2	2	1	1	4	2	2
+nonHDL:Snoring	female	4	1	3	2	1	4	3	1
+nonHDL:Snoring	male	1	NA	1	NA	1	1	NA	1
+nonHDL:TC	female	190	12	178	100	78	190	182	8
+nonHDL:TC	male	178	8	170	86	84	178	170	8
+nonHDL:Thyroid-stimulating hormone	female	4	1	3	2	1	4	2	2
+nonHDL:Thyroid-stimulating hormone	male	6	2	4	3	1	6	2	4
+nonHDL:Type 2 diabetes	female	32	6	26	14	12	32	24	8
+nonHDL:Type 2 diabetes	male	30	14	16	7	9	30	16	14
+nonHDL:Waist circumference	female	4	1	3	1	2	4	3	1
+nonHDL:Waist circumference	male	2	1	1	NA	1	2	1	1
+nonHDL:Waist circumference (adjBMI)	female	17	NA	17	6	11	17	12	5
+nonHDL:Waist circumference (adjBMI)	male	1	1	NA	NA	NA	1	1	NA
+nonHDL:Waist-hip ratio	female	19	NA	19	9	10	19	15	4
+nonHDL:Waist-hip ratio	male	3	1	2	2	NA	3	2	1
+nonHDL:Waist-hip ratio (<= 50 yrs, adjBMI)	female	13	1	12	6	6	13	12	1
+nonHDL:Waist-hip ratio (<= 50 yrs, adjBMI)	male	1	NA	1	1	NA	1	1	NA
+nonHDL:Waist-hip ratio (> 50 yrs, adjBMI)	female	14	NA	14	5	9	14	13	1
+nonHDL:Waist-hip ratio (> 50 yrs, adjBMI)	male	1	NA	1	1	NA	1	NA	1
+nonHDL:Waist-hip ratio (adjBMI)	female	23	NA	23	12	11	23	16	7
+nonHDL:Waist-hip ratio (adjBMI)	male	2	NA	2	1	1	2	1	1
+nonHDL:Weight	female	1	1	NA	NA	NA	1	1	NA
+nonHDL:Weight	male	5	5	NA	NA	NA	5	3	2

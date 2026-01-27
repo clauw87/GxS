@@ -1,0 +1,513 @@
+pair_name	domain_pair	pleio_total	pleio_type_AGONIST	pleio_type_ANTAGONIST	overlap_concordance_CONCORDANT	overlap_concordance_DISCORDANT
+ADHD:Body Mass Index	Antropometric:Disease	1	1	NA	1	NA
+ADHD:Educational attainment	Behavioural:Disease	2	NA	2	2	NA
+ADHD:Glycine level	Disease:Metabolic	1	NA	1	NA	1
+ADHD:HDL	Disease:Metabolic	3	1	2	3	NA
+ADHD:LDL	Disease:Metabolic	1	1	NA	1	NA
+ADHD:Left Putamen	Anatomical:Disease	1	1	NA	1	NA
+ADHD:Right Putamen	Anatomical:Disease	1	1	NA	1	NA
+ADHD:TC	Disease:Metabolic	2	2	NA	2	NA
+ADHD:Waist circumference	Antropometric:Disease	1	1	NA	1	NA
+ADHD:logTG	Disease:Metabolic	2	1	1	1	1
+ADHD:nonHDL	Disease:Metabolic	2	1	1	2	NA
+Age at first birth:Body Mass Index	Antropometric:Fertility	1	NA	1	1	NA
+Age at first birth:Cardiovascular disease	Disease:Fertility	1	NA	1	1	NA
+Age at first birth:Educational attainment	Behavioural:Fertility	1	1	NA	1	NA
+Age at first birth:HDL	Fertility:Metabolic	2	2	NA	1	1
+Age at first birth:LDL	Fertility:Metabolic	1	1	NA	1	NA
+Age at first birth:TC	Fertility:Metabolic	1	1	NA	NA	1
+Age at first birth:Waist circumference	Antropometric:Fertility	1	NA	1	1	NA
+Age at first birth:logTG	Fertility:Metabolic	2	1	1	1	1
+Age at first birth:nonHDL	Fertility:Metabolic	3	1	2	3	NA
+Alzheimer's Disease:Cardiovascular disease	Disease:Disease	1	1	NA	1	NA
+Alzheimer's Disease:Carotid intima-media thickness	Condition:Disease	1	1	NA	1	NA
+Alzheimer's Disease:HDL	Disease:Metabolic	3	1	2	2	1
+Alzheimer's Disease:LDL	Disease:Metabolic	3	1	2	3	NA
+Alzheimer's Disease:Multisite chronic pain	Condition:Disease	1	NA	1	NA	1
+Alzheimer's Disease:PTSD	Disease:Disease	1	NA	1	NA	1
+Alzheimer's Disease:Parkinson's disease	Disease:Disease	1	NA	1	1	NA
+Alzheimer's Disease:TC	Disease:Metabolic	1	1	NA	1	NA
+Alzheimer's Disease:Waist circumference	Antropometric:Disease	1	NA	1	1	NA
+Alzheimer's Disease:logTG	Disease:Metabolic	6	4	2	6	NA
+Alzheimer's Disease:nonHDL	Disease:Metabolic	2	1	1	2	NA
+Body Mass Index:Cardiovascular disease	Antropometric:Disease	3	NA	3	2	1
+Body Mass Index:Carotid intima-media thickness	Antropometric:Condition	1	1	NA	1	NA
+Body Mass Index:Educational attainment	Antropometric:Behavioural	5	2	3	5	NA
+Body Mass Index:Fasting glucose	Antropometric:Metabolic	2	1	1	2	NA
+Body Mass Index:Free thyroxine (FT4)	Antropometric:Metabolic	4	NA	4	3	1
+Body Mass Index:Grip strength measurement/ Muscle weakness	Antropometric:Trait	1	1	NA	1	NA
+Body Mass Index:HDL	Antropometric:Metabolic	30	21	9	29	1
+Body Mass Index:Height	Antropometric:Antropometric	8	3	5	7	1
+Body Mass Index:Height SDS	Antropometric:Antropometric	2	2	NA	2	NA
+Body Mass Index:Hip circumference	Antropometric:Antropometric	10	9	1	10	NA
+Body Mass Index:Hip circumference (adjBMI)	Antropometric:Antropometric	3	2	1	2	1
+Body Mass Index:Insomnia	Antropometric:Condition	1	NA	1	1	NA
+Body Mass Index:LDL	Antropometric:Metabolic	9	5	4	9	NA
+Body Mass Index:Left 5m area	Anatomical:Antropometric	1	NA	1	NA	1
+Body Mass Index:Left Caudate	Anatomical:Antropometric	2	1	1	2	NA
+Body Mass Index:Left Putamen	Anatomical:Antropometric	2	NA	2	2	NA
+Body Mass Index:Major Depression	Antropometric:Disease	1	1	NA	1	NA
+Body Mass Index:Multisite chronic pain	Antropometric:Condition	3	3	NA	3	NA
+Body Mass Index:PTSD	Antropometric:Disease	1	1	NA	1	NA
+Body Mass Index:Parkinson's disease	Antropometric:Disease	2	1	1	2	NA
+Body Mass Index:Pubertal growth	Antropometric:Developmental	1	NA	1	1	NA
+Body Mass Index:Right Putamen	Anatomical:Antropometric	2	NA	2	2	NA
+Body Mass Index:Risk-taking behaviour	Antropometric:Behavioural	2	2	NA	2	NA
+Body Mass Index:Schizophrenia	Antropometric:Disease	2	1	1	2	NA
+Body Mass Index:Snoring	Antropometric:Condition	3	3	NA	3	NA
+Body Mass Index:TC	Antropometric:Metabolic	14	4	10	13	1
+Body Mass Index:Thyroid-stimulating hormone	Antropometric:Metabolic	3	2	1	3	NA
+Body Mass Index:Type 2 diabetes	Antropometric:Disease	22	8	14	22	NA
+Body Mass Index:Waist circumference	Antropometric:Antropometric	12	11	1	12	NA
+Body Mass Index:Waist circumference (adjBMI)	Antropometric:Antropometric	3	1	2	3	NA
+Body Mass Index:Waist-hip ratio	Antropometric:Antropometric	5	3	2	5	NA
+Body Mass Index:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	1	NA	1	1	NA
+Body Mass Index:Waist-hip ratio (adjBMI)	Antropometric:Antropometric	3	NA	3	2	1
+Body Mass Index:Weight	Antropometric:Antropometric	6	5	1	6	NA
+Body Mass Index:logTG	Antropometric:Metabolic	27	7	20	27	NA
+Body Mass Index:nonHDL	Antropometric:Metabolic	11	9	2	10	1
+CC Central:Free thyroxine (FT4)	Anatomical:Metabolic	1	1	NA	NA	1
+CC Central:Glycine level	Anatomical:Metabolic	2	2	NA	1	1
+CC Central:HDL	Anatomical:Metabolic	1	1	NA	1	NA
+CC Central:LDL	Anatomical:Metabolic	2	1	1	2	NA
+CC Central:Left 5m area	Anatomical:Anatomical	1	NA	1	1	NA
+CC Central:TC	Anatomical:Metabolic	2	1	1	2	NA
+CC Central:logTG	Anatomical:Metabolic	1	1	NA	NA	1
+CC Central:nonHDL	Anatomical:Metabolic	2	2	NA	2	NA
+Cardiovascular disease:Carotid intima-media thickness	Condition:Disease	3	2	1	3	NA
+Cardiovascular disease:Educational attainment	Behavioural:Disease	1	NA	1	1	NA
+Cardiovascular disease:Fasting glucose	Disease:Metabolic	3	3	NA	3	NA
+Cardiovascular disease:Fasting insulin	Disease:Metabolic	1	NA	1	1	NA
+Cardiovascular disease:Glycine level	Disease:Metabolic	1	NA	1	1	NA
+Cardiovascular disease:HDL	Disease:Metabolic	15	6	9	14	1
+Cardiovascular disease:Height	Antropometric:Disease	4	3	1	3	1
+Cardiovascular disease:Hip circumference	Antropometric:Disease	2	1	1	2	NA
+Cardiovascular disease:Hip circumference (adjBMI)	Antropometric:Disease	2	2	NA	2	NA
+Cardiovascular disease:LDL	Disease:Metabolic	25	19	6	24	1
+Cardiovascular disease:Left Caudate	Anatomical:Disease	1	NA	1	1	NA
+Cardiovascular disease:Multisite chronic pain	Condition:Disease	1	NA	1	1	NA
+Cardiovascular disease:PTSD	Disease:Disease	1	NA	1	1	NA
+Cardiovascular disease:Schizophrenia	Disease:Disease	2	NA	2	2	NA
+Cardiovascular disease:Snoring	Condition:Disease	1	NA	1	1	NA
+Cardiovascular disease:TC	Disease:Metabolic	23	15	8	22	1
+Cardiovascular disease:Thyroid-stimulating hormone	Disease:Metabolic	2	1	1	2	NA
+Cardiovascular disease:Type 2 diabetes	Disease:Disease	5	4	1	5	NA
+Cardiovascular disease:Waist circumference	Antropometric:Disease	1	NA	1	1	NA
+Cardiovascular disease:Waist circumference (adjBMI)	Antropometric:Disease	1	NA	1	NA	1
+Cardiovascular disease:Waist-hip ratio	Antropometric:Disease	1	NA	1	1	NA
+Cardiovascular disease:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Disease	1	NA	1	1	NA
+Cardiovascular disease:Waist-hip ratio (adjBMI)	Antropometric:Disease	2	1	1	2	NA
+Cardiovascular disease:Weight	Antropometric:Disease	1	NA	1	1	NA
+Cardiovascular disease:Word reading	Behavioural:Disease	1	1	NA	1	NA
+Cardiovascular disease:logTG	Disease:Metabolic	17	14	3	15	2
+Cardiovascular disease:nonHDL	Disease:Metabolic	22	18	4	21	1
+Carotid intima-media thickness:Free thyroxine (FT4)	Condition:Metabolic	1	NA	1	1	NA
+Carotid intima-media thickness:Glycine level	Condition:Metabolic	1	1	NA	1	NA
+Carotid intima-media thickness:HDL	Condition:Metabolic	3	NA	3	2	1
+Carotid intima-media thickness:Height	Antropometric:Condition	1	1	NA	1	NA
+Carotid intima-media thickness:LDL	Condition:Metabolic	7	5	2	4	3
+Carotid intima-media thickness:TC	Condition:Metabolic	4	3	1	1	3
+Carotid intima-media thickness:Type 2 diabetes	Condition:Disease	1	1	NA	1	NA
+Carotid intima-media thickness:nonHDL	Condition:Metabolic	8	6	2	4	4
+Educational attainment:Fasting glucose	Behavioural:Metabolic	1	NA	1	1	NA
+Educational attainment:HDL	Behavioural:Metabolic	16	11	5	15	1
+Educational attainment:Height	Antropometric:Behavioural	3	3	NA	3	NA
+Educational attainment:Height SDS	Antropometric:Behavioural	1	1	NA	1	NA
+Educational attainment:Hip circumference	Antropometric:Behavioural	1	NA	1	1	NA
+Educational attainment:LDL	Behavioural:Metabolic	7	3	4	5	2
+Educational attainment:Multisite chronic pain	Behavioural:Condition	1	NA	1	1	NA
+Educational attainment:Number of children ever born	Behavioural:Fertility	1	NA	1	1	NA
+Educational attainment:Parkinson's disease	Behavioural:Disease	1	1	NA	1	NA
+Educational attainment:Right Putamen	Anatomical:Behavioural	1	NA	1	1	NA
+Educational attainment:Schizophrenia	Behavioural:Disease	3	2	1	3	NA
+Educational attainment:TC	Behavioural:Metabolic	8	6	2	6	2
+Educational attainment:Type 2 diabetes	Behavioural:Disease	4	1	3	4	NA
+Educational attainment:Waist circumference	Antropometric:Behavioural	2	NA	2	2	NA
+Educational attainment:Weight	Antropometric:Behavioural	4	2	2	4	NA
+Educational attainment:logTG	Behavioural:Metabolic	13	4	9	13	NA
+Educational attainment:nonHDL	Behavioural:Metabolic	3	2	1	3	NA
+Fasting glucose:Fasting insulin	Metabolic:Metabolic	7	2	5	7	NA
+Fasting glucose:Free thyroxine (FT4)	Metabolic:Metabolic	1	1	NA	1	NA
+Fasting glucose:Glycine level	Metabolic:Metabolic	2	1	1	1	1
+Fasting glucose:HDL	Metabolic:Metabolic	1	1	NA	1	NA
+Fasting glucose:Hip circumference	Antropometric:Metabolic	2	1	1	2	NA
+Fasting glucose:Hip circumference (adjBMI)	Antropometric:Metabolic	1	NA	1	NA	1
+Fasting glucose:LDL	Metabolic:Metabolic	7	3	4	7	NA
+Fasting glucose:Left 5m area	Anatomical:Metabolic	1	1	NA	1	NA
+Fasting glucose:Nonword reading	Behavioural:Metabolic	1	NA	1	NA	1
+Fasting glucose:PTSD	Disease:Metabolic	1	NA	1	1	NA
+Fasting glucose:Parkinson's disease	Disease:Metabolic	2	2	NA	2	NA
+Fasting glucose:TC	Metabolic:Metabolic	8	6	2	8	NA
+Fasting glucose:Thyroid-stimulating hormone	Metabolic:Metabolic	3	1	2	2	1
+Fasting glucose:Type 2 diabetes	Disease:Metabolic	19	19	NA	19	NA
+Fasting glucose:Waist circumference	Antropometric:Metabolic	1	NA	1	1	NA
+Fasting glucose:Weight	Antropometric:Metabolic	1	1	NA	1	NA
+Fasting glucose:logTG	Metabolic:Metabolic	8	4	4	8	NA
+Fasting glucose:nonHDL	Metabolic:Metabolic	8	3	5	8	NA
+Fasting insulin:Glycine level	Metabolic:Metabolic	3	2	1	2	1
+Fasting insulin:HDL	Metabolic:Metabolic	3	NA	3	3	NA
+Fasting insulin:Hip circumference	Antropometric:Metabolic	1	NA	1	1	NA
+Fasting insulin:Hip circumference (adjBMI)	Antropometric:Metabolic	1	NA	1	1	NA
+Fasting insulin:LDL	Metabolic:Metabolic	3	NA	3	3	NA
+Fasting insulin:Parkinson's disease	Disease:Metabolic	1	1	NA	NA	1
+Fasting insulin:Snoring	Condition:Metabolic	1	1	NA	1	NA
+Fasting insulin:TC	Metabolic:Metabolic	1	NA	1	1	NA
+Fasting insulin:Thyroid-stimulating hormone	Metabolic:Metabolic	2	1	1	1	1
+Fasting insulin:Type 2 diabetes	Disease:Metabolic	7	6	1	7	NA
+Fasting insulin:Waist-hip ratio	Antropometric:Metabolic	2	1	1	2	NA
+Fasting insulin:Weight	Antropometric:Metabolic	1	1	NA	1	NA
+Fasting insulin:logTG	Metabolic:Metabolic	3	3	NA	3	NA
+Fasting insulin:nonHDL	Metabolic:Metabolic	4	NA	4	4	NA
+Free thyroxine (FT4):Glycine level	Metabolic:Metabolic	2	1	1	NA	2
+Free thyroxine (FT4):Grip strength measurement/ Muscle weakness	Metabolic:Trait	2	1	1	2	NA
+Free thyroxine (FT4):HDL	Metabolic:Metabolic	4	2	2	4	NA
+Free thyroxine (FT4):Height	Antropometric:Metabolic	1	1	NA	1	NA
+Free thyroxine (FT4):Hip circumference	Antropometric:Metabolic	3	NA	3	3	NA
+Free thyroxine (FT4):Hip circumference (adjBMI)	Antropometric:Metabolic	1	NA	1	NA	1
+Free thyroxine (FT4):Insomnia	Condition:Metabolic	1	NA	1	1	NA
+Free thyroxine (FT4):LDL	Metabolic:Metabolic	7	2	5	7	NA
+Free thyroxine (FT4):Left PoI GM thikness	Anatomical:Metabolic	1	1	NA	1	NA
+Free thyroxine (FT4):Parkinson's disease	Disease:Metabolic	3	3	NA	3	NA
+Free thyroxine (FT4):Performance IQ	Behavioural:Metabolic	1	NA	1	1	NA
+Free thyroxine (FT4):TC	Metabolic:Metabolic	8	3	5	6	2
+Free thyroxine (FT4):Thyroid-stimulating hormone	Metabolic:Metabolic	5	1	4	5	NA
+Free thyroxine (FT4):Type 2 diabetes	Disease:Metabolic	1	1	NA	1	NA
+Free thyroxine (FT4):Waist circumference	Antropometric:Metabolic	3	NA	3	3	NA
+Free thyroxine (FT4):Waist circumference (adjBMI)	Antropometric:Metabolic	2	1	1	NA	2
+Free thyroxine (FT4):Waist-hip ratio	Antropometric:Metabolic	1	NA	1	1	NA
+Free thyroxine (FT4):Weight	Antropometric:Metabolic	1	NA	1	1	NA
+Free thyroxine (FT4):logTG	Metabolic:Metabolic	6	2	4	5	1
+Free thyroxine (FT4):nonHDL	Metabolic:Metabolic	7	2	5	7	NA
+Glycine level:HDL	Metabolic:Metabolic	3	2	1	2	1
+Glycine level:Hip circumference	Antropometric:Metabolic	1	NA	1	NA	1
+Glycine level:Insomnia	Condition:Metabolic	1	1	NA	1	NA
+Glycine level:LDL	Metabolic:Metabolic	3	NA	3	3	NA
+Glycine level:Left Caudate	Anatomical:Metabolic	1	1	NA	NA	1
+Glycine level:Left PoI GM thikness	Anatomical:Metabolic	1	NA	1	1	NA
+Glycine level:Major Depression	Disease:Metabolic	1	1	NA	1	NA
+Glycine level:Multisite chronic pain	Condition:Metabolic	1	1	NA	1	NA
+Glycine level:Number of children ever born	Fertility:Metabolic	1	1	NA	1	NA
+Glycine level:Parkinson's disease	Disease:Metabolic	2	NA	2	1	1
+Glycine level:Risk-taking behaviour	Behavioural:Metabolic	1	NA	1	NA	1
+Glycine level:TC	Metabolic:Metabolic	4	1	3	4	NA
+Glycine level:Thyroid-stimulating hormone	Metabolic:Metabolic	2	1	1	1	1
+Glycine level:Type 2 diabetes	Disease:Metabolic	2	1	1	1	1
+Glycine level:Waist-hip ratio	Antropometric:Metabolic	2	NA	2	NA	2
+Glycine level:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	1	NA	1	NA	1
+Glycine level:Weight	Antropometric:Metabolic	1	NA	1	NA	1
+Glycine level:Word reading	Behavioural:Metabolic	2	1	1	2	NA
+Glycine level:logTG	Metabolic:Metabolic	3	1	2	3	NA
+Glycine level:nonHDL	Metabolic:Metabolic	4	2	2	3	1
+Grip strength measurement/ Muscle weakness:HDL	Metabolic:Trait	5	3	2	5	NA
+Grip strength measurement/ Muscle weakness:Height	Antropometric:Trait	9	NA	9	9	NA
+Grip strength measurement/ Muscle weakness:Hip circumference	Antropometric:Trait	2	NA	2	2	NA
+Grip strength measurement/ Muscle weakness:Hip circumference (adjBMI)	Antropometric:Trait	7	NA	7	7	NA
+Grip strength measurement/ Muscle weakness:LDL	Metabolic:Trait	12	6	6	11	1
+Grip strength measurement/ Muscle weakness:Multisite chronic pain	Condition:Trait	1	1	NA	1	NA
+Grip strength measurement/ Muscle weakness:Schizophrenia	Disease:Trait	1	1	NA	1	NA
+Grip strength measurement/ Muscle weakness:TC	Metabolic:Trait	11	5	6	9	2
+Grip strength measurement/ Muscle weakness:Type 2 diabetes	Disease:Trait	1	1	NA	NA	1
+Grip strength measurement/ Muscle weakness:Waist circumference	Antropometric:Trait	1	NA	1	1	NA
+Grip strength measurement/ Muscle weakness:Waist circumference (adjBMI)	Antropometric:Trait	2	NA	2	2	NA
+Grip strength measurement/ Muscle weakness:Weight	Antropometric:Trait	3	NA	3	3	NA
+Grip strength measurement/ Muscle weakness:logTG	Metabolic:Trait	4	3	1	4	NA
+Grip strength measurement/ Muscle weakness:nonHDL	Metabolic:Trait	11	5	6	10	1
+HDL:Height	Antropometric:Metabolic	13	8	5	13	NA
+HDL:Height SDS	Antropometric:Metabolic	2	NA	2	2	NA
+HDL:Hip circumference	Antropometric:Metabolic	25	17	8	23	2
+HDL:Hip circumference (adjBMI)	Antropometric:Metabolic	10	9	1	10	NA
+HDL:Insomnia	Condition:Metabolic	3	2	1	3	NA
+HDL:LDL	Metabolic:Metabolic	123	66	57	103	20
+HDL:Left MST area	Anatomical:Metabolic	2	1	1	2	NA
+HDL:Left PoI GM thikness	Anatomical:Metabolic	1	1	NA	NA	1
+HDL:Left Putamen	Anatomical:Metabolic	3	NA	3	2	1
+HDL:Multisite chronic pain	Condition:Metabolic	8	5	3	7	1
+HDL:Number of children ever born	Fertility:Metabolic	2	1	1	2	NA
+HDL:PTSD	Disease:Metabolic	2	1	1	2	NA
+HDL:Parkinson's disease	Disease:Metabolic	4	2	2	3	1
+HDL:Right Putamen	Anatomical:Metabolic	2	1	1	1	1
+HDL:Risk-taking behaviour	Behavioural:Metabolic	1	1	NA	1	NA
+HDL:Schizophrenia	Disease:Metabolic	7	4	3	6	1
+HDL:Snoring	Condition:Metabolic	10	1	9	9	1
+HDL:Spelling	Behavioural:Metabolic	1	1	NA	1	NA
+HDL:TC	Metabolic:Metabolic	144	87	57	135	9
+HDL:Thyroid-stimulating hormone	Metabolic:Metabolic	4	2	2	4	NA
+HDL:Type 2 diabetes	Disease:Metabolic	44	15	29	41	3
+HDL:Waist circumference	Antropometric:Metabolic	10	5	5	10	NA
+HDL:Waist circumference (adjBMI)	Antropometric:Metabolic	9	6	3	6	3
+HDL:Waist-hip ratio	Antropometric:Metabolic	13	10	3	10	3
+HDL:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Metabolic	2	1	1	1	1
+HDL:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	4	2	2	3	1
+HDL:Waist-hip ratio (adjBMI)	Antropometric:Metabolic	7	3	4	6	1
+HDL:Weight	Antropometric:Metabolic	15	10	5	15	NA
+HDL:Word reading	Behavioural:Metabolic	2	2	NA	2	NA
+HDL:logTG	Metabolic:Metabolic	148	76	72	141	7
+HDL:nonHDL	Metabolic:Metabolic	123	63	60	113	10
+Height SDS:Hip circumference	Antropometric:Antropometric	1	1	NA	1	NA
+Height SDS:Hip circumference (adjBMI)	Antropometric:Antropometric	3	3	NA	3	NA
+Height SDS:TC	Antropometric:Metabolic	1	1	NA	1	NA
+Height SDS:Type 2 diabetes	Antropometric:Disease	1	1	NA	1	NA
+Height SDS:Waist circumference	Antropometric:Antropometric	2	2	NA	2	NA
+Height SDS:Waist circumference (adjBMI)	Antropometric:Antropometric	4	4	NA	4	NA
+Height SDS:Weight	Antropometric:Antropometric	2	2	NA	2	NA
+Height SDS:nonHDL	Antropometric:Metabolic	1	1	NA	NA	1
+Height:Height SDS	Antropometric:Antropometric	9	9	NA	9	NA
+Height:Hip circumference	Antropometric:Antropometric	11	10	1	11	NA
+Height:Hip circumference (adjBMI)	Antropometric:Antropometric	33	33	NA	33	NA
+Height:Insomnia	Antropometric:Condition	1	NA	1	1	NA
+Height:LDL	Antropometric:Metabolic	13	2	11	12	1
+Height:Left PoI GM thikness	Anatomical:Antropometric	2	1	1	2	NA
+Height:Multisite chronic pain	Antropometric:Condition	3	1	2	3	NA
+Height:Parkinson's disease	Antropometric:Disease	1	1	NA	1	NA
+Height:Pubertal growth	Antropometric:Developmental	2	2	NA	2	NA
+Height:Right Putamen	Anatomical:Antropometric	1	NA	1	1	NA
+Height:Snoring	Antropometric:Condition	5	NA	5	5	NA
+Height:Spelling	Antropometric:Behavioural	2	2	NA	1	1
+Height:TC	Antropometric:Metabolic	14	3	11	13	1
+Height:Thyroid-stimulating hormone	Antropometric:Metabolic	3	NA	3	3	NA
+Height:Type 2 diabetes	Antropometric:Disease	7	5	2	7	NA
+Height:Waist circumference	Antropometric:Antropometric	5	5	NA	5	NA
+Height:Waist circumference (adjBMI)	Antropometric:Antropometric	23	22	1	22	1
+Height:Waist-hip ratio	Antropometric:Antropometric	4	NA	4	4	NA
+Height:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Antropometric	3	1	2	3	NA
+Height:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	4	3	1	4	NA
+Height:Waist-hip ratio (adjBMI)	Antropometric:Antropometric	8	4	4	7	1
+Height:Weight	Antropometric:Antropometric	7	6	1	7	NA
+Height:logTG	Antropometric:Metabolic	13	3	10	13	NA
+Height:nonHDL	Antropometric:Metabolic	10	2	8	10	NA
+Hip circumference (adjBMI):LDL	Antropometric:Metabolic	13	2	11	13	NA
+Hip circumference (adjBMI):Left Caudate	Anatomical:Antropometric	1	NA	1	1	NA
+Hip circumference (adjBMI):Left PoI GM thikness	Anatomical:Antropometric	1	1	NA	1	NA
+Hip circumference (adjBMI):Left Putamen	Anatomical:Antropometric	1	NA	1	1	NA
+Hip circumference (adjBMI):Pubertal growth	Antropometric:Developmental	2	2	NA	2	NA
+Hip circumference (adjBMI):Right Putamen	Anatomical:Antropometric	1	NA	1	1	NA
+Hip circumference (adjBMI):Snoring	Antropometric:Condition	2	NA	2	2	NA
+Hip circumference (adjBMI):TC	Antropometric:Metabolic	11	3	8	10	1
+Hip circumference (adjBMI):Thyroid-stimulating hormone	Antropometric:Metabolic	2	NA	2	2	NA
+Hip circumference (adjBMI):Type 2 diabetes	Antropometric:Disease	9	5	4	8	1
+Hip circumference (adjBMI):Waist circumference	Antropometric:Antropometric	1	1	NA	1	NA
+Hip circumference (adjBMI):Waist circumference (adjBMI)	Antropometric:Antropometric	16	14	2	14	2
+Hip circumference (adjBMI):Waist-hip ratio	Antropometric:Antropometric	2	2	NA	2	NA
+Hip circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Antropometric	2	NA	2	2	NA
+Hip circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	3	2	1	3	NA
+Hip circumference (adjBMI):Waist-hip ratio (adjBMI)	Antropometric:Antropometric	7	3	4	6	1
+Hip circumference (adjBMI):Weight	Antropometric:Antropometric	7	7	NA	7	NA
+Hip circumference (adjBMI):logTG	Antropometric:Metabolic	19	2	17	18	1
+Hip circumference (adjBMI):nonHDL	Antropometric:Metabolic	13	1	12	13	NA
+Hip circumference:Hip circumference (adjBMI)	Antropometric:Antropometric	4	4	NA	4	NA
+Hip circumference:LDL	Antropometric:Metabolic	13	4	9	12	1
+Hip circumference:Left 5m area	Anatomical:Antropometric	1	NA	1	NA	1
+Hip circumference:Left Caudate	Anatomical:Antropometric	1	NA	1	1	NA
+Hip circumference:Left Putamen	Anatomical:Antropometric	1	NA	1	1	NA
+Hip circumference:Number of children ever born	Antropometric:Fertility	1	1	NA	NA	1
+Hip circumference:Parkinson's disease	Antropometric:Disease	1	NA	1	1	NA
+Hip circumference:Right Putamen	Anatomical:Antropometric	1	NA	1	1	NA
+Hip circumference:Risk-taking behaviour	Antropometric:Behavioural	1	1	NA	1	NA
+Hip circumference:Snoring	Antropometric:Condition	3	2	1	3	NA
+Hip circumference:TC	Antropometric:Metabolic	16	5	11	15	1
+Hip circumference:Thyroid-stimulating hormone	Antropometric:Metabolic	1	NA	1	1	NA
+Hip circumference:Type 2 diabetes	Antropometric:Disease	14	6	8	14	NA
+Hip circumference:Waist circumference	Antropometric:Antropometric	9	8	1	9	NA
+Hip circumference:Waist circumference (adjBMI)	Antropometric:Antropometric	6	4	2	5	1
+Hip circumference:Waist-hip ratio	Antropometric:Antropometric	7	5	2	7	NA
+Hip circumference:Waist-hip ratio (adjBMI)	Antropometric:Antropometric	2	NA	2	2	NA
+Hip circumference:Weight	Antropometric:Antropometric	8	8	NA	8	NA
+Hip circumference:logTG	Antropometric:Metabolic	23	5	18	23	NA
+Hip circumference:nonHDL	Antropometric:Metabolic	14	3	11	14	NA
+Insomnia:LDL	Condition:Metabolic	4	2	2	4	NA
+Insomnia:TC	Condition:Metabolic	4	3	1	4	NA
+Insomnia:Thyroid-stimulating hormone	Condition:Metabolic	1	1	NA	1	NA
+Insomnia:Type 2 diabetes	Condition:Disease	1	1	NA	NA	1
+Insomnia:nonHDL	Condition:Metabolic	3	2	1	3	NA
+LDL:Left 5m area	Anatomical:Metabolic	3	1	2	1	2
+LDL:Left Caudate	Anatomical:Metabolic	7	2	5	6	1
+LDL:Left MST area	Anatomical:Metabolic	2	NA	2	2	NA
+LDL:Left PoI GM thikness	Anatomical:Metabolic	4	2	2	2	2
+LDL:Left Putamen	Anatomical:Metabolic	6	2	4	5	1
+LDL:Multisite chronic pain	Condition:Metabolic	7	3	4	7	NA
+LDL:Nonword reading	Behavioural:Metabolic	2	1	1	1	1
+LDL:PTSD	Disease:Metabolic	2	NA	2	2	NA
+LDL:Parkinson's disease	Disease:Metabolic	7	2	5	7	NA
+LDL:Performance IQ	Behavioural:Metabolic	1	NA	1	NA	1
+LDL:Pubertal growth	Developmental:Metabolic	1	1	NA	NA	1
+LDL:Right Putamen	Anatomical:Metabolic	7	4	3	5	2
+LDL:Risk-taking behaviour	Behavioural:Metabolic	5	5	NA	4	1
+LDL:Schizophrenia	Disease:Metabolic	8	4	4	7	1
+LDL:Snoring	Condition:Metabolic	8	7	1	8	NA
+LDL:Spelling	Behavioural:Metabolic	2	1	1	1	1
+LDL:TC	Metabolic:Metabolic	142	111	31	136	6
+LDL:Thyroid-stimulating hormone	Metabolic:Metabolic	11	6	5	7	4
+LDL:Type 2 diabetes	Disease:Metabolic	34	16	18	30	4
+LDL:Waist circumference	Antropometric:Metabolic	6	3	3	6	NA
+LDL:Waist circumference (adjBMI)	Antropometric:Metabolic	4	2	2	4	NA
+LDL:Waist-hip ratio	Antropometric:Metabolic	6	3	3	5	1
+LDL:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Metabolic	3	3	NA	2	1
+LDL:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	3	1	2	1	2
+LDL:Waist-hip ratio (adjBMI)	Antropometric:Metabolic	4	3	1	4	NA
+LDL:Weight	Antropometric:Metabolic	5	2	3	5	NA
+LDL:Word reading	Behavioural:Metabolic	2	2	NA	1	1
+LDL:logTG	Metabolic:Metabolic	117	62	55	105	12
+LDL:nonHDL	Metabolic:Metabolic	129	122	7	129	NA
+Left 5m area:TC	Anatomical:Metabolic	4	3	1	1	3
+Left 5m area:Thyroid-stimulating hormone	Anatomical:Metabolic	1	NA	1	NA	1
+Left 5m area:Type 2 diabetes	Anatomical:Disease	1	NA	1	NA	1
+Left 5m area:nonHDL	Anatomical:Metabolic	2	1	1	NA	2
+Left Caudate:Left Putamen	Anatomical:Anatomical	6	1	5	6	NA
+Left Caudate:Parkinson's disease	Anatomical:Disease	1	NA	1	1	NA
+Left Caudate:Right Putamen	Anatomical:Anatomical	5	1	4	5	NA
+Left Caudate:TC	Anatomical:Metabolic	8	2	6	7	1
+Left Caudate:Thyroid-stimulating hormone	Anatomical:Metabolic	1	1	NA	1	NA
+Left Caudate:Waist circumference	Anatomical:Antropometric	2	1	1	2	NA
+Left Caudate:logTG	Anatomical:Metabolic	6	4	2	6	NA
+Left Caudate:nonHDL	Anatomical:Metabolic	7	4	3	6	1
+Left MST area:TC	Anatomical:Metabolic	2	NA	2	NA	2
+Left MST area:nonHDL	Anatomical:Metabolic	2	1	1	2	NA
+Left PoI GM thikness:TC	Anatomical:Metabolic	1	1	NA	NA	1
+Left PoI GM thikness:Type 2 diabetes	Anatomical:Disease	1	1	NA	1	NA
+Left PoI GM thikness:logTG	Anatomical:Metabolic	1	1	NA	1	NA
+Left PoI GM thikness:nonHDL	Anatomical:Metabolic	1	NA	1	1	NA
+Left Putamen:Multisite chronic pain	Anatomical:Condition	1	1	NA	1	NA
+Left Putamen:Parkinson's disease	Anatomical:Disease	1	NA	1	1	NA
+Left Putamen:Right Putamen	Anatomical:Anatomical	3	3	NA	3	NA
+Left Putamen:TC	Anatomical:Metabolic	8	3	5	7	1
+Left Putamen:Thyroid-stimulating hormone	Anatomical:Metabolic	2	2	NA	2	NA
+Left Putamen:Type 2 diabetes	Anatomical:Disease	1	NA	1	1	NA
+Left Putamen:Waist circumference	Anatomical:Antropometric	1	NA	1	1	NA
+Left Putamen:Waist-hip ratio	Anatomical:Antropometric	1	1	NA	1	NA
+Left Putamen:logTG	Anatomical:Metabolic	4	1	3	4	NA
+Left Putamen:nonHDL	Anatomical:Metabolic	5	2	3	4	1
+Major Depression:TC	Disease:Metabolic	1	NA	1	1	NA
+Major Depression:nonHDL	Disease:Metabolic	2	2	NA	2	NA
+Multisite chronic pain:Right Putamen	Anatomical:Condition	1	1	NA	1	NA
+Multisite chronic pain:Schizophrenia	Condition:Disease	1	1	NA	1	NA
+Multisite chronic pain:Snoring	Condition:Condition	1	1	NA	1	NA
+Multisite chronic pain:TC	Condition:Metabolic	9	6	3	8	1
+Multisite chronic pain:Thyroid-stimulating hormone	Condition:Metabolic	1	NA	1	1	NA
+Multisite chronic pain:Type 2 diabetes	Condition:Disease	2	2	NA	1	1
+Multisite chronic pain:nonHDL	Condition:Metabolic	12	8	4	10	2
+Nonword reading:TC	Behavioural:Metabolic	3	3	NA	3	NA
+Number of children ever born:Thyroid-stimulating hormone	Fertility:Metabolic	1	NA	1	1	NA
+PTSD:TC	Disease:Metabolic	3	2	1	1	2
+Parkinson's disease:PTSD	Disease:Disease	1	NA	1	1	NA
+Parkinson's disease:Right Putamen	Anatomical:Disease	1	NA	1	1	NA
+Parkinson's disease:Risk-taking behaviour	Behavioural:Disease	1	1	NA	NA	1
+Parkinson's disease:Schizophrenia	Disease:Disease	2	2	NA	2	NA
+Parkinson's disease:Snoring	Condition:Disease	2	NA	2	2	NA
+Parkinson's disease:TC	Disease:Metabolic	6	1	5	5	1
+Parkinson's disease:Thyroid-stimulating hormone	Disease:Metabolic	1	NA	1	1	NA
+Parkinson's disease:Waist circumference	Antropometric:Disease	2	1	1	1	1
+Parkinson's disease:Waist circumference (adjBMI)	Antropometric:Disease	1	1	NA	NA	1
+Parkinson's disease:Waist-hip ratio	Antropometric:Disease	1	1	NA	1	NA
+Parkinson's disease:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Disease	1	NA	1	1	NA
+Parkinson's disease:Waist-hip ratio (adjBMI)	Antropometric:Disease	1	NA	1	1	NA
+Parkinson's disease:Word reading	Behavioural:Disease	2	1	1	1	1
+Right Putamen:Snoring	Anatomical:Condition	1	1	NA	1	NA
+Right Putamen:TC	Anatomical:Metabolic	7	3	4	5	2
+Right Putamen:Thyroid-stimulating hormone	Anatomical:Metabolic	1	1	NA	NA	1
+Right Putamen:Type 2 diabetes	Anatomical:Disease	1	NA	1	1	NA
+Right Putamen:Waist circumference	Anatomical:Antropometric	1	NA	1	1	NA
+Right Putamen:Waist-hip ratio	Anatomical:Antropometric	1	1	NA	1	NA
+Risk-taking behaviour:Schizophrenia	Behavioural:Disease	1	1	NA	1	NA
+Risk-taking behaviour:TC	Behavioural:Metabolic	2	2	NA	1	1
+Risk-taking behaviour:Thyroid-stimulating hormone	Behavioural:Metabolic	2	1	1	2	NA
+Risk-taking behaviour:Type 2 diabetes	Behavioural:Disease	1	NA	1	1	NA
+Risk-taking behaviour:Waist circumference	Antropometric:Behavioural	2	2	NA	2	NA
+Risk-taking behaviour:Weight	Antropometric:Behavioural	1	1	NA	1	NA
+Schizophrenia:TC	Disease:Metabolic	8	4	4	6	2
+Schizophrenia:Type 2 diabetes	Disease:Disease	1	NA	1	1	NA
+Schizophrenia:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Disease	1	1	NA	1	NA
+Schizophrenia:Waist-hip ratio (adjBMI)	Antropometric:Disease	1	1	NA	1	NA
+Schizophrenia:Word reading	Behavioural:Disease	1	NA	1	1	NA
+Snoring:TC	Condition:Metabolic	5	4	1	3	2
+Snoring:Thyroid-stimulating hormone	Condition:Metabolic	1	1	NA	1	NA
+Snoring:Type 2 diabetes	Condition:Disease	3	2	1	2	1
+Snoring:Waist circumference	Antropometric:Condition	2	2	NA	2	NA
+Snoring:Waist circumference (adjBMI)	Antropometric:Condition	1	NA	1	1	NA
+Snoring:Waist-hip ratio	Antropometric:Condition	1	1	NA	1	NA
+Snoring:Weight	Antropometric:Condition	3	2	1	3	NA
+Spelling:TC	Behavioural:Metabolic	4	1	3	2	2
+Spelling:Type 2 diabetes	Behavioural:Disease	1	1	NA	NA	1
+TC:Thyroid-stimulating hormone	Metabolic:Metabolic	13	6	7	9	4
+TC:Type 2 diabetes	Disease:Metabolic	32	17	15	27	5
+TC:Waist circumference	Antropometric:Metabolic	9	4	5	9	NA
+TC:Waist circumference (adjBMI)	Antropometric:Metabolic	3	2	1	3	NA
+TC:Waist-hip ratio	Antropometric:Metabolic	3	2	1	3	NA
+TC:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Metabolic	2	2	NA	2	NA
+TC:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	1	1	NA	1	NA
+TC:Waist-hip ratio (adjBMI)	Antropometric:Metabolic	2	2	NA	1	1
+TC:Weight	Antropometric:Metabolic	7	3	4	7	NA
+TC:Word reading	Behavioural:Metabolic	1	1	NA	NA	1
+Thyroid-stimulating hormone:Type 2 diabetes	Disease:Metabolic	6	3	3	6	NA
+Thyroid-stimulating hormone:Waist circumference	Antropometric:Metabolic	3	2	1	3	NA
+Thyroid-stimulating hormone:Waist-hip ratio	Antropometric:Metabolic	1	1	NA	1	NA
+Thyroid-stimulating hormone:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	2	1	1	2	NA
+Thyroid-stimulating hormone:Waist-hip ratio (adjBMI)	Antropometric:Metabolic	1	1	NA	NA	1
+Type 2 diabetes:Waist circumference	Antropometric:Disease	11	7	4	11	NA
+Type 2 diabetes:Waist circumference (adjBMI)	Antropometric:Disease	8	3	5	5	3
+Type 2 diabetes:Waist-hip ratio	Antropometric:Disease	6	2	4	3	3
+Type 2 diabetes:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Disease	1	NA	1	NA	1
+Type 2 diabetes:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Disease	2	NA	2	NA	2
+Type 2 diabetes:Waist-hip ratio (adjBMI)	Antropometric:Disease	5	2	3	2	3
+Type 2 diabetes:Weight	Antropometric:Disease	9	5	4	9	NA
+Waist circumference (adjBMI):Waist-hip ratio	Antropometric:Antropometric	10	2	8	9	1
+Waist circumference (adjBMI):Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Antropometric	3	2	1	3	NA
+Waist circumference (adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	5	2	3	5	NA
+Waist circumference (adjBMI):Waist-hip ratio (adjBMI)	Antropometric:Antropometric	14	4	10	14	NA
+Waist circumference (adjBMI):Weight	Antropometric:Antropometric	2	2	NA	2	NA
+Waist circumference:Waist-hip ratio	Antropometric:Antropometric	1	NA	1	1	NA
+Waist circumference:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Antropometric	3	1	2	3	NA
+Waist circumference:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	2	1	1	1	1
+Waist circumference:Waist-hip ratio (adjBMI)	Antropometric:Antropometric	1	NA	1	1	NA
+Waist circumference:Weight	Antropometric:Antropometric	6	6	NA	6	NA
+Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	2	2	NA	2	NA
+Waist-hip ratio (<= 50 yrs, adjBMI):Waist-hip ratio (adjBMI)	Antropometric:Antropometric	1	1	NA	1	NA
+Waist-hip ratio (<= 50 yrs, adjBMI):Weight	Antropometric:Antropometric	1	NA	1	1	NA
+Waist-hip ratio (> 50 yrs, adjBMI):Waist-hip ratio (adjBMI)	Antropometric:Antropometric	2	2	NA	2	NA
+Waist-hip ratio (adjBMI):Weight	Antropometric:Antropometric	1	NA	1	NA	1
+Waist-hip ratio:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Antropometric	2	1	1	2	NA
+Waist-hip ratio:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Antropometric	2	1	1	2	NA
+Waist-hip ratio:Waist-hip ratio (adjBMI)	Antropometric:Antropometric	8	1	7	8	NA
+Waist-hip ratio:Weight	Antropometric:Antropometric	3	3	NA	3	NA
+logTG:Multisite chronic pain	Condition:Metabolic	8	6	2	5	3
+logTG:Nonword reading	Behavioural:Metabolic	1	1	NA	1	NA
+logTG:Number of children ever born	Fertility:Metabolic	1	NA	1	1	NA
+logTG:PTSD	Disease:Metabolic	1	1	NA	1	NA
+logTG:Parkinson's disease	Disease:Metabolic	6	1	5	6	NA
+logTG:Performance IQ	Behavioural:Metabolic	1	1	NA	NA	1
+logTG:Right Putamen	Anatomical:Metabolic	6	2	4	6	NA
+logTG:Risk-taking behaviour	Behavioural:Metabolic	3	2	1	3	NA
+logTG:Schizophrenia	Disease:Metabolic	12	6	6	12	NA
+logTG:Snoring	Condition:Metabolic	10	8	2	8	2
+logTG:TC	Metabolic:Metabolic	126	63	63	118	8
+logTG:Thyroid-stimulating hormone	Metabolic:Metabolic	10	7	3	9	1
+logTG:Type 2 diabetes	Disease:Metabolic	50	33	17	49	1
+logTG:Waist circumference	Antropometric:Metabolic	13	4	9	13	NA
+logTG:Waist circumference (adjBMI)	Antropometric:Metabolic	11	6	5	8	3
+logTG:Waist-hip ratio	Antropometric:Metabolic	7	4	3	5	2
+logTG:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Metabolic	4	4	NA	4	NA
+logTG:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	2	2	NA	2	NA
+logTG:Waist-hip ratio (adjBMI)	Antropometric:Metabolic	9	8	1	8	1
+logTG:Weight	Antropometric:Metabolic	13	5	8	13	NA
+logTG:Word reading	Behavioural:Metabolic	1	NA	1	1	NA
+logTG:nonHDL	Metabolic:Metabolic	102	62	40	92	10
+nonHDL:Nonword reading	Behavioural:Metabolic	2	1	1	1	1
+nonHDL:Number of children ever born	Fertility:Metabolic	3	1	2	2	1
+nonHDL:PTSD	Disease:Metabolic	3	2	1	2	1
+nonHDL:Parkinson's disease	Disease:Metabolic	7	2	5	6	1
+nonHDL:Performance IQ	Behavioural:Metabolic	1	NA	1	NA	1
+nonHDL:Right Putamen	Anatomical:Metabolic	3	1	2	3	NA
+nonHDL:Risk-taking behaviour	Behavioural:Metabolic	4	3	1	4	NA
+nonHDL:Schizophrenia	Disease:Metabolic	9	3	6	9	NA
+nonHDL:Snoring	Condition:Metabolic	14	8	6	12	2
+nonHDL:Spelling	Behavioural:Metabolic	1	NA	1	1	NA
+nonHDL:TC	Metabolic:Metabolic	124	109	15	119	5
+nonHDL:Thyroid-stimulating hormone	Metabolic:Metabolic	11	7	4	10	1
+nonHDL:Type 2 diabetes	Disease:Metabolic	37	25	12	34	3
+nonHDL:Waist circumference	Antropometric:Metabolic	5	4	1	4	1
+nonHDL:Waist circumference (adjBMI)	Antropometric:Metabolic	7	5	2	5	2
+nonHDL:Waist-hip ratio	Antropometric:Metabolic	5	4	1	3	2
+nonHDL:Waist-hip ratio (<= 50 yrs, adjBMI)	Antropometric:Metabolic	1	1	NA	1	NA
+nonHDL:Waist-hip ratio (> 50 yrs, adjBMI)	Antropometric:Metabolic	3	2	1	3	NA
+nonHDL:Waist-hip ratio (adjBMI)	Antropometric:Metabolic	6	6	NA	5	1
+nonHDL:Weight	Antropometric:Metabolic	5	1	4	5	NA
+nonHDL:Word reading	Behavioural:Metabolic	2	2	NA	1	1
