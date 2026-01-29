@@ -130,23 +130,16 @@ plt.show()
 
 # Permutation-based enrichment
 
-def permutation_enrichment(
-    df, cluster_col, class_col,
-    cluster_id, n_perm=10000
-):
+def permutation_enrichment(df, cluster_col, class_col,cluster_id, n_perm=10000):
     in_cluster = df[cluster_col] == cluster_id
     observed = df.loc[in_cluster, class_col].mean()
-
     permuted = []
     for _ in range(n_perm):
         perm = np.random.permutation(df[class_col])
         permuted.append(perm[in_cluster.values].mean())
-
     permuted = np.array(permuted)
-
     p_enriched = np.mean(permuted >= observed)
     p_depleted = np.mean(permuted <= observed)
-
     return observed, permuted.mean(), p_enriched, p_depleted
 
 ## run enrichment
@@ -157,14 +150,12 @@ for cluster_id in range(optimal_k):
         obs, exp, p_enr, p_dep = permutation_enrichment(
             Xdf, "cluster_gmm", cls, cluster_id
         )
-
         if obs > exp:
             status = "ENRICHED"
             pval = p_enr
         else:
             status = "DEPLETED"
             pval = p_dep
-
         results.append({
             "Cluster": cluster_id,
             "SNP_Class": cls,
@@ -211,4 +202,17 @@ plt.savefig(f"enrichment_heatmap_{model_name}.png", dpi=300)
 plt.show()
 
 
+
+## Enrichment table
+significant_enrichment_df = enrichment_df[
+    enrichment_df["Significant"]
+].sort_values(
+    ["Cluster", "Fold_Enrichment"],
+    ascending=[True, False]
+)
+
+significant_enrichment_df.to_csv(
+    f"gmm_permutation_enrichment_significant_{model_name}.csv",
+    index=False
+)
 
