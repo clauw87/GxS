@@ -1,8 +1,50 @@
-% latex table generated in R 4.3.2 by xtable 1.8-4 package
-% Tue Nov 18 15:33:35 2025
-\begin{table}[ht]
-\centering
-\begin{tabular}{lllll}
+% !TEX TS-program = knitr
+\documentclass{article}\usepackage[]{graphicx}\usepackage[dvipsnames]{xcolor}
+
+
+%Area
+\usepackage{geometry}
+\geometry{a4paper, 
+total={170mm,257mm}, 
+left=10mm, 
+top=20mm,
+}
+
+% Tables
+\usepackage{fixltx2e}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{textgreek}
+\usepackage{booktabs}
+% tables
+\usepackage{xcolor}
+\usepackage{colortbl}
+%It sets your colour line and then sets back to default (black)
+\newcommand{\grayline}{\arrayrulecolor{black!20!mint}\hline\arrayrulecolor{black}}
+%Space table caption
+\usepackage{caption}
+\captionsetup[table]{skip=10pt}
+\usepackage{tabularx}
+\newcolumntype{L}{>{\raggedright\arraybackslash}}
+ \usepackage{array,makecell}
+ \usepackage{longtable}
+ \usepackage{multirow}
+  \usepackage{array}
+%\newcolumntype{P}[1]{>{\centering\arraybackslach}p{#1}}
+ \usepackage{lscape}
+   
+   
+\begin{document}
+
+\renewcommand{\arraystretch}{1.3}
+
+% 
+\setcounter{table}{3}
+\renewcommand{\tablename}{Supplementary Table} % Set the tablename to Panel, instead of Table
+
+
+\begin{longtable}{p{8cm}|p{2.5cm}|p{2.5cm}|p{2.5cm}|p{2.5cm}}
+\caption{Sex differences in cross-trait genetic correlations}\\
   \hline
 Pair & rg(se) males & rg(se) females & P diff & P diff adj \\ 
   \hline
@@ -137,8 +179,12 @@ HDL---LDL & 0.1636 (0.0238) & -0.1122 (0.0238) & 2.524336e-16 & 1.128378e-13 \\
   LDL---Schizophrenia & 0.0662 (0.0228) & -0.0031 (0.0263) & 4.648346e-02 & 1.610706e-01 \\ 
   Educational attainment---Snoring & -0.1327 (0.034) & -0.2223 (0.0299) & 4.78241e-02 & 1.644413e-01 \\ 
   Type 2 diabetes---Waist circumference & 0.4995 (0.0419) & 0.601 (0.0298) & 4.8373e-02 & 1.65059e-01 \\ 
-  Multisite chronic pain---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.1694 (0.0555) & 0.0319 (0.0424) & 4.898661e-02 & 1.658865e-01 \\ 
-   \hline
-\end{tabular}
-\end{table}
+  Multisite chronic pain---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.1694 (0.0555) & 0.0319 (0.0424) & 4.898661e-02 & 1.658865e-01 \\    \hline
+ \end{longtable}
+  
+  
+
+\end{document}
+
+
 

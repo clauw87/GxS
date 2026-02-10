@@ -1,128 +1,83 @@
-% !TEX TS-program = knitr
-\documentclass{article}\usepackage[]{graphicx}\usepackage[dvipsnames]{xcolor}
-
-
-%Area
-\usepackage{geometry}
-\geometry{a4paper, 
-total={170mm,257mm}, 
-left=10mm, 
-top=20mm,
-}
-
-% Tables
-\usepackage{fixltx2e}
-\usepackage{multirow}
-\usepackage{amssymb}
-\usepackage{textgreek}
-\usepackage{booktabs}
-% tables
-\usepackage{xcolor}
-\usepackage{colortbl}
-%It sets your colour line and then sets back to default (black)
-\newcommand{\grayline}{\arrayrulecolor{black!20!mint}\hline\arrayrulecolor{black}}
-%Space table caption
-\usepackage{caption}
-\captionsetup[table]{skip=10pt}
-\usepackage{tabularx}
-\newcolumntype{L}{>{\raggedright\arraybackslash}}
- \usepackage{array,makecell}
- \usepackage{longtable}
- \usepackage{multirow}
-  \usepackage{array}
-%\newcolumntype{P}[1]{>{\centering\arraybackslach}p{#1}}
- \usepackage{lscape}
-\begin{document}
-
-\renewcommand{\arraystretch}{1.3}
-
-% 
-\setcounter{table}{3}
-\renewcommand{\tablename}{Supplementary Table} % Set the tablename to Panel, instead of Table
-%\renewcommand{\thetable}{\Alph{table}} % Setting the table number output to letters 
-
-
-\begin{longtable}{p{6cm}|p{1.5cm}|p{1.5cm}|p{1.5cm}}
-\caption{Sex differences in Cross-Trait Genetic Correlations}\\
+% latex table generated in R 4.3.2 by xtable 1.8-4 package
+% Tue Nov 18 15:33:35 2025
+\begin{table}[ht]
+\centering
+\begin{tabular}{lllll}
   \hline
-Pair & rg(se) males & rg(se) females & P diff adj \\ 
+Pair & rg(se) males & rg(se) females & P diff & P diff adj \\ 
   \hline
-HDL---LDL & 0.1617 (0.0236) & -0.1129 (0.0237) & 0.00 \\ 
-  LDL---Waist circumference & -0.1425 (0.0312) & 0.1849 (0.028) & 0.00 \\ 
-  Educational attainment---Risk-taking behaviour & -0.1431 (0.034) & 0.1881 (0.0335) & 0.00 \\ 
-  Body Mass Index---LDL & -0.0746 (0.0246) & 0.1463 (0.0232) & 0.00 \\ 
-  LDL---nonHDL & 0.8851 (0.0113) & 0.9604 (0.0036) & 0.00 \\ 
-  LDL---logTG & 0.1271 (0.0319) & 0.3626 (0.024) & 0.00 \\ 
-  LDL---Waist-hip ratio & -0.007 (0.0356) & 0.2811 (0.0339) & 0.00 \\ 
-  LDL---Weight & -0.1567 (0.0312) & 0.0887 (0.0319) & 0.00 \\ 
-  Waist circumference (adjBMI)---Waist-hip ratio & 0.3631 (0.0392) & 0.6303 (0.0284) & 0.00 \\ 
-  TC---Waist circumference & -0.1675 (0.0309) & 0.0531 (0.0267) & 0.00 \\ 
-  nonHDL---Waist circumference & 0.0201 (0.036) & 0.2638 (0.0294) & 0.00 \\ 
-  LDL---Type 2 diabetes & -0.0146 (0.0306) & 0.187 (0.0263) & 0.00 \\ 
-  Hip circumference (adjBMI)---Waist circumference (adjBMI) & 0.6183 (0.0301) & 0.3468 (0.0466) & 0.00 \\ 
-  Body Mass Index---Waist-hip ratio & 0.6636 (0.0279) & 0.443 (0.0359) & 0.00 \\ 
-  Body Mass Index---Weight & 0.7817 (0.0185) & 0.8869 (0.0134) & 0.00 \\ 
-  Waist-hip ratio---Waist-hip ratio (adjBMI) & 0.7266 (0.025) & 0.8568 (0.0137) & 0.00 \\ 
-  Hip circumference---LDL & -0.152 (0.0356) & 0.0495 (0.0272) & 0.00 \\ 
-  LDL---Waist circumference (adjBMI) & -0.0915 (0.0331) & 0.123 (0.035) & 0.00 \\ 
-  TC---Weight & -0.2007 (0.0314) & -0.0116 (0.0298) & 0.00 \\ 
-  Age at first birth---Risk-taking behaviour & -0.3394 (0.0542) & -0.035 (0.0463) & 0.00 \\ 
-  Fasting insulin---LDL & -0.1201 (0.0538) & 0.2207 (0.0592) & 0.00 \\ 
-  Waist circumference (adjBMI)---Waist-hip ratio (adjBMI) & 0.5319 (0.0364) & 0.717 (0.0243) & 0.00 \\ 
-  nonHDL---Waist circumference (adjBMI) & -0.0364 (0.0331) & 0.1627 (0.0348) & 0.00 \\ 
-  HDL---nonHDL & -0.118 (0.0291) & -0.2753 (0.0248) & 0.00 \\ 
-  Body Mass Index---TC & -0.0975 (0.0238) & 0.0318 (0.0211) & 0.00 \\ 
-  Body Mass Index---nonHDL & 0.0638 (0.0275) & 0.2178 (0.0261) & 0.00 \\ 
-  logTG---Waist circumference (adjBMI) & 0.1024 (0.0361) & 0.2879 (0.0299) & 0.00 \\ 
-  Height---Weight & 0.5836 (0.0289) & 0.4191 (0.0308) & 0.00 \\ 
-  Risk-taking behaviour---Schizophrenia & 0.1601 (0.0322) & 0.3543 (0.0388) & 0.00 \\ 
-  Insomnia---Schizophrenia & 0.1442 (0.0356) & -0.0532 (0.0375) & 0.00 \\ 
-  nonHDL---Weight & -0.0444 (0.034) & 0.1387 (0.0339) & 0.00 \\ 
-  LDL---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.0118 (0.0465) & 0.2463 (0.0418) & 0.00 \\ 
-  nonHDL---Waist-hip ratio & 0.1792 (0.0435) & 0.3853 (0.0337) & 0.00 \\ 
-  Hip circumference---TC & -0.2028 (0.0347) & -0.0449 (0.0242) & 0.00 \\ 
-  Hip circumference---Waist circumference (adjBMI) & 0.3285 (0.0433) & 0.1218 (0.0356) & 0.00 \\ 
-  Free thyroxine (FT4)---Waist-hip ratio (adjBMI) & 0.1878 (0.0767) & -0.1965 (0.0747) & 0.00 \\ 
-  HDL---Waist circumference (adjBMI) & -0.1276 (0.031) & -0.2788 (0.0284) & 0.00 \\ 
-  HDL---Height SDS & -0.19 (0.05) & 0.0362 (0.0387) & 0.00 \\ 
-  Waist circumference (adjBMI)---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.5403 (0.0435) & 0.7287 (0.0313) & 0.01 \\ 
-  Body Mass Index---Hip circumference & 0.7946 (0.0204) & 0.8768 (0.0116) & 0.01 \\ 
-  ADHD---Schizophrenia & 0.1851 (0.0414) & -0.1201 (0.0787) & 0.01 \\ 
-  Height---Hip circumference & 0.4594 (0.0375) & 0.299 (0.029) & 0.01 \\ 
-  Educational attainment---Insomnia & -0.1998 (0.0427) & -0.3746 (0.0301) & 0.01 \\ 
-  Type 2 diabetes---Waist circumference (adjBMI) & 0.0858 (0.0426) & 0.2778 (0.0391) & 0.01 \\ 
-  Fasting glucose---LDL & -0.1275 (0.0492) & 0.101 (0.0487) & 0.01 \\ 
-  Waist circumference (adjBMI)---Waist-hip ratio ($<$= 50 yrs, adjBMI) & 0.5814 (0.0617) & 0.8404 (0.0486) & 0.01 \\ 
-  TC---Waist-hip ratio & -0.007 (0.0366) & 0.1523 (0.0319) & 0.01 \\ 
-  LDL---Waist-hip ratio (adjBMI) & 0.0546 (0.0407) & 0.2281 (0.0352) & 0.01 \\ 
-  Fasting insulin---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.1185 (0.0871) & 0.5428 (0.099) & 0.01 \\ 
-  Educational attainment---Multisite chronic pain & -0.5404 (0.029) & -0.4186 (0.0247) & 0.01 \\ 
-  Schizophrenia---Snoring & -0.2013 (0.0312) & -0.0599 (0.032) & 0.01 \\ 
-  Number of children ever born---Risk-taking behaviour & 0.4151 (0.0724) & 0.1117 (0.0639) & 0.01 \\ 
-  Cardiovascular disease---Waist circumference (adjBMI) & 0.0023 (0.0367) & 0.1873 (0.0465) & 0.02 \\ 
-  Hip circumference---nonHDL & -0.0675 (0.0397) & 0.091 (0.0319) & 0.02 \\ 
-  TC---Waist circumference (adjBMI) & -0.0837 (0.0298) & 0.0579 (0.0343) & 0.02 \\ 
-  Fasting insulin---TC & -0.1203 (0.0496) & 0.1058 (0.0535) & 0.02 \\ 
-  Height SDS---Weight & 0.7621 (0.0866) & 0.4639 (0.0498) & 0.02 \\ 
-  Grip strength measurement/ Muscle weakness---Left 5m area & -0.1645 (0.1186) & 0.2555 (0.0787) & 0.03 \\ 
-  Height---Waist-hip ratio (adjBMI) & -0.1434 (0.0498) & 0.0384 (0.0379) & 0.03 \\ 
-  Height---Hip circumference (adjBMI) & 0.8467 (0.0251) & 0.7502 (0.0223) & 0.03 \\ 
-  nonHDL---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.135 (0.0494) & 0.3173 (0.0399) & 0.03 \\ 
-  logTG---nonHDL & 0.4832 (0.0256) & 0.5759 (0.0199) & 0.03 \\ 
-  nonHDL---Type 2 diabetes & 0.1913 (0.0304) & 0.3085 (0.0278) & 0.03 \\ 
-  Schizophrenia---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.0973 (0.039) & -0.0769 (0.0479) & 0.03 \\ 
-  ADHD---Age at first birth & -0.4602 (0.0638) & -0.7753 (0.0923) & 0.04 \\ 
-  Height---Waist-hip ratio ($>$ 50 yrs, adjBMI) & -0.1014 (0.0581) & 0.0967 (0.0404) & 0.04 \\ 
-  HDL---Waist-hip ratio (adjBMI) & -0.2235 (0.0425) & -0.37 (0.031) & 0.04 \\ 
-  Height---Waist-hip ratio & -0.1689 (0.0433) & -0.0122 (0.0358) & 0.04 \\ 
-  Educational attainment---Waist-hip ratio ($>$ 50 yrs, adjBMI) & -0.2743 (0.0443) & -0.1089 (0.0398) & 0.04 \\ 
-  logTG---Waist-hip ratio (adjBMI) & 0.3143 (0.038) & 0.4509 (0.0315) & 0.04 \\ 
-  HDL---Snoring & -0.1587 (0.0262) & -0.2537 (0.0226) & 0.04 \\ 
-  Height SDS---Hip circumference & 0.6936 (0.0904) & 0.4014 (0.0589) & 0.04 \\ 
-  logTG---Waist-hip ratio & 0.4628 (0.0374) & 0.5927 (0.0305) & 0.04 \\ 
+HDL---LDL & 0.1636 (0.0238) & -0.1122 (0.0238) & 2.524336e-16 & 1.128378e-13 \\ 
+  LDL---Waist circumference & -0.1423 (0.0311) & 0.1842 (0.028) & 6.086319e-15 & 1.360292e-12 \\ 
+  Educational attainment---Risk-taking behaviour & -0.1432 (0.0341) & 0.187 (0.0335) & 4.928616e-12 & 7.343638e-10 \\ 
+  Body Mass Index---LDL & -0.0743 (0.0246) & 0.1457 (0.0232) & 7.710497e-11 & 8.61648e-09 \\ 
+  LDL---nonHDL & 0.8852 (0.0113) & 0.9604 (0.0036) & 2.284903e-10 & 2.042703e-08 \\ 
+  LDL---Waist-hip ratio & -0.0068 (0.0356) & 0.2813 (0.0338) & 4.388372e-09 & 2.802289e-07 \\ 
+  LDL---logTG & 0.126 (0.032) & 0.362 (0.0242) & 4.04589e-09 & 2.802289e-07 \\ 
+  Waist circumference (adjBMI)---Waist-hip ratio & 0.3631 (0.0392) & 0.6302 (0.0284) & 3.431891e-08 & 1.917569e-06 \\ 
+  LDL---Weight & -0.1565 (0.0312) & 0.0886 (0.0319) & 3.953715e-08 & 1.963679e-06 \\ 
+  TC---Waist circumference & -0.1672 (0.0309) & 0.0526 (0.0268) & 7.713816e-08 & 3.448076e-06 \\ 
+  nonHDL---Waist circumference & 0.0197 (0.036) & 0.2637 (0.0295) & 1.584455e-07 & 6.438648e-06 \\ 
+  LDL---Type 2 diabetes & -0.0144 (0.0305) & 0.1879 (0.0262) & 4.870976e-07 & 1.814439e-05 \\ 
+  Hip circumference (adjBMI)---Waist circumference (adjBMI) & 0.6185 (0.03) & 0.3465 (0.0465) & 8.865402e-07 & 3.048334e-05 \\ 
+  Body Mass Index---Waist-hip ratio & 0.6636 (0.028) & 0.4435 (0.0359) & 1.335649e-06 & 4.264536e-05 \\ 
+  Body Mass Index---Weight & 0.7813 (0.0186) & 0.8867 (0.0134) & 4.270643e-06 & 1.272652e-04 \\ 
+  Waist-hip ratio---Waist-hip ratio (adjBMI) & 0.7266 (0.025) & 0.8568 (0.0137) & 4.943196e-06 & 1.381005e-04 \\ 
+  Hip circumference---LDL & -0.1518 (0.0356) & 0.0489 (0.0274) & 7.910357e-06 & 2.079959e-04 \\ 
+  LDL---Waist circumference (adjBMI) & -0.0913 (0.0331) & 0.1226 (0.0349) & 8.708763e-06 & 2.162676e-04 \\ 
+  TC---Weight & -0.201 (0.0314) & -0.0114 (0.0298) & 1.187923e-05 & 2.794746e-04 \\ 
+  Age at first birth---Risk-taking behaviour & -0.3384 (0.0542) & -0.0351 (0.0463) & 2.091942e-05 & 4.67549e-04 \\ 
+  Waist circumference (adjBMI)---Waist-hip ratio (adjBMI) & 0.5318 (0.0365) & 0.7171 (0.0243) & 2.380296e-05 & 5.06663e-04 \\ 
+  nonHDL---Waist circumference (adjBMI) & -0.0365 (0.033) & 0.1634 (0.0346) & 2.904842e-05 & 5.90211e-04 \\ 
+  HDL---nonHDL & -0.1165 (0.0291) & -0.2742 (0.0247) & 3.602685e-05 & 7.00174e-04 \\ 
+  Body Mass Index---nonHDL & 0.0634 (0.0276) & 0.2174 (0.0261) & 5.033248e-05 & 9.374425e-04 \\ 
+  Body Mass Index---TC & -0.0972 (0.0239) & 0.0314 (0.0212) & 5.68931e-05 & 1.017249e-03 \\ 
+  logTG---Waist circumference (adjBMI) & 0.1023 (0.0361) & 0.2879 (0.0296) & 7.017556e-05 & 1.20648e-03 \\ 
+  Height---Weight & 0.584 (0.0289) & 0.4191 (0.0308) & 9.450444e-05 & 1.564574e-03 \\ 
+  Risk-taking behaviour---Schizophrenia & 0.1606 (0.0323) & 0.355 (0.0389) & 1.206525e-04 & 1.907459e-03 \\ 
+  nonHDL---Weight & -0.0452 (0.034) & 0.1391 (0.0339) & 1.237502e-04 & 1.907459e-03 \\ 
+  Insomnia---Schizophrenia & 0.1434 (0.0356) & -0.0536 (0.0374) & 1.360288e-04 & 2.026829e-03 \\ 
+  nonHDL---Waist-hip ratio & 0.1794 (0.0435) & 0.3862 (0.0334) & 1.627713e-04 & 2.347057e-03 \\ 
+  LDL---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.0123 (0.0467) & 0.2464 (0.0417) & 1.846582e-04 & 2.579444e-03 \\ 
+  Hip circumference---TC & -0.2025 (0.0347) & -0.0453 (0.0241) & 1.985302e-04 & 2.689182e-03 \\ 
+  Hip circumference---Waist circumference (adjBMI) & 0.3289 (0.0434) & 0.1208 (0.0355) & 2.060731e-04 & 2.709256e-03 \\ 
+  HDL---Waist circumference (adjBMI) & -0.1274 (0.031) & -0.2786 (0.0283) & 3.155901e-04 & 4.030536e-03 \\ 
+  Free thyroxine (FT4)---Waist-hip ratio (adjBMI) & 0.1877 (0.0767) & -0.1967 (0.0748) & 3.332332e-04 & 4.137645e-03 \\ 
+  HDL---Height SDS & -0.1902 (0.0502) & 0.0363 (0.0386) & 3.478112e-04 & 4.201935e-03 \\ 
+  Waist circumference (adjBMI)---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.5401 (0.0436) & 0.7287 (0.0312) & 4.351808e-04 & 5.119101e-03 \\ 
+  Body Mass Index---Hip circumference & 0.7943 (0.0204) & 0.8768 (0.0117) & 4.513223e-04 & 5.172848e-03 \\ 
+  ADHD---Schizophrenia & 0.1855 (0.0413) & -0.1203 (0.0784) & 5.585882e-04 & 6.242223e-03 \\ 
+  Fasting insulin---LDL & -0.1308 (0.0574) & 0.1671 (0.0661) & 6.668535e-04 & 7.27033e-03 \\ 
+  Educational attainment---Insomnia & -0.1996 (0.0426) & -0.3747 (0.0299) & 7.672652e-04 & 8.165894e-03 \\ 
+  Height---Hip circumference & 0.4591 (0.0375) & 0.3001 (0.0291) & 8.088824e-04 & 8.408615e-03 \\ 
+  Type 2 diabetes---Waist circumference (adjBMI) & 0.0856 (0.0425) & 0.2774 (0.0391) & 8.962699e-04 & 9.105287e-03 \\ 
+  TC---Waist-hip ratio & -0.0067 (0.0366) & 0.1526 (0.0318) & 1.017839e-03 & 9.890737e-03 \\ 
+  Waist circumference (adjBMI)---Waist-hip ratio ($<$= 50 yrs, adjBMI) & 0.5818 (0.0616) & 0.8398 (0.0486) & 1.008469e-03 & 9.890737e-03 \\ 
+  LDL---Waist-hip ratio (adjBMI) & 0.0547 (0.0407) & 0.2278 (0.0352) & 1.295989e-03 & 1.232568e-02 \\ 
+  Schizophrenia---Snoring & -0.2016 (0.0312) & -0.0598 (0.032) & 1.509892e-03 & 1.406087e-02 \\ 
+  Educational attainment---Multisite chronic pain & -0.5398 (0.029) & -0.4193 (0.0247) & 1.559935e-03 & 1.423043e-02 \\ 
+  Number of children ever born---Risk-taking behaviour & 0.4164 (0.0719) & 0.1133 (0.0641) & 1.651505e-03 & 1.476446e-02 \\ 
+  TC---Waist circumference (adjBMI) & -0.0837 (0.0298) & 0.0583 (0.0342) & 1.745702e-03 & 1.530056e-02 \\ 
+  Hip circumference---nonHDL & -0.0676 (0.0397) & 0.0907 (0.0318) & 1.85755e-03 & 1.596778e-02 \\ 
+  Cardiovascular disease---Waist circumference (adjBMI) & 0.0028 (0.0367) & 0.1863 (0.0466) & 1.977619e-03 & 1.667916e-02 \\ 
+  Height SDS---Weight & 0.7631 (0.0868) & 0.4633 (0.0496) & 2.710098e-03 & 2.243359e-02 \\ 
+  Grip strength measurement/ Muscle weakness---Left 5m area & -0.1617 (0.1184) & 0.2609 (0.0795) & 3.044198e-03 & 2.474103e-02 \\ 
+  Height---Waist-hip ratio (adjBMI) & -0.1432 (0.0497) & 0.0364 (0.0379) & 4.059407e-03 & 3.143235e-02 \\ 
+  logTG---nonHDL & 0.4823 (0.0256) & 0.5755 (0.0199) & 4.04873e-03 & 3.143235e-02 \\ 
+  nonHDL---Type 2 diabetes & 0.1914 (0.0303) & 0.309 (0.0276) & 4.114148e-03 & 3.143235e-02 \\ 
+  nonHDL---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.1353 (0.0496) & 0.3176 (0.0398) & 4.148789e-03 & 3.143235e-02 \\ 
+  Height---Hip circumference (adjBMI) & 0.8468 (0.0251) & 0.751 (0.0224) & 4.404351e-03 & 3.281241e-02 \\ 
+  ADHD---Age at first birth & -0.4584 (0.0637) & -0.7776 (0.0925) & 4.481914e-03 & 3.284287e-02 \\ 
+  Schizophrenia---Waist-hip ratio ($>$ 50 yrs, adjBMI) & 0.0965 (0.039) & -0.0759 (0.0479) & 5.253836e-03 & 3.787846e-02 \\ 
+  HDL---Waist-hip ratio (adjBMI) & -0.2234 (0.0424) & -0.3695 (0.0309) & 5.35745e-03 & 3.801238e-02 \\ 
+  Educational attainment---Waist-hip ratio ($>$ 50 yrs, adjBMI) & -0.2735 (0.0443) & -0.1095 (0.0397) & 5.834276e-03 & 3.898618e-02 \\ 
+  Height---Waist-hip ratio & -0.1691 (0.0433) & -0.0138 (0.0358) & 5.706586e-03 & 3.898618e-02 \\ 
+  Height---Waist-hip ratio ($>$ 50 yrs, adjBMI) & -0.0994 (0.0583) & 0.0958 (0.0402) & 5.843566e-03 & 3.898618e-02 \\ 
+  logTG---Waist-hip ratio (adjBMI) & 0.3145 (0.038) & 0.451 (0.0316) & 5.746375e-03 & 3.898618e-02 \\ 
+  HDL---Snoring & -0.1587 (0.0262) & -0.2534 (0.0226) & 6.2012e-03 & 4.076377e-02 \\ 
+  Height SDS---Hip circumference & 0.6941 (0.0905) & 0.4018 (0.0589) & 6.789255e-03 & 4.398256e-02 \\ 
+  logTG---Waist-hip ratio & 0.4629 (0.0374) & 0.5933 (0.0305) & 6.891529e-03 & 4.400733e-02 \\ 
+  Fasting insulin---TC & -0.1319 (0.0548) & 0.0918 (0.0634) & 7.598222e-03 & 4.783669e-02 \\ 
    \hline
- \end{longtable}
-  
-  
+\end{tabular}
+\end{table}
 
-\end{document}
