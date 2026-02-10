@@ -1,3 +1,0 @@
-/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer-gerard/2_Run_primary_trait.sh
-/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer-gerard/3_Run_secondary_traits.sh
-/gpfs42/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/12-mixer-gerard/4_Plot_Mixer.sh
