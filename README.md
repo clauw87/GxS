@@ -1,1 +1,2 @@
 # GxS
+This is a copy of the GxS project marvin folders. Each folder/subforlder corresponds to a set of analyses by the same software/method. The structure of the analyses folders is : a command.sh script is set to lauch jobs in slurm queueing system, the main job and dependecny scripts are in the folder ./real/scripts, any configuration file or required input files are in ./real/inputs, the outputs are in ./real/outputs when they are small enough for github, while big output files are in gdrive, with the link specified in the analysis folder README.
