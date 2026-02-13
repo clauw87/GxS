@@ -4,12 +4,16 @@
 #SBATCH -N 1 # number of nodes
 #SBATCH -J fil
 #SBATCH --mem 32G # memory pool for all cores
-#SBATCH -t 0-01:29 # time (D-HH:MM)
+#SBATCH -t 0-11:29 # time (D-HH:MM)
 #SBATCH -o ./real/outputs/job2.log.%j.out # STDOUT
 #SBATCH -e ./real/outputs/job2.log.%j.err # STDERR
 
 # Modules
-module load R
+#module load R
+module purge
+module load modulepath/haswell
+module load R/4.3.2-gfbf-2023a
+
 
 
 FILE_LIST=$1
