@@ -7,12 +7,12 @@ main(){
   
   # Creates and cleans directory structure
   clean_directory
-  
+
   # Configuration
   H2_OUTPUTS_FOLDER=../2-h2/real/outputs
-  METAS_FILE=../00-download/real/outputs/joined_metadata_domains.txt
+  METAS_FILE=/gpfs/projects/lab_anavarro/disease_pleiotropies/gxs/gxs_postgwas/00-download/1-get_traitsinfo/real/outputs/joined_metadata_domains_updated.txt
   OUTPUTS_FILE=./real/outputs/h2.txt
-  
+
   # COMMAND
   COMMAND=" \
     ./real/scripts/run.sh \
@@ -20,11 +20,20 @@ main(){
         ${METAS_FILE} \
         ${OUTPUTS_FILE}
   "
-          
+
+  # Execution
+  # Cluster execution
+  #JOBS_COUNT=$(cat "${FORMATTED_SUMSTATS_LIST}" | wc -l)
+  #sbatch --array=1-${JOBS_COUNT} ${COMMAND}
+  #exit
+
   sbatch ${COMMAND}
   exit
 
-
+  # Direct execution
+  bash ${COMMAND}
+  exit 
+     
 } 
 
 
