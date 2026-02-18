@@ -1,0 +1,947 @@
+Trait1	Trait2	Intercept	Intercept_SE	GC	GC_SE	PValue	sid_pair	Trait1_name	Trait2_name	sex1	sex2	pair_sids	pair_name	P_adj
+127f	137f	0.8253	0.0073	0.4191	0.0308	3.3541e-42	127f:137f	Height	Weight	female	female	127f:137f	Height---Weight	6.61037208333333e-41
+127f	145f	0.732	0.008	-0.0794	0.0271	0.0034	127f:145f	Height	Body Mass Index	female	female	127f:145f	Body Mass Index---Height	0.0099888198757764
+127f	153f	0.9337	0.0087	0.0958	0.0402	0.0173	127f:153f	Height	Waist-hip ratio (> 50 yrs, adjBMI)	female	female	127f:153f	Height---Waist-hip ratio (> 50 yrs, adjBMI)	0.0436421333333333
+127f	154f	0.9576	0.0077	0.0513	0.0589	0.3839	127f:154f	Height	Waist-hip ratio (<= 50 yrs, adjBMI)	female	female	127f:154f	Height---Waist-hip ratio (<= 50 yrs, adjBMI)	0.542043880597015
+127f	159f	0.8178	0.0078	0.3001	0.0291	5.5397e-25	127f:159f	Height	Hip circumference	female	female	127f:159f	Height---Hip circumference	6.80591714285714e-24
+127f	165f	0.8613	0.0084	0.751	0.0224	1.7576e-245	127f:165f	Height	Hip circumference (adjBMI)	female	female	127f:165f	Height---Hip circumference (adjBMI)	1.10845973333333e-243
+127f	171f	0.8132	0.0076	0.1976	0.0298	3.1231e-11	127f:171f	Height	Waist circumference	female	female	127f:171f	Height---Waist circumference	1.89387987179487e-10
+127f	177f	0.89	0.0081	0.6069	0.0345	1.868e-69	127f:177f	Height	Waist circumference (adjBMI)	female	female	127f:177f	Height---Waist circumference (adjBMI)	5.04893714285714e-68
+127f	183f	0.8871	0.0085	-0.0138	0.0358	0.6997	127f:183f	Height	Waist-hip ratio	female	female	127f:183f	Height---Waist-hip ratio	0.817998024691358
+127f	189f	0.9093	0.0088	0.0364	0.0379	0.3365	127f:189f	Height	Waist-hip ratio (adjBMI)	female	female	127f:189f	Height---Waist-hip ratio (adjBMI)	0.495839563862928
+127f	4371f	1.0252	0.0094	-0.0497	0.0666	0.4551	127f:4371f	Height	Thyroid-stimulating hormone	female	female	127f:4371f	Height---Thyroid-stimulating hormone	0.608085593220339
+127f	4374f	1.0197	0.0076	0.0862	0.0695	0.2151	127f:4374f	Height	Free thyroxine (FT4)	female	female	127f:4374f	Free thyroxine (FT4)---Height	0.349792439862543
+127f	48f	0.9735	0.0083	0.1029	0.0337	0.0022	127f:48f	Height	Age at first birth	female	female	127f:48f	Age at first birth---Height	0.00677915309446254
+127f	51f	0.9797	0.007	-0.0543	0.0421	0.1974	127f:51f	Height	Number of children ever born	female	female	127f:51f	Height---Number of children ever born	0.327040980735552
+127f	96f	0.9572	0.0074	0.6384	0.0641	2.1702e-23	127f:96f	Height	Height SDS	female	female	127f:96f	Height---Height SDS	2.5662615e-22
+127f	99f	0.9846	0.0067	0.4139	0.08	2.2757e-07	127f:99f	Height	Pubertal growth	female	female	127f:99f	Height---Pubertal growth	1.09279807106599e-06
+127f	a13f	0.9901	0.0092	-0.1024	0.0398	0.0101	127f:a13f	Height	Cardiovascular disease	female	female	127f:a13f	Cardiovascular disease---Height	0.0270668555240793
+127f	a1f	1.0089	0.0088	-0.0749	0.0315	0.0172	127f:a1f	Height	Insomnia	female	female	127f:a1f	Height---Insomnia	0.0436225201072386
+127f	a21f	0.9815	0.0085	-0.3598	0.04	2.2928e-19	127f:a21f	Height	Grip strength measurement/ Muscle weakness	female	female	127f:a21f	Grip strength measurement/ Muscle weakness---Height	2.23607092783505e-18
+127f	a22f	1.0207	0.0086	-0.0701	0.0308	0.0228	127f:a22f	Height	Snoring	female	female	127f:a22f	Height---Snoring	0.0554467866323907
+127f	a27f	1.0367	0.0367	-0.0147	0.057	0.7969	127f:a27f	Height	Fasting glucose	female	female	127f:a27f	Fasting glucose---Height	0.888994575471698
+127f	a28f	1.0171	0.0097	-0.0972	0.0729	0.1823	127f:a28f	Height	Fasting insulin	female	female	127f:a28f	Fasting insulin---Height	0.309060573476702
+127f	a29f	1.0184	0.009	0.0149	0.0313	0.6342	127f:a29f	Height	Multisite chronic pain	female	female	127f:a29f	Height---Multisite chronic pain	0.765246428571429
+127f	a30f	0.952	0.0093	0.1554	0.0257	1.3799e-09	127f:a30f	Height	Educational attainment	female	female	127f:a30f	Educational attainment---Height	7.72417396449704e-09
+127f	a7f	0.9529	0.0082	2e-04	0.049	0.9966	127f:a7f	Height	Parkinson's disease	female	female	127f:a7f	Height---Parkinson's disease	0.997654603174603
+127f	a8f	1.0515	0.0132	-0.0526	0.0319	0.0991	127f:a8f	Height	Type 2 diabetes	female	female	127f:a8f	Height---Type 2 diabetes	0.190159432048682
+127f	a9f	1.0563	0.0087	-0.0507	0.0557	0.3623	127f:a9f	Height	ADHD	female	female	127f:a9f	ADHD---Height	0.522387823439878
+127f	bm2f	0.9924	0.0073	-0.0215	0.0601	0.7209	127f:bm2f	Height	Left 5m area	female	female	127f:bm2f	Height---Left 5m area	0.834284107579462
+127f	bm5f	1.0014	0.0088	-0.0555	0.0426	0.1925	127f:bm5f	Height	Left Caudate	female	female	127f:bm5f	Height---Left Caudate	0.321740282685512
+127f	bm6f	1.0013	0.009	-0.0982	0.0462	0.0335	127f:bm6f	Height	Left Putamen	female	female	127f:bm6f	Height---Left Putamen	0.0771070559610706
+127f	bm7f	1.0002	0.0089	-0.0996	0.0448	0.0262	127f:bm7f	Height	Right Putamen	female	female	127f:bm7f	Height---Right Putamen	0.0625888888888889
+127f	bm8f	0.9971	0.0076	-0.0357	0.0544	0.5123	127f:bm8f	Height	CC Central	female	female	127f:bm8f	CC Central---Height	0.660266757493188
+127f	ch1f	0.9975	0.0067	-0.0049	0.0657	0.941	127f:ch1f	Height	Nonword reading	female	female	127f:ch1f	Height---Nonword reading	0.968004782608696
+127f	ch6f	1.0024	0.0069	0.0604	0.0731	0.4085	127f:ch6f	Height	Word reading	female	female	127f:ch6f	Height---Word reading	0.564290379008746
+127f	l1f	1.0992	0.0334	0.0371	0.0257	0.1492	127f:l1f	Height	HDL	female	female	127f:l1f	HDL---Height	0.264809005628518
+127f	l2f	1.0783	0.0291	-0.1172	0.0266	1.0232e-05	127f:l2f	Height	LDL	female	female	127f:l2f	Height---LDL	4.22684366812227e-05
+127f	l3f	1.1169	0.0335	-0.1189	0.0272	1.2285e-05	127f:l3f	Height	TC	female	female	127f:l3f	Height---TC	5.031e-05
+127f	l4f	1.082	0.0314	-0.1024	0.0263	1e-04	127f:l4f	Height	logTG	female	female	127f:l4f	Height---logTG	0.000358333333333333
+127f	l5f	1.0921	0.0292	-0.1445	0.028	2.4083e-07	127f:l5f	Height	nonHDL	female	female	127f:l5f	Height---nonHDL	1.15063222222222e-06
+127f	r4f	0.9957	0.007	-0.0725	0.0434	0.0949	127f:r4f	Height	PTSD	female	female	127f:r4f	Height---PTSD	0.183589775051125
+127f	r5f	1.0526	0.0096	0.0019	0.0321	0.9517	127f:r5f	Height	Schizophrenia	female	female	127f:r5f	Height---Schizophrenia	0.972255075593952
+127f	r8f	0.9974	0.008	0.0422	0.0323	0.1905	127f:r8f	Height	Risk-taking behaviour	female	female	127f:r8f	Height---Risk-taking behaviour	0.320094138543517
+127f	r9f	1.0091	0.0071	0.1473	0.0598	0.0138	127f:r9f	Height	Carotid intima-media thickness	female	female	127f:r9f	Carotid intima-media thickness---Height	0.0363643454038997
+137f	145f	0.7319	0.0079	0.8867	0.0134	0	137f:145f	Weight	Body Mass Index	female	female	137f:145f	Body Mass Index---Weight	0
+137f	153f	0.9336	0.0086	-0.0307	0.0465	0.5088	137f:153f	Weight	Waist-hip ratio (> 50 yrs, adjBMI)	female	female	137f:153f	Waist-hip ratio (> 50 yrs, adjBMI)---Weight	0.658447058823529
+137f	154f	0.9575	0.0077	-0.1334	0.0629	0.0339	137f:154f	Weight	Waist-hip ratio (<= 50 yrs, adjBMI)	female	female	137f:154f	Waist-hip ratio (<= 50 yrs, adjBMI)---Weight	0.0776498789346247
+137f	159f	0.8178	0.0077	0.9351	0.0177	0	137f:159f	Weight	Hip circumference	female	female	137f:159f	Hip circumference---Weight	0
+137f	165f	0.8611	0.0083	0.4086	0.0318	6.7687e-38	137f:165f	Weight	Hip circumference (adjBMI)	female	female	137f:165f	Hip circumference (adjBMI)---Weight	1.14342682142857e-36
+137f	171f	0.8132	0.0077	0.9011	0.0192	0	137f:171f	Weight	Waist circumference	female	female	137f:171f	Waist circumference---Weight	0
+137f	177f	0.8894	0.0081	0.2247	0.037	1.2232e-09	137f:177f	Weight	Waist circumference (adjBMI)	female	female	137f:177f	Waist circumference (adjBMI)---Weight	6.88778095238095e-09
+137f	183f	0.8874	0.0085	0.3711	0.0438	2.3699e-17	137f:183f	Weight	Waist-hip ratio	female	female	137f:183f	Waist-hip ratio---Weight	2.09525738317757e-16
+137f	189f	0.909	0.0088	-0.0959	0.0399	0.0163	137f:189f	Weight	Waist-hip ratio (adjBMI)	female	female	137f:189f	Waist-hip ratio (adjBMI)---Weight	0.0415628032345013
+137f	4371f	1.0255	0.0094	0.0289	0.0763	0.705	137f:4371f	Weight	Thyroid-stimulating hormone	female	female	137f:4371f	Thyroid-stimulating hormone---Weight	0.820332103321033
+137f	4374f	1.0188	0.0076	0.0292	0.0674	0.6645	137f:4374f	Weight	Free thyroxine (FT4)	female	female	137f:4374f	Free thyroxine (FT4)---Weight	0.790314070351759
+137f	48f	0.9733	0.0082	-0.2005	0.0362	2.9427e-08	137f:48f	Weight	Age at first birth	female	female	137f:48f	Age at first birth---Weight	1.51293163043478e-07
+137f	51f	0.981	0.0069	0.0264	0.0491	0.5909	137f:51f	Weight	Number of children ever born	female	female	137f:51f	Number of children ever born---Weight	0.724082124352332
+137f	96f	0.9568	0.0075	0.4633	0.0496	1.013e-20	137f:96f	Weight	Height SDS	female	female	137f:96f	Height SDS---Weight	1.06477555555556e-19
+137f	99f	0.9849	0.0066	-0.2251	0.0855	0.0085	137f:99f	Weight	Pubertal growth	female	female	137f:99f	Pubertal growth---Weight	0.0232398843930636
+137f	a13f	0.9891	0.0091	0.2059	0.0455	5.9073e-06	137f:a13f	Weight	Cardiovascular disease	female	female	137f:a13f	Cardiovascular disease---Weight	2.51725486486487e-05
+137f	a1f	1.0099	0.0088	0.1302	0.0384	7e-04	137f:a1f	Weight	Insomnia	female	female	137f:a1f	Insomnia---Weight	0.00228344827586207
+137f	a21f	0.9812	0.0086	-0.0803	0.0448	0.073	137f:a21f	Weight	Grip strength measurement/ Muscle weakness	female	female	137f:a21f	Grip strength measurement/ Muscle weakness---Weight	0.147559829059829
+137f	a22f	1.0206	0.0085	0.3014	0.0339	5.9527e-19	137f:a22f	Weight	Snoring	female	female	137f:a22f	Snoring---Weight	5.68813555555556e-18
+137f	a27f	1.0389	0.0368	0.1552	0.0619	0.0122	137f:a27f	Weight	Fasting glucose	female	female	137f:a27f	Fasting glucose---Weight	0.0323282913165266
+137f	a28f	1.0172	0.0097	0.4469	0.0799	2.2093e-08	137f:a28f	Weight	Fasting insulin	female	female	137f:a28f	Fasting insulin---Weight	1.15469491712707e-07
+137f	a29f	1.0182	0.0089	0.295	0.0316	1.0267e-20	137f:a29f	Weight	Multisite chronic pain	female	female	137f:a29f	Multisite chronic pain---Weight	1.0673167032967e-19
+137f	a30f	0.9524	0.0093	-0.1988	0.0296	1.9106e-11	137f:a30f	Weight	Educational attainment	female	female	137f:a30f	Educational attainment---Weight	1.17365428571429e-10
+137f	a7f	0.9535	0.0082	-0.0569	0.0583	0.3293	137f:a7f	Weight	Parkinson's disease	female	female	137f:a7f	Parkinson's disease---Weight	0.490579212598425
+137f	a8f	1.0515	0.013	0.503	0.0377	1.1773e-40	137f:a8f	Weight	Type 2 diabetes	female	female	137f:a8f	Type 2 diabetes---Weight	2.18377607843137e-39
+137f	a9f	1.0553	0.0087	0.2386	0.0709	8e-04	137f:a9f	Weight	ADHD	female	female	137f:a9f	ADHD---Weight	0.00258293515358362
+137f	bm2f	0.9931	0.0073	-0.1299	0.0633	0.0403	137f:bm2f	Weight	Left 5m area	female	female	137f:bm2f	Left 5m area---Weight	0.0894924882629108
+137f	bm5f	1.0011	0.0088	-0.0669	0.0503	0.1839	137f:bm5f	Weight	Left Caudate	female	female	137f:bm5f	Left Caudate---Weight	0.3109975
+137f	bm6f	1.0021	0.009	-0.0548	0.0516	0.2885	137f:bm6f	Weight	Left Putamen	female	female	137f:bm6f	Left Putamen---Weight	0.446302120717781
+137f	bm7f	1.0015	0.0089	-0.0483	0.0497	0.3311	137f:bm7f	Weight	Right Putamen	female	female	137f:bm7f	Right Putamen---Weight	0.490941379310345
+137f	bm8f	0.9972	0.0076	0.1039	0.0563	0.0648	137f:bm8f	Weight	CC Central	female	female	137f:bm8f	CC Central---Weight	0.133552941176471
+137f	ch1f	0.9975	0.0068	-0.1255	0.0697	0.072	137f:ch1f	Weight	Nonword reading	female	female	137f:ch1f	Nonword reading---Weight	0.145850107066381
+137f	ch6f	1.0032	0.0069	-0.2046	0.08	0.0105	137f:ch6f	Weight	Word reading	female	female	137f:ch6f	Weight---Word reading	0.0280593220338983
+137f	l1f	1.0989	0.0335	-0.3602	0.0317	7.1156e-30	137f:l1f	Weight	HDL	female	female	137f:l1f	HDL---Weight	9.75559072463768e-29
+137f	l2f	1.077	0.0291	0.0886	0.0319	0.0055	137f:l2f	Weight	LDL	female	female	137f:l2f	LDL---Weight	0.0154391691394659
+137f	l3f	1.1156	0.0332	-0.0114	0.0298	0.7017	137f:l3f	Weight	TC	female	female	137f:l3f	TC---Weight	0.818505795314427
+137f	l4f	1.0832	0.0313	0.2852	0.0354	7.4733e-16	137f:l4f	Weight	logTG	female	female	137f:l4f	logTG---Weight	5.84276181818182e-15
+137f	l5f	1.0929	0.0292	0.1391	0.0339	4.098e-05	137f:l5f	Weight	nonHDL	female	female	137f:l5f	nonHDL---Weight	0.000155691084337349
+137f	r4f	0.9969	0.007	0.0779	0.0471	0.0981	137f:r4f	Weight	PTSD	female	female	137f:r4f	PTSD---Weight	0.188623170731707
+137f	r5f	1.0536	0.0098	-0.0545	0.0345	0.1148	137f:r5f	Weight	Schizophrenia	female	female	137f:r5f	Schizophrenia---Weight	0.215051089108911
+137f	r8f	0.9974	0.008	0.0595	0.0394	0.1307	137f:r8f	Weight	Risk-taking behaviour	female	female	137f:r8f	Risk-taking behaviour---Weight	0.239153191489362
+137f	r9f	1.009	0.0071	0.205	0.0724	0.0047	137f:r9f	Weight	Carotid intima-media thickness	female	female	137f:r9f	Carotid intima-media thickness---Weight	0.0133921686746988
+145f	153f	0.9335	0.0086	-0.0551	0.0368	0.135	145f:153f	Body Mass Index	Waist-hip ratio (> 50 yrs, adjBMI)	female	female	145f:153f	Body Mass Index---Waist-hip ratio (> 50 yrs, adjBMI)	0.245124760076775
+145f	154f	0.9579	0.0076	-0.1707	0.0499	6e-04	145f:154f	Body Mass Index	Waist-hip ratio (<= 50 yrs, adjBMI)	female	female	145f:154f	Body Mass Index---Waist-hip ratio (<= 50 yrs, adjBMI)	0.00199157894736842
+145f	159f	0.8212	0.0076	0.8768	0.0117	0	145f:159f	Body Mass Index	Hip circumference	female	female	145f:159f	Body Mass Index---Hip circumference	0
+145f	165f	0.8618	0.0079	0.0243	0.0284	0.3908	145f:165f	Body Mass Index	Hip circumference (adjBMI)	female	female	145f:165f	Body Mass Index---Hip circumference (adjBMI)	0.547698962962963
+145f	171f	0.8154	0.0069	0.8997	0.0107	0	145f:171f	Body Mass Index	Waist circumference	female	female	145f:171f	Body Mass Index---Waist circumference	0
+145f	177f	0.891	0.0081	-0.0745	0.0304	0.0143	145f:177f	Body Mass Index	Waist circumference (adjBMI)	female	female	145f:177f	Body Mass Index---Waist circumference (adjBMI)	0.0375772222222222
+145f	183f	0.8889	0.0082	0.4435	0.0359	4.4589e-35	145f:183f	Body Mass Index	Waist-hip ratio	female	female	145f:183f	Body Mass Index---Waist-hip ratio	6.91494983606557e-34
+145f	189f	0.9082	0.0088	-0.0974	0.0325	0.0027	145f:189f	Body Mass Index	Waist-hip ratio (adjBMI)	female	female	145f:189f	Body Mass Index---Waist-hip ratio (adjBMI)	0.00816038338658147
+145f	4371f	1.0248	0.0088	-0.0041	0.0669	0.9514	145f:4371f	Body Mass Index	Thyroid-stimulating hormone	female	female	145f:4371f	Body Mass Index---Thyroid-stimulating hormone	0.972255075593952
+145f	4374f	1.0174	0.0077	-0.0073	0.048	0.8785	145f:4374f	Body Mass Index	Free thyroxine (FT4)	female	female	145f:4374f	Body Mass Index---Free thyroxine (FT4)	0.94815244596132
+145f	48f	0.9733	0.0079	-0.2596	0.0297	2.5822e-18	145f:48f	Body Mass Index	Age at first birth	female	female	145f:48f	Age at first birth---Body Mass Index	2.41857544554455e-17
+145f	51f	0.9769	0.0067	0.0684	0.0354	0.0534	145f:51f	Body Mass Index	Number of children ever born	female	female	145f:51f	Body Mass Index---Number of children ever born	0.114032505643341
+145f	96f	0.9584	0.0075	0.1634	0.0464	4e-04	145f:96f	Body Mass Index	Height SDS	female	female	145f:96f	Body Mass Index---Height SDS	0.00138102189781022
+145f	99f	0.9837	0.0066	-0.4519	0.0794	1.2743e-08	145f:99f	Body Mass Index	Pubertal growth	female	female	145f:99f	Body Mass Index---Pubertal growth	6.7345687150838e-08
+145f	a13f	0.9901	0.0087	0.2661	0.038	2.4712e-12	145f:a13f	Body Mass Index	Cardiovascular disease	female	female	145f:a13f	Body Mass Index---Cardiovascular disease	1.61224496551724e-11
+145f	a1f	1.0108	0.0085	0.1731	0.0313	3.0454e-08	145f:a1f	Body Mass Index	Insomnia	female	female	145f:a1f	Body Mass Index---Insomnia	1.55726940540541e-07
+145f	a21f	0.9835	0.0079	0.1175	0.0337	5e-04	145f:a21f	Body Mass Index	Grip strength measurement/ Muscle weakness	female	female	145f:a21f	Body Mass Index---Grip strength measurement/ Muscle weakness	0.00170758122743682
+145f	a22f	1.0241	0.008	0.3581	0.0256	1.8519e-44	145f:a22f	Body Mass Index	Snoring	female	female	145f:a22f	Body Mass Index---Snoring	3.72744127659574e-43
+145f	a27f	1.0259	0.0339	0.1526	0.0515	0.003	145f:a27f	Body Mass Index	Fasting glucose	female	female	145f:a27f	Body Mass Index---Fasting glucose	0.00892452830188679
+145f	a28f	1.0172	0.0096	0.5406	0.0738	2.3692e-13	145f:a28f	Body Mass Index	Fasting insulin	female	female	145f:a28f	Body Mass Index---Fasting insulin	1.64798764705882e-12
+145f	a29f	1.0207	0.0088	0.3247	0.0257	1.326e-36	145f:a29f	Body Mass Index	Multisite chronic pain	female	female	145f:a29f	Body Mass Index---Multisite chronic pain	2.16275172413793e-35
+145f	a30f	0.953	0.0091	-0.2901	0.0239	5.6509e-34	145f:a30f	Body Mass Index	Educational attainment	female	female	145f:a30f	Body Mass Index---Educational attainment	8.48531968253968e-33
+145f	a7f	0.953	0.0083	-0.0975	0.0503	0.0524	145f:a7f	Body Mass Index	Parkinson's disease	female	female	145f:a7f	Body Mass Index---Parkinson's disease	0.112619047619048
+145f	a8f	1.0524	0.0129	0.5541	0.0293	8.5279e-80	145f:a8f	Body Mass Index	Type 2 diabetes	female	female	145f:a8f	Body Mass Index---Type 2 diabetes	2.5210604375e-78
+145f	a9f	1.0562	0.0087	0.2892	0.0624	3.6198e-06	145f:a9f	Body Mass Index	ADHD	female	female	145f:a9f	ADHD---Body Mass Index	1.57803262672811e-05
+145f	bm2f	0.9931	0.0074	-0.1082	0.049	0.0271	145f:bm2f	Body Mass Index	Left 5m area	female	female	145f:bm2f	Body Mass Index---Left 5m area	0.0642521303258145
+145f	bm5f	1.0021	0.0078	-0.0034	0.0402	0.9324	145f:bm5f	Body Mass Index	Left Caudate	female	female	145f:bm5f	Body Mass Index---Left Caudate	0.967782894736842
+145f	bm6f	1.0045	0.0091	-0.0037	0.0439	0.9328	145f:bm6f	Body Mass Index	Left Putamen	female	female	145f:bm6f	Body Mass Index---Left Putamen	0.967782894736842
+145f	bm7f	1.0031	0.009	0.0061	0.0412	0.8826	145f:bm7f	Body Mass Index	Right Putamen	female	female	145f:bm7f	Body Mass Index---Right Putamen	0.948795
+145f	bm8f	0.9988	0.0075	0.0336	0.0483	0.4873	145f:bm8f	Body Mass Index	CC Central	female	female	145f:bm8f	Body Mass Index---CC Central	0.640056786703601
+145f	ch1f	0.9989	0.0068	-0.175	0.0552	0.0015	145f:ch1f	Body Mass Index	Nonword reading	female	female	145f:ch1f	Body Mass Index---Nonword reading	0.00469867549668874
+145f	ch6f	1.0029	0.0071	-0.229	0.067	6e-04	145f:ch6f	Body Mass Index	Word reading	female	female	145f:ch6f	Body Mass Index---Word reading	0.00199157894736842
+145f	l1f	1.1119	0.035	-0.4407	0.0249	2.6427e-70	145f:l1f	Body Mass Index	HDL	female	female	145f:l1f	Body Mass Index---HDL	7.35292411764706e-69
+145f	l2f	1.0814	0.0294	0.1457	0.0232	3.2205e-10	145f:l2f	Body Mass Index	LDL	female	female	145f:l2f	Body Mass Index---LDL	1.88061296296296e-09
+145f	l3f	1.1226	0.0339	0.0314	0.0212	0.1385	145f:l3f	Body Mass Index	TC	female	female	145f:l3f	Body Mass Index---TC	0.250040076335878
+145f	l4f	1.088	0.0312	0.3771	0.0283	1.8022e-40	145f:l4f	Body Mass Index	logTG	female	female	145f:l4f	Body Mass Index---logTG	3.27861769230769e-39
+145f	l5f	1.0956	0.0298	0.2174	0.0261	8.362e-17	145f:l5f	Body Mass Index	nonHDL	female	female	145f:l5f	Body Mass Index---nonHDL	7.06290357142857e-16
+145f	r4f	0.9969	0.0068	0.1239	0.0409	0.0024	145f:r4f	Body Mass Index	PTSD	female	female	145f:r4f	Body Mass Index---PTSD	0.00730032154340836
+145f	r5f	1.0533	0.0098	-0.0775	0.0295	0.0086	145f:r5f	Body Mass Index	Schizophrenia	female	female	145f:r5f	Body Mass Index---Schizophrenia	0.0233781609195402
+145f	r8f	0.9982	0.0075	0.0308	0.0329	0.3495	145f:r8f	Body Mass Index	Risk-taking behaviour	female	female	145f:r8f	Body Mass Index---Risk-taking behaviour	0.510226851851852
+145f	r9f	1.009	0.0073	0.127	0.0535	0.0177	145f:r9f	Body Mass Index	Carotid intima-media thickness	female	female	145f:r9f	Body Mass Index---Carotid intima-media thickness	0.0442968253968254
+153f	154f	0.9577	0.0074	1.0633	0.0809	1.9655e-39	153f:154f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio (<= 50 yrs, adjBMI)	female	female	153f:154f	Waist-hip ratio (<= 50 yrs, adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	3.38066e-38
+153f	159f	0.8223	0.0082	-0.2042	0.0458	8.1211e-06	153f:159f	Waist-hip ratio (> 50 yrs, adjBMI)	Hip circumference	female	female	153f:159f	Hip circumference---Waist-hip ratio (> 50 yrs, adjBMI)	3.38438792951542e-05
+153f	165f	0.864	0.0089	-0.3681	0.0467	3.1644e-15	153f:165f	Waist-hip ratio (> 50 yrs, adjBMI)	Hip circumference (adjBMI)	female	female	153f:165f	Hip circumference (adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	2.3571042519685e-14
+153f	171f	0.8161	0.0081	0.2798	0.0374	7.512e-14	153f:171f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist circumference	female	female	153f:171f	Waist circumference---Waist-hip ratio (> 50 yrs, adjBMI)	5.3836e-13
+153f	177f	0.8909	0.0086	0.7287	0.0312	1.2522e-120	153f:177f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist circumference (adjBMI)	female	female	153f:177f	Waist circumference (adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	5.38446e-119
+153f	183f	0.8916	0.0093	0.8825	0.0198	0	153f:183f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio	female	female	153f:183f	Waist-hip ratio---Waist-hip ratio (> 50 yrs, adjBMI)	0
+153f	189f	0.9143	0.0098	1.0136	0.0164	0	153f:189f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio (adjBMI)	female	female	153f:189f	Waist-hip ratio (> 50 yrs, adjBMI)---Waist-hip ratio (adjBMI)	0
+153f	4371f	1.0273	0.0096	-0.0604	0.1038	0.5608	153f:4371f	Waist-hip ratio (> 50 yrs, adjBMI)	Thyroid-stimulating hormone	female	female	153f:4371f	Thyroid-stimulating hormone---Waist-hip ratio (> 50 yrs, adjBMI)	0.695384293193717
+153f	4374f	1.018	0.0078	-0.194	0.0899	0.031	153f:4374f	Waist-hip ratio (> 50 yrs, adjBMI)	Free thyroxine (FT4)	female	female	153f:4374f	Free thyroxine (FT4)---Waist-hip ratio (> 50 yrs, adjBMI)	0.072054054054054
+153f	48f	0.9751	0.0087	-0.1258	0.0498	0.0115	153f:48f	Waist-hip ratio (> 50 yrs, adjBMI)	Age at first birth	female	female	153f:48f	Age at first birth---Waist-hip ratio (> 50 yrs, adjBMI)	0.0305589887640449
+153f	51f	0.9822	0.0072	0.047	0.0699	0.5015	153f:51f	Waist-hip ratio (> 50 yrs, adjBMI)	Number of children ever born	female	female	153f:51f	Number of children ever born---Waist-hip ratio (> 50 yrs, adjBMI)	0.650780521262003
+153f	96f	0.957	0.0077	0.022	0.0686	0.749	153f:96f	Waist-hip ratio (> 50 yrs, adjBMI)	Height SDS	female	female	153f:96f	Height SDS---Waist-hip ratio (> 50 yrs, adjBMI)	0.850605042016807
+153f	99f	0.9849	0.0066	0.0211	0.0899	0.8147	153f:99f	Waist-hip ratio (> 50 yrs, adjBMI)	Pubertal growth	female	female	153f:99f	Pubertal growth---Waist-hip ratio (> 50 yrs, adjBMI)	0.903524267291911
+153f	a13f	0.9871	0.0096	0.234	0.0582	5.759e-05	153f:a13f	Waist-hip ratio (> 50 yrs, adjBMI)	Cardiovascular disease	female	female	153f:a13f	Cardiovascular disease---Waist-hip ratio (> 50 yrs, adjBMI)	0.000216191031746032
+153f	a1f	1.0144	0.0089	0.0216	0.0498	0.665	153f:a1f	Waist-hip ratio (> 50 yrs, adjBMI)	Insomnia	female	female	153f:a1f	Insomnia---Waist-hip ratio (> 50 yrs, adjBMI)	0.790314070351759
+153f	a21f	0.9789	0.0089	-0.014	0.0607	0.8177	153f:a21f	Waist-hip ratio (> 50 yrs, adjBMI)	Grip strength measurement/ Muscle weakness	female	female	153f:a21f	Grip strength measurement/ Muscle weakness---Waist-hip ratio (> 50 yrs, adjBMI)	0.905789461358314
+153f	a22f	1.0193	0.0089	0.0802	0.0431	0.0631	153f:a22f	Waist-hip ratio (> 50 yrs, adjBMI)	Snoring	female	female	153f:a22f	Snoring---Waist-hip ratio (> 50 yrs, adjBMI)	0.130333187772926
+153f	a27f	1.0266	0.0352	0.0731	0.0571	0.2009	153f:a27f	Waist-hip ratio (> 50 yrs, adjBMI)	Fasting glucose	female	female	153f:a27f	Fasting glucose---Waist-hip ratio (> 50 yrs, adjBMI)	0.331677835951134
+153f	a28f	1.0176	0.0095	0.4965	0.1184	2.7624e-05	153f:a28f	Waist-hip ratio (> 50 yrs, adjBMI)	Fasting insulin	female	female	153f:a28f	Fasting insulin---Waist-hip ratio (> 50 yrs, adjBMI)	0.000106662465306122
+153f	a29f	1.0219	0.0098	0.0319	0.0424	0.4517	153f:a29f	Waist-hip ratio (> 50 yrs, adjBMI)	Multisite chronic pain	female	female	153f:a29f	Multisite chronic pain---Waist-hip ratio (> 50 yrs, adjBMI)	0.604396322489392
+153f	a30f	0.9536	0.0099	-0.1095	0.0397	0.0059	153f:a30f	Waist-hip ratio (> 50 yrs, adjBMI)	Educational attainment	female	female	153f:a30f	Educational attainment---Waist-hip ratio (> 50 yrs, adjBMI)	0.0163677419354839
+153f	a7f	0.953	0.0086	-0.0379	0.0642	0.5547	153f:a7f	Waist-hip ratio (> 50 yrs, adjBMI)	Parkinson's disease	female	female	153f:a7f	Parkinson's disease---Waist-hip ratio (> 50 yrs, adjBMI)	0.69223768115942
+153f	a8f	1.0449	0.0133	0.3726	0.0452	1.6261e-16	153f:a8f	Waist-hip ratio (> 50 yrs, adjBMI)	Type 2 diabetes	female	female	153f:a8f	Type 2 diabetes---Waist-hip ratio (> 50 yrs, adjBMI)	1.3261125862069e-15
+153f	a9f	1.0529	0.0086	0.1339	0.0856	0.1178	153f:a9f	Waist-hip ratio (> 50 yrs, adjBMI)	ADHD	female	female	153f:a9f	ADHD---Waist-hip ratio (> 50 yrs, adjBMI)	0.219367716535433
+153f	bm2f	0.9915	0.0074	0.0151	0.0801	0.8502	153f:bm2f	Waist-hip ratio (> 50 yrs, adjBMI)	Left 5m area	female	female	153f:bm2f	Left 5m area---Waist-hip ratio (> 50 yrs, adjBMI)	0.929814104046243
+153f	bm5f	1.0025	0.009	0.0718	0.0651	0.2702	153f:bm5f	Waist-hip ratio (> 50 yrs, adjBMI)	Left Caudate	female	female	153f:bm5f	Left Caudate---Waist-hip ratio (> 50 yrs, adjBMI)	0.422349258649094
+153f	bm6f	1.0021	0.0096	0.0478	0.061	0.4341	153f:bm6f	Waist-hip ratio (> 50 yrs, adjBMI)	Left Putamen	female	female	153f:bm6f	Left Putamen---Waist-hip ratio (> 50 yrs, adjBMI)	0.587195714285714
+153f	bm7f	1	0.0094	0.0227	0.0589	0.7004	153f:bm7f	Waist-hip ratio (> 50 yrs, adjBMI)	Right Putamen	female	female	153f:bm7f	Right Putamen---Waist-hip ratio (> 50 yrs, adjBMI)	0.817998024691358
+153f	bm8f	0.9967	0.0079	-0.1101	0.0765	0.1502	153f:bm8f	Waist-hip ratio (> 50 yrs, adjBMI)	CC Central	female	female	153f:bm8f	CC Central---Waist-hip ratio (> 50 yrs, adjBMI)	0.266084644194757
+153f	ch1f	0.9964	0.0069	-0.1293	0.0894	0.148	153f:ch1f	Waist-hip ratio (> 50 yrs, adjBMI)	Nonword reading	female	female	153f:ch1f	Nonword reading---Waist-hip ratio (> 50 yrs, adjBMI)	0.263668549905838
+153f	ch6f	1.0005	0.0072	-0.1905	0.1071	0.0754	153f:ch6f	Waist-hip ratio (> 50 yrs, adjBMI)	Word reading	female	female	153f:ch6f	Waist-hip ratio (> 50 yrs, adjBMI)---Word reading	0.151762553191489
+153f	l1f	1.1141	0.0367	-0.3518	0.0334	7.0078e-26	153f:l1f	Waist-hip ratio (> 50 yrs, adjBMI)	HDL	female	female	153f:l1f	HDL---Waist-hip ratio (> 50 yrs, adjBMI)	8.95862e-25
+153f	l2f	1.0874	0.0311	0.2464	0.0417	3.5049e-09	153f:l2f	Waist-hip ratio (> 50 yrs, adjBMI)	LDL	female	female	153f:l2f	LDL---Waist-hip ratio (> 50 yrs, adjBMI)	1.927695e-08
+153f	l3f	1.1312	0.0368	0.1872	0.0404	3.5689e-06	153f:l3f	Waist-hip ratio (> 50 yrs, adjBMI)	TC	female	female	153f:l3f	TC---Waist-hip ratio (> 50 yrs, adjBMI)	1.56304601851852e-05
+153f	l4f	1.0949	0.0344	0.4315	0.0348	2.8689e-35	153f:l4f	Waist-hip ratio (> 50 yrs, adjBMI)	logTG	female	female	153f:l4f	logTG---Waist-hip ratio (> 50 yrs, adjBMI)	4.523299e-34
+153f	l5f	1.1038	0.0317	0.3176	0.0398	1.5481e-15	153f:l5f	Waist-hip ratio (> 50 yrs, adjBMI)	nonHDL	female	female	153f:l5f	nonHDL---Waist-hip ratio (> 50 yrs, adjBMI)	1.17160208e-14
+153f	r4f	0.9954	0.007	0.0738	0.0566	0.1925	153f:r4f	Waist-hip ratio (> 50 yrs, adjBMI)	PTSD	female	female	153f:r4f	PTSD---Waist-hip ratio (> 50 yrs, adjBMI)	0.321740282685512
+153f	r5f	1.051	0.01	-0.0759	0.0479	0.1134	153f:r5f	Waist-hip ratio (> 50 yrs, adjBMI)	Schizophrenia	female	female	153f:r5f	Schizophrenia---Waist-hip ratio (> 50 yrs, adjBMI)	0.21285
+153f	r8f	0.9992	0.0084	0.053	0.0533	0.3203	153f:r8f	Waist-hip ratio (> 50 yrs, adjBMI)	Risk-taking behaviour	female	female	153f:r8f	Risk-taking behaviour---Waist-hip ratio (> 50 yrs, adjBMI)	0.480958412698413
+153f	r9f	1.0106	0.0076	0.1054	0.0819	0.198	153f:r9f	Waist-hip ratio (> 50 yrs, adjBMI)	Carotid intima-media thickness	female	female	153f:r9f	Carotid intima-media thickness---Waist-hip ratio (> 50 yrs, adjBMI)	0.327461538461538
+154f	159f	0.8218	0.0083	-0.3578	0.0581	7.5043e-10	154f:159f	Waist-hip ratio (<= 50 yrs, adjBMI)	Hip circumference	female	female	154f:159f	Hip circumference---Waist-hip ratio (<= 50 yrs, adjBMI)	4.25093880239521e-09
+154f	165f	0.864	0.0089	-0.4011	0.0587	8.1714e-12	154f:165f	Waist-hip ratio (<= 50 yrs, adjBMI)	Hip circumference (adjBMI)	female	female	154f:165f	Hip circumference (adjBMI)---Waist-hip ratio (<= 50 yrs, adjBMI)	5.1534296e-11
+154f	171f	0.8163	0.0082	0.2078	0.0547	1e-04	154f:171f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist circumference	female	female	154f:171f	Waist circumference---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000358333333333333
+154f	177f	0.8906	0.0086	0.8398	0.0486	8.7015e-67	154f:177f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist circumference (adjBMI)	female	female	154f:177f	Waist circumference (adjBMI)---Waist-hip ratio (<= 50 yrs, adjBMI)	2.28656083333333e-65
+154f	183f	0.8913	0.0093	0.915	0.0459	1.8493e-88	154f:183f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist-hip ratio	female	female	154f:183f	Waist-hip ratio---Waist-hip ratio (<= 50 yrs, adjBMI)	6.47939925925926e-87
+154f	189f	0.9143	0.0098	1.1388	0.0441	3.2765e-147	154f:189f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist-hip ratio (adjBMI)	female	female	154f:189f	Waist-hip ratio (<= 50 yrs, adjBMI)---Waist-hip ratio (adjBMI)	1.63135210526316e-145
+154f	4371f	1.0273	0.0096	0.1516	0.1194	0.2042	154f:4371f	Waist-hip ratio (<= 50 yrs, adjBMI)	Thyroid-stimulating hormone	female	female	154f:4371f	Thyroid-stimulating hormone---Waist-hip ratio (<= 50 yrs, adjBMI)	0.335370138888889
+154f	4374f	1.0179	0.0078	-0.2138	0.1048	0.0413	154f:4374f	Waist-hip ratio (<= 50 yrs, adjBMI)	Free thyroxine (FT4)	female	female	154f:4374f	Free thyroxine (FT4)---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0912845794392523
+154f	48f	0.9751	0.0087	-0.2339	0.0631	2e-04	154f:48f	Waist-hip ratio (<= 50 yrs, adjBMI)	Age at first birth	female	female	154f:48f	Age at first birth---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000708614232209738
+154f	51f	0.9822	0.0072	0.1168	0.0902	0.1952	154f:51f	Waist-hip ratio (<= 50 yrs, adjBMI)	Number of children ever born	female	female	154f:51f	Number of children ever born---Waist-hip ratio (<= 50 yrs, adjBMI)	0.324532864674868
+154f	96f	0.957	0.0077	-0.0893	0.089	0.316	154f:96f	Waist-hip ratio (<= 50 yrs, adjBMI)	Height SDS	female	female	154f:96f	Height SDS---Waist-hip ratio (<= 50 yrs, adjBMI)	0.477986900958466
+154f	99f	0.9849	0.0065	0.0131	0.1315	0.921	154f:99f	Waist-hip ratio (<= 50 yrs, adjBMI)	Pubertal growth	female	female	154f:99f	Pubertal growth---Waist-hip ratio (<= 50 yrs, adjBMI)	0.96378982300885
+154f	a13f	0.987	0.0097	0.2944	0.0732	5.7197e-05	154f:a13f	Waist-hip ratio (<= 50 yrs, adjBMI)	Cardiovascular disease	female	female	154f:a13f	Cardiovascular disease---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000215571163346614
+154f	a1f	1.0144	0.0089	0.1807	0.0629	0.0041	154f:a1f	Waist-hip ratio (<= 50 yrs, adjBMI)	Insomnia	female	female	154f:a1f	Insomnia---Waist-hip ratio (<= 50 yrs, adjBMI)	0.011825
+154f	a21f	0.9791	0.0089	-0.0049	0.065	0.9403	154f:a21f	Waist-hip ratio (<= 50 yrs, adjBMI)	Grip strength measurement/ Muscle weakness	female	female	154f:a21f	Grip strength measurement/ Muscle weakness---Waist-hip ratio (<= 50 yrs, adjBMI)	0.968004782608696
+154f	a22f	1.0194	0.0089	0.1203	0.0567	0.0339	154f:a22f	Waist-hip ratio (<= 50 yrs, adjBMI)	Snoring	female	female	154f:a22f	Snoring---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0776498789346247
+154f	a27f	1.0262	0.0352	0.0542	0.0785	0.4903	154f:a27f	Waist-hip ratio (<= 50 yrs, adjBMI)	Fasting glucose	female	female	154f:a27f	Fasting glucose---Waist-hip ratio (<= 50 yrs, adjBMI)	0.641293922651934
+154f	a28f	1.0171	0.0095	0.3255	0.1507	0.0308	154f:a28f	Waist-hip ratio (<= 50 yrs, adjBMI)	Fasting insulin	female	female	154f:a28f	Fasting insulin---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0717655172413793
+154f	a29f	1.0218	0.0097	0.0846	0.0509	0.0965	154f:a29f	Waist-hip ratio (<= 50 yrs, adjBMI)	Multisite chronic pain	female	female	154f:a29f	Multisite chronic pain---Waist-hip ratio (<= 50 yrs, adjBMI)	0.185924643584521
+154f	a30f	0.9536	0.0099	-0.1864	0.0497	2e-04	154f:a30f	Waist-hip ratio (<= 50 yrs, adjBMI)	Educational attainment	female	female	154f:a30f	Educational attainment---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000708614232209738
+154f	a7f	0.953	0.0086	0.055	0.0905	0.5433	154f:a7f	Waist-hip ratio (<= 50 yrs, adjBMI)	Parkinson's disease	female	female	154f:a7f	Parkinson's disease---Waist-hip ratio (<= 50 yrs, adjBMI)	0.686197329773031
+154f	a8f	1.0447	0.0132	0.3111	0.0564	3.422e-08	154f:a8f	Waist-hip ratio (<= 50 yrs, adjBMI)	Type 2 diabetes	female	female	154f:a8f	Type 2 diabetes---Waist-hip ratio (<= 50 yrs, adjBMI)	1.73112941176471e-07
+154f	a9f	1.053	0.0086	0.274	0.1208	0.0234	154f:a9f	Waist-hip ratio (<= 50 yrs, adjBMI)	ADHD	female	female	154f:a9f	ADHD---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0566148337595908
+154f	bm2f	0.9915	0.0074	0.2565	0.0929	0.0058	154f:bm2f	Waist-hip ratio (<= 50 yrs, adjBMI)	Left 5m area	female	female	154f:bm2f	Left 5m area---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0161852507374631
+154f	bm5f	1.0026	0.0091	0.0569	0.075	0.448	154f:bm5f	Waist-hip ratio (<= 50 yrs, adjBMI)	Left Caudate	female	female	154f:bm5f	Left Caudate---Waist-hip ratio (<= 50 yrs, adjBMI)	0.601280283687943
+154f	bm6f	1.0021	0.0096	0.0654	0.0827	0.4291	154f:bm6f	Waist-hip ratio (<= 50 yrs, adjBMI)	Left Putamen	female	female	154f:bm6f	Left Putamen---Waist-hip ratio (<= 50 yrs, adjBMI)	0.582393974175036
+154f	bm7f	1	0.0093	0.0931	0.0799	0.244	154f:bm7f	Waist-hip ratio (<= 50 yrs, adjBMI)	Right Putamen	female	female	154f:bm7f	Right Putamen---Waist-hip ratio (<= 50 yrs, adjBMI)	0.387288590604027
+154f	bm8f	0.9968	0.0079	-0.1797	0.0873	0.0396	154f:bm8f	Waist-hip ratio (<= 50 yrs, adjBMI)	CC Central	female	female	154f:bm8f	CC Central---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0881449411764706
+154f	ch1f	0.9963	0.0069	-0.0581	0.1129	0.6064	154f:ch1f	Waist-hip ratio (<= 50 yrs, adjBMI)	Nonword reading	female	female	154f:ch1f	Nonword reading---Waist-hip ratio (<= 50 yrs, adjBMI)	0.73734498714653
+154f	ch6f	1.0006	0.0072	-0.1113	0.1349	0.4092	154f:ch6f	Waist-hip ratio (<= 50 yrs, adjBMI)	Word reading	female	female	154f:ch6f	Waist-hip ratio (<= 50 yrs, adjBMI)---Word reading	0.564290379008746
+154f	l1f	1.1136	0.0366	-0.3671	0.0456	8.2278e-16	154f:l1f	Waist-hip ratio (<= 50 yrs, adjBMI)	HDL	female	female	154f:l1f	HDL---Waist-hip ratio (<= 50 yrs, adjBMI)	6.37991704918033e-15
+154f	l2f	1.0879	0.0311	0.1965	0.0496	7.4908e-05	154f:l2f	Waist-hip ratio (<= 50 yrs, adjBMI)	LDL	female	female	154f:l2f	LDL---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000277893992156863
+154f	l3f	1.1317	0.0368	0.1275	0.0456	0.0052	154f:l3f	Waist-hip ratio (<= 50 yrs, adjBMI)	TC	female	female	154f:l3f	TC---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0146404761904762
+154f	l4f	1.0943	0.0344	0.4695	0.0507	2.1e-20	154f:l4f	Waist-hip ratio (<= 50 yrs, adjBMI)	logTG	female	female	154f:l4f	logTG---Waist-hip ratio (<= 50 yrs, adjBMI)	2.13612903225806e-19
+154f	l5f	1.1034	0.0317	0.2724	0.0514	1.1682e-07	154f:l5f	Waist-hip ratio (<= 50 yrs, adjBMI)	nonHDL	female	female	154f:l5f	nonHDL---Waist-hip ratio (<= 50 yrs, adjBMI)	5.69648041237113e-07
+154f	r4f	0.9954	0.0071	0.1854	0.0781	0.0176	154f:r4f	Waist-hip ratio (<= 50 yrs, adjBMI)	PTSD	female	female	154f:r4f	PTSD---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0441633952254642
+154f	r5f	1.0511	0.01	-0.0253	0.0576	0.6601	154f:r5f	Waist-hip ratio (<= 50 yrs, adjBMI)	Schizophrenia	female	female	154f:r5f	Schizophrenia---Waist-hip ratio (<= 50 yrs, adjBMI)	0.788452777777778
+154f	r8f	0.9991	0.0085	0.0769	0.0658	0.2429	154f:r8f	Waist-hip ratio (<= 50 yrs, adjBMI)	Risk-taking behaviour	female	female	154f:r8f	Risk-taking behaviour---Waist-hip ratio (<= 50 yrs, adjBMI)	0.386190588235294
+154f	r9f	1.0107	0.0077	0.1078	0.1026	0.2936	154f:r9f	Waist-hip ratio (<= 50 yrs, adjBMI)	Carotid intima-media thickness	female	female	154f:r9f	Carotid intima-media thickness---Waist-hip ratio (<= 50 yrs, adjBMI)	0.452354397394137
+159f	165f	0.8625	0.0079	0.5176	0.0249	5.3335e-96	159f:165f	Hip circumference	Hip circumference (adjBMI)	female	female	159f:165f	Hip circumference---Hip circumference (adjBMI)	2.0181964e-94
+159f	171f	0.8153	0.0069	0.86	0.0154	0	159f:171f	Hip circumference	Waist circumference	female	female	159f:171f	Hip circumference---Waist circumference	0
+159f	177f	0.8902	0.0081	0.1208	0.0355	7e-04	159f:177f	Hip circumference	Waist circumference (adjBMI)	female	female	159f:177f	Hip circumference---Waist circumference (adjBMI)	0.00228344827586207
+159f	183f	0.8895	0.0082	0.2259	0.0494	4.7643e-06	159f:183f	Hip circumference	Waist-hip ratio	female	female	159f:183f	Hip circumference---Waist-hip ratio	2.03937909502262e-05
+159f	189f	0.9091	0.0087	-0.2624	0.0379	4.4957e-12	159f:189f	Hip circumference	Waist-hip ratio (adjBMI)	female	female	159f:189f	Hip circumference---Waist-hip ratio (adjBMI)	2.91296726027397e-11
+159f	4371f	1.025	0.0089	-0.0147	0.0714	0.8368	159f:4371f	Hip circumference	Thyroid-stimulating hormone	female	female	159f:4371f	Hip circumference---Thyroid-stimulating hormone	0.923702217036173
+159f	4374f	1.0165	0.0077	0.0241	0.0598	0.6867	159f:4374f	Hip circumference	Free thyroxine (FT4)	female	female	159f:4374f	Free thyroxine (FT4)---Hip circumference	0.80898904109589
+159f	48f	0.9731	0.0079	-0.1564	0.0349	7.5485e-06	159f:48f	Hip circumference	Age at first birth	female	female	159f:48f	Age at first birth---Hip circumference	3.17372488888889e-05
+159f	51f	0.9767	0.0066	-0.0121	0.043	0.7786	159f:51f	Hip circumference	Number of children ever born	female	female	159f:51f	Hip circumference---Number of children ever born	0.873731435349941
+159f	96f	0.9586	0.0076	0.4018	0.0589	8.6355e-12	159f:96f	Hip circumference	Height SDS	female	female	159f:96f	Height SDS---Hip circumference	5.41005496688742e-11
+159f	99f	0.9841	0.0066	-0.2397	0.0708	7e-04	159f:99f	Hip circumference	Pubertal growth	female	female	159f:99f	Hip circumference---Pubertal growth	0.00228344827586207
+159f	a13f	0.9901	0.0089	0.1823	0.0426	1.8523e-05	159f:a13f	Hip circumference	Cardiovascular disease	female	female	159f:a13f	Cardiovascular disease---Hip circumference	7.30114916666667e-05
+159f	a1f	1.0102	0.0085	0.0779	0.0327	0.0173	159f:a1f	Hip circumference	Insomnia	female	female	159f:a1f	Hip circumference---Insomnia	0.0436421333333333
+159f	a21f	0.9829	0.0081	0.0158	0.0393	0.6884	159f:a21f	Hip circumference	Grip strength measurement/ Muscle weakness	female	female	159f:a21f	Grip strength measurement/ Muscle weakness---Hip circumference	0.809983084577114
+159f	a22f	1.0228	0.008	0.2611	0.0319	2.9765e-16	159f:a22f	Hip circumference	Snoring	female	female	159f:a22f	Hip circumference---Snoring	2.40664017094017e-15
+159f	a27f	1.0253	0.0351	0.0961	0.0553	0.0821	159f:a27f	Hip circumference	Fasting glucose	female	female	159f:a27f	Fasting glucose---Hip circumference	0.16385358649789
+159f	a28f	1.0171	0.0096	0.395	0.0856	3.9707e-06	159f:a28f	Hip circumference	Fasting insulin	female	female	159f:a28f	Fasting insulin---Hip circumference	1.7230652293578e-05
+159f	a29f	1.0212	0.0089	0.269	0.0278	3.993e-22	159f:a29f	Hip circumference	Multisite chronic pain	female	female	159f:a29f	Hip circumference---Multisite chronic pain	4.24424494382022e-21
+159f	a30f	0.9515	0.0092	-0.1552	0.0281	3.3908e-08	159f:a30f	Hip circumference	Educational attainment	female	female	159f:a30f	Educational attainment---Hip circumference	1.72456817204301e-07
+159f	a7f	0.9538	0.0082	-0.094	0.0504	0.062	159f:a7f	Hip circumference	Parkinson's disease	female	female	159f:a7f	Hip circumference---Parkinson's disease	0.128622807017544
+159f	a8f	1.0505	0.013	0.3986	0.0398	1.1572e-23	159f:a8f	Hip circumference	Type 2 diabetes	female	female	159f:a8f	Hip circumference---Type 2 diabetes	1.38571037974684e-22
+159f	a9f	1.0566	0.0086	0.2059	0.069	0.0028	159f:a9f	Hip circumference	ADHD	female	female	159f:a9f	ADHD---Hip circumference	0.00843566878980892
+159f	bm2f	0.9926	0.0075	-0.1055	0.0552	0.0557	159f:bm2f	Hip circumference	Left 5m area	female	female	159f:bm2f	Hip circumference---Left 5m area	0.118409438202247
+159f	bm5f	1.0023	0.0079	-0.0632	0.0471	0.1799	159f:bm5f	Hip circumference	Left Caudate	female	female	159f:bm5f	Hip circumference---Left Caudate	0.305539317773788
+159f	bm6f	1.004	0.0091	-0.0106	0.0531	0.8413	159f:bm6f	Hip circumference	Left Putamen	female	female	159f:bm6f	Hip circumference---Left Putamen	0.924270533642691
+159f	bm7f	1.0033	0.009	3e-04	0.0506	0.9947	159f:bm7f	Hip circumference	Right Putamen	female	female	159f:bm7f	Hip circumference---Right Putamen	0.996807415254237
+159f	bm8f	0.9991	0.0075	0.0063	0.0564	0.9116	159f:bm8f	Hip circumference	CC Central	female	female	159f:bm8f	CC Central---Hip circumference	0.960069256381798
+159f	ch1f	0.9993	0.0068	-0.0947	0.0622	0.1277	159f:ch1f	Hip circumference	Nonword reading	female	female	159f:ch1f	Hip circumference---Nonword reading	0.234116666666667
+159f	ch6f	1.0021	0.0072	-0.1538	0.0772	0.0462	159f:ch6f	Hip circumference	Word reading	female	female	159f:ch6f	Hip circumference---Word reading	0.100703225806452
+159f	l1f	1.1096	0.0349	-0.3209	0.0327	1.0902e-22	159f:l1f	Hip circumference	HDL	female	female	159f:l1f	HDL---Hip circumference	1.19922e-21
+159f	l2f	1.0796	0.029	0.0489	0.0274	0.0741	159f:l2f	Hip circumference	LDL	female	female	159f:l2f	Hip circumference---LDL	0.149463965884861
+159f	l3f	1.1203	0.0338	-0.0453	0.0241	0.0606	159f:l3f	Hip circumference	TC	female	female	159f:l3f	Hip circumference---TC	0.126550993377483
+159f	l4f	1.0865	0.0313	0.2152	0.034	2.3096e-10	159f:l4f	Hip circumference	logTG	female	female	159f:l4f	Hip circumference---logTG	1.35706931677019e-09
+159f	l5f	1.0945	0.0295	0.0907	0.0318	0.0044	159f:l5f	Hip circumference	nonHDL	female	female	159f:l5f	Hip circumference---nonHDL	0.0125752265861027
+159f	r4f	0.9972	0.0069	0.103	0.0424	0.0151	159f:r4f	Hip circumference	PTSD	female	female	159f:r4f	Hip circumference---PTSD	0.0391358904109589
+159f	r5f	1.0529	0.0098	-0.0266	0.0323	0.4105	159f:r5f	Hip circumference	Schizophrenia	female	female	159f:r5f	Hip circumference---Schizophrenia	0.565259097525473
+159f	r8f	0.9976	0.0076	0.004	0.0375	0.914	159f:r8f	Hip circumference	Risk-taking behaviour	female	female	159f:r8f	Hip circumference---Risk-taking behaviour	0.960069256381798
+159f	r9f	1.0096	0.0072	0.1069	0.0584	0.067	159f:r9f	Hip circumference	Carotid intima-media thickness	female	female	159f:r9f	Carotid intima-media thickness---Hip circumference	0.137786956521739
+165f	171f	0.8157	0.0069	0.2055	0.0304	1.3249e-11	165f:171f	Hip circumference (adjBMI)	Waist circumference	female	female	165f:171f	Hip circumference (adjBMI)---Waist circumference	8.19186535947712e-11
+165f	177f	0.8915	0.008	0.3465	0.0465	9.4325e-14	165f:177f	Hip circumference (adjBMI)	Waist circumference (adjBMI)	female	female	165f:177f	Hip circumference (adjBMI)---Waist circumference (adjBMI)	6.65906343283582e-13
+165f	183f	0.8897	0.0079	-0.3306	0.0382	4.6682e-18	165f:183f	Hip circumference (adjBMI)	Waist-hip ratio	female	female	165f:183f	Hip circumference (adjBMI)---Waist-hip ratio	4.28749242718447e-17
+165f	189f	0.909	0.0086	-0.3898	0.0399	1.6535e-22	165f:189f	Hip circumference (adjBMI)	Waist-hip ratio (adjBMI)	female	female	165f:189f	Hip circumference (adjBMI)---Waist-hip ratio (adjBMI)	1.79794367816092e-21
+165f	4371f	1.0246	0.0089	-0.0274	0.0687	0.6895	165f:4371f	Hip circumference (adjBMI)	Thyroid-stimulating hormone	female	female	165f:4371f	Hip circumference (adjBMI)---Thyroid-stimulating hormone	0.810269565217391
+165f	4374f	1.017	0.0077	0.0648	0.0651	0.3199	165f:4374f	Hip circumference (adjBMI)	Free thyroxine (FT4)	female	female	165f:4374f	Free thyroxine (FT4)---Hip circumference (adjBMI)	0.480958412698413
+165f	48f	0.9724	0.0078	0.1451	0.0374	1e-04	165f:48f	Hip circumference (adjBMI)	Age at first birth	female	female	165f:48f	Age at first birth---Hip circumference (adjBMI)	0.000358333333333333
+165f	51f	0.9767	0.0065	-0.0917	0.0525	0.0809	165f:51f	Hip circumference (adjBMI)	Number of children ever born	female	female	165f:51f	Hip circumference (adjBMI)---Number of children ever born	0.1618
+165f	96f	0.9583	0.0075	0.5142	0.0651	2.7374e-15	165f:96f	Hip circumference (adjBMI)	Height SDS	female	female	165f:96f	Height SDS---Hip circumference (adjBMI)	2.05522253968254e-14
+165f	99f	0.9834	0.0067	0.337	0.0766	1.0822e-05	165f:99f	Hip circumference (adjBMI)	Pubertal growth	female	female	165f:99f	Hip circumference (adjBMI)---Pubertal growth	4.45113565217391e-05
+165f	a13f	0.989	0.0087	-0.1095	0.0462	0.0178	165f:a13f	Hip circumference (adjBMI)	Cardiovascular disease	female	female	165f:a13f	Cardiovascular disease---Hip circumference (adjBMI)	0.0444295514511873
+165f	a1f	1.0101	0.0084	-0.0995	0.0359	0.0056	165f:a1f	Hip circumference (adjBMI)	Insomnia	female	female	165f:a1f	Hip circumference (adjBMI)---Insomnia	0.0156733727810651
+165f	a21f	0.9844	0.0078	-0.1797	0.0412	1.2835e-05	165f:a21f	Hip circumference (adjBMI)	Grip strength measurement/ Muscle weakness	female	female	165f:a21f	Grip strength measurement/ Muscle weakness---Hip circumference (adjBMI)	5.23358189655172e-05
+165f	a22f	1.0239	0.0081	-0.0442	0.0316	0.1616	165f:a22f	Hip circumference (adjBMI)	Snoring	female	female	165f:a22f	Hip circumference (adjBMI)---Snoring	0.278966423357664
+165f	a27f	1.0257	0.0355	-0.0306	0.0476	0.5206	165f:a27f	Hip circumference (adjBMI)	Fasting glucose	female	female	165f:a27f	Fasting glucose---Hip circumference (adjBMI)	0.66796048714479
+165f	a28f	1.0179	0.0095	-0.0772	0.0831	0.3528	165f:a28f	Hip circumference (adjBMI)	Fasting insulin	female	female	165f:a28f	Fasting insulin---Hip circumference (adjBMI)	0.513605230769231
+165f	a29f	1.0204	0.009	0.0214	0.0332	0.5185	165f:a29f	Hip circumference (adjBMI)	Multisite chronic pain	female	female	165f:a29f	Hip circumference (adjBMI)---Multisite chronic pain	0.666441576086956
+165f	a30f	0.9525	0.009	0.1692	0.0292	6.8682e-09	165f:a30f	Hip circumference (adjBMI)	Educational attainment	female	female	165f:a30f	Educational attainment---Hip circumference (adjBMI)	3.71275268571429e-08
+165f	a7f	0.9536	0.0082	0.0109	0.0545	0.8415	165f:a7f	Hip circumference (adjBMI)	Parkinson's disease	female	female	165f:a7f	Hip circumference (adjBMI)---Parkinson's disease	0.924270533642691
+165f	a8f	1.051	0.013	-0.1132	0.0323	5e-04	165f:a8f	Hip circumference (adjBMI)	Type 2 diabetes	female	female	165f:a8f	Hip circumference (adjBMI)---Type 2 diabetes	0.00170758122743682
+165f	a9f	1.0565	0.0087	-0.0332	0.0661	0.6155	165f:a9f	Hip circumference (adjBMI)	ADHD	female	female	165f:a9f	ADHD---Hip circumference (adjBMI)	0.747449293966624
+165f	bm2f	0.9927	0.0074	-0.0294	0.0549	0.5918	165f:bm2f	Hip circumference (adjBMI)	Left 5m area	female	female	165f:bm2f	Hip circumference (adjBMI)---Left 5m area	0.724246830530401
+165f	bm5f	1.002	0.0079	-0.104	0.0497	0.0365	165f:bm5f	Hip circumference (adjBMI)	Left Caudate	female	female	165f:bm5f	Hip circumference (adjBMI)---Left Caudate	0.0826052631578947
+165f	bm6f	1.0034	0.0092	-0.0622	0.0523	0.2344	165f:bm6f	Hip circumference (adjBMI)	Left Putamen	female	female	165f:bm6f	Hip circumference (adjBMI)---Left Putamen	0.374564864864865
+165f	bm7f	1.0027	0.0091	-0.0627	0.0509	0.2181	165f:bm7f	Hip circumference (adjBMI)	Right Putamen	female	female	165f:bm7f	Hip circumference (adjBMI)---Right Putamen	0.353898113207547
+165f	bm8f	0.9991	0.0076	0.0588	0.0576	0.3073	165f:bm8f	Hip circumference (adjBMI)	CC Central	female	female	165f:bm8f	CC Central---Hip circumference (adjBMI)	0.470397734627832
+165f	ch1f	0.9993	0.0068	0.0347	0.0651	0.5943	165f:ch1f	Hip circumference (adjBMI)	Nonword reading	female	female	165f:ch1f	Hip circumference (adjBMI)---Nonword reading	0.725429419354839
+165f	ch6f	1.0017	0.0071	0.127	0.0772	0.1	165f:ch6f	Hip circumference (adjBMI)	Word reading	female	female	165f:ch6f	Hip circumference (adjBMI)---Word reading	0.191497975708502
+165f	l1f	1.1109	0.0347	0.1126	0.0273	3.7676e-05	165f:l1f	Hip circumference (adjBMI)	HDL	female	female	165f:l1f	HDL---Hip circumference (adjBMI)	0.00014429755465587
+165f	l2f	1.0805	0.0293	-0.1619	0.028	7.2584e-09	165f:l2f	Hip circumference (adjBMI)	LDL	female	female	165f:l2f	Hip circumference (adjBMI)---LDL	3.90139e-08
+165f	l3f	1.1206	0.0343	-0.1473	0.0256	8.1767e-09	165f:l3f	Hip circumference (adjBMI)	TC	female	female	165f:l3f	Hip circumference (adjBMI)---TC	4.34559449438202e-08
+165f	l4f	1.0893	0.0314	-0.201	0.0283	1.2778e-12	165f:l4f	Hip circumference (adjBMI)	logTG	female	female	165f:l4f	Hip circumference (adjBMI)---logTG	8.39443611111111e-12
+165f	l5f	1.0953	0.0298	-0.2006	0.0276	3.3074e-13	165f:l5f	Hip circumference (adjBMI)	nonHDL	female	female	165f:l5f	Hip circumference (adjBMI)---nonHDL	2.28379591240876e-12
+165f	r4f	0.9968	0.0068	-0.1244	0.0481	0.0096	165f:r4f	Hip circumference (adjBMI)	PTSD	female	female	165f:r4f	Hip circumference (adjBMI)---PTSD	0.0258
+165f	r5f	1.053	0.0098	0.0328	0.0328	0.3183	165f:r5f	Hip circumference (adjBMI)	Schizophrenia	female	female	165f:r5f	Hip circumference (adjBMI)---Schizophrenia	0.479477388535032
+165f	r8f	0.9979	0.0075	-0.0337	0.038	0.3745	165f:r8f	Hip circumference (adjBMI)	Risk-taking behaviour	female	female	165f:r8f	Hip circumference (adjBMI)---Risk-taking behaviour	0.533549698795181
+165f	r9f	1.0095	0.0073	0.0252	0.0602	0.6757	165f:r9f	Hip circumference (adjBMI)	Carotid intima-media thickness	female	female	165f:r9f	Carotid intima-media thickness---Hip circumference (adjBMI)	0.801017794486216
+171f	177f	0.8903	0.0082	0.4029	0.0278	1.7851e-47	171f:177f	Waist circumference	Waist circumference (adjBMI)	female	female	171f:177f	Waist circumference---Waist circumference (adjBMI)	3.837965e-46
+171f	183f	0.8891	0.0081	0.6803	0.0228	6.9209e-196	171f:183f	Waist circumference	Waist-hip ratio	female	female	171f:183f	Waist circumference---Waist-hip ratio	4.091982125e-194
+171f	189f	0.9081	0.0087	0.2303	0.0344	2.021e-11	171f:189f	Waist circumference	Waist-hip ratio (adjBMI)	female	female	171f:189f	Waist circumference---Waist-hip ratio (adjBMI)	1.23346193548387e-10
+171f	4371f	1.0247	0.009	0.028	0.0759	0.7121	171f:4371f	Waist circumference	Thyroid-stimulating hormone	female	female	171f:4371f	Thyroid-stimulating hormone---Waist circumference	0.825547303921569
+171f	4374f	1.0164	0.0077	-0.0799	0.0538	0.1371	171f:4374f	Waist circumference	Free thyroxine (FT4)	female	female	171f:4374f	Free thyroxine (FT4)---Waist circumference	0.24846091954023
+171f	48f	0.9727	0.008	-0.2643	0.0346	2.2672e-14	171f:48f	Waist circumference	Age at first birth	female	female	171f:48f	Age at first birth---Waist circumference	1.649824e-13
+171f	51f	0.9777	0.0067	0.058	0.0461	0.2091	171f:51f	Waist circumference	Number of children ever born	female	female	171f:51f	Number of children ever born---Waist circumference	0.342229411764706
+171f	96f	0.9585	0.0075	0.3115	0.0524	2.8119e-09	171f:96f	Waist circumference	Height SDS	female	female	171f:96f	Height SDS---Waist circumference	1.55558912280702e-08
+171f	99f	0.9837	0.0067	-0.2916	0.0764	1e-04	171f:99f	Waist circumference	Pubertal growth	female	female	171f:99f	Pubertal growth---Waist circumference	0.000358333333333333
+171f	a13f	0.991	0.009	0.3288	0.0397	1.2563e-16	171f:a13f	Waist circumference	Cardiovascular disease	female	female	171f:a13f	Cardiovascular disease---Waist circumference	1.03344330434783e-15
+171f	a1f	1.0111	0.0084	0.1606	0.0342	2.7034e-06	171f:a1f	Waist circumference	Insomnia	female	female	171f:a1f	Insomnia---Waist circumference	1.20632849056604e-05
+171f	a21f	0.9825	0.0081	0.067	0.0389	0.085	171f:a21f	Waist circumference	Grip strength measurement/ Muscle weakness	female	female	171f:a21f	Grip strength measurement/ Muscle weakness---Waist circumference	0.168221757322176
+171f	a22f	1.0234	0.008	0.3178	0.0322	6.4766e-23	171f:a22f	Waist circumference	Snoring	female	female	171f:a22f	Snoring---Waist circumference	7.38176337349398e-22
+171f	a27f	1.027	0.035	0.1574	0.0601	0.0088	171f:a27f	Waist circumference	Fasting glucose	female	female	171f:a27f	Fasting glucose---Waist circumference	0.0237851428571429
+171f	a28f	1.0175	0.0097	0.6365	0.0768	1.1053e-16	171f:a28f	Waist circumference	Fasting insulin	female	female	171f:a28f	Fasting insulin---Waist circumference	9.25321946902655e-16
+171f	a29f	1.0207	0.009	0.3061	0.0295	3.5094e-25	171f:a29f	Waist circumference	Multisite chronic pain	female	female	171f:a29f	Multisite chronic pain---Waist circumference	4.36827947368421e-24
+171f	a30f	0.9511	0.0092	-0.2614	0.0265	6.6347e-23	171f:a30f	Waist circumference	Educational attainment	female	female	171f:a30f	Educational attainment---Waist circumference	7.47193595238095e-22
+171f	a7f	0.9545	0.0082	-0.1058	0.054	0.0499	171f:a7f	Waist circumference	Parkinson's disease	female	female	171f:a7f	Parkinson's disease---Waist circumference	0.108021510297483
+171f	a8f	1.0513	0.0131	0.601	0.0298	1.4624e-90	171f:a8f	Waist circumference	Type 2 diabetes	female	female	171f:a8f	Type 2 diabetes---Waist circumference	5.32088615384615e-89
+171f	a9f	1.0564	0.0086	0.3204	0.0648	7.7652e-07	171f:a9f	Waist circumference	ADHD	female	female	171f:a9f	ADHD---Waist circumference	3.63657386138614e-06
+171f	bm2f	0.9927	0.0076	-0.0611	0.0541	0.2592	171f:bm2f	Waist circumference	Left 5m area	female	female	171f:bm2f	Left 5m area---Waist circumference	0.407992013311148
+171f	bm5f	1.0014	0.0078	-0.0019	0.045	0.9658	171f:bm5f	Waist circumference	Left Caudate	female	female	171f:bm5f	Left Caudate---Waist circumference	0.98200447761194
+171f	bm6f	1.0021	0.0091	-0.0017	0.0495	0.9719	171f:bm6f	Waist circumference	Left Putamen	female	female	171f:bm6f	Left Putamen---Waist circumference	0.98200447761194
+171f	bm7f	1.0016	0.0091	0.0152	0.0477	0.75	171f:bm7f	Waist circumference	Right Putamen	female	female	171f:bm7f	Right Putamen---Waist circumference	0.850719424460432
+171f	bm8f	0.9987	0.0075	-0.0481	0.0542	0.3745	171f:bm8f	Waist circumference	CC Central	female	female	171f:bm8f	CC Central---Waist circumference	0.533549698795181
+171f	ch1f	0.9992	0.0068	-0.1442	0.0626	0.0212	171f:ch1f	Waist circumference	Nonword reading	female	female	171f:ch1f	Nonword reading---Waist circumference	0.0518222222222222
+171f	ch6f	1.0016	0.0073	-0.2023	0.0776	0.0091	171f:ch6f	Waist circumference	Word reading	female	female	171f:ch6f	Waist circumference---Word reading	0.0245259259259259
+171f	l1f	1.1065	0.0344	-0.5062	0.0257	2.8133e-86	171f:l1f	Waist circumference	HDL	female	female	171f:l1f	HDL---Waist circumference	9.17717862068966e-85
+171f	l2f	1.0802	0.029	0.1842	0.028	4.7136e-11	171f:l2f	Waist circumference	LDL	female	female	171f:l2f	LDL---Waist circumference	2.82219341772152e-10
+171f	l3f	1.1222	0.034	0.0526	0.0268	0.0496	171f:l3f	Waist circumference	TC	female	female	171f:l3f	TC---Waist circumference	0.107865747126437
+171f	l4f	1.0851	0.0307	0.4453	0.028	8.2235e-57	171f:l4f	Waist circumference	logTG	female	female	171f:l4f	logTG---Waist circumference	1.94485775e-55
+171f	l5f	1.0942	0.0294	0.2637	0.0295	3.4955e-19	171f:l5f	Waist circumference	nonHDL	female	female	171f:l5f	nonHDL---Waist circumference	3.37422755102041e-18
+171f	r4f	0.9962	0.0068	0.1461	0.0445	0.001	171f:r4f	Waist circumference	PTSD	female	female	171f:r4f	PTSD---Waist circumference	0.0031744966442953
+171f	r5f	1.0524	0.01	-0.0731	0.0302	0.0155	171f:r5f	Waist circumference	Schizophrenia	female	female	171f:r5f	Schizophrenia---Waist circumference	0.0400628415300546
+171f	r8f	0.9982	0.0075	0.0417	0.0365	0.2538	171f:r8f	Waist circumference	Risk-taking behaviour	female	female	171f:r8f	Risk-taking behaviour---Waist circumference	0.400826043405676
+171f	r9f	1.0096	0.0073	0.1647	0.0554	0.0029	171f:r9f	Waist circumference	Carotid intima-media thickness	female	female	171f:r9f	Carotid intima-media thickness---Waist circumference	0.00868164556962025
+177f	183f	0.8885	0.008	0.6302	0.0284	2.4875e-109	177f:183f	Waist circumference (adjBMI)	Waist-hip ratio	female	female	177f:183f	Waist circumference (adjBMI)---Waist-hip ratio	9.80489583333333e-108
+177f	189f	0.9089	0.0087	0.7171	0.0243	6.0433e-192	177f:189f	Waist circumference (adjBMI)	Waist-hip ratio (adjBMI)	female	female	177f:189f	Waist circumference (adjBMI)---Waist-hip ratio (adjBMI)	3.36291870588235e-190
+177f	4371f	1.0249	0.0088	0.0692	0.0713	0.3318	177f:4371f	Waist circumference (adjBMI)	Thyroid-stimulating hormone	female	female	177f:4371f	Thyroid-stimulating hormone---Waist circumference (adjBMI)	0.491209389671362
+177f	4374f	1.0177	0.0078	-0.1464	0.0717	0.041	177f:4374f	Waist circumference (adjBMI)	Free thyroxine (FT4)	female	female	177f:4374f	Free thyroxine (FT4)---Waist circumference (adjBMI)	0.0908337236533958
+177f	48f	0.9729	0.0078	-0.0675	0.0397	0.089	177f:48f	Waist circumference (adjBMI)	Age at first birth	female	female	177f:48f	Age at first birth---Waist circumference (adjBMI)	0.174676348547718
+177f	51f	0.9771	0.0065	0.0032	0.0566	0.9548	177f:51f	Waist circumference (adjBMI)	Number of children ever born	female	female	177f:51f	Number of children ever born---Waist circumference (adjBMI)	0.974369795037756
+177f	96f	0.9581	0.0076	0.358	0.066	5.6698e-08	177f:96f	Waist circumference (adjBMI)	Height SDS	female	female	177f:96f	Height SDS---Waist circumference (adjBMI)	2.83789989417989e-07
+177f	99f	0.9835	0.0067	0.1822	0.0832	0.0286	177f:99f	Waist circumference (adjBMI)	Pubertal growth	female	female	177f:99f	Pubertal growth---Waist circumference (adjBMI)	0.0673024875621891
+177f	a13f	0.9899	0.0087	0.1863	0.0466	6.3926e-05	177f:a13f	Waist circumference (adjBMI)	Cardiovascular disease	female	female	177f:a13f	Cardiovascular disease---Waist circumference (adjBMI)	0.000239027652173913
+177f	a1f	1.01	0.0085	0.036	0.0382	0.3458	177f:a1f	Waist circumference (adjBMI)	Insomnia	female	female	177f:a1f	Insomnia---Waist circumference (adjBMI)	0.506827554179567
+177f	a21f	0.9831	0.008	-0.098	0.0475	0.0391	177f:a21f	Waist circumference (adjBMI)	Grip strength measurement/ Muscle weakness	female	female	177f:a21f	Grip strength measurement/ Muscle weakness---Waist circumference (adjBMI)	0.0872372641509434
+177f	a22f	1.0234	0.0079	0.0568	0.0348	0.1029	177f:a22f	Waist circumference (adjBMI)	Snoring	female	female	177f:a22f	Snoring---Waist circumference (adjBMI)	0.195468674698795
+177f	a27f	1.0255	0.035	0.0943	0.0555	0.0893	177f:a27f	Waist circumference (adjBMI)	Fasting glucose	female	female	177f:a27f	Fasting glucose---Waist circumference (adjBMI)	0.174902277432712
+177f	a28f	1.017	0.0095	0.367	0.0939	9.2526e-05	177f:a28f	Waist circumference (adjBMI)	Fasting insulin	female	female	177f:a28f	Fasting insulin---Waist circumference (adjBMI)	0.000339262
+177f	a29f	1.021	0.0088	0.0556	0.0345	0.1067	177f:a29f	Waist circumference (adjBMI)	Multisite chronic pain	female	female	177f:a29f	Multisite chronic pain---Waist circumference (adjBMI)	0.202280961923848
+177f	a30f	0.9521	0.0091	-0.0199	0.0289	0.4908	177f:a30f	Waist circumference (adjBMI)	Educational attainment	female	female	177f:a30f	Educational attainment---Waist circumference (adjBMI)	0.641293922651934
+177f	a7f	0.9539	0.0082	-0.0012	0.0527	0.9816	177f:a7f	Waist circumference (adjBMI)	Parkinson's disease	female	female	177f:a7f	Parkinson's disease---Waist circumference (adjBMI)	0.98681572794899
+177f	a8f	1.0508	0.013	0.2774	0.0391	1.2281e-12	177f:a8f	Waist circumference (adjBMI)	Type 2 diabetes	female	female	177f:a8f	Type 2 diabetes---Waist circumference (adjBMI)	8.12435384615385e-12
+177f	a9f	1.0562	0.0087	0.1331	0.0736	0.0703	177f:a9f	Waist circumference (adjBMI)	ADHD	female	female	177f:a9f	ADHD---Waist circumference (adjBMI)	0.143327155172414
+177f	bm2f	0.9932	0.0075	0.0604	0.063	0.3379	177f:bm2f	Waist circumference (adjBMI)	Left 5m area	female	female	177f:bm2f	Left 5m area---Waist circumference (adjBMI)	0.497128149300156
+177f	bm5f	1.0019	0.0079	-0.0171	0.0509	0.7369	177f:bm5f	Waist circumference (adjBMI)	Left Caudate	female	female	177f:bm5f	Left Caudate---Waist circumference (adjBMI)	0.846004126213592
+177f	bm6f	1.004	0.0091	-0.0443	0.0541	0.4129	177f:bm6f	Waist circumference (adjBMI)	Left Putamen	female	female	177f:bm6f	Left Putamen---Waist circumference (adjBMI)	0.567462699564586
+177f	bm7f	1.0032	0.0091	-0.0256	0.0523	0.6242	177f:bm7f	Waist circumference (adjBMI)	Right Putamen	female	female	177f:bm7f	Right Putamen---Waist circumference (adjBMI)	0.75607323943662
+177f	bm8f	0.9993	0.0075	-0.1042	0.0573	0.0691	177f:bm8f	Waist circumference (adjBMI)	CC Central	female	female	177f:bm8f	CC Central---Waist circumference (adjBMI)	0.141797396963124
+177f	ch1f	0.9993	0.0068	-0.0427	0.0678	0.5289	177f:ch1f	Waist circumference (adjBMI)	Nonword reading	female	female	177f:ch1f	Nonword reading---Waist circumference (adjBMI)	0.672499193548387
+177f	ch6f	1.0019	0.0071	0.0063	0.0851	0.9414	177f:ch6f	Waist circumference (adjBMI)	Word reading	female	female	177f:ch6f	Waist circumference (adjBMI)---Word reading	0.968004782608696
+177f	l1f	1.1101	0.0353	-0.2786	0.0283	7.7389e-23	177f:l1f	Waist circumference (adjBMI)	HDL	female	female	177f:l1f	HDL---Waist circumference (adjBMI)	8.61294047058824e-22
+177f	l2f	1.0795	0.0292	0.1226	0.0349	4e-04	177f:l2f	Waist circumference (adjBMI)	LDL	female	female	177f:l2f	LDL---Waist circumference (adjBMI)	0.00138102189781022
+177f	l3f	1.1205	0.0341	0.0583	0.0342	0.0883	177f:l3f	Waist circumference (adjBMI)	TC	female	female	177f:l3f	TC---Waist circumference (adjBMI)	0.173662785862786
+177f	l4f	1.0882	0.0314	0.2879	0.0296	2.5722e-22	177f:l4f	Waist circumference (adjBMI)	logTG	female	female	177f:l4f	logTG---Waist circumference (adjBMI)	2.765115e-21
+177f	l5f	1.0948	0.0298	0.1634	0.0346	2.3568e-06	177f:l5f	Waist circumference (adjBMI)	nonHDL	female	female	177f:l5f	nonHDL---Waist circumference (adjBMI)	1.06168228571429e-05
+177f	r4f	0.9971	0.0068	-0.0094	0.0508	0.8539	177f:r4f	Waist circumference (adjBMI)	PTSD	female	female	177f:r4f	PTSD---Waist circumference (adjBMI)	0.931706343713956
+177f	r5f	1.0532	0.0099	-0.0321	0.0372	0.3881	177f:r5f	Waist circumference (adjBMI)	Schizophrenia	female	female	177f:r5f	Schizophrenia---Waist circumference (adjBMI)	0.544721958456973
+177f	r8f	0.9981	0.0076	0.0287	0.0393	0.4645	177f:r8f	Waist circumference (adjBMI)	Risk-taking behaviour	female	female	177f:r8f	Risk-taking behaviour---Waist circumference (adjBMI)	0.618897183098592
+177f	r9f	1.0091	0.0072	0.1129	0.0703	0.108	177f:r9f	Waist circumference (adjBMI)	Carotid intima-media thickness	female	female	177f:r9f	Carotid intima-media thickness---Waist circumference (adjBMI)	0.204336
+183f	189f	0.909	0.0088	0.8568	0.0137	0	183f:189f	Waist-hip ratio	Waist-hip ratio (adjBMI)	female	female	183f:189f	Waist-hip ratio---Waist-hip ratio (adjBMI)	0
+183f	4371f	1.0249	0.0089	0.0514	0.0839	0.5398	183f:4371f	Waist-hip ratio	Thyroid-stimulating hormone	female	female	183f:4371f	Thyroid-stimulating hormone---Waist-hip ratio	0.682688235294118
+183f	4374f	1.0167	0.0077	-0.1533	0.0661	0.0203	183f:4374f	Waist-hip ratio	Free thyroxine (FT4)	female	female	183f:4374f	Free thyroxine (FT4)---Waist-hip ratio	0.0501404699738903
+183f	48f	0.9736	0.0079	-0.2955	0.0414	9.3155e-13	183f:48f	Waist-hip ratio	Age at first birth	female	female	183f:48f	Age at first birth---Waist-hip ratio	6.24997375886525e-12
+183f	51f	0.9774	0.0066	0.0915	0.0585	0.1176	183f:51f	Waist-hip ratio	Number of children ever born	female	female	183f:51f	Number of children ever born---Waist-hip ratio	0.219367716535433
+183f	96f	0.9584	0.0076	0.0693	0.0545	0.2037	183f:96f	Waist-hip ratio	Height SDS	female	female	183f:96f	Height SDS---Waist-hip ratio	0.335130782608696
+183f	99f	0.9839	0.0067	-0.2589	0.0871	0.003	183f:99f	Waist-hip ratio	Pubertal growth	female	female	183f:99f	Pubertal growth---Waist-hip ratio	0.00892452830188679
+183f	a13f	0.9895	0.0089	0.384	0.0463	1.1783e-16	183f:a13f	Waist-hip ratio	Cardiovascular disease	female	female	183f:a13f	Cardiovascular disease---Waist-hip ratio	9.77782280701754e-16
+183f	a1f	1.0103	0.0084	0.1821	0.0412	9.7308e-06	183f:a1f	Waist-hip ratio	Insomnia	female	female	183f:a1f	Insomnia---Waist-hip ratio	4.03742842105263e-05
+183f	a21f	0.9834	0.0081	0.0884	0.0458	0.0533	183f:a21f	Waist-hip ratio	Grip strength measurement/ Muscle weakness	female	female	183f:a21f	Grip strength measurement/ Muscle weakness---Waist-hip ratio	0.114032505643341
+183f	a22f	1.024	0.008	0.2455	0.0393	4.1525e-10	183f:a22f	Waist-hip ratio	Snoring	female	female	183f:a22f	Snoring---Waist-hip ratio	2.40997852760736e-09
+183f	a27f	1.0256	0.0353	0.1711	0.0642	0.0077	183f:a27f	Waist-hip ratio	Fasting glucose	female	female	183f:a27f	Fasting glucose---Waist-hip ratio	0.0212367346938775
+183f	a28f	1.018	0.0095	0.6769	0.0999	1.2379e-11	183f:a28f	Waist-hip ratio	Fasting insulin	female	female	183f:a28f	Fasting insulin---Waist-hip ratio	7.70429868421053e-11
+183f	a29f	1.0209	0.0088	0.216	0.038	1.3291e-08	183f:a29f	Waist-hip ratio	Multisite chronic pain	female	female	183f:a29f	Multisite chronic pain---Waist-hip ratio	6.98515888888889e-08
+183f	a30f	0.9518	0.0091	-0.2822	0.0327	6.0491e-18	183f:a30f	Waist-hip ratio	Educational attainment	female	female	183f:a30f	Educational attainment---Waist-hip ratio	5.50235442307692e-17
+183f	a7f	0.9539	0.0082	-0.0565	0.0517	0.2745	183f:a7f	Waist-hip ratio	Parkinson's disease	female	female	183f:a7f	Parkinson's disease---Waist-hip ratio	0.427100328947368
+183f	a8f	1.0507	0.013	0.6061	0.0327	1.073e-76	183f:a8f	Waist-hip ratio	Type 2 diabetes	female	female	183f:a8f	Type 2 diabetes---Waist-hip ratio	3.07593333333333e-75
+183f	a9f	1.0563	0.0087	0.3156	0.0704	7.3713e-06	183f:a9f	Waist-hip ratio	ADHD	female	female	183f:a9f	ADHD---Waist-hip ratio	3.11305794642857e-05
+183f	bm2f	0.9926	0.0075	0.0199	0.0605	0.7427	183f:bm2f	Waist-hip ratio	Left 5m area	female	female	183f:bm2f	Left 5m area---Waist-hip ratio	0.849009386281589
+183f	bm5f	1.0021	0.0078	0.0754	0.053	0.1552	183f:bm5f	Waist-hip ratio	Left Caudate	female	female	183f:bm5f	Left Caudate---Waist-hip ratio	0.270884132841328
+183f	bm6f	1.0038	0.0091	0.0442	0.0534	0.4079	183f:bm6f	Waist-hip ratio	Left Putamen	female	female	183f:bm6f	Left Putamen---Waist-hip ratio	0.564290379008746
+183f	bm7f	1.0028	0.009	0.0629	0.0507	0.2152	183f:bm7f	Waist-hip ratio	Right Putamen	female	female	183f:bm7f	Right Putamen---Waist-hip ratio	0.349792439862543
+183f	bm8f	0.9988	0.0076	-0.1323	0.0588	0.0245	183f:bm8f	Waist-hip ratio	CC Central	female	female	183f:bm8f	CC Central---Waist-hip ratio	0.0589745547073791
+183f	ch1f	0.999	0.0068	-0.1204	0.0774	0.1197	183f:ch1f	Waist-hip ratio	Nonword reading	female	female	183f:ch1f	Nonword reading---Waist-hip ratio	0.222467976424362
+183f	ch6f	1.0022	0.0072	-0.193	0.0888	0.0298	183f:ch6f	Waist-hip ratio	Word reading	female	female	183f:ch6f	Waist-hip ratio---Word reading	0.0697792079207921
+183f	l1f	1.1095	0.0349	-0.5627	0.0293	2.8496e-82	183f:l1f	Waist-hip ratio	HDL	female	female	183f:l1f	HDL---Waist-hip ratio	8.69587612903226e-81
+183f	l2f	1.0795	0.029	0.2813	0.0338	7.8863e-17	183f:l2f	Waist-hip ratio	LDL	female	female	183f:l2f	LDL---Waist-hip ratio	6.72111693693694e-16
+183f	l3f	1.1202	0.0336	0.1526	0.0318	1.6063e-06	183f:l3f	Waist-hip ratio	TC	female	female	183f:l3f	TC---Waist-hip ratio	7.37650388349515e-06
+183f	l4f	1.0873	0.0313	0.5933	0.0305	3.4183e-84	183f:l4f	Waist-hip ratio	logTG	female	female	183f:l4f	logTG---Waist-hip ratio	1.07790393333333e-82
+183f	l5f	1.0945	0.0295	0.3862	0.0334	6.3221e-31	183f:l5f	Waist-hip ratio	nonHDL	female	female	183f:l5f	nonHDL---Waist-hip ratio	9.06167666666667e-30
+183f	r4f	0.9976	0.0069	0.1773	0.0526	7e-04	183f:r4f	Waist-hip ratio	PTSD	female	female	183f:r4f	PTSD---Waist-hip ratio	0.00228344827586207
+183f	r5f	1.0531	0.0098	-0.0807	0.0359	0.0245	183f:r5f	Waist-hip ratio	Schizophrenia	female	female	183f:r5f	Schizophrenia---Waist-hip ratio	0.0589745547073791
+183f	r8f	0.9976	0.0077	0.0552	0.0406	0.1739	183f:r8f	Waist-hip ratio	Risk-taking behaviour	female	female	183f:r8f	Risk-taking behaviour---Waist-hip ratio	0.296948375451264
+183f	r9f	1.0097	0.0072	0.1782	0.0614	0.0037	183f:r9f	Waist-hip ratio	Carotid intima-media thickness	female	female	183f:r9f	Carotid intima-media thickness---Waist-hip ratio	0.0107698461538462
+189f	4371f	1.0245	0.009	0.0568	0.082	0.488	189f:4371f	Waist-hip ratio (adjBMI)	Thyroid-stimulating hormone	female	female	189f:4371f	Thyroid-stimulating hormone---Waist-hip ratio (adjBMI)	0.640056786703601
+189f	4374f	1.0173	0.0077	-0.1967	0.0748	0.0086	189f:4374f	Waist-hip ratio (adjBMI)	Free thyroxine (FT4)	female	female	189f:4374f	Free thyroxine (FT4)---Waist-hip ratio (adjBMI)	0.0233781609195402
+189f	48f	0.9732	0.0078	-0.1739	0.0428	4.8636e-05	189f:48f	Waist-hip ratio (adjBMI)	Age at first birth	female	female	189f:48f	Age at first birth---Waist-hip ratio (adjBMI)	0.000184038624
+189f	51f	0.9758	0.0065	0.0759	0.0575	0.1873	189f:51f	Waist-hip ratio (adjBMI)	Number of children ever born	female	female	189f:51f	Number of children ever born---Waist-hip ratio (adjBMI)	0.315839215686274
+189f	96f	0.9582	0.0075	-0.0246	0.0599	0.6817	189f:96f	Waist-hip ratio (adjBMI)	Height SDS	female	female	189f:96f	Height SDS---Waist-hip ratio (adjBMI)	0.805930586766542
+189f	99f	0.9833	0.0067	-0.0278	0.082	0.7345	189f:99f	Waist-hip ratio (adjBMI)	Pubertal growth	female	female	189f:99f	Pubertal growth---Waist-hip ratio (adjBMI)	0.844273390036452
+189f	a13f	0.989	0.0087	0.262	0.049	8.8176e-08	189f:a13f	Waist-hip ratio (adjBMI)	Cardiovascular disease	female	female	189f:a13f	Cardiovascular disease---Waist-hip ratio (adjBMI)	4.344505e-07
+189f	a1f	1.01	0.0084	0.1193	0.0411	0.0037	189f:a1f	Waist-hip ratio (adjBMI)	Insomnia	female	female	189f:a1f	Insomnia---Waist-hip ratio (adjBMI)	0.0107698461538462
+189f	a21f	0.984	0.0079	0.0365	0.0497	0.4619	189f:a21f	Waist-hip ratio (adjBMI)	Grip strength measurement/ Muscle weakness	female	female	189f:a21f	Grip strength measurement/ Muscle weakness---Waist-hip ratio (adjBMI)	0.616300987306065
+189f	a22f	1.0245	0.008	0.08	0.0387	0.0388	189f:a22f	Waist-hip ratio (adjBMI)	Snoring	female	female	189f:a22f	Snoring---Waist-hip ratio (adjBMI)	0.0869781990521327
+189f	a27f	1.0259	0.0353	0.0895	0.0608	0.1408	189f:a27f	Waist-hip ratio (adjBMI)	Fasting glucose	female	female	189f:a27f	Fasting glucose---Waist-hip ratio (adjBMI)	0.253104364326376
+189f	a28f	1.0185	0.0095	0.3841	0.1059	3e-04	189f:a28f	Waist-hip ratio (adjBMI)	Fasting insulin	female	female	189f:a28f	Fasting insulin---Waist-hip ratio (adjBMI)	0.00105501858736059
+189f	a29f	1.0213	0.0089	0.0553	0.0373	0.1374	189f:a29f	Waist-hip ratio (adjBMI)	Multisite chronic pain	female	female	189f:a29f	Multisite chronic pain---Waist-hip ratio (adjBMI)	0.248528489483748
+189f	a30f	0.9524	0.0091	-0.1572	0.0337	2.9973e-06	189f:a30f	Waist-hip ratio (adjBMI)	Educational attainment	female	female	189f:a30f	Educational attainment---Waist-hip ratio (adjBMI)	1.33119521126761e-05
+189f	a7f	0.9545	0.0082	5e-04	0.0524	0.9924	189f:a7f	Waist-hip ratio (adjBMI)	Parkinson's disease	female	female	189f:a7f	Parkinson's disease---Waist-hip ratio (adjBMI)	0.995557158006363
+189f	a8f	1.0515	0.013	0.3495	0.0354	6.2082e-23	189f:a8f	Waist-hip ratio (adjBMI)	Type 2 diabetes	female	female	189f:a8f	Type 2 diabetes---Waist-hip ratio (adjBMI)	7.16214292682927e-22
+189f	a9f	1.057	0.0087	0.1863	0.0779	0.0168	189f:a9f	Waist-hip ratio (adjBMI)	ADHD	female	female	189f:a9f	ADHD---Waist-hip ratio (adjBMI)	0.0427225806451613
+189f	bm2f	0.9926	0.0073	0.0832	0.0654	0.2035	189f:bm2f	Waist-hip ratio (adjBMI)	Left 5m area	female	female	189f:bm2f	Left 5m area---Waist-hip ratio (adjBMI)	0.335130782608696
+189f	bm5f	1.0017	0.0078	0.0676	0.0554	0.2223	189f:bm5f	Waist-hip ratio (adjBMI)	Left Caudate	female	female	189f:bm5f	Left Caudate---Waist-hip ratio (adjBMI)	0.359803418803419
+189f	bm6f	1.0042	0.0093	0.0455	0.0574	0.4281	189f:bm6f	Waist-hip ratio (adjBMI)	Left Putamen	female	female	189f:bm6f	Left Putamen---Waist-hip ratio (adjBMI)	0.581871551724138
+189f	bm7f	1.0033	0.0093	0.0529	0.0543	0.3306	189f:bm7f	Waist-hip ratio (adjBMI)	Right Putamen	female	female	189f:bm7f	Right Putamen---Waist-hip ratio (adjBMI)	0.490941379310345
+189f	bm8f	0.9992	0.0076	-0.1435	0.0587	0.0145	189f:bm8f	Waist-hip ratio (adjBMI)	CC Central	female	female	189f:bm8f	CC Central---Waist-hip ratio (adjBMI)	0.0378922651933702
+189f	ch1f	1	0.0067	-0.0645	0.0805	0.423	189f:ch1f	Waist-hip ratio (adjBMI)	Nonword reading	female	female	189f:ch1f	Nonword reading---Waist-hip ratio (adjBMI)	0.577428571428571
+189f	ch6f	1.0024	0.0071	-0.0812	0.0903	0.3683	189f:ch6f	Waist-hip ratio (adjBMI)	Word reading	female	female	189f:ch6f	Waist-hip ratio (adjBMI)---Word reading	0.527873716012085
+189f	l1f	1.1103	0.0346	-0.3695	0.0309	5.3244e-33	189f:l1f	Waist-hip ratio (adjBMI)	HDL	female	female	189f:l1f	HDL---Waist-hip ratio (adjBMI)	7.87012875e-32
+189f	l2f	1.0803	0.0295	0.2278	0.0352	9.2211e-11	189f:l2f	Waist-hip ratio (adjBMI)	LDL	female	female	189f:l2f	LDL---Waist-hip ratio (adjBMI)	5.451975375e-10
+189f	l3f	1.1206	0.0346	0.1531	0.0321	1.89e-06	189f:l3f	Waist-hip ratio (adjBMI)	TC	female	female	189f:l3f	TC---Waist-hip ratio (adjBMI)	8.63739130434783e-06
+189f	l4f	1.0884	0.0311	0.451	0.0316	4.0731e-46	189f:l4f	Waist-hip ratio (adjBMI)	logTG	female	female	189f:l4f	logTG---Waist-hip ratio (adjBMI)	8.37641869565217e-45
+189f	l5f	1.095	0.0299	0.3017	0.0351	8.1351e-18	189f:l5f	Waist-hip ratio (adjBMI)	nonHDL	female	female	189f:l5f	nonHDL---Waist-hip ratio (adjBMI)	7.26019301886792e-17
+189f	r4f	0.9969	0.0067	0.0896	0.0538	0.0956	189f:r4f	Waist-hip ratio (adjBMI)	PTSD	female	female	189f:r4f	PTSD---Waist-hip ratio (adjBMI)	0.184566530612245
+189f	r5f	1.0535	0.0099	-0.051	0.0412	0.2152	189f:r5f	Waist-hip ratio (adjBMI)	Schizophrenia	female	female	189f:r5f	Schizophrenia---Waist-hip ratio (adjBMI)	0.349792439862543
+189f	r8f	0.9979	0.0076	0.0361	0.0427	0.3981	189f:r8f	Waist-hip ratio (adjBMI)	Risk-taking behaviour	female	female	189f:r8f	Risk-taking behaviour---Waist-hip ratio (adjBMI)	0.554643004418262
+189f	r9f	1.0095	0.0072	0.1136	0.0677	0.0933	189f:r9f	Waist-hip ratio (adjBMI)	Carotid intima-media thickness	female	female	189f:r9f	Carotid intima-media thickness---Waist-hip ratio (adjBMI)	0.181608641975309
+4371f	4374f	1.0185	0.0074	0.0788	0.1428	0.5811	4371f:4374f	Thyroid-stimulating hormone	Free thyroxine (FT4)	female	female	4371f:4374f	Free thyroxine (FT4)---Thyroid-stimulating hormone	0.713922857142857
+4371f	48f	0.9716	0.008	-0.0447	0.0835	0.5927	4371f:48f	Thyroid-stimulating hormone	Age at first birth	female	female	4371f:48f	Age at first birth---Thyroid-stimulating hormone	0.724411111111111
+4371f	51f	0.9787	0.0068	0.1328	0.1149	0.2476	4371f:51f	Thyroid-stimulating hormone	Number of children ever born	female	female	4371f:51f	Number of children ever born---Thyroid-stimulating hormone	0.392344388609715
+4371f	96f	0.9581	0.0073	-0.252	0.1395	0.0709	4371f:96f	Thyroid-stimulating hormone	Height SDS	female	female	4371f:96f	Height SDS---Thyroid-stimulating hormone	0.143930042918455
+4371f	99f	0.9828	0.0065	-0.0207	0.1895	0.913	4371f:99f	Thyroid-stimulating hormone	Pubertal growth	female	female	4371f:99f	Pubertal growth---Thyroid-stimulating hormone	0.960069256381798
+4371f	a13f	0.9941	0.0093	0.0315	0.0965	0.744	4371f:a13f	Thyroid-stimulating hormone	Cardiovascular disease	female	female	4371f:a13f	Cardiovascular disease---Thyroid-stimulating hormone	0.849009386281589
+4371f	a1f	1.0102	0.0081	0.0096	0.078	0.9025	4371f:a1f	Thyroid-stimulating hormone	Insomnia	female	female	4371f:a1f	Insomnia---Thyroid-stimulating hormone	0.958514349775785
+4371f	a21f	0.9857	0.0083	0.1036	0.0886	0.2425	4371f:a21f	Thyroid-stimulating hormone	Grip strength measurement/ Muscle weakness	female	female	4371f:a21f	Grip strength measurement/ Muscle weakness---Thyroid-stimulating hormone	0.386190588235294
+4371f	a22f	1.0196	0.0086	0.022	0.076	0.7722	4371f:a22f	Thyroid-stimulating hormone	Snoring	female	female	4371f:a22f	Snoring---Thyroid-stimulating hormone	0.867578622327791
+4371f	a27f	0.9948	0.0283	-0.1568	0.115	0.1727	4371f:a27f	Thyroid-stimulating hormone	Fasting glucose	female	female	4371f:a27f	Fasting glucose---Thyroid-stimulating hormone	0.295432549728752
+4371f	a28f	1.0075	0.0097	-0.2566	0.1889	0.1743	4371f:a28f	Thyroid-stimulating hormone	Fasting insulin	female	female	4371f:a28f	Fasting insulin---Thyroid-stimulating hormone	0.297095135135135
+4371f	a29f	1.0181	0.0089	-0.0335	0.0739	0.6507	4371f:a29f	Thyroid-stimulating hormone	Multisite chronic pain	female	female	4371f:a29f	Multisite chronic pain---Thyroid-stimulating hormone	0.782162897077509
+4371f	a30f	0.9518	0.0092	-0.0052	0.0664	0.9374	4371f:a30f	Thyroid-stimulating hormone	Educational attainment	female	female	4371f:a30f	Educational attainment---Thyroid-stimulating hormone	0.96797360959651
+4371f	a7f	0.9529	0.008	0.0913	0.1116	0.4133	4371f:a7f	Thyroid-stimulating hormone	Parkinson's disease	female	female	4371f:a7f	Parkinson's disease---Thyroid-stimulating hormone	0.567462699564586
+4371f	a8f	1.0484	0.0133	0.046	0.0718	0.5217	4371f:a8f	Thyroid-stimulating hormone	Type 2 diabetes	female	female	4371f:a8f	Thyroid-stimulating hormone---Type 2 diabetes	0.66796048714479
+4371f	a9f	1.0575	0.0091	-0.1649	0.1498	0.271	4371f:a9f	Thyroid-stimulating hormone	ADHD	female	female	4371f:a9f	ADHD---Thyroid-stimulating hormone	0.422349258649094
+4371f	bm2f	0.9953	0.0075	-0.1316	0.1334	0.3236	4371f:bm2f	Thyroid-stimulating hormone	Left 5m area	female	female	4371f:bm2f	Left 5m area---Thyroid-stimulating hormone	0.484375949367089
+4371f	bm5f	1.0047	0.0074	0.1012	0.0984	0.3035	4371f:bm5f	Thyroid-stimulating hormone	Left Caudate	female	female	4371f:bm5f	Left Caudate---Thyroid-stimulating hormone	0.466089285714286
+4371f	bm6f	1.007	0.0084	0.1666	0.1132	0.141	4371f:bm6f	Thyroid-stimulating hormone	Left Putamen	female	female	4371f:bm6f	Left Putamen---Thyroid-stimulating hormone	0.253104364326376
+4371f	bm7f	1.0033	0.0079	0.1003	0.1064	0.3461	4371f:bm7f	Thyroid-stimulating hormone	Right Putamen	female	female	4371f:bm7f	Right Putamen---Thyroid-stimulating hormone	0.506827554179567
+4371f	bm8f	0.9982	0.007	0.0632	0.117	0.5891	4371f:bm8f	Thyroid-stimulating hormone	CC Central	female	female	4371f:bm8f	CC Central---Thyroid-stimulating hormone	0.72281271076524
+4371f	ch1f	0.9965	0.0066	-0.1822	0.1546	0.2386	4371f:ch1f	Thyroid-stimulating hormone	Nonword reading	female	female	4371f:ch1f	Nonword reading---Thyroid-stimulating hormone	0.380633389544688
+4371f	ch6f	1.0018	0.0067	-0.0721	0.1763	0.6824	4371f:ch6f	Thyroid-stimulating hormone	Word reading	female	female	4371f:ch6f	Thyroid-stimulating hormone---Word reading	0.805930586766542
+4371f	l1f	1.1214	0.0398	-0.0547	0.0546	0.3163	4371f:l1f	Thyroid-stimulating hormone	HDL	female	female	4371f:l1f	HDL---Thyroid-stimulating hormone	0.477986900958466
+4371f	l2f	1.0814	0.0337	-0.0217	0.0546	0.6917	4371f:l2f	Thyroid-stimulating hormone	LDL	female	female	4371f:l2f	LDL---Thyroid-stimulating hormone	0.810840396530359
+4371f	l3f	1.1234	0.0354	-0.0239	0.0519	0.6453	4371f:l3f	Thyroid-stimulating hormone	TC	female	female	4371f:l3f	TC---Thyroid-stimulating hormone	0.777019847328244
+4371f	l4f	1.0962	0.0361	0.0945	0.0665	0.1552	4371f:l4f	Thyroid-stimulating hormone	logTG	female	female	4371f:l4f	logTG---Thyroid-stimulating hormone	0.270884132841328
+4371f	l5f	1.0995	0.0336	-0.0066	0.0577	0.9096	4371f:l5f	Thyroid-stimulating hormone	nonHDL	female	female	4371f:l5f	nonHDL---Thyroid-stimulating hormone	0.960069256381798
+4371f	r4f	0.9996	0.0064	0.1394	0.1035	0.1783	4371f:r4f	Thyroid-stimulating hormone	PTSD	female	female	4371f:r4f	PTSD---Thyroid-stimulating hormone	0.30336654676259
+4371f	r5f	1.0581	0.0101	0.0969	0.0805	0.2286	4371f:r5f	Thyroid-stimulating hormone	Schizophrenia	female	female	4371f:r5f	Schizophrenia---Thyroid-stimulating hormone	0.367157215619694
+4371f	r8f	0.9963	0.008	0.0554	0.0871	0.5251	4371f:r8f	Thyroid-stimulating hormone	Risk-taking behaviour	female	female	4371f:r8f	Risk-taking behaviour---Thyroid-stimulating hormone	0.670881241565452
+4371f	r9f	1.0116	0.0068	-0.2047	0.1329	0.1236	4371f:r9f	Thyroid-stimulating hormone	Carotid intima-media thickness	female	female	4371f:r9f	Carotid intima-media thickness---Thyroid-stimulating hormone	0.229265882352941
+4374f	48f	0.9707	0.0079	0.0108	0.0717	0.8801	4374f:48f	Free thyroxine (FT4)	Age at first birth	female	female	4374f:48f	Age at first birth---Free thyroxine (FT4)	0.94815244596132
+4374f	51f	0.9769	0.0065	-0.0584	0.1042	0.575	4374f:51f	Free thyroxine (FT4)	Number of children ever born	female	female	4374f:51f	Free thyroxine (FT4)---Number of children ever born	0.707347204161248
+4374f	96f	0.9584	0.0076	-0.0834	0.1061	0.4318	4374f:96f	Free thyroxine (FT4)	Height SDS	female	female	4374f:96f	Free thyroxine (FT4)---Height SDS	0.585218911174785
+4374f	99f	0.9818	0.0067	0.148	0.1539	0.3364	4374f:99f	Free thyroxine (FT4)	Pubertal growth	female	female	4374f:99f	Free thyroxine (FT4)---Pubertal growth	0.495839563862928
+4374f	a13f	0.9951	0.0091	-0.0255	0.0835	0.7596	4374f:a13f	Free thyroxine (FT4)	Cardiovascular disease	female	female	4374f:a13f	Cardiovascular disease---Free thyroxine (FT4)	0.857495942720764
+4374f	a1f	1.0099	0.0086	0.0077	0.0719	0.9144	4374f:a1f	Free thyroxine (FT4)	Insomnia	female	female	4374f:a1f	Free thyroxine (FT4)---Insomnia	0.960069256381798
+4374f	a21f	0.9857	0.0079	-0.1466	0.0866	0.0903	4374f:a21f	Free thyroxine (FT4)	Grip strength measurement/ Muscle weakness	female	female	4374f:a21f	Free thyroxine (FT4)---Grip strength measurement/ Muscle weakness	0.176131546391753
+4374f	a22f	1.0194	0.0079	0.0334	0.0592	0.5723	4374f:a22f	Free thyroxine (FT4)	Snoring	female	female	4374f:a22f	Free thyroxine (FT4)---Snoring	0.704942447916667
+4374f	a27f	0.9902	0.0288	-0.0038	0.1124	0.9732	4374f:a27f	Free thyroxine (FT4)	Fasting glucose	female	female	4374f:a27f	Fasting glucose---Free thyroxine (FT4)	0.98200447761194
+4374f	a28f	1.0072	0.0095	0.1436	0.1449	0.3217	4374f:a28f	Free thyroxine (FT4)	Fasting insulin	female	female	4374f:a28f	Fasting insulin---Free thyroxine (FT4)	0.482295087163233
+4374f	a29f	1.0164	0.0087	0.0345	0.0608	0.5702	4374f:a29f	Free thyroxine (FT4)	Multisite chronic pain	female	female	4374f:a29f	Free thyroxine (FT4)---Multisite chronic pain	0.703271447196871
+4374f	a30f	0.9523	0.0089	-0.055	0.054	0.3081	4374f:a30f	Free thyroxine (FT4)	Educational attainment	female	female	4374f:a30f	Educational attainment---Free thyroxine (FT4)	0.470711290322581
+4374f	a7f	0.9535	0.0079	0.0604	0.098	0.5379	4374f:a7f	Free thyroxine (FT4)	Parkinson's disease	female	female	4374f:a7f	Free thyroxine (FT4)---Parkinson's disease	0.681195983935743
+4374f	a8f	1.05	0.013	-0.0553	0.0638	0.3861	4374f:a8f	Free thyroxine (FT4)	Type 2 diabetes	female	female	4374f:a8f	Free thyroxine (FT4)---Type 2 diabetes	0.543527678571429
+4374f	a9f	1.0582	0.0085	-0.0206	0.1295	0.8735	4374f:a9f	Free thyroxine (FT4)	ADHD	female	female	4374f:a9f	ADHD---Free thyroxine (FT4)	0.94815244596132
+4374f	bm2f	0.9946	0.0073	-0.0178	0.1219	0.8841	4374f:bm2f	Free thyroxine (FT4)	Left 5m area	female	female	4374f:bm2f	Free thyroxine (FT4)---Left 5m area	0.949328717366629
+4374f	bm5f	1.005	0.0079	0.0143	0.0927	0.8777	4374f:bm5f	Free thyroxine (FT4)	Left Caudate	female	female	4374f:bm5f	Free thyroxine (FT4)---Left Caudate	0.94815244596132
+4374f	bm6f	1.0068	0.0091	-0.0645	0.0998	0.5183	4374f:bm6f	Free thyroxine (FT4)	Left Putamen	female	female	4374f:bm6f	Free thyroxine (FT4)---Left Putamen	0.666441576086956
+4374f	bm7f	1.0047	0.0089	-0.1047	0.0962	0.2761	4374f:bm7f	Free thyroxine (FT4)	Right Putamen	female	female	4374f:bm7f	Free thyroxine (FT4)---Right Putamen	0.428884400656814
+4374f	bm8f	0.9982	0.0073	-0.1241	0.1032	0.2291	4374f:bm8f	Free thyroxine (FT4)	CC Central	female	female	4374f:bm8f	CC Central---Free thyroxine (FT4)	0.367336610169492
+4374f	ch1f	0.9976	0.0067	-0.0156	0.1378	0.91	4374f:ch1f	Free thyroxine (FT4)	Nonword reading	female	female	4374f:ch1f	Free thyroxine (FT4)---Nonword reading	0.960069256381798
+4374f	ch6f	1.0031	0.0067	-0.1013	0.1463	0.4885	4374f:ch6f	Free thyroxine (FT4)	Word reading	female	female	4374f:ch6f	Free thyroxine (FT4)---Word reading	0.640056786703601
+4374f	l1f	1.1163	0.037	-0.0245	0.0427	0.566	4374f:l1f	Free thyroxine (FT4)	HDL	female	female	4374f:l1f	Free thyroxine (FT4)---HDL	0.699002610966057
+4374f	l2f	1.0816	0.0311	-0.0252	0.0559	0.6521	4374f:l2f	Free thyroxine (FT4)	LDL	female	female	4374f:l2f	Free thyroxine (FT4)---LDL	0.782851015228426
+4374f	l3f	1.1196	0.0331	-0.0417	0.0553	0.4513	4374f:l3f	Free thyroxine (FT4)	TC	female	female	4374f:l3f	Free thyroxine (FT4)---TC	0.604396322489392
+4374f	l4f	1.0951	0.0331	-0.0505	0.0501	0.3133	4374f:l4f	Free thyroxine (FT4)	logTG	female	female	4374f:l4f	Free thyroxine (FT4)---logTG	0.475274038461538
+4374f	l5f	1.0982	0.0305	-0.0329	0.0543	0.5449	4374f:l5f	Free thyroxine (FT4)	nonHDL	female	female	4374f:l5f	Free thyroxine (FT4)---nonHDL	0.686856382978724
+4374f	r4f	0.9989	0.0065	-0.0034	0.0829	0.9673	4374f:r4f	Free thyroxine (FT4)	PTSD	female	female	4374f:r4f	Free thyroxine (FT4)---PTSD	0.98200447761194
+4374f	r5f	1.0578	0.0098	-0.0421	0.0643	0.512	4374f:r5f	Free thyroxine (FT4)	Schizophrenia	female	female	4374f:r5f	Free thyroxine (FT4)---Schizophrenia	0.660266757493188
+4374f	r8f	0.9983	0.0076	-0.1119	0.0763	0.1428	4374f:r8f	Free thyroxine (FT4)	Risk-taking behaviour	female	female	4374f:r8f	Free thyroxine (FT4)---Risk-taking behaviour	0.255366351606805
+4374f	r9f	1.0105	0.0064	0.0617	0.1341	0.6456	4374f:r9f	Free thyroxine (FT4)	Carotid intima-media thickness	female	female	4374f:r9f	Carotid intima-media thickness---Free thyroxine (FT4)	0.777019847328244
+48f	51f	0.9748	0.0063	-0.6489	0.0481	1.7494e-41	48f:51f	Age at first birth	Number of children ever born	female	female	48f:51f	Age at first birth---Number of children ever born	3.37741306122449e-40
+48f	96f	0.9588	0.0077	0.0523	0.0615	0.3952	48f:96f	Age at first birth	Height SDS	female	female	48f:96f	Age at first birth---Height SDS	0.552229246676514
+48f	99f	0.9835	0.0068	0.2054	0.0985	0.0371	48f:99f	Age at first birth	Pubertal growth	female	female	48f:99f	Age at first birth---Pubertal growth	0.08376276849642
+48f	a13f	0.9894	0.0083	-0.3999	0.0492	4.1041e-16	48f:a13f	Age at first birth	Cardiovascular disease	female	female	48f:a13f	Age at first birth---Cardiovascular disease	3.26258705882353e-15
+48f	a1f	1.0084	0.0079	-0.3525	0.0378	1.0926e-20	48f:a1f	Age at first birth	Insomnia	female	female	48f:a1f	Age at first birth---Insomnia	1.12347782608696e-19
+48f	a21f	0.9884	0.0075	-0.2055	0.0477	1.6379e-05	48f:a21f	Age at first birth	Grip strength measurement/ Muscle weakness	female	female	48f:a21f	Age at first birth---Grip strength measurement/ Muscle weakness	6.56548050847458e-05
+48f	a22f	1.0205	0.0074	-0.2427	0.0374	9.0516e-11	48f:a22f	Age at first birth	Snoring	female	female	48f:a22f	Age at first birth---Snoring	5.38541735849057e-10
+48f	a27f	1.0193	0.0335	-0.1397	0.0807	0.0836	48f:a27f	Age at first birth	Fasting glucose	female	female	48f:a27f	Age at first birth---Fasting glucose	0.166496
+48f	a28f	1.0165	0.0092	-0.2995	0.0889	8e-04	48f:a28f	Age at first birth	Fasting insulin	female	female	48f:a28f	Age at first birth---Fasting insulin	0.00258293515358362
+48f	a29f	1.0141	0.0083	-0.5325	0.0368	1.9477e-47	48f:a29f	Age at first birth	Multisite chronic pain	female	female	48f:a29f	Age at first birth---Multisite chronic pain	4.09449822222222e-46
+48f	a30f	0.9507	0.0091	0.7383	0.0299	1.7291e-134	48f:a30f	Age at first birth	Educational attainment	female	female	48f:a30f	Age at first birth---Educational attainment	8.178643e-133
+48f	a7f	0.9546	0.0071	0.1221	0.0599	0.0415	48f:a7f	Age at first birth	Parkinson's disease	female	female	48f:a7f	Age at first birth---Parkinson's disease	0.0913
+48f	a8f	1.0475	0.012	-0.349	0.0403	4.3338e-18	48f:a8f	Age at first birth	Type 2 diabetes	female	female	48f:a8f	Age at first birth---Type 2 diabetes	4.01938705882353e-17
+48f	a9f	1.0584	0.0092	-0.7776	0.0925	4.2479e-17	48f:a9f	Age at first birth	ADHD	female	female	48f:a9f	ADHD---Age at first birth	3.6867095412844e-16
+48f	bm2f	0.9934	0.0069	-0.1675	0.0798	0.0358	48f:bm2f	Age at first birth	Left 5m area	female	female	48f:bm2f	Age at first birth---Left 5m area	0.0816067469879518
+48f	bm5f	1.0012	0.0078	-0.0447	0.0552	0.4174	48f:bm5f	Age at first birth	Left Caudate	female	female	48f:bm5f	Age at first birth---Left Caudate	0.571433285094067
+48f	bm6f	1.0078	0.0095	-0.0319	0.055	0.5615	48f:bm6f	Age at first birth	Left Putamen	female	female	48f:bm6f	Age at first birth---Left Putamen	0.695384293193717
+48f	bm7f	1.0084	0.009	-0.0189	0.054	0.7265	48f:bm7f	Age at first birth	Right Putamen	female	female	48f:bm7f	Age at first birth---Right Putamen	0.838479024390244
+48f	bm8f	1.0008	0.0069	-0.0019	0.0697	0.978	48f:bm8f	Age at first birth	CC Central	female	female	48f:bm8f	Age at first birth---CC Central	0.985290734824281
+48f	ch1f	0.999	0.0065	0.3828	0.0837	4.7439e-06	48f:ch1f	Age at first birth	Nonword reading	female	female	48f:ch1f	Age at first birth---Nonword reading	2.03937909502262e-05
+48f	ch6f	1.0033	0.0065	0.4001	0.0933	1.796e-05	48f:ch6f	Age at first birth	Word reading	female	female	48f:ch6f	Age at first birth---Word reading	7.10885355648536e-05
+48f	l1f	1.0961	0.0314	0.3367	0.0277	5.4545e-34	48f:l1f	Age at first birth	HDL	female	female	48f:l1f	Age at first birth---HDL	8.32251129032258e-33
+48f	l2f	1.0646	0.0281	-0.1576	0.0302	1.8519e-07	48f:l2f	Age at first birth	LDL	female	female	48f:l2f	Age at first birth---LDL	8.93825204081633e-07
+48f	l3f	1.1012	0.0296	-0.1063	0.0301	4e-04	48f:l3f	Age at first birth	TC	female	female	48f:l3f	Age at first birth---TC	0.00138102189781022
+48f	l4f	1.0762	0.0277	-0.3583	0.0313	2.2002e-30	48f:l4f	Age at first birth	logTG	female	female	48f:l4f	Age at first birth---logTG	3.10655104477612e-29
+48f	l5f	1.0806	0.0279	-0.2176	0.0315	5.1737e-12	48f:l5f	Age at first birth	nonHDL	female	female	48f:l5f	Age at first birth---nonHDL	3.32946952380952e-11
+48f	r4f	0.9974	0.0061	-0.4267	0.0549	7.558e-15	48f:r4f	Age at first birth	PTSD	female	female	48f:r4f	Age at first birth---PTSD	5.585834375e-14
+48f	r5f	1.0544	0.0097	0.0055	0.047	0.9067	48f:r5f	Age at first birth	Schizophrenia	female	female	48f:r5f	Age at first birth---Schizophrenia	0.95943870246085
+48f	r8f	0.9974	0.0075	-0.0351	0.0463	0.4481	48f:r8f	Age at first birth	Risk-taking behaviour	female	female	48f:r8f	Age at first birth---Risk-taking behaviour	0.601280283687943
+48f	r9f	1.0091	0.0065	-0.0123	0.0625	0.8439	48f:r9f	Age at first birth	Carotid intima-media thickness	female	female	48f:r9f	Age at first birth---Carotid intima-media thickness	0.925063035921205
+51f	96f	0.9588	0.0077	-0.0278	0.0801	0.7288	51f:96f	Number of children ever born	Height SDS	female	female	51f:96f	Height SDS---Number of children ever born	0.839762241169306
+51f	99f	0.9835	0.0069	0.0488	0.1238	0.6934	51f:99f	Number of children ever born	Pubertal growth	female	female	51f:99f	Number of children ever born---Pubertal growth	0.811827227722772
+51f	a13f	0.9894	0.0083	0.2323	0.0626	2e-04	51f:a13f	Number of children ever born	Cardiovascular disease	female	female	51f:a13f	Cardiovascular disease---Number of children ever born	0.000708614232209738
+51f	a1f	1.0084	0.0079	0.1426	0.0644	0.0267	51f:a1f	Number of children ever born	Insomnia	female	female	51f:a1f	Insomnia---Number of children ever born	0.0636226700251889
+51f	a21f	0.9885	0.0075	0.1329	0.0608	0.0289	51f:a21f	Number of children ever born	Grip strength measurement/ Muscle weakness	female	female	51f:a21f	Grip strength measurement/ Muscle weakness---Number of children ever born	0.0678397022332506
+51f	a22f	1.0206	0.0074	0.1593	0.0462	6e-04	51f:a22f	Number of children ever born	Snoring	female	female	51f:a22f	Number of children ever born---Snoring	0.00199157894736842
+51f	a27f	1.0197	0.0336	0.1604	0.102	0.1159	51f:a27f	Number of children ever born	Fasting glucose	female	female	51f:a27f	Fasting glucose---Number of children ever born	0.216682608695652
+51f	a28f	1.0165	0.0092	-0.0286	0.1158	0.8052	51f:a28f	Number of children ever born	Fasting insulin	female	female	51f:a28f	Fasting insulin---Number of children ever born	0.895924178403756
+51f	a29f	1.0141	0.0083	0.2965	0.0496	2.3078e-09	51f:a29f	Number of children ever born	Multisite chronic pain	female	female	51f:a29f	Multisite chronic pain---Number of children ever born	1.28422282352941e-08
+51f	a30f	0.9507	0.0091	-0.2044	0.0438	3.1317e-06	51f:a30f	Number of children ever born	Educational attainment	female	female	51f:a30f	Educational attainment---Number of children ever born	1.377948e-05
+51f	a7f	0.9546	0.0071	-0.0505	0.0705	0.4741	51f:a7f	Number of children ever born	Parkinson's disease	female	female	51f:a7f	Number of children ever born---Parkinson's disease	0.62639469273743
+51f	a8f	1.0475	0.012	0.1443	0.0481	0.0027	51f:a8f	Number of children ever born	Type 2 diabetes	female	female	51f:a8f	Number of children ever born---Type 2 diabetes	0.00816038338658147
+51f	a9f	1.0584	0.0092	0.4302	0.1109	1e-04	51f:a9f	Number of children ever born	ADHD	female	female	51f:a9f	ADHD---Number of children ever born	0.000358333333333333
+51f	bm2f	0.9934	0.0069	-0.1036	0.0798	0.1939	51f:bm2f	Number of children ever born	Left 5m area	female	female	51f:bm2f	Left 5m area---Number of children ever born	0.323105633802817
+51f	bm5f	1.0011	0.0078	-0.0579	0.0701	0.4089	51f:bm5f	Number of children ever born	Left Caudate	female	female	51f:bm5f	Left Caudate---Number of children ever born	0.564290379008746
+51f	bm6f	1.0078	0.0095	-0.0139	0.0725	0.8483	51f:bm6f	Number of children ever born	Left Putamen	female	female	51f:bm6f	Left Putamen---Number of children ever born	0.928809953703704
+51f	bm7f	1.0084	0.009	-0.0265	0.071	0.7095	51f:bm7f	Number of children ever born	Right Putamen	female	female	51f:bm7f	Number of children ever born---Right Putamen	0.823658404907975
+51f	bm8f	1.0009	0.0069	0.0913	0.0821	0.266	51f:bm8f	Number of children ever born	CC Central	female	female	51f:bm8f	CC Central---Number of children ever born	0.416615894039735
+51f	ch1f	0.999	0.0065	-0.2218	0.1002	0.0269	51f:ch1f	Number of children ever born	Nonword reading	female	female	51f:ch1f	Nonword reading---Number of children ever born	0.0639381909547739
+51f	ch6f	1.0033	0.0065	-0.2765	0.1143	0.0156	51f:ch6f	Number of children ever born	Word reading	female	female	51f:ch6f	Number of children ever born---Word reading	0.0401021739130435
+51f	l1f	1.0961	0.0315	-0.1858	0.0377	8.1298e-07	51f:l1f	Number of children ever born	HDL	female	female	51f:l1f	HDL---Number of children ever born	3.78856689655172e-06
+51f	l2f	1.0644	0.0281	0.0877	0.0401	0.0285	51f:l2f	Number of children ever born	LDL	female	female	51f:l2f	LDL---Number of children ever born	0.0672344139650873
+51f	l3f	1.1011	0.0296	0.0359	0.041	0.3811	51f:l3f	Number of children ever born	TC	female	female	51f:l3f	Number of children ever born---TC	0.538894768310912
+51f	l4f	1.0759	0.0277	0.1679	0.0427	8.3167e-05	51f:l4f	Number of children ever born	logTG	female	female	51f:l4f	logTG---Number of children ever born	0.000306132225680934
+51f	l5f	1.0805	0.0279	0.1173	0.041	0.0042	51f:l5f	Number of children ever born	nonHDL	female	female	51f:l5f	nonHDL---Number of children ever born	0.0120765957446809
+51f	r4f	0.9974	0.0061	0.2246	0.0676	9e-04	51f:r4f	Number of children ever born	PTSD	female	female	51f:r4f	Number of children ever born---PTSD	0.00288610169491525
+51f	r5f	1.0544	0.0097	-0.0112	0.0565	0.8422	51f:r5f	Number of children ever born	Schizophrenia	female	female	51f:r5f	Number of children ever born---Schizophrenia	0.924270533642691
+51f	r8f	0.9974	0.0075	0.1133	0.0641	0.0771	51f:r8f	Number of children ever born	Risk-taking behaviour	female	female	51f:r8f	Number of children ever born---Risk-taking behaviour	0.154854777070064
+51f	r9f	1.0091	0.0065	0.0556	0.089	0.5322	51f:r9f	Number of children ever born	Carotid intima-media thickness	female	female	51f:r9f	Carotid intima-media thickness---Number of children ever born	0.675515013404826
+96f	99f	0.9828	0.0066	-0.048	0.1205	0.6906	96f:99f	Height SDS	Pubertal growth	female	female	96f:99f	Height SDS---Pubertal growth	0.810555334987593
+96f	a13f	0.9872	0.0091	-0.1052	0.0702	0.1338	96f:a13f	Height SDS	Cardiovascular disease	female	female	96f:a13f	Cardiovascular disease---Height SDS	0.243882080924855
+96f	a1f	1.0108	0.0088	-0.1087	0.063	0.0842	96f:a1f	Height SDS	Insomnia	female	female	96f:a1f	Height SDS---Insomnia	0.167338655462185
+96f	a21f	0.9824	0.0085	-0.2215	0.077	0.004	96f:a21f	Height SDS	Grip strength measurement/ Muscle weakness	female	female	96f:a21f	Grip strength measurement/ Muscle weakness---Height SDS	0.0115718654434251
+96f	a22f	1.0236	0.0085	-0.0182	0.0552	0.7418	96f:a22f	Height SDS	Snoring	female	female	96f:a22f	Height SDS---Snoring	0.849009386281589
+96f	a27f	1.0466	0.0377	0.1085	0.1185	0.3601	96f:a27f	Height SDS	Fasting glucose	female	female	96f:a27f	Fasting glucose---Height SDS	0.521457186544342
+96f	a28f	1.0173	0.0097	-0.0321	0.1184	0.7865	96f:a28f	Height SDS	Fasting insulin	female	female	96f:a28f	Fasting insulin---Height SDS	0.880507692307692
+96f	a29f	1.022	0.0091	-0.0198	0.0532	0.7096	96f:a29f	Height SDS	Multisite chronic pain	female	female	96f:a29f	Height SDS---Multisite chronic pain	0.823658404907975
+96f	a30f	0.9564	0.0098	0.1725	0.0519	9e-04	96f:a30f	Height SDS	Educational attainment	female	female	96f:a30f	Educational attainment---Height SDS	0.00288610169491525
+96f	a7f	0.9521	0.0084	0.0036	0.1062	0.9733	96f:a7f	Height SDS	Parkinson's disease	female	female	96f:a7f	Height SDS---Parkinson's disease	0.98200447761194
+96f	a8f	1.0483	0.0133	0.0418	0.0549	0.4462	96f:a8f	Height SDS	Type 2 diabetes	female	female	96f:a8f	Height SDS---Type 2 diabetes	0.60043413940256
+96f	a9f	1.0539	0.0088	-0.124	0.1126	0.2708	96f:a9f	Height SDS	ADHD	female	female	96f:a9f	ADHD---Height SDS	0.422349258649094
+96f	bm2f	0.9934	0.0076	-0.1995	0.1167	0.0875	96f:bm2f	Height SDS	Left 5m area	female	female	96f:bm2f	Height SDS---Left 5m area	0.172807933194154
+96f	bm5f	1.0031	0.0085	0.0695	0.0793	0.3811	96f:bm5f	Height SDS	Left Caudate	female	female	96f:bm5f	Height SDS---Left Caudate	0.538894768310912
+96f	bm6f	1.0025	0.0094	-0.016	0.0754	0.8319	96f:bm6f	Height SDS	Left Putamen	female	female	96f:bm6f	Height SDS---Left Putamen	0.919366121495327
+96f	bm7f	1.001	0.0095	0.0069	0.0787	0.9302	96f:bm7f	Height SDS	Right Putamen	female	female	96f:bm7f	Height SDS---Right Putamen	0.967782894736842
+96f	bm8f	0.9986	0.0079	-0.1115	0.0859	0.194	96f:bm8f	Height SDS	CC Central	female	female	96f:bm8f	CC Central---Height SDS	0.323105633802817
+96f	ch1f	0.9996	0.0071	0.1255	0.1089	0.2492	96f:ch1f	Height SDS	Nonword reading	female	female	96f:ch1f	Height SDS---Nonword reading	0.394219397993311
+96f	ch6f	0.9991	0.0074	-0.1147	0.1308	0.3806	96f:ch6f	Height SDS	Word reading	female	female	96f:ch6f	Height SDS---Word reading	0.538894768310912
+96f	l1f	1.1089	0.0352	0.0363	0.0386	0.3475	96f:l1f	Height SDS	HDL	female	female	96f:l1f	HDL---Height SDS	0.508091190108192
+96f	l2f	1.0807	0.0295	-0.0797	0.0488	0.1023	96f:l2f	Height SDS	LDL	female	female	96f:l2f	Height SDS---LDL	0.194910261569417
+96f	l3f	1.1225	0.0343	-0.0972	0.0468	0.0377	96f:l3f	Height SDS	TC	female	female	96f:l3f	Height SDS---TC	0.0849147619047619
+96f	l4f	1.0884	0.0308	-0.1084	0.0501	0.0304	96f:l4f	Height SDS	logTG	female	female	96f:l4f	Height SDS---logTG	0.0710083950617284
+96f	l5f	1.0975	0.0298	-0.117	0.0475	0.0138	96f:l5f	Height SDS	nonHDL	female	female	96f:l5f	Height SDS---nonHDL	0.0363643454038997
+96f	r4f	0.9971	0.0072	-0.2096	0.08	0.0088	96f:r4f	Height SDS	PTSD	female	female	96f:r4f	Height SDS---PTSD	0.0237851428571429
+96f	r5f	1.0522	0.01	-0.0095	0.0542	0.8616	96f:r5f	Height SDS	Schizophrenia	female	female	96f:r5f	Height SDS---Schizophrenia	0.936866206896552
+96f	r8f	1.0014	0.0077	0.0561	0.0783	0.4737	96f:r8f	Height SDS	Risk-taking behaviour	female	female	96f:r8f	Height SDS---Risk-taking behaviour	0.62639469273743
+96f	r9f	1.0085	0.0073	0.2489	0.1082	0.0214	96f:r9f	Height SDS	Carotid intima-media thickness	female	female	96f:r9f	Carotid intima-media thickness---Height SDS	0.0521762886597938
+99f	a13f	0.9863	0.0089	-0.0028	0.0838	0.9737	99f:a13f	Pubertal growth	Cardiovascular disease	female	female	99f:a13f	Cardiovascular disease---Pubertal growth	0.98200447761194
+99f	a1f	1.0112	0.0087	-0.077	0.0846	0.3627	99f:a1f	Pubertal growth	Insomnia	female	female	99f:a1f	Insomnia---Pubertal growth	0.522387823439878
+99f	a21f	0.9832	0.0085	-0.1135	0.1056	0.2822	99f:a21f	Pubertal growth	Grip strength measurement/ Muscle weakness	female	female	99f:a21f	Grip strength measurement/ Muscle weakness---Pubertal growth	0.43764131147541
+99f	a22f	1.0222	0.0085	0.0377	0.0788	0.6325	99f:a22f	Pubertal growth	Snoring	female	female	99f:a22f	Pubertal growth---Snoring	0.764532311621967
+99f	a27f	1.0418	0.0368	0.0112	0.1078	0.9171	99f:a27f	Pubertal growth	Fasting glucose	female	female	99f:a27f	Fasting glucose---Pubertal growth	0.961836585365854
+99f	a28f	1.017	0.0095	-0.5682	0.215	0.0082	99f:a28f	Pubertal growth	Fasting insulin	female	female	99f:a28f	Fasting insulin---Pubertal growth	0.0224846376811594
+99f	a29f	1.0218	0.0091	0.0627	0.0714	0.3795	99f:a29f	Pubertal growth	Multisite chronic pain	female	female	99f:a29f	Multisite chronic pain---Pubertal growth	0.538894768310912
+99f	a30f	0.9537	0.0095	0.0932	0.0656	0.155	99f:a30f	Pubertal growth	Educational attainment	female	female	99f:a30f	Educational attainment---Pubertal growth	0.270884132841328
+99f	a7f	0.9528	0.0084	0.0374	0.1168	0.7487	99f:a7f	Pubertal growth	Parkinson's disease	female	female	99f:a7f	Parkinson's disease---Pubertal growth	0.850605042016807
+99f	a8f	1.0471	0.013	-0.1644	0.0807	0.0415	99f:a8f	Pubertal growth	Type 2 diabetes	female	female	99f:a8f	Pubertal growth---Type 2 diabetes	0.0913
+99f	a9f	1.0556	0.0089	-0.0631	0.1413	0.6551	99f:a9f	Pubertal growth	ADHD	female	female	99f:a9f	ADHD---Pubertal growth	0.784461518987342
+99f	bm2f	0.9939	0.0076	0.0847	0.1322	0.5218	99f:bm2f	Pubertal growth	Left 5m area	female	female	99f:bm2f	Left 5m area---Pubertal growth	0.66796048714479
+99f	bm5f	1.0022	0.0084	0.0744	0.1038	0.4733	99f:bm5f	Pubertal growth	Left Caudate	female	female	99f:bm5f	Left Caudate---Pubertal growth	0.62639469273743
+99f	bm6f	1.0033	0.0094	-0.0341	0.109	0.7543	99f:bm6f	Pubertal growth	Left Putamen	female	female	99f:bm6f	Left Putamen---Pubertal growth	0.854572215568862
+99f	bm7f	1.0014	0.0095	-0.0945	0.1052	0.3689	99f:bm7f	Pubertal growth	Right Putamen	female	female	99f:bm7f	Pubertal growth---Right Putamen	0.527873716012085
+99f	bm8f	0.9994	0.008	-0.0899	0.125	0.472	99f:bm8f	Pubertal growth	CC Central	female	female	99f:bm8f	CC Central---Pubertal growth	0.626244039270687
+99f	ch1f	0.9996	0.0072	-0.1229	0.1459	0.3998	99f:ch1f	Pubertal growth	Nonword reading	female	female	99f:ch1f	Nonword reading---Pubertal growth	0.556192352941176
+99f	ch6f	1.0005	0.0073	-0.0222	0.1687	0.8953	99f:ch6f	Pubertal growth	Word reading	female	female	99f:ch6f	Pubertal growth---Word reading	0.955929796839729
+99f	l1f	1.1061	0.0341	0.1222	0.0639	0.056	99f:l1f	Pubertal growth	HDL	female	female	99f:l1f	HDL---Pubertal growth	0.118514541387025
+99f	l2f	1.0791	0.0293	-0.0432	0.0592	0.4654	99f:l2f	Pubertal growth	LDL	female	female	99f:l2f	LDL---Pubertal growth	0.619224191279887
+99f	l3f	1.1199	0.0336	-0.0601	0.0602	0.318	99f:l3f	Pubertal growth	TC	female	female	99f:l3f	Pubertal growth---TC	0.479477388535032
+99f	l4f	1.0841	0.0303	-0.1512	0.0654	0.0208	99f:l4f	Pubertal growth	logTG	female	female	99f:l4f	logTG---Pubertal growth	0.0509761658031088
+99f	l5f	1.0962	0.0293	-0.1102	0.0591	0.0622	99f:l5f	Pubertal growth	nonHDL	female	female	99f:l5f	nonHDL---Pubertal growth	0.128755361050328
+99f	r4f	0.9968	0.0071	0.0134	0.1109	0.9038	99f:r4f	Pubertal growth	PTSD	female	female	99f:r4f	PTSD---Pubertal growth	0.958514349775785
+99f	r5f	1.0513	0.0101	0.0644	0.0733	0.3798	99f:r5f	Pubertal growth	Schizophrenia	female	female	99f:r5f	Pubertal growth---Schizophrenia	0.538894768310912
+99f	r8f	1.0006	0.0079	0.0124	0.0863	0.8858	99f:r8f	Pubertal growth	Risk-taking behaviour	female	female	99f:r8f	Pubertal growth---Risk-taking behaviour	0.950075736961451
+99f	r9f	1.0086	0.0072	0.0909	0.1524	0.5509	99f:r9f	Pubertal growth	Carotid intima-media thickness	female	female	99f:r9f	Carotid intima-media thickness---Pubertal growth	0.690392052980133
+a13f	a1f	1.0154	0.0085	0.2999	0.0518	7.3213e-09	a13f:a1f	Cardiovascular disease	Insomnia	female	female	a13f:a1f	Cardiovascular disease---Insomnia	3.91296598870057e-08
+a13f	a21f	0.9934	0.0084	0.1837	0.0591	0.0019	a13f:a21f	Cardiovascular disease	Grip strength measurement/ Muscle weakness	female	female	a13f:a21f	Cardiovascular disease---Grip strength measurement/ Muscle weakness	0.00587385620915033
+a13f	a22f	1.0303	0.0084	0.1444	0.0423	6e-04	a13f:a22f	Cardiovascular disease	Snoring	female	female	a13f:a22f	Cardiovascular disease---Snoring	0.00199157894736842
+a13f	a27f	1.0236	0.0293	0.1744	0.0641	0.0065	a13f:a27f	Cardiovascular disease	Fasting glucose	female	female	a13f:a27f	Cardiovascular disease---Fasting glucose	0.0179795321637427
+a13f	a28f	1.017	0.0103	0.1639	0.1165	0.1593	a13f:a28f	Cardiovascular disease	Fasting insulin	female	female	a13f:a28f	Cardiovascular disease---Fasting insulin	0.276509724770642
+a13f	a29f	1.0211	0.0096	0.3582	0.0448	1.2955e-15	a13f:a29f	Cardiovascular disease	Multisite chronic pain	female	female	a13f:a29f	Cardiovascular disease---Multisite chronic pain	9.88341129032258e-15
+a13f	a30f	0.9566	0.0094	-0.3798	0.0358	2.4399e-26	a13f:a30f	Cardiovascular disease	Educational attainment	female	female	a13f:a30f	Cardiovascular disease---Educational attainment	3.16184301369863e-25
+a13f	a7f	0.9565	0.008	-0.0924	0.0563	0.1009	a13f:a7f	Cardiovascular disease	Parkinson's disease	female	female	a13f:a7f	Cardiovascular disease---Parkinson's disease	0.192831111111111
+a13f	a8f	1.0485	0.0136	0.478	0.0377	7.1205e-37	a13f:a8f	Cardiovascular disease	Type 2 diabetes	female	female	a13f:a8f	Cardiovascular disease---Type 2 diabetes	1.18175315789474e-35
+a13f	a9f	1.0524	0.0091	0.372	0.0901	3.6189e-05	a13f:a9f	Cardiovascular disease	ADHD	female	female	a13f:a9f	ADHD---Cardiovascular disease	0.000139165829268293
+a13f	bm2f	1.0025	0.0078	0.2096	0.0857	0.0144	a13f:bm2f	Cardiovascular disease	Left 5m area	female	female	a13f:bm2f	Cardiovascular disease---Left 5m area	0.0377351800554017
+a13f	bm5f	1.0123	0.0082	0.066	0.0733	0.3684	a13f:bm5f	Cardiovascular disease	Left Caudate	female	female	a13f:bm5f	Cardiovascular disease---Left Caudate	0.527873716012085
+a13f	bm6f	1.0173	0.0096	0.1232	0.0754	0.1024	a13f:bm6f	Cardiovascular disease	Left Putamen	female	female	a13f:bm6f	Cardiovascular disease---Left Putamen	0.194910261569417
+a13f	bm7f	1.0181	0.0093	0.1123	0.0735	0.1264	a13f:bm7f	Cardiovascular disease	Right Putamen	female	female	a13f:bm7f	Cardiovascular disease---Right Putamen	0.23354375
+a13f	bm8f	0.9984	0.0076	0.057	0.0716	0.4259	a13f:bm8f	Cardiovascular disease	CC Central	female	female	a13f:bm8f	Cardiovascular disease---CC Central	0.579714244604317
+a13f	ch1f	0.9986	0.0067	-0.2002	0.0883	0.0234	a13f:ch1f	Cardiovascular disease	Nonword reading	female	female	a13f:ch1f	Cardiovascular disease---Nonword reading	0.0566148337595908
+a13f	ch6f	1.0062	0.0073	-0.1633	0.107	0.1271	a13f:ch6f	Cardiovascular disease	Word reading	female	female	a13f:ch6f	Cardiovascular disease---Word reading	0.233652815533981
+a13f	l1f	1.1401	0.0392	-0.3962	0.0298	1.9593e-40	a13f:l1f	Cardiovascular disease	HDL	female	female	a13f:l1f	Cardiovascular disease---HDL	3.49716566037736e-39
+a13f	l2f	1.0946	0.034	0.1982	0.037	8.6782e-08	a13f:l2f	Cardiovascular disease	LDL	female	female	a13f:l2f	Cardiovascular disease---LDL	4.29820795811518e-07
+a13f	l3f	1.1294	0.0336	0.1184	0.0362	0.0011	a13f:l3f	Cardiovascular disease	TC	female	female	a13f:l3f	Cardiovascular disease---TC	0.00345714285714286
+a13f	l4f	1.1128	0.0349	0.4036	0.0338	8.6085e-33	a13f:l4f	Cardiovascular disease	logTG	female	female	a13f:l4f	Cardiovascular disease---logTG	1.25286784615385e-31
+a13f	l5f	1.1134	0.0337	0.2849	0.0395	5.2889e-13	a13f:l5f	Cardiovascular disease	nonHDL	female	female	a13f:l5f	Cardiovascular disease---nonHDL	3.62557927536232e-12
+a13f	r4f	1.001	0.0068	0.3029	0.0592	3.0558e-07	a13f:r4f	Cardiovascular disease	PTSD	female	female	a13f:r4f	Cardiovascular disease---PTSD	1.45265668341709e-06
+a13f	r5f	1.051	0.0109	-0.0261	0.0439	0.551	a13f:r5f	Cardiovascular disease	Schizophrenia	female	female	a13f:r5f	Cardiovascular disease---Schizophrenia	0.690392052980133
+a13f	r8f	1.0008	0.008	-0.0035	0.0457	0.9382	a13f:r8f	Cardiovascular disease	Risk-taking behaviour	female	female	a13f:r8f	Cardiovascular disease---Risk-taking behaviour	0.96797360959651
+a13f	r9f	1.0085	0.0068	0.1805	0.0776	0.02	a13f:r9f	Cardiovascular disease	Carotid intima-media thickness	female	female	a13f:r9f	Cardiovascular disease---Carotid intima-media thickness	0.0495287958115183
+a1f	a21f	0.9878	0.0083	0.1492	0.0529	0.0048	a1f:a21f	Insomnia	Grip strength measurement/ Muscle weakness	female	female	a1f:a21f	Grip strength measurement/ Muscle weakness---Insomnia	0.013636036036036
+a1f	a22f	1.0195	0.0077	0.0562	0.0396	0.1556	a1f:a22f	Insomnia	Snoring	female	female	a1f:a22f	Insomnia---Snoring	0.271082136279926
+a1f	a27f	0.9414	0.0261	0.0555	0.0601	0.3559	a1f:a27f	Insomnia	Fasting glucose	female	female	a1f:a27f	Fasting glucose---Insomnia	0.516382515337423
+a1f	a28f	1.0023	0.0092	0.1013	0.0707	0.1519	a1f:a28f	Insomnia	Fasting insulin	female	female	a1f:a28f	Fasting insulin---Insomnia	0.267769087523277
+a1f	a29f	1.0145	0.0088	0.5601	0.0283	4.017e-87	a1f:a29f	Insomnia	Multisite chronic pain	female	female	a1f:a29f	Insomnia---Multisite chronic pain	1.35717214285714e-85
+a1f	a30f	0.9486	0.0088	-0.3747	0.0299	6.2704e-36	a1f:a30f	Insomnia	Educational attainment	female	female	a1f:a30f	Educational attainment---Insomnia	1.00538955932203e-34
+a1f	a7f	0.9556	0.0079	0.0394	0.056	0.4818	a1f:a7f	Insomnia	Parkinson's disease	female	female	a1f:a7f	Insomnia---Parkinson's disease	0.634794986072423
+a1f	a8f	1.0482	0.0122	0.2298	0.0372	6.4887e-10	a1f:a8f	Insomnia	Type 2 diabetes	female	female	a1f:a8f	Insomnia---Type 2 diabetes	3.74287207317073e-09
+a1f	a9f	1.0589	0.0089	0.4836	0.0825	4.6381e-09	a1f:a9f	Insomnia	ADHD	female	female	a1f:a9f	ADHD---Insomnia	2.53620959537572e-08
+a1f	bm2f	0.9959	0.0068	0.1668	0.0721	0.0207	a1f:bm2f	Insomnia	Left 5m area	female	female	a1f:bm2f	Insomnia---Left 5m area	0.0508628571428571
+a1f	bm5f	1.0045	0.0074	0.1955	0.0496	8.0727e-05	a1f:bm5f	Insomnia	Left Caudate	female	female	a1f:bm5f	Insomnia---Left Caudate	0.0002983114921875
+a1f	bm6f	1.0095	0.0088	0.0344	0.0577	0.551	a1f:bm6f	Insomnia	Left Putamen	female	female	a1f:bm6f	Insomnia---Left Putamen	0.690392052980133
+a1f	bm7f	1.0089	0.0084	0.0038	0.0582	0.9485	a1f:bm7f	Insomnia	Right Putamen	female	female	a1f:bm7f	Insomnia---Right Putamen	0.972135427952329
+a1f	bm8f	1.0025	0.0068	-0.011	0.0616	0.8583	a1f:bm8f	Insomnia	CC Central	female	female	a1f:bm8f	CC Central---Insomnia	0.934351898734177
+a1f	ch1f	0.9962	0.0069	-0.1431	0.0715	0.0452	a1f:ch1f	Insomnia	Nonword reading	female	female	a1f:ch1f	Insomnia---Nonword reading	0.09875103926097
+a1f	ch6f	1.0016	0.0064	-0.3328	0.0948	4e-04	a1f:ch6f	Insomnia	Word reading	female	female	a1f:ch6f	Insomnia---Word reading	0.00138102189781022
+a1f	l1f	1.1018	0.036	-0.1918	0.0257	7.9977e-14	a1f:l1f	Insomnia	HDL	female	female	a1f:l1f	HDL---Insomnia	5.68858962406015e-13
+a1f	l2f	1.0713	0.0304	0.0591	0.0264	0.0252	a1f:l2f	Insomnia	LDL	female	female	a1f:l2f	Insomnia---LDL	0.0603524050632911
+a1f	l3f	1.11	0.0347	0.0377	0.0257	0.1417	a1f:l3f	Insomnia	TC	female	female	a1f:l3f	Insomnia---TC	0.253879166666667
+a1f	l4f	1.0786	0.0296	0.2209	0.0271	3.4651e-16	a1f:l4f	Insomnia	logTG	female	female	a1f:l4f	Insomnia---logTG	2.77795305084746e-15
+a1f	l5f	1.0869	0.0308	0.1076	0.0253	2.151e-05	a1f:l5f	Insomnia	nonHDL	female	female	a1f:l5f	Insomnia---nonHDL	8.37385185185185e-05
+a1f	r4f	1.001	0.0062	0.29	0.0471	7.3811e-10	a1f:r4f	Insomnia	PTSD	female	female	a1f:r4f	Insomnia---PTSD	4.20633771084337e-09
+a1f	r5f	1.0586	0.01	-0.0536	0.0374	0.152	a1f:r5f	Insomnia	Schizophrenia	female	female	a1f:r5f	Insomnia---Schizophrenia	0.267769087523277
+a1f	r8f	0.9994	0.0075	-0.0154	0.0447	0.7311	a1f:r8f	Insomnia	Risk-taking behaviour	female	female	a1f:r8f	Insomnia---Risk-taking behaviour	0.841387591240876
+a1f	r9f	1.0104	0.0063	0.059	0.0649	0.3628	a1f:r9f	Insomnia	Carotid intima-media thickness	female	female	a1f:r9f	Carotid intima-media thickness---Insomnia	0.522387823439878
+a21f	a22f	1.0213	0.0078	0.1464	0.0366	6.4523e-05	a21f:a22f	Grip strength measurement/ Muscle weakness	Snoring	female	female	a21f:a22f	Grip strength measurement/ Muscle weakness---Snoring	0.000240310070866142
+a21f	a27f	0.9713	0.0266	0.0392	0.0821	0.6328	a21f:a27f	Grip strength measurement/ Muscle weakness	Fasting glucose	female	female	a21f:a27f	Fasting glucose---Grip strength measurement/ Muscle weakness	0.764532311621967
+a21f	a28f	1.006	0.0094	0.0842	0.0934	0.3678	a21f:a28f	Grip strength measurement/ Muscle weakness	Fasting insulin	female	female	a21f:a28f	Fasting insulin---Grip strength measurement/ Muscle weakness	0.527873716012085
+a21f	a29f	1.0152	0.008	0.2198	0.0379	6.8345e-09	a21f:a29f	Grip strength measurement/ Muscle weakness	Multisite chronic pain	female	female	a21f:a29f	Grip strength measurement/ Muscle weakness---Multisite chronic pain	3.71275268571429e-08
+a21f	a30f	0.9508	0.0086	-0.1492	0.0343	1.3705e-05	a21f:a30f	Grip strength measurement/ Muscle weakness	Educational attainment	female	female	a21f:a30f	Educational attainment---Grip strength measurement/ Muscle weakness	5.56434763948498e-05
+a21f	a7f	0.9546	0.0076	0.0853	0.0538	0.1132	a21f:a7f	Grip strength measurement/ Muscle weakness	Parkinson's disease	female	female	a21f:a7f	Grip strength measurement/ Muscle weakness---Parkinson's disease	0.21285
+a21f	a8f	1.0443	0.0117	0.1182	0.0399	0.0031	a21f:a8f	Grip strength measurement/ Muscle weakness	Type 2 diabetes	female	female	a21f:a8f	Grip strength measurement/ Muscle weakness---Type 2 diabetes	0.00919310344827586
+a21f	a9f	1.059	0.0088	0.0559	0.0849	0.5104	a21f:a9f	Grip strength measurement/ Muscle weakness	ADHD	female	female	a21f:a9f	ADHD---Grip strength measurement/ Muscle weakness	0.659615300546448
+a21f	bm2f	0.9953	0.0068	0.2609	0.0795	0.001	a21f:bm2f	Grip strength measurement/ Muscle weakness	Left 5m area	female	female	a21f:bm2f	Grip strength measurement/ Muscle weakness---Left 5m area	0.0031744966442953
+a21f	bm5f	1.003	0.0075	-0.0107	0.0571	0.8514	a21f:bm5f	Grip strength measurement/ Muscle weakness	Left Caudate	female	female	a21f:bm5f	Grip strength measurement/ Muscle weakness---Left Caudate	0.930051270207852
+a21f	bm6f	1.0085	0.0088	0.0191	0.0642	0.7655	a21f:bm6f	Grip strength measurement/ Muscle weakness	Left Putamen	female	female	a21f:bm6f	Grip strength measurement/ Muscle weakness---Left Putamen	0.862098809523809
+a21f	bm7f	1.0082	0.0083	0.0079	0.061	0.8971	a21f:bm7f	Grip strength measurement/ Muscle weakness	Right Putamen	female	female	a21f:bm7f	Grip strength measurement/ Muscle weakness---Right Putamen	0.956771815107103
+a21f	bm8f	1.0017	0.0069	-0.0085	0.0764	0.9119	a21f:bm8f	Grip strength measurement/ Muscle weakness	CC Central	female	female	a21f:bm8f	CC Central---Grip strength measurement/ Muscle weakness	0.960069256381798
+a21f	ch1f	0.9979	0.0065	-0.2087	0.0864	0.0157	a21f:ch1f	Grip strength measurement/ Muscle weakness	Nonword reading	female	female	a21f:ch1f	Grip strength measurement/ Muscle weakness---Nonword reading	0.0401410810810811
+a21f	ch6f	1.0032	0.0063	-0.1617	0.106	0.1271	a21f:ch6f	Grip strength measurement/ Muscle weakness	Word reading	female	female	a21f:ch6f	Grip strength measurement/ Muscle weakness---Word reading	0.233652815533981
+a21f	l1f	1.1127	0.0351	-0.064	0.033	0.0523	a21f:l1f	Grip strength measurement/ Muscle weakness	HDL	female	female	a21f:l1f	Grip strength measurement/ Muscle weakness---HDL	0.112619047619048
+a21f	l2f	1.0765	0.0309	0.0359	0.0317	0.257	a21f:l2f	Grip strength measurement/ Muscle weakness	LDL	female	female	a21f:l2f	Grip strength measurement/ Muscle weakness---LDL	0.405203333333333
+a21f	l3f	1.116	0.0322	0.0424	0.0302	0.1604	a21f:l3f	Grip strength measurement/ Muscle weakness	TC	female	female	a21f:l3f	Grip strength measurement/ Muscle weakness---TC	0.277401096892139
+a21f	l4f	1.0858	0.0321	0.1531	0.0315	1.1583e-06	a21f:l4f	Grip strength measurement/ Muscle weakness	logTG	female	female	a21f:l4f	Grip strength measurement/ Muscle weakness---logTG	5.34513073170732e-06
+a21f	l5f	1.0927	0.0307	0.0717	0.0302	0.0176	a21f:l5f	Grip strength measurement/ Muscle weakness	nonHDL	female	female	a21f:l5f	Grip strength measurement/ Muscle weakness---nonHDL	0.0441633952254642
+a21f	r4f	0.9994	0.0061	0.1975	0.0579	6e-04	a21f:r4f	Grip strength measurement/ Muscle weakness	PTSD	female	female	a21f:r4f	Grip strength measurement/ Muscle weakness---PTSD	0.00199157894736842
+a21f	r5f	1.0583	0.0098	-0.0086	0.0431	0.8417	a21f:r5f	Grip strength measurement/ Muscle weakness	Schizophrenia	female	female	a21f:r5f	Grip strength measurement/ Muscle weakness---Schizophrenia	0.924270533642691
+a21f	r8f	0.999	0.0074	-0.0018	0.0516	0.9714	a21f:r8f	Grip strength measurement/ Muscle weakness	Risk-taking behaviour	female	female	a21f:r8f	Grip strength measurement/ Muscle weakness---Risk-taking behaviour	0.98200447761194
+a21f	r9f	1.0093	0.0063	-0.012	0.0901	0.8939	a21f:r9f	Grip strength measurement/ Muscle weakness	Carotid intima-media thickness	female	female	a21f:r9f	Carotid intima-media thickness---Grip strength measurement/ Muscle weakness	0.955513446327684
+a22f	a27f	0.9601	0.026	0.1845	0.0595	0.0019	a22f:a27f	Snoring	Fasting glucose	female	female	a22f:a27f	Fasting glucose---Snoring	0.00587385620915033
+a22f	a28f	1.0033	0.0095	0.3382	0.0783	1.5788e-05	a22f:a28f	Snoring	Fasting insulin	female	female	a22f:a28f	Fasting insulin---Snoring	6.35550978723404e-05
+a22f	a29f	1.0146	0.0079	0.2255	0.0281	1.0799e-15	a22f:a29f	Snoring	Multisite chronic pain	female	female	a22f:a29f	Multisite chronic pain---Snoring	8.30557235772358e-15
+a22f	a30f	0.9507	0.0085	-0.2223	0.0299	1.1497e-13	a22f:a30f	Snoring	Educational attainment	female	female	a22f:a30f	Educational attainment---Snoring	8.0564162962963e-13
+a22f	a7f	0.955	0.0075	-0.0955	0.0529	0.0707	a22f:a7f	Snoring	Parkinson's disease	female	female	a22f:a7f	Parkinson's disease---Snoring	0.143832688172043
+a22f	a8f	1.0445	0.0119	0.298	0.0296	8.2408e-24	a22f:a8f	Snoring	Type 2 diabetes	female	female	a22f:a8f	Snoring---Type 2 diabetes	9.99461128205128e-23
+a22f	a9f	1.0584	0.0087	0.1805	0.0632	0.0043	a22f:a9f	Snoring	ADHD	female	female	a22f:a9f	ADHD---Snoring	0.0123266666666667
+a22f	bm2f	0.9951	0.0068	0.0207	0.0639	0.7458	a22f:bm2f	Snoring	Left 5m area	female	female	a22f:bm2f	Left 5m area---Snoring	0.849009386281589
+a22f	bm5f	1.0051	0.0076	-0.0044	0.0447	0.9221	a22f:bm5f	Snoring	Left Caudate	female	female	a22f:bm5f	Left Caudate---Snoring	0.963874696132597
+a22f	bm6f	1.0089	0.0086	0.0325	0.0475	0.494	a22f:bm6f	Snoring	Left Putamen	female	female	a22f:bm6f	Left Putamen---Snoring	0.643357967032967
+a22f	bm7f	1.0084	0.0082	0.0309	0.0463	0.504	a22f:bm7f	Snoring	Right Putamen	female	female	a22f:bm7f	Right Putamen---Snoring	0.653128767123288
+a22f	bm8f	1.0017	0.0068	-0.0315	0.0505	0.5327	a22f:bm8f	Snoring	CC Central	female	female	a22f:bm8f	CC Central---Snoring	0.675515013404826
+a22f	ch1f	0.9982	0.0067	-0.2042	0.0708	0.0039	a22f:ch1f	Snoring	Nonword reading	female	female	a22f:ch1f	Nonword reading---Snoring	0.0113171779141104
+a22f	ch6f	1.0029	0.0064	-0.3182	0.0831	1e-04	a22f:ch6f	Snoring	Word reading	female	female	a22f:ch6f	Snoring---Word reading	0.000358333333333333
+a22f	l1f	1.1107	0.0348	-0.2534	0.0226	3.7768e-29	a22f:l1f	Snoring	HDL	female	female	a22f:l1f	HDL---Snoring	5.03218704225352e-28
+a22f	l2f	1.0746	0.0306	0.1061	0.0258	3.8469e-05	a22f:l2f	Snoring	LDL	female	female	a22f:l2f	LDL---Snoring	0.000146740620967742
+a22f	l3f	1.1136	0.0318	0.034	0.0245	0.1655	a22f:l3f	Snoring	TC	female	female	a22f:l3f	Snoring---TC	0.284315063520871
+a22f	l4f	1.0841	0.0317	0.2342	0.0254	3.3848e-20	a22f:l4f	Snoring	logTG	female	female	a22f:l4f	logTG---Snoring	3.40640510638298e-19
+a22f	l5f	1.0909	0.0305	0.1367	0.0258	1.2237e-07	a22f:l5f	Snoring	nonHDL	female	female	a22f:l5f	nonHDL---Snoring	5.93651384615385e-07
+a22f	r4f	0.9991	0.006	0.1089	0.0462	0.0183	a22f:r4f	Snoring	PTSD	female	female	a22f:r4f	PTSD---Snoring	0.0455573684210526
+a22f	r5f	1.0585	0.0097	-0.0598	0.032	0.0616	a22f:r5f	Snoring	Schizophrenia	female	female	a22f:r5f	Schizophrenia---Snoring	0.128281758241758
+a22f	r8f	0.9992	0.0073	0.042	0.0409	0.3048	a22f:r8f	Snoring	Risk-taking behaviour	female	female	a22f:r8f	Risk-taking behaviour---Snoring	0.467327066450567
+a22f	r9f	1.0096	0.0063	0.0525	0.0605	0.3857	a22f:r9f	Snoring	Carotid intima-media thickness	female	female	a22f:r9f	Carotid intima-media thickness---Snoring	0.543527678571429
+a27f	a28f	0.9626	0.0176	0.3151	0.0885	4e-04	a27f:a28f	Fasting glucose	Fasting insulin	female	female	a27f:a28f	Fasting glucose---Fasting insulin	0.00138102189781022
+a27f	a29f	1.0259	0.0179	-0.0362	0.0631	0.5654	a27f:a29f	Fasting glucose	Multisite chronic pain	female	female	a27f:a29f	Fasting glucose---Multisite chronic pain	0.699002610966057
+a27f	a30f	0.9439	0.0226	-0.0821	0.0594	0.1665	a27f:a30f	Fasting glucose	Educational attainment	female	female	a27f:a30f	Educational attainment---Fasting glucose	0.285342391304348
+a27f	a7f	0.9217	0.0192	0.1041	0.0728	0.1526	a27f:a7f	Fasting glucose	Parkinson's disease	female	female	a27f:a7f	Fasting glucose---Parkinson's disease	0.268326394052045
+a27f	a8f	1.1341	0.0573	0.547	0.0479	3.6109e-30	a27f:a8f	Fasting glucose	Type 2 diabetes	female	female	a27f:a8f	Fasting glucose---Type 2 diabetes	5.02339911764706e-29
+a27f	a9f	1.0851	0.0164	0.3793	0.1948	0.0515	a27f:a9f	Fasting glucose	ADHD	female	female	a27f:a9f	ADHD---Fasting glucose	0.111230593607306
+a27f	bm2f	0.9745	0.0171	0.0224	0.085	0.7918	a27f:bm2f	Fasting glucose	Left 5m area	female	female	a27f:bm2f	Fasting glucose---Left 5m area	0.885393380614657
+a27f	bm5f	0.9975	0.0199	0.0809	0.0671	0.2281	a27f:bm5f	Fasting glucose	Left Caudate	female	female	a27f:bm5f	Fasting glucose---Left Caudate	0.367157215619694
+a27f	bm6f	0.9856	0.0192	0.022	0.0616	0.7214	a27f:bm6f	Fasting glucose	Left Putamen	female	female	a27f:bm6f	Fasting glucose---Left Putamen	0.834284107579462
+a27f	bm7f	0.9821	0.0185	-0.0269	0.0628	0.6689	a27f:bm7f	Fasting glucose	Right Putamen	female	female	a27f:bm7f	Fasting glucose---Right Putamen	0.79395156838143
+a27f	bm8f	0.9937	0.0155	-0.0419	0.1012	0.6787	a27f:bm8f	Fasting glucose	CC Central	female	female	a27f:bm8f	CC Central---Fasting glucose	0.803567209011264
+a27f	ch1f	0.9855	0.0151	0.0121	0.0974	0.9013	a27f:ch1f	Fasting glucose	Nonword reading	female	female	a27f:ch1f	Fasting glucose---Nonword reading	0.958514349775785
+a27f	ch6f	1.0093	0.0177	-0.0807	0.1369	0.5554	a27f:ch6f	Fasting glucose	Word reading	female	female	a27f:ch6f	Fasting glucose---Word reading	0.69223768115942
+a27f	l1f	1.4196	0.1136	-0.1693	0.0496	6e-04	a27f:l1f	Fasting glucose	HDL	female	female	a27f:l1f	Fasting glucose---HDL	0.00199157894736842
+a27f	l2f	1.419	0.1405	0.009	0.0593	0.8794	a27f:l2f	Fasting glucose	LDL	female	female	a27f:l2f	Fasting glucose---LDL	0.94815244596132
+a27f	l3f	1.5081	0.1343	-0.0419	0.0591	0.4776	a27f:l3f	Fasting glucose	TC	female	female	a27f:l3f	Fasting glucose---TC	0.630138912133891
+a27f	l4f	1.4238	0.1219	0.2351	0.0504	3.0648e-06	a27f:l4f	Fasting glucose	logTG	female	female	a27f:l4f	Fasting glucose---logTG	1.35481345794393e-05
+a27f	l5f	1.4036	0.126	0.0422	0.0619	0.4946	a27f:l5f	Fasting glucose	nonHDL	female	female	a27f:l5f	Fasting glucose---nonHDL	0.643357967032967
+a27f	r4f	0.9933	0.0139	-0.1076	0.0825	0.1923	a27f:r4f	Fasting glucose	PTSD	female	female	a27f:r4f	Fasting glucose---PTSD	0.321740282685512
+a27f	r5f	1.0608	0.0255	0.0048	0.069	0.9445	a27f:r5f	Fasting glucose	Schizophrenia	female	female	a27f:r5f	Fasting glucose---Schizophrenia	0.96908568329718
+a27f	r8f	0.9845	0.0175	-0.0992	0.0747	0.1841	a27f:r8f	Fasting glucose	Risk-taking behaviour	female	female	a27f:r8f	Fasting glucose---Risk-taking behaviour	0.3109975
+a27f	r9f	1.0103	0.0164	-0.013	0.0845	0.878	a27f:r9f	Fasting glucose	Carotid intima-media thickness	female	female	a27f:r9f	Carotid intima-media thickness---Fasting glucose	0.94815244596132
+a28f	a29f	1.0166	0.0121	0.2146	0.0708	0.0024	a28f:a29f	Fasting insulin	Multisite chronic pain	female	female	a28f:a29f	Fasting insulin---Multisite chronic pain	0.00730032154340836
+a28f	a30f	0.9537	0.0149	-0.319	0.0638	5.6621e-07	a28f:a30f	Fasting insulin	Educational attainment	female	female	a28f:a30f	Educational attainment---Fasting insulin	2.66484905472637e-06
+a28f	a7f	0.948	0.0121	-0.1095	0.1087	0.3135	a28f:a7f	Fasting insulin	Parkinson's disease	female	female	a28f:a7f	Fasting insulin---Parkinson's disease	0.475274038461538
+a28f	a8f	1.0724	0.0216	0.5805	0.0847	7.0973e-12	a28f:a8f	Fasting insulin	Type 2 diabetes	female	female	a28f:a8f	Fasting insulin---Type 2 diabetes	4.53651743243243e-11
+a28f	a9f	1.0459	0.0113	0.2143	0.1281	0.0943	a28f:a9f	Fasting insulin	ADHD	female	female	a28f:a9f	ADHD---Fasting insulin	0.183178234086242
+a28f	bm2f	0.9917	0.0098	-0.0421	0.1296	0.7456	a28f:bm2f	Fasting insulin	Left 5m area	female	female	a28f:bm2f	Fasting insulin---Left 5m area	0.849009386281589
+a28f	bm5f	1.0039	0.0124	-0.0082	0.0971	0.933	a28f:bm5f	Fasting insulin	Left Caudate	female	female	a28f:bm5f	Fasting insulin---Left Caudate	0.967782894736842
+a28f	bm6f	0.9927	0.0121	-0.0706	0.1008	0.4837	a28f:bm6f	Fasting insulin	Left Putamen	female	female	a28f:bm6f	Fasting insulin---Left Putamen	0.636411961057024
+a28f	bm7f	0.9883	0.0114	-0.0581	0.0963	0.546	a28f:bm7f	Fasting insulin	Right Putamen	female	female	a28f:bm7f	Fasting insulin---Right Putamen	0.686856382978724
+a28f	bm8f	0.9998	0.0102	0.2314	0.1221	0.0582	a28f:bm8f	Fasting insulin	CC Central	female	female	a28f:bm8f	CC Central---Fasting insulin	0.122895535714286
+a28f	ch1f	0.9982	0.0095	0.1683	0.1586	0.2888	a28f:ch1f	Fasting insulin	Nonword reading	female	female	a28f:ch1f	Fasting insulin---Nonword reading	0.446302120717781
+a28f	ch6f	1.005	0.0095	-0.0297	0.1982	0.881	a28f:ch6f	Fasting insulin	Word reading	female	female	a28f:ch6f	Fasting insulin---Word reading	0.94815244596132
+a28f	l1f	1.2461	0.0578	-0.4681	0.0655	8.7133e-13	a28f:l1f	Fasting insulin	HDL	female	female	a28f:l1f	Fasting insulin---HDL	5.88770128571429e-12
+a28f	l2f	1.1712	0.0518	0.1671	0.0661	0.0115	a28f:l2f	Fasting insulin	LDL	female	female	a28f:l2f	Fasting insulin---LDL	0.0305589887640449
+a28f	l3f	1.219	0.0548	0.0918	0.0634	0.1475	a28f:l3f	Fasting insulin	TC	female	female	a28f:l3f	Fasting insulin---TC	0.26327358490566
+a28f	l4f	1.2254	0.056	0.5694	0.0705	6.8875e-16	a28f:l4f	Fasting insulin	logTG	female	female	a28f:l4f	Fasting insulin---logTG	5.42964583333333e-15
+a28f	l5f	1.1914	0.0496	0.3008	0.0698	1.6478e-05	a28f:l5f	Fasting insulin	nonHDL	female	female	a28f:l5f	Fasting insulin---nonHDL	6.57729451476793e-05
+a28f	r4f	0.9925	0.0087	0.0779	0.1015	0.4429	a28f:r4f	Fasting insulin	PTSD	female	female	a28f:r4f	Fasting insulin---PTSD	0.597693865905849
+a28f	r5f	1.0416	0.0132	-0.0705	0.0734	0.3365	a28f:r5f	Fasting insulin	Schizophrenia	female	female	a28f:r5f	Fasting insulin---Schizophrenia	0.495839563862928
+a28f	r8f	0.995	0.0111	-0.0788	0.0803	0.3268	a28f:r8f	Fasting insulin	Risk-taking behaviour	female	female	a28f:r8f	Fasting insulin---Risk-taking behaviour	0.488393048973144
+a28f	r9f	1.0179	0.0093	0.1175	0.1309	0.3694	a28f:r9f	Fasting insulin	Carotid intima-media thickness	female	female	a28f:r9f	Carotid intima-media thickness---Fasting insulin	0.527873716012085
+a29f	a30f	0.9503	0.0088	-0.4193	0.0247	8.1898e-65	a29f:a30f	Multisite chronic pain	Educational attainment	female	female	a29f:a30f	Educational attainment---Multisite chronic pain	2.09393264864865e-63
+a29f	a7f	0.9561	0.0076	-0.0529	0.0475	0.2655	a29f:a7f	Multisite chronic pain	Parkinson's disease	female	female	a29f:a7f	Multisite chronic pain---Parkinson's disease	0.416522388059701
+a29f	a8f	1.0475	0.012	0.2697	0.0296	8.7897e-20	a29f:a8f	Multisite chronic pain	Type 2 diabetes	female	female	a29f:a8f	Multisite chronic pain---Type 2 diabetes	8.661516875e-19
+a29f	a9f	1.0584	0.0087	0.6765	0.077	1.6119e-18	a29f:a9f	Multisite chronic pain	ADHD	female	female	a29f:a9f	ADHD---Multisite chronic pain	1.5248574e-17
+a29f	bm2f	0.9951	0.0068	0.1217	0.0575	0.0344	a29f:bm2f	Multisite chronic pain	Left 5m area	female	female	a29f:bm2f	Left 5m area---Multisite chronic pain	0.0786048309178744
+a29f	bm5f	1.0047	0.0077	0.0698	0.0466	0.1335	a29f:bm5f	Multisite chronic pain	Left Caudate	female	female	a29f:bm5f	Left Caudate---Multisite chronic pain	0.243805019305019
+a29f	bm6f	1.0093	0.0086	0.0787	0.0493	0.1103	a29f:bm6f	Multisite chronic pain	Left Putamen	female	female	a29f:bm6f	Left Putamen---Multisite chronic pain	0.208271057884232
+a29f	bm7f	1.0089	0.0082	0.0866	0.0461	0.0604	a29f:bm7f	Multisite chronic pain	Right Putamen	female	female	a29f:bm7f	Multisite chronic pain---Right Putamen	0.126412389380531
+a29f	bm8f	1.0017	0.0069	0.1056	0.0504	0.0363	a29f:bm8f	Multisite chronic pain	CC Central	female	female	a29f:bm8f	CC Central---Multisite chronic pain	0.0823496402877698
+a29f	ch1f	0.9979	0.0067	-0.275	0.0643	1.8941e-05	a29f:ch1f	Multisite chronic pain	Nonword reading	female	female	a29f:ch1f	Multisite chronic pain---Nonword reading	7.43493195020747e-05
+a29f	ch6f	1.0025	0.0064	-0.3819	0.0828	3.9989e-06	a29f:ch6f	Multisite chronic pain	Word reading	female	female	a29f:ch6f	Multisite chronic pain---Word reading	1.72737872146119e-05
+a29f	l1f	1.1114	0.036	-0.3121	0.0194	4.9992e-58	a29f:l1f	Multisite chronic pain	HDL	female	female	a29f:l1f	HDL---Multisite chronic pain	1.21262646153846e-56
+a29f	l2f	1.0742	0.03	0.1518	0.0246	6.9526e-10	a29f:l2f	Multisite chronic pain	LDL	female	female	a29f:l2f	LDL---Multisite chronic pain	3.98615733333333e-09
+a29f	l3f	1.1139	0.032	0.0983	0.0231	2.0369e-05	a29f:l3f	Multisite chronic pain	TC	female	female	a29f:l3f	Multisite chronic pain---TC	7.96242727272727e-05
+a29f	l4f	1.0849	0.0317	0.3331	0.0203	9.4852e-61	a29f:l4f	Multisite chronic pain	logTG	female	female	a29f:l4f	logTG---Multisite chronic pain	2.36131557894737e-59
+a29f	l5f	1.0899	0.0298	0.2065	0.0246	5.1251e-17	a29f:l5f	Multisite chronic pain	nonHDL	female	female	a29f:l5f	Multisite chronic pain---nonHDL	4.407586e-16
+a29f	r4f	0.9998	0.0062	0.5608	0.0425	1.0609e-39	a29f:r4f	Multisite chronic pain	PTSD	female	female	a29f:r4f	Multisite chronic pain---PTSD	1.85853962962963e-38
+a29f	r5f	1.0577	0.0097	0.0848	0.0351	0.0157	a29f:r5f	Multisite chronic pain	Schizophrenia	female	female	a29f:r5f	Multisite chronic pain---Schizophrenia	0.0401410810810811
+a29f	r8f	0.9988	0.0073	0.1618	0.0376	1.6625e-05	a29f:r8f	Multisite chronic pain	Risk-taking behaviour	female	female	a29f:r8f	Multisite chronic pain---Risk-taking behaviour	6.60808823529412e-05
+a29f	r9f	1.0093	0.0063	-0.0334	0.0562	0.5523	a29f:r9f	Multisite chronic pain	Carotid intima-media thickness	female	female	a29f:r9f	Carotid intima-media thickness---Multisite chronic pain	0.691105555555556
+a30f	a7f	0.9541	0.0077	0.0659	0.044	0.1347	a30f:a7f	Educational attainment	Parkinson's disease	female	female	a30f:a7f	Educational attainment---Parkinson's disease	0.245050384615385
+a30f	a8f	1.0479	0.0125	-0.2831	0.0284	2.268e-23	a30f:a8f	Educational attainment	Type 2 diabetes	female	female	a30f:a8f	Educational attainment---Type 2 diabetes	2.6488e-22
+a30f	a9f	1.0573	0.0087	-0.592	0.0763	8.7012e-15	a30f:a9f	Educational attainment	ADHD	female	female	a30f:a9f	ADHD---Educational attainment	6.38088e-14
+a30f	bm2f	0.9946	0.0069	-0.0081	0.0524	0.8771	a30f:bm2f	Educational attainment	Left 5m area	female	female	a30f:bm2f	Educational attainment---Left 5m area	0.94815244596132
+a30f	bm5f	1.0051	0.0077	-0.0485	0.0431	0.2602	a30f:bm5f	Educational attainment	Left Caudate	female	female	a30f:bm5f	Educational attainment---Left Caudate	0.408885714285714
+a30f	bm6f	1.01	0.009	-0.087	0.0465	0.0617	a30f:bm6f	Educational attainment	Left Putamen	female	female	a30f:bm6f	Educational attainment---Left Putamen	0.128281758241758
+a30f	bm7f	1.0089	0.0086	-0.09	0.0437	0.0391	a30f:bm7f	Educational attainment	Right Putamen	female	female	a30f:bm7f	Educational attainment---Right Putamen	0.0872372641509434
+a30f	bm8f	0.9993	0.0068	-0.0047	0.0488	0.9238	a30f:bm8f	Educational attainment	CC Central	female	female	a30f:bm8f	CC Central---Educational attainment	0.96458587196468
+a30f	ch1f	0.9987	0.0067	0.5051	0.0711	1.1752e-12	a30f:ch1f	Educational attainment	Nonword reading	female	female	a30f:ch1f	Educational attainment---Nonword reading	7.82914929577465e-12
+a30f	ch6f	1.0029	0.0064	0.6766	0.0987	7.2849e-12	a30f:ch6f	Educational attainment	Word reading	female	female	a30f:ch6f	Educational attainment---Word reading	4.62517812080537e-11
+a30f	l1f	1.1137	0.0359	0.2927	0.0194	1.1709e-51	a30f:l1f	Educational attainment	HDL	female	female	a30f:l1f	Educational attainment---HDL	2.70163756097561e-50
+a30f	l2f	1.079	0.0308	-0.1516	0.02	3.1647e-14	a30f:l2f	Educational attainment	LDL	female	female	a30f:l2f	Educational attainment---LDL	2.28534824427481e-13
+a30f	l3f	1.1175	0.0326	-0.1053	0.019	2.7609e-08	a30f:l3f	Educational attainment	TC	female	female	a30f:l3f	Educational attainment---TC	1.42721934426229e-07
+a30f	l4f	1.0911	0.0327	-0.3438	0.0229	5.2149e-51	a30f:l4f	Educational attainment	logTG	female	female	a30f:l4f	Educational attainment---logTG	1.17459414285714e-49
+a30f	l5f	1.0946	0.0307	-0.2178	0.0209	2.2456e-25	a30f:l5f	Educational attainment	nonHDL	female	female	a30f:l5f	Educational attainment---nonHDL	2.83245013333333e-24
+a30f	r4f	0.9988	0.0063	-0.1448	0.0434	8e-04	a30f:r4f	Educational attainment	PTSD	female	female	a30f:r4f	Educational attainment---PTSD	0.00258293515358362
+a30f	r5f	1.0575	0.0098	0.0985	0.0312	0.0016	a30f:r5f	Educational attainment	Schizophrenia	female	female	a30f:r5f	Educational attainment---Schizophrenia	0.0049953795379538
+a30f	r8f	0.9976	0.0074	0.187	0.0335	2.4349e-08	a30f:r8f	Educational attainment	Risk-taking behaviour	female	female	a30f:r8f	Educational attainment---Risk-taking behaviour	1.26561285714286e-07
+a30f	r9f	1.0112	0.0064	0.0463	0.0498	0.3529	a30f:r9f	Educational attainment	Carotid intima-media thickness	female	female	a30f:r9f	Carotid intima-media thickness---Educational attainment	0.513605230769231
+a7f	a8f	1.0444	0.0127	-0.0863	0.0586	0.1409	a7f:a8f	Parkinson's disease	Type 2 diabetes	female	female	a7f:a8f	Parkinson's disease---Type 2 diabetes	0.253104364326376
+a7f	a9f	1.058	0.0087	-0.2307	0.1274	0.0702	a7f:a9f	Parkinson's disease	ADHD	female	female	a7f:a9f	ADHD---Parkinson's disease	0.143327155172414
+a7f	bm2f	0.9958	0.0069	0.0895	0.1083	0.4088	a7f:bm2f	Parkinson's disease	Left 5m area	female	female	a7f:bm2f	Left 5m area---Parkinson's disease	0.564290379008746
+a7f	bm5f	1.0042	0.0076	0.1417	0.0633	0.0252	a7f:bm5f	Parkinson's disease	Left Caudate	female	female	a7f:bm5f	Left Caudate---Parkinson's disease	0.0603524050632911
+a7f	bm6f	1.0099	0.0089	0.0369	0.0743	0.6194	a7f:bm6f	Parkinson's disease	Left Putamen	female	female	a7f:bm6f	Left Putamen---Parkinson's disease	0.751221025641026
+a7f	bm7f	1.0097	0.0085	-0.0451	0.0777	0.5616	a7f:bm7f	Parkinson's disease	Right Putamen	female	female	a7f:bm7f	Parkinson's disease---Right Putamen	0.695384293193717
+a7f	bm8f	1.0025	0.0069	0.0076	0.089	0.9318	a7f:bm8f	Parkinson's disease	CC Central	female	female	a7f:bm8f	CC Central---Parkinson's disease	0.967782894736842
+a7f	ch1f	0.9987	0.0066	0.0626	0.1064	0.5562	a7f:ch1f	Parkinson's disease	Nonword reading	female	female	a7f:ch1f	Nonword reading---Parkinson's disease	0.692283048620236
+a7f	ch6f	1.0032	0.0066	0.1265	0.1243	0.3085	a7f:ch6f	Parkinson's disease	Word reading	female	female	a7f:ch6f	Parkinson's disease---Word reading	0.470711290322581
+a7f	l1f	1.1211	0.0368	0.0772	0.0381	0.0429	a7f:l1f	Parkinson's disease	HDL	female	female	a7f:l1f	HDL---Parkinson's disease	0.0939430555555556
+a7f	l2f	1.0853	0.032	-0.0814	0.0433	0.0604	a7f:l2f	Parkinson's disease	LDL	female	female	a7f:l2f	LDL---Parkinson's disease	0.126412389380531
+a7f	l3f	1.1273	0.0339	-0.079	0.039	0.0428	a7f:l3f	Parkinson's disease	TC	female	female	a7f:l3f	Parkinson's disease---TC	0.0939415313225058
+a7f	l4f	1.0942	0.0333	-0.1275	0.0437	0.0035	a7f:l4f	Parkinson's disease	logTG	female	female	a7f:l4f	logTG---Parkinson's disease	0.010250773993808
+a7f	l5f	1.1021	0.0316	-0.1209	0.0397	0.0023	a7f:l5f	Parkinson's disease	nonHDL	female	female	a7f:l5f	nonHDL---Parkinson's disease	0.00704142394822006
+a7f	r4f	1.0016	0.0065	-0.1013	0.073	0.1656	a7f:r4f	Parkinson's disease	PTSD	female	female	a7f:r4f	Parkinson's disease---PTSD	0.284315063520871
+a7f	r5f	1.0566	0.0101	-0.0539	0.0535	0.3134	a7f:r5f	Parkinson's disease	Schizophrenia	female	female	a7f:r5f	Parkinson's disease---Schizophrenia	0.475274038461538
+a7f	r8f	1.0002	0.0076	0.0294	0.0658	0.6546	a7f:r8f	Parkinson's disease	Risk-taking behaviour	female	female	a7f:r8f	Parkinson's disease---Risk-taking behaviour	0.784461518987342
+a7f	r9f	1.0106	0.0063	-0.0691	0.1088	0.5255	a7f:r9f	Parkinson's disease	Carotid intima-media thickness	female	female	a7f:r9f	Carotid intima-media thickness---Parkinson's disease	0.670881241565452
+a8f	a9f	1.0584	0.0087	0.2086	0.0633	0.001	a8f:a9f	Type 2 diabetes	ADHD	female	female	a8f:a9f	ADHD---Type 2 diabetes	0.0031744966442953
+a8f	bm2f	0.9951	0.0068	-0.0895	0.0636	0.1599	a8f:bm2f	Type 2 diabetes	Left 5m area	female	female	a8f:bm2f	Left 5m area---Type 2 diabetes	0.277042857142857
+a8f	bm5f	1.0051	0.0076	0.0076	0.0421	0.8569	a8f:bm5f	Type 2 diabetes	Left Caudate	female	female	a8f:bm5f	Left Caudate---Type 2 diabetes	0.933902534562212
+a8f	bm6f	1.0083	0.0086	-0.0144	0.0436	0.7412	a8f:bm6f	Type 2 diabetes	Left Putamen	female	female	a8f:bm6f	Left Putamen---Type 2 diabetes	0.849009386281589
+a8f	bm7f	1.008	0.0082	0.0089	0.0434	0.8379	a8f:bm7f	Type 2 diabetes	Right Putamen	female	female	a8f:bm7f	Right Putamen---Type 2 diabetes	0.923838461538462
+a8f	bm8f	1.0018	0.0068	0.0034	0.0442	0.9383	a8f:bm8f	Type 2 diabetes	CC Central	female	female	a8f:bm8f	CC Central---Type 2 diabetes	0.96797360959651
+a8f	ch1f	0.9982	0.0067	-0.2027	0.0679	0.0029	a8f:ch1f	Type 2 diabetes	Nonword reading	female	female	a8f:ch1f	Nonword reading---Type 2 diabetes	0.00868164556962025
+a8f	ch6f	1.0029	0.0064	-0.2285	0.0776	0.0032	a8f:ch6f	Type 2 diabetes	Word reading	female	female	a8f:ch6f	Type 2 diabetes---Word reading	0.00943052959501558
+a8f	l1f	1.1104	0.0346	-0.5507	0.0229	6.575e-128	a8f:l1f	Type 2 diabetes	HDL	female	female	a8f:l1f	HDL---Type 2 diabetes	2.96188095238095e-126
+a8f	l2f	1.0736	0.0303	0.1879	0.0262	7.916e-13	a8f:l2f	Type 2 diabetes	LDL	female	female	a8f:l2f	LDL---Type 2 diabetes	5.38743597122302e-12
+a8f	l3f	1.1127	0.0316	0.0941	0.0258	3e-04	a8f:l3f	Type 2 diabetes	TC	female	female	a8f:l3f	TC---Type 2 diabetes	0.00105501858736059
+a8f	l4f	1.0841	0.0314	0.6097	0.0272	6.5445e-111	a8f:l4f	Type 2 diabetes	logTG	female	female	a8f:l4f	logTG---Type 2 diabetes	2.69178130434783e-109
+a8f	l5f	1.09	0.0302	0.309	0.0276	3.4492e-29	a8f:l5f	Type 2 diabetes	nonHDL	female	female	a8f:l5f	nonHDL---Type 2 diabetes	4.66134742857143e-28
+a8f	r4f	0.9991	0.0061	0.1792	0.0414	1.4682e-05	a8f:r4f	Type 2 diabetes	PTSD	female	female	a8f:r4f	PTSD---Type 2 diabetes	5.93554358974359e-05
+a8f	r5f	1.0585	0.0097	-0.1475	0.033	7.6634e-06	a8f:r5f	Type 2 diabetes	Schizophrenia	female	female	a8f:r5f	Schizophrenia---Type 2 diabetes	3.20777716814159e-05
+a8f	r8f	0.9991	0.0073	0.0224	0.0381	0.5569	a8f:r8f	Type 2 diabetes	Risk-taking behaviour	female	female	a8f:r8f	Risk-taking behaviour---Type 2 diabetes	0.692283048620236
+a8f	r9f	1.0092	0.0063	0.0959	0.0574	0.0946	a8f:r9f	Type 2 diabetes	Carotid intima-media thickness	female	female	a8f:r9f	Carotid intima-media thickness---Type 2 diabetes	0.183384426229508
+a9f	bm2f	0.9943	0.0083	0.1195	0.147	0.4162	a9f:bm2f	ADHD	Left 5m area	female	female	a9f:bm2f	ADHD---Left 5m area	0.570616231884058
+a9f	bm5f	1.0057	0.0089	0.0283	0.1023	0.7819	a9f:bm5f	ADHD	Left Caudate	female	female	a9f:bm5f	ADHD---Left Caudate	0.876395023696683
+a9f	bm6f	1.0019	0.0101	0.081	0.106	0.4446	a9f:bm6f	ADHD	Left Putamen	female	female	a9f:bm6f	ADHD---Left Putamen	0.599133333333333
+a9f	bm7f	0.9967	0.0102	0.0254	0.1037	0.8069	a9f:bm7f	ADHD	Right Putamen	female	female	a9f:bm7f	ADHD---Right Putamen	0.895924178403756
+a9f	bm8f	1.0056	0.0083	-0.0022	0.1185	0.985	a9f:bm8f	ADHD	CC Central	female	female	a9f:bm8f	ADHD---CC Central	0.989182590233546
+a9f	ch1f	0.9997	0.007	-0.2653	0.1541	0.085	a9f:ch1f	ADHD	Nonword reading	female	female	a9f:ch1f	ADHD---Nonword reading	0.168221757322176
+a9f	ch6f	1.0027	0.0075	-0.3028	0.1562	0.0525	a9f:ch6f	ADHD	Word reading	female	female	a9f:ch6f	ADHD---Word reading	0.112619047619048
+a9f	l1f	1.1348	0.0413	-0.2435	0.0578	2.5378e-05	a9f:l1f	ADHD	HDL	female	female	a9f:l1f	ADHD---HDL	9.83917540983607e-05
+a9f	l2f	1.1014	0.0399	0.1393	0.0572	0.0148	a9f:l2f	ADHD	LDL	female	female	a9f:l2f	ADHD---LDL	0.0384637362637363
+a9f	l3f	1.1393	0.0421	0.1051	0.0536	0.0498	a9f:l3f	ADHD	TC	female	female	a9f:l3f	ADHD---TC	0.108021510297483
+a9f	l4f	1.1112	0.0383	0.2926	0.0618	2.2079e-06	a9f:l4f	ADHD	logTG	female	female	a9f:l4f	ADHD---logTG	1.00416990384615e-05
+a9f	l5f	1.1196	0.0394	0.1884	0.0575	0.0011	a9f:l5f	ADHD	nonHDL	female	female	a9f:l5f	ADHD---nonHDL	0.00345714285714286
+a9f	r4f	1	0.0076	0.5512	0.1003	3.937e-08	a9f:r4f	ADHD	PTSD	female	female	a9f:r4f	ADHD---PTSD	1.98106489361702e-07
+a9f	r5f	1.0682	0.0114	-0.1203	0.0784	0.1249	a9f:r5f	ADHD	Schizophrenia	female	female	a9f:r5f	ADHD---Schizophrenia	0.231223874755382
+a9f	r8f	0.9973	0.0083	0.4531	0.0896	4.3294e-07	a9f:r8f	ADHD	Risk-taking behaviour	female	female	a9f:r8f	ADHD---Risk-taking behaviour	2.0478062e-06
+a9f	r9f	1.0098	0.0075	0.1666	0.1365	0.2225	a9f:r9f	ADHD	Carotid intima-media thickness	female	female	a9f:r9f	ADHD---Carotid intima-media thickness	0.359803418803419
+bm2f	bm5f	1.0051	0.0076	-0.0035	0.0879	0.9686	bm2f:bm5f	Left 5m area	Left Caudate	female	female	bm2f:bm5f	Left 5m area---Left Caudate	0.98200447761194
+bm2f	bm6f	1.0084	0.0086	-0.2522	0.0916	0.0059	bm2f:bm6f	Left 5m area	Left Putamen	female	female	bm2f:bm6f	Left 5m area---Left Putamen	0.0163677419354839
+bm2f	bm7f	1.0081	0.0082	-0.2363	0.084	0.0049	bm2f:bm7f	Left 5m area	Right Putamen	female	female	bm2f:bm7f	Left 5m area---Right Putamen	0.0138784431137725
+bm2f	bm8f	1.0018	0.0067	-0.3275	0.1004	0.0011	bm2f:bm8f	Left 5m area	CC Central	female	female	bm2f:bm8f	CC Central---Left 5m area	0.00345714285714286
+bm2f	ch1f	0.9965	0.007	0.0535	0.1224	0.6621	bm2f:ch1f	Left 5m area	Nonword reading	female	female	bm2f:ch1f	Left 5m area---Nonword reading	0.789844388398487
+bm2f	ch6f	1.0018	0.0064	0.108	0.1355	0.4254	bm2f:ch6f	Left 5m area	Word reading	female	female	bm2f:ch6f	Left 5m area---Word reading	0.579714244604317
+bm2f	l1f	1.1045	0.0349	-0.0027	0.0434	0.9506	bm2f:l1f	Left 5m area	HDL	female	female	bm2f:l1f	HDL---Left 5m area	0.972255075593952
+bm2f	l2f	1.0703	0.0308	-0.0404	0.0516	0.4345	bm2f:l2f	Left 5m area	LDL	female	female	bm2f:l2f	LDL---Left 5m area	0.587195714285714
+bm2f	l3f	1.1098	0.0349	-0.0152	0.049	0.7573	bm2f:l3f	Left 5m area	TC	female	female	bm2f:l3f	Left 5m area---TC	0.856944736842105
+bm2f	l4f	1.0783	0.0285	0.006	0.0453	0.8938	bm2f:l4f	Left 5m area	logTG	female	female	bm2f:l4f	Left 5m area---logTG	0.955513446327684
+bm2f	l5f	1.0869	0.0303	-0.005	0.0495	0.9192	bm2f:l5f	Left 5m area	nonHDL	female	female	bm2f:l5f	Left 5m area---nonHDL	0.962971428571429
+bm2f	r4f	1.0008	0.0062	-0.0041	0.081	0.9596	bm2f:r4f	Left 5m area	PTSD	female	female	bm2f:r4f	Left 5m area---PTSD	0.97715995694295
+bm2f	r5f	1.0579	0.0102	0.0185	0.0713	0.7952	bm2f:r5f	Left 5m area	Schizophrenia	female	female	bm2f:r5f	Left 5m area---Schizophrenia	0.888145454545454
+bm2f	r8f	0.9996	0.0075	-0.0066	0.0741	0.9295	bm2f:r8f	Left 5m area	Risk-taking behaviour	female	female	bm2f:r8f	Left 5m area---Risk-taking behaviour	0.967782894736842
+bm2f	r9f	1.01	0.0063	-0.0679	0.1124	0.546	bm2f:r9f	Left 5m area	Carotid intima-media thickness	female	female	bm2f:r9f	Carotid intima-media thickness---Left 5m area	0.686856382978724
+bm5f	bm6f	1.0084	0.0086	0.2197	0.0722	0.0023	bm5f:bm6f	Left Caudate	Left Putamen	female	female	bm5f:bm6f	Left Caudate---Left Putamen	0.00704142394822006
+bm5f	bm7f	1.0081	0.0082	0.2431	0.0704	6e-04	bm5f:bm7f	Left Caudate	Right Putamen	female	female	bm5f:bm7f	Left Caudate---Right Putamen	0.00199157894736842
+bm5f	bm8f	1.0018	0.0067	-0.1967	0.0813	0.0156	bm5f:bm8f	Left Caudate	CC Central	female	female	bm5f:bm8f	CC Central---Left Caudate	0.0401021739130435
+bm5f	ch1f	0.9965	0.007	-0.0646	0.0942	0.4928	bm5f:ch1f	Left Caudate	Nonword reading	female	female	bm5f:ch1f	Left Caudate---Nonword reading	0.643019034482759
+bm5f	ch6f	1.0018	0.0064	-0.1373	0.1048	0.1903	bm5f:ch6f	Left Caudate	Word reading	female	female	bm5f:ch6f	Left Caudate---Word reading	0.320094138543517
+bm5f	l1f	1.1045	0.0349	-0.0141	0.0348	0.6861	bm5f:l1f	Left Caudate	HDL	female	female	bm5f:l1f	HDL---Left Caudate	0.80898904109589
+bm5f	l2f	1.0703	0.0308	9e-04	0.0368	0.9814	bm5f:l2f	Left Caudate	LDL	female	female	bm5f:l2f	LDL---Left Caudate	0.98681572794899
+bm5f	l3f	1.1098	0.0349	-0.016	0.036	0.6564	bm5f:l3f	Left Caudate	TC	female	female	bm5f:l3f	Left Caudate---TC	0.785024525916561
+bm5f	l4f	1.0783	0.0285	-0.0473	0.034	0.1644	bm5f:l4f	Left Caudate	logTG	female	female	bm5f:l4f	Left Caudate---logTG	0.28328306010929
+bm5f	l5f	1.0869	0.0303	-0.0059	0.0381	0.876	bm5f:l5f	Left Caudate	nonHDL	female	female	bm5f:l5f	Left Caudate---nonHDL	0.94815244596132
+bm5f	r4f	1.0008	0.0062	0.1414	0.0657	0.0313	bm5f:r4f	Left Caudate	PTSD	female	female	bm5f:r4f	Left Caudate---PTSD	0.0725730392156863
+bm5f	r5f	1.0579	0.0102	-0.0071	0.0505	0.8878	bm5f:r5f	Left Caudate	Schizophrenia	female	female	bm5f:r5f	Left Caudate---Schizophrenia	0.951142468856172
+bm5f	r8f	0.9996	0.0075	0.0531	0.0545	0.3303	bm5f:r8f	Left Caudate	Risk-taking behaviour	female	female	bm5f:r8f	Left Caudate---Risk-taking behaviour	0.490941379310345
+bm5f	r9f	1.01	0.0063	-0.0615	0.0848	0.4684	bm5f:r9f	Left Caudate	Carotid intima-media thickness	female	female	bm5f:r9f	Carotid intima-media thickness---Left Caudate	0.622340449438202
+bm6f	bm7f	1.0081	0.0082	0.9901	0.0109	0	bm6f:bm7f	Left Putamen	Right Putamen	female	female	bm6f:bm7f	Left Putamen---Right Putamen	0
+bm6f	bm8f	1.0018	0.0067	0.1054	0.0837	0.2077	bm6f:bm8f	Left Putamen	CC Central	female	female	bm6f:bm8f	CC Central---Left Putamen	0.340527209705373
+bm6f	ch1f	0.9965	0.007	-0.1809	0.1066	0.0899	bm6f:ch1f	Left Putamen	Nonword reading	female	female	bm6f:ch1f	Left Putamen---Nonword reading	0.175713636363636
+bm6f	ch6f	1.0018	0.0064	-0.1567	0.1297	0.2269	bm6f:ch6f	Left Putamen	Word reading	female	female	bm6f:ch6f	Left Putamen---Word reading	0.366292491467577
+bm6f	l1f	1.1045	0.0349	-0.0356	0.0336	0.2892	bm6f:l1f	Left Putamen	HDL	female	female	bm6f:l1f	HDL---Left Putamen	0.446302120717781
+bm6f	l2f	1.0703	0.0308	-0.0671	0.0356	0.0595	bm6f:l2f	Left Putamen	LDL	female	female	bm6f:l2f	LDL---Left Putamen	0.125082222222222
+bm6f	l3f	1.1098	0.0349	-0.0781	0.0355	0.0277	bm6f:l3f	Left Putamen	TC	female	female	bm6f:l3f	Left Putamen---TC	0.0655105
+bm6f	l4f	1.0783	0.0285	-0.0151	0.0347	0.6635	bm6f:l4f	Left Putamen	logTG	female	female	bm6f:l4f	Left Putamen---logTG	0.790314070351759
+bm6f	l5f	1.0869	0.0303	-0.0475	0.0369	0.1973	bm6f:l5f	Left Putamen	nonHDL	female	female	bm6f:l5f	Left Putamen---nonHDL	0.327040980735552
+bm6f	r4f	1.0008	0.0062	0.1891	0.0776	0.0148	bm6f:r4f	Left Putamen	PTSD	female	female	bm6f:r4f	Left Putamen---PTSD	0.0384637362637363
+bm6f	r5f	1.0579	0.0102	-0.0456	0.0493	0.3546	bm6f:r5f	Left Putamen	Schizophrenia	female	female	bm6f:r5f	Left Putamen---Schizophrenia	0.5152866359447
+bm6f	r8f	0.9996	0.0075	0.003	0.0576	0.9578	bm6f:r8f	Left Putamen	Risk-taking behaviour	female	female	bm6f:r8f	Left Putamen---Risk-taking behaviour	0.976378017241379
+bm6f	r9f	1.01	0.0063	0.0276	0.0852	0.7458	bm6f:r9f	Left Putamen	Carotid intima-media thickness	female	female	bm6f:r9f	Carotid intima-media thickness---Left Putamen	0.849009386281589
+bm7f	bm8f	1.0018	0.0067	0.0258	0.0852	0.7622	bm7f:bm8f	Right Putamen	CC Central	female	female	bm7f:bm8f	CC Central---Right Putamen	0.859405482717521
+bm7f	ch1f	0.9965	0.007	-0.1568	0.1028	0.1272	bm7f:ch1f	Right Putamen	Nonword reading	female	female	bm7f:ch1f	Nonword reading---Right Putamen	0.233652815533981
+bm7f	ch6f	1.0018	0.0064	-0.1489	0.12	0.2146	bm7f:ch6f	Right Putamen	Word reading	female	female	bm7f:ch6f	Right Putamen---Word reading	0.349792439862543
+bm7f	l1f	1.1045	0.0349	-0.0325	0.034	0.3396	bm7f:l1f	Right Putamen	HDL	female	female	bm7f:l1f	HDL---Right Putamen	0.498853416149068
+bm7f	l2f	1.0703	0.0308	-0.0486	0.0341	0.1539	bm7f:l2f	Right Putamen	LDL	female	female	bm7f:l2f	LDL---Right Putamen	0.270110204081633
+bm7f	l3f	1.1098	0.0349	-0.0599	0.0351	0.0877	bm7f:l3f	Right Putamen	TC	female	female	bm7f:l3f	Right Putamen---TC	0.172842083333333
+bm7f	l4f	1.0783	0.0285	-0.028	0.0328	0.3939	bm7f:l4f	Right Putamen	logTG	female	female	bm7f:l4f	logTG---Right Putamen	0.551226923076923
+bm7f	l5f	1.0869	0.0303	-0.0313	0.0342	0.3605	bm7f:l5f	Right Putamen	nonHDL	female	female	bm7f:l5f	nonHDL---Right Putamen	0.521457186544342
+bm7f	r4f	1.0008	0.0062	0.159	0.0759	0.036	bm7f:r4f	Right Putamen	PTSD	female	female	bm7f:r4f	PTSD---Right Putamen	0.0818653846153846
+bm7f	r5f	1.0579	0.0102	-0.04	0.0497	0.421	bm7f:r5f	Right Putamen	Schizophrenia	female	female	bm7f:r5f	Right Putamen---Schizophrenia	0.575528901734104
+bm7f	r8f	0.9996	0.0075	-0.0365	0.0579	0.5289	bm7f:r8f	Right Putamen	Risk-taking behaviour	female	female	bm7f:r8f	Right Putamen---Risk-taking behaviour	0.672499193548387
+bm7f	r9f	1.01	0.0063	-2e-04	0.0869	0.9985	bm7f:r9f	Right Putamen	Carotid intima-media thickness	female	female	bm7f:r9f	Carotid intima-media thickness---Right Putamen	0.9985
+bm8f	ch1f	0.9965	0.007	-0.0654	0.1235	0.5965	bm8f:ch1f	CC Central	Nonword reading	female	female	bm8f:ch1f	CC Central---Nonword reading	0.727176546391753
+bm8f	ch6f	1.0018	0.0064	-0.0964	0.1413	0.4951	bm8f:ch6f	CC Central	Word reading	female	female	bm8f:ch6f	CC Central---Word reading	0.643357967032967
+bm8f	l1f	1.1045	0.0349	-0.0134	0.0383	0.7268	bm8f:l1f	CC Central	HDL	female	female	bm8f:l1f	CC Central---HDL	0.838479024390244
+bm8f	l2f	1.0703	0.0308	0.0092	0.0415	0.8244	bm8f:l2f	CC Central	LDL	female	female	bm8f:l2f	CC Central---LDL	0.912143157894737
+bm8f	l3f	1.1098	0.0349	-0.005	0.0391	0.8986	bm8f:l3f	CC Central	TC	female	female	bm8f:l3f	CC Central---TC	0.957292342342342
+bm8f	l4f	1.0783	0.0285	0.0328	0.0391	0.4016	bm8f:l4f	CC Central	logTG	female	female	bm8f:l4f	CC Central---logTG	0.557876064610866
+bm8f	l5f	1.0869	0.0303	0.0103	0.0419	0.806	bm8f:l5f	CC Central	nonHDL	female	female	bm8f:l5f	CC Central---nonHDL	0.895924178403756
+bm8f	r4f	1.0008	0.0062	0.0176	0.0702	0.8018	bm8f:r4f	CC Central	PTSD	female	female	bm8f:r4f	CC Central---PTSD	0.893407302709069
+bm8f	r5f	1.0579	0.0102	-0.0606	0.058	0.2968	bm8f:r5f	CC Central	Schizophrenia	female	female	bm8f:r5f	CC Central---Schizophrenia	0.456541138211382
+bm8f	r8f	0.9996	0.0075	-0.0521	0.0616	0.3974	bm8f:r8f	CC Central	Risk-taking behaviour	female	female	bm8f:r8f	CC Central---Risk-taking behaviour	0.554484365781711
+bm8f	r9f	1.01	0.0063	0.0852	0.0872	0.3286	bm8f:r9f	CC Central	Carotid intima-media thickness	female	female	bm8f:r9f	Carotid intima-media thickness---CC Central	0.490308517350158
+ch1f	ch6f	1.0038	0.0066	1.2026	0.1395	6.6631e-18	ch1f:ch6f	Nonword reading	Word reading	female	female	ch1f:ch6f	Nonword reading---Word reading	6.00313580952381e-17
+ch1f	l1f	1.1185	0.0387	0.2439	0.0495	8.4451e-07	ch1f:l1f	Nonword reading	HDL	female	female	ch1f:l1f	HDL---Nonword reading	3.9162081372549e-06
+ch1f	l2f	1.0826	0.0333	-0.0968	0.0512	0.0587	ch1f:l2f	Nonword reading	LDL	female	female	ch1f:l2f	LDL---Nonword reading	0.123675278396437
+ch1f	l3f	1.1213	0.035	-0.0033	0.0468	0.9433	ch1f:l3f	Nonword reading	TC	female	female	ch1f:l3f	Nonword reading---TC	0.968905320304017
+ch1f	l4f	1.0934	0.0345	-0.19	0.0543	5e-04	ch1f:l4f	Nonword reading	logTG	female	female	ch1f:l4f	logTG---Nonword reading	0.00170758122743682
+ch1f	l5f	1.1006	0.0337	-0.1184	0.0551	0.0316	ch1f:l5f	Nonword reading	nonHDL	female	female	ch1f:l5f	nonHDL---Nonword reading	0.0730894865525673
+ch1f	r4f	1.0004	0.0066	-0.208	0.1006	0.0386	ch1f:r4f	Nonword reading	PTSD	female	female	ch1f:r4f	Nonword reading---PTSD	0.0867353919239905
+ch1f	r5f	1.0587	0.0101	0.159	0.0687	0.0207	ch1f:r5f	Nonword reading	Schizophrenia	female	female	ch1f:r5f	Nonword reading---Schizophrenia	0.0508628571428571
+ch1f	r8f	0.9971	0.0079	0.0465	0.0737	0.5277	ch1f:r8f	Nonword reading	Risk-taking behaviour	female	female	ch1f:r8f	Nonword reading---Risk-taking behaviour	0.672499193548387
+ch1f	r9f	1.0101	0.0067	-0.1738	0.1229	0.1572	ch1f:r9f	Nonword reading	Carotid intima-media thickness	female	female	ch1f:r9f	Carotid intima-media thickness---Nonword reading	0.273366176470588
+ch6f	l1f	1.1225	0.0401	0.2762	0.0584	2.2868e-06	ch6f:l1f	Word reading	HDL	female	female	ch6f:l1f	HDL---Word reading	1.03507789473684e-05
+ch6f	l2f	1.0844	0.0341	-0.181	0.0683	0.008	ch6f:l2f	Word reading	LDL	female	female	ch6f:l2f	LDL---Word reading	0.022
+ch6f	l3f	1.1244	0.0353	-0.0911	0.0634	0.1508	ch6f:l3f	Word reading	TC	female	female	ch6f:l3f	TC---Word reading	0.266648224299065
+ch6f	l4f	1.0996	0.0356	-0.2207	0.0646	6e-04	ch6f:l4f	Word reading	logTG	female	female	ch6f:l4f	logTG---Word reading	0.00199157894736842
+ch6f	l5f	1.1011	0.0341	-0.2055	0.0698	0.0032	ch6f:l5f	Word reading	nonHDL	female	female	ch6f:l5f	nonHDL---Word reading	0.00943052959501558
+ch6f	r4f	1.0001	0.0067	-0.2491	0.1056	0.0184	ch6f:r4f	Word reading	PTSD	female	female	ch6f:r4f	PTSD---Word reading	0.0456860892388451
+ch6f	r5f	1.0576	0.0101	0.0029	0.0782	0.97	ch6f:r5f	Word reading	Schizophrenia	female	female	ch6f:r5f	Schizophrenia---Word reading	0.98200447761194
+ch6f	r8f	0.9977	0.0076	0.1122	0.0932	0.2285	ch6f:r8f	Word reading	Risk-taking behaviour	female	female	ch6f:r8f	Risk-taking behaviour---Word reading	0.367157215619694
+ch6f	r9f	1.0098	0.0065	-0.2367	0.1304	0.0695	ch6f:r9f	Word reading	Carotid intima-media thickness	female	female	ch6f:r9f	Carotid intima-media thickness---Word reading	0.142309523809524
+l1f	l2f	1.0665	0.0286	-0.1122	0.0238	2.5239e-06	l1f:l2f	HDL	LDL	female	female	l1f:l2f	HDL---LDL	1.13156843601896e-05
+l1f	l3f	1.106	0.03	0.1579	0.024	4.5118e-11	l1f:l3f	HDL	TC	female	female	l1f:l3f	HDL---TC	2.71857503184713e-10
+l1f	l4f	1.0788	0.0298	-0.6924	0.0191	2.2407e-288	l1f:l4f	HDL	logTG	female	female	l1f:l4f	HDL---logTG	1.514073e-286
+l1f	l5f	1.0844	0.0286	-0.2742	0.0247	1.439e-28	l1f:l5f	HDL	nonHDL	female	female	l1f:l5f	HDL---nonHDL	1.89068611111111e-27
+l1f	r4f	0.9988	0.0064	-0.1441	0.0318	5.9627e-06	l1f:r4f	HDL	PTSD	female	female	l1f:r4f	HDL---PTSD	2.52946825112108e-05
+l1f	r5f	1.0597	0.01	0.075	0.0242	0.0019	l1f:r5f	HDL	Schizophrenia	female	female	l1f:r5f	HDL---Schizophrenia	0.00587385620915033
+l1f	r8f	0.999	0.0074	0.0276	0.0273	0.3132	l1f:r8f	HDL	Risk-taking behaviour	female	female	l1f:r8f	HDL---Risk-taking behaviour	0.475274038461538
+l1f	r9f	1.0087	0.0063	-0.1186	0.0423	0.0051	l1f:r9f	HDL	Carotid intima-media thickness	female	female	l1f:r9f	Carotid intima-media thickness---HDL	0.0144017910447761
+l2f	l3f	1.1077	0.0285	0.9271	0.0065	0	l2f:l3f	LDL	TC	female	female	l2f:l3f	LDL---TC	0
+l2f	l4f	1.0814	0.0296	0.362	0.0242	1.5558e-50	l2f:l4f	LDL	logTG	female	female	l2f:l4f	LDL---logTG	3.42276e-49
+l2f	l5f	1.0872	0.0272	0.9604	0.0036	0	l2f:l5f	LDL	nonHDL	female	female	l2f:l5f	LDL---nonHDL	0
+l2f	r4f	0.9989	0.0062	0.0658	0.0344	0.056	l2f:r4f	LDL	PTSD	female	female	l2f:r4f	LDL---PTSD	0.118514541387025
+l2f	r5f	1.0585	0.0098	-0.0031	0.0263	0.9063	l2f:r5f	LDL	Schizophrenia	female	female	l2f:r5f	LDL---Schizophrenia	0.95943870246085
+l2f	r8f	0.9987	0.0072	0.0095	0.0311	0.7589	l2f:r8f	LDL	Risk-taking behaviour	female	female	l2f:r8f	LDL---Risk-taking behaviour	0.857495942720764
+l2f	r9f	1.0085	0.0063	-0.0618	0.0517	0.2319	l2f:r9f	LDL	Carotid intima-media thickness	female	female	l2f:r9f	Carotid intima-media thickness---LDL	0.371196954314721
+l3f	l4f	1.0816	0.0296	0.28	0.0209	8.1537e-41	l3f:l4f	TC	logTG	female	female	l3f:l4f	logTG---TC	1.54268004e-39
+l3f	l5f	1.0953	0.0288	0.8761	0.008	0	l3f:l5f	TC	nonHDL	female	female	l3f:l5f	nonHDL---TC	0
+l3f	r4f	0.9989	0.0062	0.0531	0.0333	0.1112	l3f:r4f	TC	PTSD	female	female	l3f:r4f	PTSD---TC	0.20955219123506
+l3f	r5f	1.059	0.0099	0.0218	0.0252	0.3868	l3f:r5f	TC	Schizophrenia	female	female	l3f:r5f	Schizophrenia---TC	0.543704011887073
+l3f	r8f	0.9985	0.0072	0.0035	0.0289	0.9037	l3f:r8f	TC	Risk-taking behaviour	female	female	l3f:r8f	Risk-taking behaviour---TC	0.958514349775785
+l3f	r9f	1.0089	0.0064	-0.1062	0.0495	0.0321	l3f:r9f	TC	Carotid intima-media thickness	female	female	l3f:r9f	Carotid intima-media thickness---TC	0.0740648780487805
+l4f	l5f	1.0887	0.0295	0.5755	0.0199	2.1669e-184	l4f:l5f	logTG	nonHDL	female	female	l4f:l5f	logTG---nonHDL	1.13882633333333e-182
+l4f	r4f	0.9989	0.0062	0.1809	0.034	1.009e-07	l4f:r4f	logTG	PTSD	female	female	l4f:r4f	logTG---PTSD	4.94566839378238e-07
+l4f	r5f	1.0602	0.0097	-0.0521	0.0271	0.0542	l4f:r5f	logTG	Schizophrenia	female	female	l4f:r5f	logTG---Schizophrenia	0.11548018018018
+l4f	r8f	0.9991	0.0074	-0.0088	0.0298	0.7681	l4f:r8f	logTG	Risk-taking behaviour	female	female	l4f:r8f	logTG---Risk-taking behaviour	0.863998335315101
+l4f	r9f	1.0087	0.0063	-0.016	0.042	0.7038	l4f:r9f	logTG	Carotid intima-media thickness	female	female	l4f:r9f	Carotid intima-media thickness---logTG	0.819944334975369
+l5f	r4f	0.9989	0.0061	0.1172	0.0346	7e-04	l5f:r4f	nonHDL	PTSD	female	female	l5f:r4f	nonHDL---PTSD	0.00228344827586207
+l5f	r5f	1.059	0.0097	-0.0146	0.0276	0.5977	l5f:r5f	nonHDL	Schizophrenia	female	female	l5f:r5f	nonHDL---Schizophrenia	0.727701673101673
+l5f	r8f	0.9987	0.0072	0.0024	0.0297	0.9358	l5f:r8f	nonHDL	Risk-taking behaviour	female	female	l5f:r8f	nonHDL---Risk-taking behaviour	0.96797360959651
+l5f	r9f	1.0086	0.0064	-0.0703	0.0487	0.1485	l5f:r9f	nonHDL	Carotid intima-media thickness	female	female	l5f:r9f	Carotid intima-media thickness---nonHDL	0.264062030075188
+r4f	r5f	1.0586	0.0097	0.4434	0.0525	3.1279e-17	r4f:r5f	PTSD	Schizophrenia	female	female	r4f:r5f	PTSD---Schizophrenia	2.7398087037037e-16
+r4f	r8f	0.9984	0.0074	0.2936	0.0545	7.3114e-08	r4f:r8f	PTSD	Risk-taking behaviour	female	female	r4f:r8f	PTSD---Risk-taking behaviour	3.64030757894737e-07
+r4f	r9f	1.0092	0.0064	0.0067	0.0809	0.9344	r4f:r9f	PTSD	Carotid intima-media thickness	female	female	r4f:r9f	Carotid intima-media thickness---PTSD	0.96797360959651
+r5f	r8f	0.9968	0.0078	0.355	0.0389	7.0276e-20	r5f:r8f	Schizophrenia	Risk-taking behaviour	female	female	r5f:r8f	Risk-taking behaviour---Schizophrenia	6.99801010526316e-19
+r5f	r9f	1.0093	0.0071	-0.0415	0.07	0.5534	r5f:r9f	Schizophrenia	Carotid intima-media thickness	female	female	r5f:r9f	Carotid intima-media thickness---Schizophrenia	0.691567239101717
+r8f	r9f	1.0094	0.0062	0.1262	0.0717	0.0787	r8f:r9f	Risk-taking behaviour	Carotid intima-media thickness	female	female	r8f:r9f	Carotid intima-media thickness---Risk-taking behaviour	0.157733474576271

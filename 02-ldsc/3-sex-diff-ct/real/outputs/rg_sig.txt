@@ -1,0 +1,718 @@
+Trait1	Trait2	Intercept	Intercept_SE	GC	GC_SE	PValue	sid_pair	Trait1_name	Trait2_name	sex1	sex2	pair_sids	pair_name	P_adj
+127f	137f	0.8253	0.0073	0.4191	0.0308	3.3541e-42	127f:137f	Height	Weight	female	female	127f:137f	Height---Weight	6.61037208333333e-41
+127f	145f	0.732	0.008	-0.0794	0.0271	0.0034	127f:145f	Height	Body Mass Index	female	female	127f:145f	Body Mass Index---Height	0.0099888198757764
+127f	153f	0.9337	0.0087	0.0958	0.0402	0.0173	127f:153f	Height	Waist-hip ratio (> 50 yrs, adjBMI)	female	female	127f:153f	Height---Waist-hip ratio (> 50 yrs, adjBMI)	0.0436421333333333
+127f	159f	0.8178	0.0078	0.3001	0.0291	5.5397e-25	127f:159f	Height	Hip circumference	female	female	127f:159f	Height---Hip circumference	6.80591714285714e-24
+127f	165f	0.8613	0.0084	0.751	0.0224	1.7576e-245	127f:165f	Height	Hip circumference (adjBMI)	female	female	127f:165f	Height---Hip circumference (adjBMI)	1.10845973333333e-243
+127f	171f	0.8132	0.0076	0.1976	0.0298	3.1231e-11	127f:171f	Height	Waist circumference	female	female	127f:171f	Height---Waist circumference	1.89387987179487e-10
+127f	177f	0.89	0.0081	0.6069	0.0345	1.868e-69	127f:177f	Height	Waist circumference (adjBMI)	female	female	127f:177f	Height---Waist circumference (adjBMI)	5.04893714285714e-68
+127f	48f	0.9735	0.0083	0.1029	0.0337	0.0022	127f:48f	Height	Age at first birth	female	female	127f:48f	Age at first birth---Height	0.00677915309446254
+127f	96f	0.9572	0.0074	0.6384	0.0641	2.1702e-23	127f:96f	Height	Height SDS	female	female	127f:96f	Height---Height SDS	2.5662615e-22
+127f	99f	0.9846	0.0067	0.4139	0.08	2.2757e-07	127f:99f	Height	Pubertal growth	female	female	127f:99f	Height---Pubertal growth	1.09279807106599e-06
+127f	a13f	0.9901	0.0092	-0.1024	0.0398	0.0101	127f:a13f	Height	Cardiovascular disease	female	female	127f:a13f	Cardiovascular disease---Height	0.0270668555240793
+127f	a1f	1.0089	0.0088	-0.0749	0.0315	0.0172	127f:a1f	Height	Insomnia	female	female	127f:a1f	Height---Insomnia	0.0436225201072386
+127f	a21f	0.9815	0.0085	-0.3598	0.04	2.2928e-19	127f:a21f	Height	Grip strength measurement/ Muscle weakness	female	female	127f:a21f	Grip strength measurement/ Muscle weakness---Height	2.23607092783505e-18
+127f	a30f	0.952	0.0093	0.1554	0.0257	1.3799e-09	127f:a30f	Height	Educational attainment	female	female	127f:a30f	Educational attainment---Height	7.72417396449704e-09
+127f	l2f	1.0783	0.0291	-0.1172	0.0266	1.0232e-05	127f:l2f	Height	LDL	female	female	127f:l2f	Height---LDL	4.22684366812227e-05
+127f	l3f	1.1169	0.0335	-0.1189	0.0272	1.2285e-05	127f:l3f	Height	TC	female	female	127f:l3f	Height---TC	5.031e-05
+127f	l4f	1.082	0.0314	-0.1024	0.0263	1e-04	127f:l4f	Height	logTG	female	female	127f:l4f	Height---logTG	0.000358333333333333
+127f	l5f	1.0921	0.0292	-0.1445	0.028	2.4083e-07	127f:l5f	Height	nonHDL	female	female	127f:l5f	Height---nonHDL	1.15063222222222e-06
+127f	r9f	1.0091	0.0071	0.1473	0.0598	0.0138	127f:r9f	Height	Carotid intima-media thickness	female	female	127f:r9f	Carotid intima-media thickness---Height	0.0363643454038997
+137f	145f	0.7319	0.0079	0.8867	0.0134	0	137f:145f	Weight	Body Mass Index	female	female	137f:145f	Body Mass Index---Weight	0
+137f	159f	0.8178	0.0077	0.9351	0.0177	0	137f:159f	Weight	Hip circumference	female	female	137f:159f	Hip circumference---Weight	0
+137f	165f	0.8611	0.0083	0.4086	0.0318	6.7687e-38	137f:165f	Weight	Hip circumference (adjBMI)	female	female	137f:165f	Hip circumference (adjBMI)---Weight	1.14342682142857e-36
+137f	171f	0.8132	0.0077	0.9011	0.0192	0	137f:171f	Weight	Waist circumference	female	female	137f:171f	Waist circumference---Weight	0
+137f	177f	0.8894	0.0081	0.2247	0.037	1.2232e-09	137f:177f	Weight	Waist circumference (adjBMI)	female	female	137f:177f	Waist circumference (adjBMI)---Weight	6.88778095238095e-09
+137f	183f	0.8874	0.0085	0.3711	0.0438	2.3699e-17	137f:183f	Weight	Waist-hip ratio	female	female	137f:183f	Waist-hip ratio---Weight	2.09525738317757e-16
+137f	189f	0.909	0.0088	-0.0959	0.0399	0.0163	137f:189f	Weight	Waist-hip ratio (adjBMI)	female	female	137f:189f	Waist-hip ratio (adjBMI)---Weight	0.0415628032345013
+137f	48f	0.9733	0.0082	-0.2005	0.0362	2.9427e-08	137f:48f	Weight	Age at first birth	female	female	137f:48f	Age at first birth---Weight	1.51293163043478e-07
+137f	96f	0.9568	0.0075	0.4633	0.0496	1.013e-20	137f:96f	Weight	Height SDS	female	female	137f:96f	Height SDS---Weight	1.06477555555556e-19
+137f	99f	0.9849	0.0066	-0.2251	0.0855	0.0085	137f:99f	Weight	Pubertal growth	female	female	137f:99f	Pubertal growth---Weight	0.0232398843930636
+137f	a13f	0.9891	0.0091	0.2059	0.0455	5.9073e-06	137f:a13f	Weight	Cardiovascular disease	female	female	137f:a13f	Cardiovascular disease---Weight	2.51725486486487e-05
+137f	a1f	1.0099	0.0088	0.1302	0.0384	7e-04	137f:a1f	Weight	Insomnia	female	female	137f:a1f	Insomnia---Weight	0.00228344827586207
+137f	a22f	1.0206	0.0085	0.3014	0.0339	5.9527e-19	137f:a22f	Weight	Snoring	female	female	137f:a22f	Snoring---Weight	5.68813555555556e-18
+137f	a27f	1.0389	0.0368	0.1552	0.0619	0.0122	137f:a27f	Weight	Fasting glucose	female	female	137f:a27f	Fasting glucose---Weight	0.0323282913165266
+137f	a28f	1.0172	0.0097	0.4469	0.0799	2.2093e-08	137f:a28f	Weight	Fasting insulin	female	female	137f:a28f	Fasting insulin---Weight	1.15469491712707e-07
+137f	a29f	1.0182	0.0089	0.295	0.0316	1.0267e-20	137f:a29f	Weight	Multisite chronic pain	female	female	137f:a29f	Multisite chronic pain---Weight	1.0673167032967e-19
+137f	a30f	0.9524	0.0093	-0.1988	0.0296	1.9106e-11	137f:a30f	Weight	Educational attainment	female	female	137f:a30f	Educational attainment---Weight	1.17365428571429e-10
+137f	a8f	1.0515	0.013	0.503	0.0377	1.1773e-40	137f:a8f	Weight	Type 2 diabetes	female	female	137f:a8f	Type 2 diabetes---Weight	2.18377607843137e-39
+137f	a9f	1.0553	0.0087	0.2386	0.0709	8e-04	137f:a9f	Weight	ADHD	female	female	137f:a9f	ADHD---Weight	0.00258293515358362
+137f	ch6f	1.0032	0.0069	-0.2046	0.08	0.0105	137f:ch6f	Weight	Word reading	female	female	137f:ch6f	Weight---Word reading	0.0280593220338983
+137f	l1f	1.0989	0.0335	-0.3602	0.0317	7.1156e-30	137f:l1f	Weight	HDL	female	female	137f:l1f	HDL---Weight	9.75559072463768e-29
+137f	l2f	1.077	0.0291	0.0886	0.0319	0.0055	137f:l2f	Weight	LDL	female	female	137f:l2f	LDL---Weight	0.0154391691394659
+137f	l4f	1.0832	0.0313	0.2852	0.0354	7.4733e-16	137f:l4f	Weight	logTG	female	female	137f:l4f	logTG---Weight	5.84276181818182e-15
+137f	l5f	1.0929	0.0292	0.1391	0.0339	4.098e-05	137f:l5f	Weight	nonHDL	female	female	137f:l5f	nonHDL---Weight	0.000155691084337349
+137f	r9f	1.009	0.0071	0.205	0.0724	0.0047	137f:r9f	Weight	Carotid intima-media thickness	female	female	137f:r9f	Carotid intima-media thickness---Weight	0.0133921686746988
+145f	154f	0.9579	0.0076	-0.1707	0.0499	6e-04	145f:154f	Body Mass Index	Waist-hip ratio (<= 50 yrs, adjBMI)	female	female	145f:154f	Body Mass Index---Waist-hip ratio (<= 50 yrs, adjBMI)	0.00199157894736842
+145f	159f	0.8212	0.0076	0.8768	0.0117	0	145f:159f	Body Mass Index	Hip circumference	female	female	145f:159f	Body Mass Index---Hip circumference	0
+145f	171f	0.8154	0.0069	0.8997	0.0107	0	145f:171f	Body Mass Index	Waist circumference	female	female	145f:171f	Body Mass Index---Waist circumference	0
+145f	177f	0.891	0.0081	-0.0745	0.0304	0.0143	145f:177f	Body Mass Index	Waist circumference (adjBMI)	female	female	145f:177f	Body Mass Index---Waist circumference (adjBMI)	0.0375772222222222
+145f	183f	0.8889	0.0082	0.4435	0.0359	4.4589e-35	145f:183f	Body Mass Index	Waist-hip ratio	female	female	145f:183f	Body Mass Index---Waist-hip ratio	6.91494983606557e-34
+145f	189f	0.9082	0.0088	-0.0974	0.0325	0.0027	145f:189f	Body Mass Index	Waist-hip ratio (adjBMI)	female	female	145f:189f	Body Mass Index---Waist-hip ratio (adjBMI)	0.00816038338658147
+145f	48f	0.9733	0.0079	-0.2596	0.0297	2.5822e-18	145f:48f	Body Mass Index	Age at first birth	female	female	145f:48f	Age at first birth---Body Mass Index	2.41857544554455e-17
+145f	96f	0.9584	0.0075	0.1634	0.0464	4e-04	145f:96f	Body Mass Index	Height SDS	female	female	145f:96f	Body Mass Index---Height SDS	0.00138102189781022
+145f	99f	0.9837	0.0066	-0.4519	0.0794	1.2743e-08	145f:99f	Body Mass Index	Pubertal growth	female	female	145f:99f	Body Mass Index---Pubertal growth	6.7345687150838e-08
+145f	a13f	0.9901	0.0087	0.2661	0.038	2.4712e-12	145f:a13f	Body Mass Index	Cardiovascular disease	female	female	145f:a13f	Body Mass Index---Cardiovascular disease	1.61224496551724e-11
+145f	a1f	1.0108	0.0085	0.1731	0.0313	3.0454e-08	145f:a1f	Body Mass Index	Insomnia	female	female	145f:a1f	Body Mass Index---Insomnia	1.55726940540541e-07
+145f	a21f	0.9835	0.0079	0.1175	0.0337	5e-04	145f:a21f	Body Mass Index	Grip strength measurement/ Muscle weakness	female	female	145f:a21f	Body Mass Index---Grip strength measurement/ Muscle weakness	0.00170758122743682
+145f	a22f	1.0241	0.008	0.3581	0.0256	1.8519e-44	145f:a22f	Body Mass Index	Snoring	female	female	145f:a22f	Body Mass Index---Snoring	3.72744127659574e-43
+145f	a27f	1.0259	0.0339	0.1526	0.0515	0.003	145f:a27f	Body Mass Index	Fasting glucose	female	female	145f:a27f	Body Mass Index---Fasting glucose	0.00892452830188679
+145f	a28f	1.0172	0.0096	0.5406	0.0738	2.3692e-13	145f:a28f	Body Mass Index	Fasting insulin	female	female	145f:a28f	Body Mass Index---Fasting insulin	1.64798764705882e-12
+145f	a29f	1.0207	0.0088	0.3247	0.0257	1.326e-36	145f:a29f	Body Mass Index	Multisite chronic pain	female	female	145f:a29f	Body Mass Index---Multisite chronic pain	2.16275172413793e-35
+145f	a30f	0.953	0.0091	-0.2901	0.0239	5.6509e-34	145f:a30f	Body Mass Index	Educational attainment	female	female	145f:a30f	Body Mass Index---Educational attainment	8.48531968253968e-33
+145f	a8f	1.0524	0.0129	0.5541	0.0293	8.5279e-80	145f:a8f	Body Mass Index	Type 2 diabetes	female	female	145f:a8f	Body Mass Index---Type 2 diabetes	2.5210604375e-78
+145f	a9f	1.0562	0.0087	0.2892	0.0624	3.6198e-06	145f:a9f	Body Mass Index	ADHD	female	female	145f:a9f	ADHD---Body Mass Index	1.57803262672811e-05
+145f	ch1f	0.9989	0.0068	-0.175	0.0552	0.0015	145f:ch1f	Body Mass Index	Nonword reading	female	female	145f:ch1f	Body Mass Index---Nonword reading	0.00469867549668874
+145f	ch6f	1.0029	0.0071	-0.229	0.067	6e-04	145f:ch6f	Body Mass Index	Word reading	female	female	145f:ch6f	Body Mass Index---Word reading	0.00199157894736842
+145f	l1f	1.1119	0.035	-0.4407	0.0249	2.6427e-70	145f:l1f	Body Mass Index	HDL	female	female	145f:l1f	Body Mass Index---HDL	7.35292411764706e-69
+145f	l2f	1.0814	0.0294	0.1457	0.0232	3.2205e-10	145f:l2f	Body Mass Index	LDL	female	female	145f:l2f	Body Mass Index---LDL	1.88061296296296e-09
+145f	l4f	1.088	0.0312	0.3771	0.0283	1.8022e-40	145f:l4f	Body Mass Index	logTG	female	female	145f:l4f	Body Mass Index---logTG	3.27861769230769e-39
+145f	l5f	1.0956	0.0298	0.2174	0.0261	8.362e-17	145f:l5f	Body Mass Index	nonHDL	female	female	145f:l5f	Body Mass Index---nonHDL	7.06290357142857e-16
+145f	r4f	0.9969	0.0068	0.1239	0.0409	0.0024	145f:r4f	Body Mass Index	PTSD	female	female	145f:r4f	Body Mass Index---PTSD	0.00730032154340836
+145f	r5f	1.0533	0.0098	-0.0775	0.0295	0.0086	145f:r5f	Body Mass Index	Schizophrenia	female	female	145f:r5f	Body Mass Index---Schizophrenia	0.0233781609195402
+145f	r9f	1.009	0.0073	0.127	0.0535	0.0177	145f:r9f	Body Mass Index	Carotid intima-media thickness	female	female	145f:r9f	Body Mass Index---Carotid intima-media thickness	0.0442968253968254
+153f	154f	0.9577	0.0074	1.0633	0.0809	1.9655e-39	153f:154f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio (<= 50 yrs, adjBMI)	female	female	153f:154f	Waist-hip ratio (<= 50 yrs, adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	3.38066e-38
+153f	159f	0.8223	0.0082	-0.2042	0.0458	8.1211e-06	153f:159f	Waist-hip ratio (> 50 yrs, adjBMI)	Hip circumference	female	female	153f:159f	Hip circumference---Waist-hip ratio (> 50 yrs, adjBMI)	3.38438792951542e-05
+153f	165f	0.864	0.0089	-0.3681	0.0467	3.1644e-15	153f:165f	Waist-hip ratio (> 50 yrs, adjBMI)	Hip circumference (adjBMI)	female	female	153f:165f	Hip circumference (adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	2.3571042519685e-14
+153f	171f	0.8161	0.0081	0.2798	0.0374	7.512e-14	153f:171f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist circumference	female	female	153f:171f	Waist circumference---Waist-hip ratio (> 50 yrs, adjBMI)	5.3836e-13
+153f	177f	0.8909	0.0086	0.7287	0.0312	1.2522e-120	153f:177f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist circumference (adjBMI)	female	female	153f:177f	Waist circumference (adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	5.38446e-119
+153f	183f	0.8916	0.0093	0.8825	0.0198	0	153f:183f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio	female	female	153f:183f	Waist-hip ratio---Waist-hip ratio (> 50 yrs, adjBMI)	0
+153f	189f	0.9143	0.0098	1.0136	0.0164	0	153f:189f	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio (adjBMI)	female	female	153f:189f	Waist-hip ratio (> 50 yrs, adjBMI)---Waist-hip ratio (adjBMI)	0
+153f	48f	0.9751	0.0087	-0.1258	0.0498	0.0115	153f:48f	Waist-hip ratio (> 50 yrs, adjBMI)	Age at first birth	female	female	153f:48f	Age at first birth---Waist-hip ratio (> 50 yrs, adjBMI)	0.0305589887640449
+153f	a13f	0.9871	0.0096	0.234	0.0582	5.759e-05	153f:a13f	Waist-hip ratio (> 50 yrs, adjBMI)	Cardiovascular disease	female	female	153f:a13f	Cardiovascular disease---Waist-hip ratio (> 50 yrs, adjBMI)	0.000216191031746032
+153f	a28f	1.0176	0.0095	0.4965	0.1184	2.7624e-05	153f:a28f	Waist-hip ratio (> 50 yrs, adjBMI)	Fasting insulin	female	female	153f:a28f	Fasting insulin---Waist-hip ratio (> 50 yrs, adjBMI)	0.000106662465306122
+153f	a30f	0.9536	0.0099	-0.1095	0.0397	0.0059	153f:a30f	Waist-hip ratio (> 50 yrs, adjBMI)	Educational attainment	female	female	153f:a30f	Educational attainment---Waist-hip ratio (> 50 yrs, adjBMI)	0.0163677419354839
+153f	a8f	1.0449	0.0133	0.3726	0.0452	1.6261e-16	153f:a8f	Waist-hip ratio (> 50 yrs, adjBMI)	Type 2 diabetes	female	female	153f:a8f	Type 2 diabetes---Waist-hip ratio (> 50 yrs, adjBMI)	1.3261125862069e-15
+153f	l1f	1.1141	0.0367	-0.3518	0.0334	7.0078e-26	153f:l1f	Waist-hip ratio (> 50 yrs, adjBMI)	HDL	female	female	153f:l1f	HDL---Waist-hip ratio (> 50 yrs, adjBMI)	8.95862e-25
+153f	l2f	1.0874	0.0311	0.2464	0.0417	3.5049e-09	153f:l2f	Waist-hip ratio (> 50 yrs, adjBMI)	LDL	female	female	153f:l2f	LDL---Waist-hip ratio (> 50 yrs, adjBMI)	1.927695e-08
+153f	l3f	1.1312	0.0368	0.1872	0.0404	3.5689e-06	153f:l3f	Waist-hip ratio (> 50 yrs, adjBMI)	TC	female	female	153f:l3f	TC---Waist-hip ratio (> 50 yrs, adjBMI)	1.56304601851852e-05
+153f	l4f	1.0949	0.0344	0.4315	0.0348	2.8689e-35	153f:l4f	Waist-hip ratio (> 50 yrs, adjBMI)	logTG	female	female	153f:l4f	logTG---Waist-hip ratio (> 50 yrs, adjBMI)	4.523299e-34
+153f	l5f	1.1038	0.0317	0.3176	0.0398	1.5481e-15	153f:l5f	Waist-hip ratio (> 50 yrs, adjBMI)	nonHDL	female	female	153f:l5f	nonHDL---Waist-hip ratio (> 50 yrs, adjBMI)	1.17160208e-14
+154f	159f	0.8218	0.0083	-0.3578	0.0581	7.5043e-10	154f:159f	Waist-hip ratio (<= 50 yrs, adjBMI)	Hip circumference	female	female	154f:159f	Hip circumference---Waist-hip ratio (<= 50 yrs, adjBMI)	4.25093880239521e-09
+154f	165f	0.864	0.0089	-0.4011	0.0587	8.1714e-12	154f:165f	Waist-hip ratio (<= 50 yrs, adjBMI)	Hip circumference (adjBMI)	female	female	154f:165f	Hip circumference (adjBMI)---Waist-hip ratio (<= 50 yrs, adjBMI)	5.1534296e-11
+154f	171f	0.8163	0.0082	0.2078	0.0547	1e-04	154f:171f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist circumference	female	female	154f:171f	Waist circumference---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000358333333333333
+154f	177f	0.8906	0.0086	0.8398	0.0486	8.7015e-67	154f:177f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist circumference (adjBMI)	female	female	154f:177f	Waist circumference (adjBMI)---Waist-hip ratio (<= 50 yrs, adjBMI)	2.28656083333333e-65
+154f	183f	0.8913	0.0093	0.915	0.0459	1.8493e-88	154f:183f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist-hip ratio	female	female	154f:183f	Waist-hip ratio---Waist-hip ratio (<= 50 yrs, adjBMI)	6.47939925925926e-87
+154f	189f	0.9143	0.0098	1.1388	0.0441	3.2765e-147	154f:189f	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist-hip ratio (adjBMI)	female	female	154f:189f	Waist-hip ratio (<= 50 yrs, adjBMI)---Waist-hip ratio (adjBMI)	1.63135210526316e-145
+154f	48f	0.9751	0.0087	-0.2339	0.0631	2e-04	154f:48f	Waist-hip ratio (<= 50 yrs, adjBMI)	Age at first birth	female	female	154f:48f	Age at first birth---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000708614232209738
+154f	a13f	0.987	0.0097	0.2944	0.0732	5.7197e-05	154f:a13f	Waist-hip ratio (<= 50 yrs, adjBMI)	Cardiovascular disease	female	female	154f:a13f	Cardiovascular disease---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000215571163346614
+154f	a1f	1.0144	0.0089	0.1807	0.0629	0.0041	154f:a1f	Waist-hip ratio (<= 50 yrs, adjBMI)	Insomnia	female	female	154f:a1f	Insomnia---Waist-hip ratio (<= 50 yrs, adjBMI)	0.011825
+154f	a30f	0.9536	0.0099	-0.1864	0.0497	2e-04	154f:a30f	Waist-hip ratio (<= 50 yrs, adjBMI)	Educational attainment	female	female	154f:a30f	Educational attainment---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000708614232209738
+154f	a8f	1.0447	0.0132	0.3111	0.0564	3.422e-08	154f:a8f	Waist-hip ratio (<= 50 yrs, adjBMI)	Type 2 diabetes	female	female	154f:a8f	Type 2 diabetes---Waist-hip ratio (<= 50 yrs, adjBMI)	1.73112941176471e-07
+154f	bm2f	0.9915	0.0074	0.2565	0.0929	0.0058	154f:bm2f	Waist-hip ratio (<= 50 yrs, adjBMI)	Left 5m area	female	female	154f:bm2f	Left 5m area---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0161852507374631
+154f	l1f	1.1136	0.0366	-0.3671	0.0456	8.2278e-16	154f:l1f	Waist-hip ratio (<= 50 yrs, adjBMI)	HDL	female	female	154f:l1f	HDL---Waist-hip ratio (<= 50 yrs, adjBMI)	6.37991704918033e-15
+154f	l2f	1.0879	0.0311	0.1965	0.0496	7.4908e-05	154f:l2f	Waist-hip ratio (<= 50 yrs, adjBMI)	LDL	female	female	154f:l2f	LDL---Waist-hip ratio (<= 50 yrs, adjBMI)	0.000277893992156863
+154f	l3f	1.1317	0.0368	0.1275	0.0456	0.0052	154f:l3f	Waist-hip ratio (<= 50 yrs, adjBMI)	TC	female	female	154f:l3f	TC---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0146404761904762
+154f	l4f	1.0943	0.0344	0.4695	0.0507	2.1e-20	154f:l4f	Waist-hip ratio (<= 50 yrs, adjBMI)	logTG	female	female	154f:l4f	logTG---Waist-hip ratio (<= 50 yrs, adjBMI)	2.13612903225806e-19
+154f	l5f	1.1034	0.0317	0.2724	0.0514	1.1682e-07	154f:l5f	Waist-hip ratio (<= 50 yrs, adjBMI)	nonHDL	female	female	154f:l5f	nonHDL---Waist-hip ratio (<= 50 yrs, adjBMI)	5.69648041237113e-07
+154f	r4f	0.9954	0.0071	0.1854	0.0781	0.0176	154f:r4f	Waist-hip ratio (<= 50 yrs, adjBMI)	PTSD	female	female	154f:r4f	PTSD---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0441633952254642
+159f	165f	0.8625	0.0079	0.5176	0.0249	5.3335e-96	159f:165f	Hip circumference	Hip circumference (adjBMI)	female	female	159f:165f	Hip circumference---Hip circumference (adjBMI)	2.0181964e-94
+159f	171f	0.8153	0.0069	0.86	0.0154	0	159f:171f	Hip circumference	Waist circumference	female	female	159f:171f	Hip circumference---Waist circumference	0
+159f	177f	0.8902	0.0081	0.1208	0.0355	7e-04	159f:177f	Hip circumference	Waist circumference (adjBMI)	female	female	159f:177f	Hip circumference---Waist circumference (adjBMI)	0.00228344827586207
+159f	183f	0.8895	0.0082	0.2259	0.0494	4.7643e-06	159f:183f	Hip circumference	Waist-hip ratio	female	female	159f:183f	Hip circumference---Waist-hip ratio	2.03937909502262e-05
+159f	189f	0.9091	0.0087	-0.2624	0.0379	4.4957e-12	159f:189f	Hip circumference	Waist-hip ratio (adjBMI)	female	female	159f:189f	Hip circumference---Waist-hip ratio (adjBMI)	2.91296726027397e-11
+159f	48f	0.9731	0.0079	-0.1564	0.0349	7.5485e-06	159f:48f	Hip circumference	Age at first birth	female	female	159f:48f	Age at first birth---Hip circumference	3.17372488888889e-05
+159f	96f	0.9586	0.0076	0.4018	0.0589	8.6355e-12	159f:96f	Hip circumference	Height SDS	female	female	159f:96f	Height SDS---Hip circumference	5.41005496688742e-11
+159f	99f	0.9841	0.0066	-0.2397	0.0708	7e-04	159f:99f	Hip circumference	Pubertal growth	female	female	159f:99f	Hip circumference---Pubertal growth	0.00228344827586207
+159f	a13f	0.9901	0.0089	0.1823	0.0426	1.8523e-05	159f:a13f	Hip circumference	Cardiovascular disease	female	female	159f:a13f	Cardiovascular disease---Hip circumference	7.30114916666667e-05
+159f	a1f	1.0102	0.0085	0.0779	0.0327	0.0173	159f:a1f	Hip circumference	Insomnia	female	female	159f:a1f	Hip circumference---Insomnia	0.0436421333333333
+159f	a22f	1.0228	0.008	0.2611	0.0319	2.9765e-16	159f:a22f	Hip circumference	Snoring	female	female	159f:a22f	Hip circumference---Snoring	2.40664017094017e-15
+159f	a28f	1.0171	0.0096	0.395	0.0856	3.9707e-06	159f:a28f	Hip circumference	Fasting insulin	female	female	159f:a28f	Fasting insulin---Hip circumference	1.7230652293578e-05
+159f	a29f	1.0212	0.0089	0.269	0.0278	3.993e-22	159f:a29f	Hip circumference	Multisite chronic pain	female	female	159f:a29f	Hip circumference---Multisite chronic pain	4.24424494382022e-21
+159f	a30f	0.9515	0.0092	-0.1552	0.0281	3.3908e-08	159f:a30f	Hip circumference	Educational attainment	female	female	159f:a30f	Educational attainment---Hip circumference	1.72456817204301e-07
+159f	a8f	1.0505	0.013	0.3986	0.0398	1.1572e-23	159f:a8f	Hip circumference	Type 2 diabetes	female	female	159f:a8f	Hip circumference---Type 2 diabetes	1.38571037974684e-22
+159f	a9f	1.0566	0.0086	0.2059	0.069	0.0028	159f:a9f	Hip circumference	ADHD	female	female	159f:a9f	ADHD---Hip circumference	0.00843566878980892
+159f	l1f	1.1096	0.0349	-0.3209	0.0327	1.0902e-22	159f:l1f	Hip circumference	HDL	female	female	159f:l1f	HDL---Hip circumference	1.19922e-21
+159f	l4f	1.0865	0.0313	0.2152	0.034	2.3096e-10	159f:l4f	Hip circumference	logTG	female	female	159f:l4f	Hip circumference---logTG	1.35706931677019e-09
+159f	l5f	1.0945	0.0295	0.0907	0.0318	0.0044	159f:l5f	Hip circumference	nonHDL	female	female	159f:l5f	Hip circumference---nonHDL	0.0125752265861027
+159f	r4f	0.9972	0.0069	0.103	0.0424	0.0151	159f:r4f	Hip circumference	PTSD	female	female	159f:r4f	Hip circumference---PTSD	0.0391358904109589
+165f	171f	0.8157	0.0069	0.2055	0.0304	1.3249e-11	165f:171f	Hip circumference (adjBMI)	Waist circumference	female	female	165f:171f	Hip circumference (adjBMI)---Waist circumference	8.19186535947712e-11
+165f	177f	0.8915	0.008	0.3465	0.0465	9.4325e-14	165f:177f	Hip circumference (adjBMI)	Waist circumference (adjBMI)	female	female	165f:177f	Hip circumference (adjBMI)---Waist circumference (adjBMI)	6.65906343283582e-13
+165f	183f	0.8897	0.0079	-0.3306	0.0382	4.6682e-18	165f:183f	Hip circumference (adjBMI)	Waist-hip ratio	female	female	165f:183f	Hip circumference (adjBMI)---Waist-hip ratio	4.28749242718447e-17
+165f	189f	0.909	0.0086	-0.3898	0.0399	1.6535e-22	165f:189f	Hip circumference (adjBMI)	Waist-hip ratio (adjBMI)	female	female	165f:189f	Hip circumference (adjBMI)---Waist-hip ratio (adjBMI)	1.79794367816092e-21
+165f	48f	0.9724	0.0078	0.1451	0.0374	1e-04	165f:48f	Hip circumference (adjBMI)	Age at first birth	female	female	165f:48f	Age at first birth---Hip circumference (adjBMI)	0.000358333333333333
+165f	96f	0.9583	0.0075	0.5142	0.0651	2.7374e-15	165f:96f	Hip circumference (adjBMI)	Height SDS	female	female	165f:96f	Height SDS---Hip circumference (adjBMI)	2.05522253968254e-14
+165f	99f	0.9834	0.0067	0.337	0.0766	1.0822e-05	165f:99f	Hip circumference (adjBMI)	Pubertal growth	female	female	165f:99f	Hip circumference (adjBMI)---Pubertal growth	4.45113565217391e-05
+165f	a13f	0.989	0.0087	-0.1095	0.0462	0.0178	165f:a13f	Hip circumference (adjBMI)	Cardiovascular disease	female	female	165f:a13f	Cardiovascular disease---Hip circumference (adjBMI)	0.0444295514511873
+165f	a1f	1.0101	0.0084	-0.0995	0.0359	0.0056	165f:a1f	Hip circumference (adjBMI)	Insomnia	female	female	165f:a1f	Hip circumference (adjBMI)---Insomnia	0.0156733727810651
+165f	a21f	0.9844	0.0078	-0.1797	0.0412	1.2835e-05	165f:a21f	Hip circumference (adjBMI)	Grip strength measurement/ Muscle weakness	female	female	165f:a21f	Grip strength measurement/ Muscle weakness---Hip circumference (adjBMI)	5.23358189655172e-05
+165f	a30f	0.9525	0.009	0.1692	0.0292	6.8682e-09	165f:a30f	Hip circumference (adjBMI)	Educational attainment	female	female	165f:a30f	Educational attainment---Hip circumference (adjBMI)	3.71275268571429e-08
+165f	a8f	1.051	0.013	-0.1132	0.0323	5e-04	165f:a8f	Hip circumference (adjBMI)	Type 2 diabetes	female	female	165f:a8f	Hip circumference (adjBMI)---Type 2 diabetes	0.00170758122743682
+165f	l1f	1.1109	0.0347	0.1126	0.0273	3.7676e-05	165f:l1f	Hip circumference (adjBMI)	HDL	female	female	165f:l1f	HDL---Hip circumference (adjBMI)	0.00014429755465587
+165f	l2f	1.0805	0.0293	-0.1619	0.028	7.2584e-09	165f:l2f	Hip circumference (adjBMI)	LDL	female	female	165f:l2f	Hip circumference (adjBMI)---LDL	3.90139e-08
+165f	l3f	1.1206	0.0343	-0.1473	0.0256	8.1767e-09	165f:l3f	Hip circumference (adjBMI)	TC	female	female	165f:l3f	Hip circumference (adjBMI)---TC	4.34559449438202e-08
+165f	l4f	1.0893	0.0314	-0.201	0.0283	1.2778e-12	165f:l4f	Hip circumference (adjBMI)	logTG	female	female	165f:l4f	Hip circumference (adjBMI)---logTG	8.39443611111111e-12
+165f	l5f	1.0953	0.0298	-0.2006	0.0276	3.3074e-13	165f:l5f	Hip circumference (adjBMI)	nonHDL	female	female	165f:l5f	Hip circumference (adjBMI)---nonHDL	2.28379591240876e-12
+165f	r4f	0.9968	0.0068	-0.1244	0.0481	0.0096	165f:r4f	Hip circumference (adjBMI)	PTSD	female	female	165f:r4f	Hip circumference (adjBMI)---PTSD	0.0258
+171f	177f	0.8903	0.0082	0.4029	0.0278	1.7851e-47	171f:177f	Waist circumference	Waist circumference (adjBMI)	female	female	171f:177f	Waist circumference---Waist circumference (adjBMI)	3.837965e-46
+171f	183f	0.8891	0.0081	0.6803	0.0228	6.9209e-196	171f:183f	Waist circumference	Waist-hip ratio	female	female	171f:183f	Waist circumference---Waist-hip ratio	4.091982125e-194
+171f	189f	0.9081	0.0087	0.2303	0.0344	2.021e-11	171f:189f	Waist circumference	Waist-hip ratio (adjBMI)	female	female	171f:189f	Waist circumference---Waist-hip ratio (adjBMI)	1.23346193548387e-10
+171f	48f	0.9727	0.008	-0.2643	0.0346	2.2672e-14	171f:48f	Waist circumference	Age at first birth	female	female	171f:48f	Age at first birth---Waist circumference	1.649824e-13
+171f	96f	0.9585	0.0075	0.3115	0.0524	2.8119e-09	171f:96f	Waist circumference	Height SDS	female	female	171f:96f	Height SDS---Waist circumference	1.55558912280702e-08
+171f	99f	0.9837	0.0067	-0.2916	0.0764	1e-04	171f:99f	Waist circumference	Pubertal growth	female	female	171f:99f	Pubertal growth---Waist circumference	0.000358333333333333
+171f	a13f	0.991	0.009	0.3288	0.0397	1.2563e-16	171f:a13f	Waist circumference	Cardiovascular disease	female	female	171f:a13f	Cardiovascular disease---Waist circumference	1.03344330434783e-15
+171f	a1f	1.0111	0.0084	0.1606	0.0342	2.7034e-06	171f:a1f	Waist circumference	Insomnia	female	female	171f:a1f	Insomnia---Waist circumference	1.20632849056604e-05
+171f	a22f	1.0234	0.008	0.3178	0.0322	6.4766e-23	171f:a22f	Waist circumference	Snoring	female	female	171f:a22f	Snoring---Waist circumference	7.38176337349398e-22
+171f	a27f	1.027	0.035	0.1574	0.0601	0.0088	171f:a27f	Waist circumference	Fasting glucose	female	female	171f:a27f	Fasting glucose---Waist circumference	0.0237851428571429
+171f	a28f	1.0175	0.0097	0.6365	0.0768	1.1053e-16	171f:a28f	Waist circumference	Fasting insulin	female	female	171f:a28f	Fasting insulin---Waist circumference	9.25321946902655e-16
+171f	a29f	1.0207	0.009	0.3061	0.0295	3.5094e-25	171f:a29f	Waist circumference	Multisite chronic pain	female	female	171f:a29f	Multisite chronic pain---Waist circumference	4.36827947368421e-24
+171f	a30f	0.9511	0.0092	-0.2614	0.0265	6.6347e-23	171f:a30f	Waist circumference	Educational attainment	female	female	171f:a30f	Educational attainment---Waist circumference	7.47193595238095e-22
+171f	a8f	1.0513	0.0131	0.601	0.0298	1.4624e-90	171f:a8f	Waist circumference	Type 2 diabetes	female	female	171f:a8f	Type 2 diabetes---Waist circumference	5.32088615384615e-89
+171f	a9f	1.0564	0.0086	0.3204	0.0648	7.7652e-07	171f:a9f	Waist circumference	ADHD	female	female	171f:a9f	ADHD---Waist circumference	3.63657386138614e-06
+171f	ch6f	1.0016	0.0073	-0.2023	0.0776	0.0091	171f:ch6f	Waist circumference	Word reading	female	female	171f:ch6f	Waist circumference---Word reading	0.0245259259259259
+171f	l1f	1.1065	0.0344	-0.5062	0.0257	2.8133e-86	171f:l1f	Waist circumference	HDL	female	female	171f:l1f	HDL---Waist circumference	9.17717862068966e-85
+171f	l2f	1.0802	0.029	0.1842	0.028	4.7136e-11	171f:l2f	Waist circumference	LDL	female	female	171f:l2f	LDL---Waist circumference	2.82219341772152e-10
+171f	l4f	1.0851	0.0307	0.4453	0.028	8.2235e-57	171f:l4f	Waist circumference	logTG	female	female	171f:l4f	logTG---Waist circumference	1.94485775e-55
+171f	l5f	1.0942	0.0294	0.2637	0.0295	3.4955e-19	171f:l5f	Waist circumference	nonHDL	female	female	171f:l5f	nonHDL---Waist circumference	3.37422755102041e-18
+171f	r4f	0.9962	0.0068	0.1461	0.0445	0.001	171f:r4f	Waist circumference	PTSD	female	female	171f:r4f	PTSD---Waist circumference	0.0031744966442953
+171f	r5f	1.0524	0.01	-0.0731	0.0302	0.0155	171f:r5f	Waist circumference	Schizophrenia	female	female	171f:r5f	Schizophrenia---Waist circumference	0.0400628415300546
+171f	r9f	1.0096	0.0073	0.1647	0.0554	0.0029	171f:r9f	Waist circumference	Carotid intima-media thickness	female	female	171f:r9f	Carotid intima-media thickness---Waist circumference	0.00868164556962025
+177f	183f	0.8885	0.008	0.6302	0.0284	2.4875e-109	177f:183f	Waist circumference (adjBMI)	Waist-hip ratio	female	female	177f:183f	Waist circumference (adjBMI)---Waist-hip ratio	9.80489583333333e-108
+177f	189f	0.9089	0.0087	0.7171	0.0243	6.0433e-192	177f:189f	Waist circumference (adjBMI)	Waist-hip ratio (adjBMI)	female	female	177f:189f	Waist circumference (adjBMI)---Waist-hip ratio (adjBMI)	3.36291870588235e-190
+177f	96f	0.9581	0.0076	0.358	0.066	5.6698e-08	177f:96f	Waist circumference (adjBMI)	Height SDS	female	female	177f:96f	Height SDS---Waist circumference (adjBMI)	2.83789989417989e-07
+177f	a13f	0.9899	0.0087	0.1863	0.0466	6.3926e-05	177f:a13f	Waist circumference (adjBMI)	Cardiovascular disease	female	female	177f:a13f	Cardiovascular disease---Waist circumference (adjBMI)	0.000239027652173913
+177f	a28f	1.017	0.0095	0.367	0.0939	9.2526e-05	177f:a28f	Waist circumference (adjBMI)	Fasting insulin	female	female	177f:a28f	Fasting insulin---Waist circumference (adjBMI)	0.000339262
+177f	a8f	1.0508	0.013	0.2774	0.0391	1.2281e-12	177f:a8f	Waist circumference (adjBMI)	Type 2 diabetes	female	female	177f:a8f	Type 2 diabetes---Waist circumference (adjBMI)	8.12435384615385e-12
+177f	l1f	1.1101	0.0353	-0.2786	0.0283	7.7389e-23	177f:l1f	Waist circumference (adjBMI)	HDL	female	female	177f:l1f	HDL---Waist circumference (adjBMI)	8.61294047058824e-22
+177f	l2f	1.0795	0.0292	0.1226	0.0349	4e-04	177f:l2f	Waist circumference (adjBMI)	LDL	female	female	177f:l2f	LDL---Waist circumference (adjBMI)	0.00138102189781022
+177f	l4f	1.0882	0.0314	0.2879	0.0296	2.5722e-22	177f:l4f	Waist circumference (adjBMI)	logTG	female	female	177f:l4f	logTG---Waist circumference (adjBMI)	2.765115e-21
+177f	l5f	1.0948	0.0298	0.1634	0.0346	2.3568e-06	177f:l5f	Waist circumference (adjBMI)	nonHDL	female	female	177f:l5f	nonHDL---Waist circumference (adjBMI)	1.06168228571429e-05
+183f	189f	0.909	0.0088	0.8568	0.0137	0	183f:189f	Waist-hip ratio	Waist-hip ratio (adjBMI)	female	female	183f:189f	Waist-hip ratio---Waist-hip ratio (adjBMI)	0
+183f	48f	0.9736	0.0079	-0.2955	0.0414	9.3155e-13	183f:48f	Waist-hip ratio	Age at first birth	female	female	183f:48f	Age at first birth---Waist-hip ratio	6.24997375886525e-12
+183f	99f	0.9839	0.0067	-0.2589	0.0871	0.003	183f:99f	Waist-hip ratio	Pubertal growth	female	female	183f:99f	Pubertal growth---Waist-hip ratio	0.00892452830188679
+183f	a13f	0.9895	0.0089	0.384	0.0463	1.1783e-16	183f:a13f	Waist-hip ratio	Cardiovascular disease	female	female	183f:a13f	Cardiovascular disease---Waist-hip ratio	9.77782280701754e-16
+183f	a1f	1.0103	0.0084	0.1821	0.0412	9.7308e-06	183f:a1f	Waist-hip ratio	Insomnia	female	female	183f:a1f	Insomnia---Waist-hip ratio	4.03742842105263e-05
+183f	a22f	1.024	0.008	0.2455	0.0393	4.1525e-10	183f:a22f	Waist-hip ratio	Snoring	female	female	183f:a22f	Snoring---Waist-hip ratio	2.40997852760736e-09
+183f	a27f	1.0256	0.0353	0.1711	0.0642	0.0077	183f:a27f	Waist-hip ratio	Fasting glucose	female	female	183f:a27f	Fasting glucose---Waist-hip ratio	0.0212367346938775
+183f	a28f	1.018	0.0095	0.6769	0.0999	1.2379e-11	183f:a28f	Waist-hip ratio	Fasting insulin	female	female	183f:a28f	Fasting insulin---Waist-hip ratio	7.70429868421053e-11
+183f	a29f	1.0209	0.0088	0.216	0.038	1.3291e-08	183f:a29f	Waist-hip ratio	Multisite chronic pain	female	female	183f:a29f	Multisite chronic pain---Waist-hip ratio	6.98515888888889e-08
+183f	a30f	0.9518	0.0091	-0.2822	0.0327	6.0491e-18	183f:a30f	Waist-hip ratio	Educational attainment	female	female	183f:a30f	Educational attainment---Waist-hip ratio	5.50235442307692e-17
+183f	a8f	1.0507	0.013	0.6061	0.0327	1.073e-76	183f:a8f	Waist-hip ratio	Type 2 diabetes	female	female	183f:a8f	Type 2 diabetes---Waist-hip ratio	3.07593333333333e-75
+183f	a9f	1.0563	0.0087	0.3156	0.0704	7.3713e-06	183f:a9f	Waist-hip ratio	ADHD	female	female	183f:a9f	ADHD---Waist-hip ratio	3.11305794642857e-05
+183f	l1f	1.1095	0.0349	-0.5627	0.0293	2.8496e-82	183f:l1f	Waist-hip ratio	HDL	female	female	183f:l1f	HDL---Waist-hip ratio	8.69587612903226e-81
+183f	l2f	1.0795	0.029	0.2813	0.0338	7.8863e-17	183f:l2f	Waist-hip ratio	LDL	female	female	183f:l2f	LDL---Waist-hip ratio	6.72111693693694e-16
+183f	l3f	1.1202	0.0336	0.1526	0.0318	1.6063e-06	183f:l3f	Waist-hip ratio	TC	female	female	183f:l3f	TC---Waist-hip ratio	7.37650388349515e-06
+183f	l4f	1.0873	0.0313	0.5933	0.0305	3.4183e-84	183f:l4f	Waist-hip ratio	logTG	female	female	183f:l4f	logTG---Waist-hip ratio	1.07790393333333e-82
+183f	l5f	1.0945	0.0295	0.3862	0.0334	6.3221e-31	183f:l5f	Waist-hip ratio	nonHDL	female	female	183f:l5f	nonHDL---Waist-hip ratio	9.06167666666667e-30
+183f	r4f	0.9976	0.0069	0.1773	0.0526	7e-04	183f:r4f	Waist-hip ratio	PTSD	female	female	183f:r4f	PTSD---Waist-hip ratio	0.00228344827586207
+183f	r9f	1.0097	0.0072	0.1782	0.0614	0.0037	183f:r9f	Waist-hip ratio	Carotid intima-media thickness	female	female	183f:r9f	Carotid intima-media thickness---Waist-hip ratio	0.0107698461538462
+189f	4374f	1.0173	0.0077	-0.1967	0.0748	0.0086	189f:4374f	Waist-hip ratio (adjBMI)	Free thyroxine (FT4)	female	female	189f:4374f	Free thyroxine (FT4)---Waist-hip ratio (adjBMI)	0.0233781609195402
+189f	48f	0.9732	0.0078	-0.1739	0.0428	4.8636e-05	189f:48f	Waist-hip ratio (adjBMI)	Age at first birth	female	female	189f:48f	Age at first birth---Waist-hip ratio (adjBMI)	0.000184038624
+189f	a13f	0.989	0.0087	0.262	0.049	8.8176e-08	189f:a13f	Waist-hip ratio (adjBMI)	Cardiovascular disease	female	female	189f:a13f	Cardiovascular disease---Waist-hip ratio (adjBMI)	4.344505e-07
+189f	a1f	1.01	0.0084	0.1193	0.0411	0.0037	189f:a1f	Waist-hip ratio (adjBMI)	Insomnia	female	female	189f:a1f	Insomnia---Waist-hip ratio (adjBMI)	0.0107698461538462
+189f	a28f	1.0185	0.0095	0.3841	0.1059	3e-04	189f:a28f	Waist-hip ratio (adjBMI)	Fasting insulin	female	female	189f:a28f	Fasting insulin---Waist-hip ratio (adjBMI)	0.00105501858736059
+189f	a30f	0.9524	0.0091	-0.1572	0.0337	2.9973e-06	189f:a30f	Waist-hip ratio (adjBMI)	Educational attainment	female	female	189f:a30f	Educational attainment---Waist-hip ratio (adjBMI)	1.33119521126761e-05
+189f	a8f	1.0515	0.013	0.3495	0.0354	6.2082e-23	189f:a8f	Waist-hip ratio (adjBMI)	Type 2 diabetes	female	female	189f:a8f	Type 2 diabetes---Waist-hip ratio (adjBMI)	7.16214292682927e-22
+189f	a9f	1.057	0.0087	0.1863	0.0779	0.0168	189f:a9f	Waist-hip ratio (adjBMI)	ADHD	female	female	189f:a9f	ADHD---Waist-hip ratio (adjBMI)	0.0427225806451613
+189f	bm8f	0.9992	0.0076	-0.1435	0.0587	0.0145	189f:bm8f	Waist-hip ratio (adjBMI)	CC Central	female	female	189f:bm8f	CC Central---Waist-hip ratio (adjBMI)	0.0378922651933702
+189f	l1f	1.1103	0.0346	-0.3695	0.0309	5.3244e-33	189f:l1f	Waist-hip ratio (adjBMI)	HDL	female	female	189f:l1f	HDL---Waist-hip ratio (adjBMI)	7.87012875e-32
+189f	l2f	1.0803	0.0295	0.2278	0.0352	9.2211e-11	189f:l2f	Waist-hip ratio (adjBMI)	LDL	female	female	189f:l2f	LDL---Waist-hip ratio (adjBMI)	5.451975375e-10
+189f	l3f	1.1206	0.0346	0.1531	0.0321	1.89e-06	189f:l3f	Waist-hip ratio (adjBMI)	TC	female	female	189f:l3f	TC---Waist-hip ratio (adjBMI)	8.63739130434783e-06
+189f	l4f	1.0884	0.0311	0.451	0.0316	4.0731e-46	189f:l4f	Waist-hip ratio (adjBMI)	logTG	female	female	189f:l4f	logTG---Waist-hip ratio (adjBMI)	8.37641869565217e-45
+189f	l5f	1.095	0.0299	0.3017	0.0351	8.1351e-18	189f:l5f	Waist-hip ratio (adjBMI)	nonHDL	female	female	189f:l5f	nonHDL---Waist-hip ratio (adjBMI)	7.26019301886792e-17
+48f	51f	0.9748	0.0063	-0.6489	0.0481	1.7494e-41	48f:51f	Age at first birth	Number of children ever born	female	female	48f:51f	Age at first birth---Number of children ever born	3.37741306122449e-40
+48f	a13f	0.9894	0.0083	-0.3999	0.0492	4.1041e-16	48f:a13f	Age at first birth	Cardiovascular disease	female	female	48f:a13f	Age at first birth---Cardiovascular disease	3.26258705882353e-15
+48f	a1f	1.0084	0.0079	-0.3525	0.0378	1.0926e-20	48f:a1f	Age at first birth	Insomnia	female	female	48f:a1f	Age at first birth---Insomnia	1.12347782608696e-19
+48f	a21f	0.9884	0.0075	-0.2055	0.0477	1.6379e-05	48f:a21f	Age at first birth	Grip strength measurement/ Muscle weakness	female	female	48f:a21f	Age at first birth---Grip strength measurement/ Muscle weakness	6.56548050847458e-05
+48f	a22f	1.0205	0.0074	-0.2427	0.0374	9.0516e-11	48f:a22f	Age at first birth	Snoring	female	female	48f:a22f	Age at first birth---Snoring	5.38541735849057e-10
+48f	a28f	1.0165	0.0092	-0.2995	0.0889	8e-04	48f:a28f	Age at first birth	Fasting insulin	female	female	48f:a28f	Age at first birth---Fasting insulin	0.00258293515358362
+48f	a29f	1.0141	0.0083	-0.5325	0.0368	1.9477e-47	48f:a29f	Age at first birth	Multisite chronic pain	female	female	48f:a29f	Age at first birth---Multisite chronic pain	4.09449822222222e-46
+48f	a30f	0.9507	0.0091	0.7383	0.0299	1.7291e-134	48f:a30f	Age at first birth	Educational attainment	female	female	48f:a30f	Age at first birth---Educational attainment	8.178643e-133
+48f	a8f	1.0475	0.012	-0.349	0.0403	4.3338e-18	48f:a8f	Age at first birth	Type 2 diabetes	female	female	48f:a8f	Age at first birth---Type 2 diabetes	4.01938705882353e-17
+48f	a9f	1.0584	0.0092	-0.7776	0.0925	4.2479e-17	48f:a9f	Age at first birth	ADHD	female	female	48f:a9f	ADHD---Age at first birth	3.6867095412844e-16
+48f	ch1f	0.999	0.0065	0.3828	0.0837	4.7439e-06	48f:ch1f	Age at first birth	Nonword reading	female	female	48f:ch1f	Age at first birth---Nonword reading	2.03937909502262e-05
+48f	ch6f	1.0033	0.0065	0.4001	0.0933	1.796e-05	48f:ch6f	Age at first birth	Word reading	female	female	48f:ch6f	Age at first birth---Word reading	7.10885355648536e-05
+48f	l1f	1.0961	0.0314	0.3367	0.0277	5.4545e-34	48f:l1f	Age at first birth	HDL	female	female	48f:l1f	Age at first birth---HDL	8.32251129032258e-33
+48f	l2f	1.0646	0.0281	-0.1576	0.0302	1.8519e-07	48f:l2f	Age at first birth	LDL	female	female	48f:l2f	Age at first birth---LDL	8.93825204081633e-07
+48f	l3f	1.1012	0.0296	-0.1063	0.0301	4e-04	48f:l3f	Age at first birth	TC	female	female	48f:l3f	Age at first birth---TC	0.00138102189781022
+48f	l4f	1.0762	0.0277	-0.3583	0.0313	2.2002e-30	48f:l4f	Age at first birth	logTG	female	female	48f:l4f	Age at first birth---logTG	3.10655104477612e-29
+48f	l5f	1.0806	0.0279	-0.2176	0.0315	5.1737e-12	48f:l5f	Age at first birth	nonHDL	female	female	48f:l5f	Age at first birth---nonHDL	3.32946952380952e-11
+48f	r4f	0.9974	0.0061	-0.4267	0.0549	7.558e-15	48f:r4f	Age at first birth	PTSD	female	female	48f:r4f	Age at first birth---PTSD	5.585834375e-14
+51f	a13f	0.9894	0.0083	0.2323	0.0626	2e-04	51f:a13f	Number of children ever born	Cardiovascular disease	female	female	51f:a13f	Cardiovascular disease---Number of children ever born	0.000708614232209738
+51f	a22f	1.0206	0.0074	0.1593	0.0462	6e-04	51f:a22f	Number of children ever born	Snoring	female	female	51f:a22f	Number of children ever born---Snoring	0.00199157894736842
+51f	a29f	1.0141	0.0083	0.2965	0.0496	2.3078e-09	51f:a29f	Number of children ever born	Multisite chronic pain	female	female	51f:a29f	Multisite chronic pain---Number of children ever born	1.28422282352941e-08
+51f	a30f	0.9507	0.0091	-0.2044	0.0438	3.1317e-06	51f:a30f	Number of children ever born	Educational attainment	female	female	51f:a30f	Educational attainment---Number of children ever born	1.377948e-05
+51f	a8f	1.0475	0.012	0.1443	0.0481	0.0027	51f:a8f	Number of children ever born	Type 2 diabetes	female	female	51f:a8f	Number of children ever born---Type 2 diabetes	0.00816038338658147
+51f	a9f	1.0584	0.0092	0.4302	0.1109	1e-04	51f:a9f	Number of children ever born	ADHD	female	female	51f:a9f	ADHD---Number of children ever born	0.000358333333333333
+51f	ch6f	1.0033	0.0065	-0.2765	0.1143	0.0156	51f:ch6f	Number of children ever born	Word reading	female	female	51f:ch6f	Number of children ever born---Word reading	0.0401021739130435
+51f	l1f	1.0961	0.0315	-0.1858	0.0377	8.1298e-07	51f:l1f	Number of children ever born	HDL	female	female	51f:l1f	HDL---Number of children ever born	3.78856689655172e-06
+51f	l4f	1.0759	0.0277	0.1679	0.0427	8.3167e-05	51f:l4f	Number of children ever born	logTG	female	female	51f:l4f	logTG---Number of children ever born	0.000306132225680934
+51f	l5f	1.0805	0.0279	0.1173	0.041	0.0042	51f:l5f	Number of children ever born	nonHDL	female	female	51f:l5f	nonHDL---Number of children ever born	0.0120765957446809
+51f	r4f	0.9974	0.0061	0.2246	0.0676	9e-04	51f:r4f	Number of children ever born	PTSD	female	female	51f:r4f	Number of children ever born---PTSD	0.00288610169491525
+96f	a21f	0.9824	0.0085	-0.2215	0.077	0.004	96f:a21f	Height SDS	Grip strength measurement/ Muscle weakness	female	female	96f:a21f	Grip strength measurement/ Muscle weakness---Height SDS	0.0115718654434251
+96f	a30f	0.9564	0.0098	0.1725	0.0519	9e-04	96f:a30f	Height SDS	Educational attainment	female	female	96f:a30f	Educational attainment---Height SDS	0.00288610169491525
+96f	l5f	1.0975	0.0298	-0.117	0.0475	0.0138	96f:l5f	Height SDS	nonHDL	female	female	96f:l5f	Height SDS---nonHDL	0.0363643454038997
+96f	r4f	0.9971	0.0072	-0.2096	0.08	0.0088	96f:r4f	Height SDS	PTSD	female	female	96f:r4f	Height SDS---PTSD	0.0237851428571429
+99f	a28f	1.017	0.0095	-0.5682	0.215	0.0082	99f:a28f	Pubertal growth	Fasting insulin	female	female	99f:a28f	Fasting insulin---Pubertal growth	0.0224846376811594
+a13f	a1f	1.0154	0.0085	0.2999	0.0518	7.3213e-09	a13f:a1f	Cardiovascular disease	Insomnia	female	female	a13f:a1f	Cardiovascular disease---Insomnia	3.91296598870057e-08
+a13f	a21f	0.9934	0.0084	0.1837	0.0591	0.0019	a13f:a21f	Cardiovascular disease	Grip strength measurement/ Muscle weakness	female	female	a13f:a21f	Cardiovascular disease---Grip strength measurement/ Muscle weakness	0.00587385620915033
+a13f	a22f	1.0303	0.0084	0.1444	0.0423	6e-04	a13f:a22f	Cardiovascular disease	Snoring	female	female	a13f:a22f	Cardiovascular disease---Snoring	0.00199157894736842
+a13f	a27f	1.0236	0.0293	0.1744	0.0641	0.0065	a13f:a27f	Cardiovascular disease	Fasting glucose	female	female	a13f:a27f	Cardiovascular disease---Fasting glucose	0.0179795321637427
+a13f	a29f	1.0211	0.0096	0.3582	0.0448	1.2955e-15	a13f:a29f	Cardiovascular disease	Multisite chronic pain	female	female	a13f:a29f	Cardiovascular disease---Multisite chronic pain	9.88341129032258e-15
+a13f	a30f	0.9566	0.0094	-0.3798	0.0358	2.4399e-26	a13f:a30f	Cardiovascular disease	Educational attainment	female	female	a13f:a30f	Cardiovascular disease---Educational attainment	3.16184301369863e-25
+a13f	a8f	1.0485	0.0136	0.478	0.0377	7.1205e-37	a13f:a8f	Cardiovascular disease	Type 2 diabetes	female	female	a13f:a8f	Cardiovascular disease---Type 2 diabetes	1.18175315789474e-35
+a13f	a9f	1.0524	0.0091	0.372	0.0901	3.6189e-05	a13f:a9f	Cardiovascular disease	ADHD	female	female	a13f:a9f	ADHD---Cardiovascular disease	0.000139165829268293
+a13f	bm2f	1.0025	0.0078	0.2096	0.0857	0.0144	a13f:bm2f	Cardiovascular disease	Left 5m area	female	female	a13f:bm2f	Cardiovascular disease---Left 5m area	0.0377351800554017
+a13f	l1f	1.1401	0.0392	-0.3962	0.0298	1.9593e-40	a13f:l1f	Cardiovascular disease	HDL	female	female	a13f:l1f	Cardiovascular disease---HDL	3.49716566037736e-39
+a13f	l2f	1.0946	0.034	0.1982	0.037	8.6782e-08	a13f:l2f	Cardiovascular disease	LDL	female	female	a13f:l2f	Cardiovascular disease---LDL	4.29820795811518e-07
+a13f	l3f	1.1294	0.0336	0.1184	0.0362	0.0011	a13f:l3f	Cardiovascular disease	TC	female	female	a13f:l3f	Cardiovascular disease---TC	0.00345714285714286
+a13f	l4f	1.1128	0.0349	0.4036	0.0338	8.6085e-33	a13f:l4f	Cardiovascular disease	logTG	female	female	a13f:l4f	Cardiovascular disease---logTG	1.25286784615385e-31
+a13f	l5f	1.1134	0.0337	0.2849	0.0395	5.2889e-13	a13f:l5f	Cardiovascular disease	nonHDL	female	female	a13f:l5f	Cardiovascular disease---nonHDL	3.62557927536232e-12
+a13f	r4f	1.001	0.0068	0.3029	0.0592	3.0558e-07	a13f:r4f	Cardiovascular disease	PTSD	female	female	a13f:r4f	Cardiovascular disease---PTSD	1.45265668341709e-06
+a13f	r9f	1.0085	0.0068	0.1805	0.0776	0.02	a13f:r9f	Cardiovascular disease	Carotid intima-media thickness	female	female	a13f:r9f	Cardiovascular disease---Carotid intima-media thickness	0.0495287958115183
+a1f	a21f	0.9878	0.0083	0.1492	0.0529	0.0048	a1f:a21f	Insomnia	Grip strength measurement/ Muscle weakness	female	female	a1f:a21f	Grip strength measurement/ Muscle weakness---Insomnia	0.013636036036036
+a1f	a29f	1.0145	0.0088	0.5601	0.0283	4.017e-87	a1f:a29f	Insomnia	Multisite chronic pain	female	female	a1f:a29f	Insomnia---Multisite chronic pain	1.35717214285714e-85
+a1f	a30f	0.9486	0.0088	-0.3747	0.0299	6.2704e-36	a1f:a30f	Insomnia	Educational attainment	female	female	a1f:a30f	Educational attainment---Insomnia	1.00538955932203e-34
+a1f	a8f	1.0482	0.0122	0.2298	0.0372	6.4887e-10	a1f:a8f	Insomnia	Type 2 diabetes	female	female	a1f:a8f	Insomnia---Type 2 diabetes	3.74287207317073e-09
+a1f	a9f	1.0589	0.0089	0.4836	0.0825	4.6381e-09	a1f:a9f	Insomnia	ADHD	female	female	a1f:a9f	ADHD---Insomnia	2.53620959537572e-08
+a1f	bm5f	1.0045	0.0074	0.1955	0.0496	8.0727e-05	a1f:bm5f	Insomnia	Left Caudate	female	female	a1f:bm5f	Insomnia---Left Caudate	0.0002983114921875
+a1f	ch6f	1.0016	0.0064	-0.3328	0.0948	4e-04	a1f:ch6f	Insomnia	Word reading	female	female	a1f:ch6f	Insomnia---Word reading	0.00138102189781022
+a1f	l1f	1.1018	0.036	-0.1918	0.0257	7.9977e-14	a1f:l1f	Insomnia	HDL	female	female	a1f:l1f	HDL---Insomnia	5.68858962406015e-13
+a1f	l4f	1.0786	0.0296	0.2209	0.0271	3.4651e-16	a1f:l4f	Insomnia	logTG	female	female	a1f:l4f	Insomnia---logTG	2.77795305084746e-15
+a1f	l5f	1.0869	0.0308	0.1076	0.0253	2.151e-05	a1f:l5f	Insomnia	nonHDL	female	female	a1f:l5f	Insomnia---nonHDL	8.37385185185185e-05
+a1f	r4f	1.001	0.0062	0.29	0.0471	7.3811e-10	a1f:r4f	Insomnia	PTSD	female	female	a1f:r4f	Insomnia---PTSD	4.20633771084337e-09
+a21f	a22f	1.0213	0.0078	0.1464	0.0366	6.4523e-05	a21f:a22f	Grip strength measurement/ Muscle weakness	Snoring	female	female	a21f:a22f	Grip strength measurement/ Muscle weakness---Snoring	0.000240310070866142
+a21f	a29f	1.0152	0.008	0.2198	0.0379	6.8345e-09	a21f:a29f	Grip strength measurement/ Muscle weakness	Multisite chronic pain	female	female	a21f:a29f	Grip strength measurement/ Muscle weakness---Multisite chronic pain	3.71275268571429e-08
+a21f	a30f	0.9508	0.0086	-0.1492	0.0343	1.3705e-05	a21f:a30f	Grip strength measurement/ Muscle weakness	Educational attainment	female	female	a21f:a30f	Educational attainment---Grip strength measurement/ Muscle weakness	5.56434763948498e-05
+a21f	a8f	1.0443	0.0117	0.1182	0.0399	0.0031	a21f:a8f	Grip strength measurement/ Muscle weakness	Type 2 diabetes	female	female	a21f:a8f	Grip strength measurement/ Muscle weakness---Type 2 diabetes	0.00919310344827586
+a21f	bm2f	0.9953	0.0068	0.2609	0.0795	0.001	a21f:bm2f	Grip strength measurement/ Muscle weakness	Left 5m area	female	female	a21f:bm2f	Grip strength measurement/ Muscle weakness---Left 5m area	0.0031744966442953
+a21f	ch1f	0.9979	0.0065	-0.2087	0.0864	0.0157	a21f:ch1f	Grip strength measurement/ Muscle weakness	Nonword reading	female	female	a21f:ch1f	Grip strength measurement/ Muscle weakness---Nonword reading	0.0401410810810811
+a21f	l4f	1.0858	0.0321	0.1531	0.0315	1.1583e-06	a21f:l4f	Grip strength measurement/ Muscle weakness	logTG	female	female	a21f:l4f	Grip strength measurement/ Muscle weakness---logTG	5.34513073170732e-06
+a21f	l5f	1.0927	0.0307	0.0717	0.0302	0.0176	a21f:l5f	Grip strength measurement/ Muscle weakness	nonHDL	female	female	a21f:l5f	Grip strength measurement/ Muscle weakness---nonHDL	0.0441633952254642
+a21f	r4f	0.9994	0.0061	0.1975	0.0579	6e-04	a21f:r4f	Grip strength measurement/ Muscle weakness	PTSD	female	female	a21f:r4f	Grip strength measurement/ Muscle weakness---PTSD	0.00199157894736842
+a22f	a27f	0.9601	0.026	0.1845	0.0595	0.0019	a22f:a27f	Snoring	Fasting glucose	female	female	a22f:a27f	Fasting glucose---Snoring	0.00587385620915033
+a22f	a28f	1.0033	0.0095	0.3382	0.0783	1.5788e-05	a22f:a28f	Snoring	Fasting insulin	female	female	a22f:a28f	Fasting insulin---Snoring	6.35550978723404e-05
+a22f	a29f	1.0146	0.0079	0.2255	0.0281	1.0799e-15	a22f:a29f	Snoring	Multisite chronic pain	female	female	a22f:a29f	Multisite chronic pain---Snoring	8.30557235772358e-15
+a22f	a30f	0.9507	0.0085	-0.2223	0.0299	1.1497e-13	a22f:a30f	Snoring	Educational attainment	female	female	a22f:a30f	Educational attainment---Snoring	8.0564162962963e-13
+a22f	a8f	1.0445	0.0119	0.298	0.0296	8.2408e-24	a22f:a8f	Snoring	Type 2 diabetes	female	female	a22f:a8f	Snoring---Type 2 diabetes	9.99461128205128e-23
+a22f	a9f	1.0584	0.0087	0.1805	0.0632	0.0043	a22f:a9f	Snoring	ADHD	female	female	a22f:a9f	ADHD---Snoring	0.0123266666666667
+a22f	ch1f	0.9982	0.0067	-0.2042	0.0708	0.0039	a22f:ch1f	Snoring	Nonword reading	female	female	a22f:ch1f	Nonword reading---Snoring	0.0113171779141104
+a22f	ch6f	1.0029	0.0064	-0.3182	0.0831	1e-04	a22f:ch6f	Snoring	Word reading	female	female	a22f:ch6f	Snoring---Word reading	0.000358333333333333
+a22f	l1f	1.1107	0.0348	-0.2534	0.0226	3.7768e-29	a22f:l1f	Snoring	HDL	female	female	a22f:l1f	HDL---Snoring	5.03218704225352e-28
+a22f	l2f	1.0746	0.0306	0.1061	0.0258	3.8469e-05	a22f:l2f	Snoring	LDL	female	female	a22f:l2f	LDL---Snoring	0.000146740620967742
+a22f	l4f	1.0841	0.0317	0.2342	0.0254	3.3848e-20	a22f:l4f	Snoring	logTG	female	female	a22f:l4f	logTG---Snoring	3.40640510638298e-19
+a22f	l5f	1.0909	0.0305	0.1367	0.0258	1.2237e-07	a22f:l5f	Snoring	nonHDL	female	female	a22f:l5f	nonHDL---Snoring	5.93651384615385e-07
+a22f	r4f	0.9991	0.006	0.1089	0.0462	0.0183	a22f:r4f	Snoring	PTSD	female	female	a22f:r4f	PTSD---Snoring	0.0455573684210526
+a27f	a28f	0.9626	0.0176	0.3151	0.0885	4e-04	a27f:a28f	Fasting glucose	Fasting insulin	female	female	a27f:a28f	Fasting glucose---Fasting insulin	0.00138102189781022
+a27f	a8f	1.1341	0.0573	0.547	0.0479	3.6109e-30	a27f:a8f	Fasting glucose	Type 2 diabetes	female	female	a27f:a8f	Fasting glucose---Type 2 diabetes	5.02339911764706e-29
+a27f	l1f	1.4196	0.1136	-0.1693	0.0496	6e-04	a27f:l1f	Fasting glucose	HDL	female	female	a27f:l1f	Fasting glucose---HDL	0.00199157894736842
+a27f	l4f	1.4238	0.1219	0.2351	0.0504	3.0648e-06	a27f:l4f	Fasting glucose	logTG	female	female	a27f:l4f	Fasting glucose---logTG	1.35481345794393e-05
+a28f	a29f	1.0166	0.0121	0.2146	0.0708	0.0024	a28f:a29f	Fasting insulin	Multisite chronic pain	female	female	a28f:a29f	Fasting insulin---Multisite chronic pain	0.00730032154340836
+a28f	a30f	0.9537	0.0149	-0.319	0.0638	5.6621e-07	a28f:a30f	Fasting insulin	Educational attainment	female	female	a28f:a30f	Educational attainment---Fasting insulin	2.66484905472637e-06
+a28f	a8f	1.0724	0.0216	0.5805	0.0847	7.0973e-12	a28f:a8f	Fasting insulin	Type 2 diabetes	female	female	a28f:a8f	Fasting insulin---Type 2 diabetes	4.53651743243243e-11
+a28f	l1f	1.2461	0.0578	-0.4681	0.0655	8.7133e-13	a28f:l1f	Fasting insulin	HDL	female	female	a28f:l1f	Fasting insulin---HDL	5.88770128571429e-12
+a28f	l2f	1.1712	0.0518	0.1671	0.0661	0.0115	a28f:l2f	Fasting insulin	LDL	female	female	a28f:l2f	Fasting insulin---LDL	0.0305589887640449
+a28f	l4f	1.2254	0.056	0.5694	0.0705	6.8875e-16	a28f:l4f	Fasting insulin	logTG	female	female	a28f:l4f	Fasting insulin---logTG	5.42964583333333e-15
+a28f	l5f	1.1914	0.0496	0.3008	0.0698	1.6478e-05	a28f:l5f	Fasting insulin	nonHDL	female	female	a28f:l5f	Fasting insulin---nonHDL	6.57729451476793e-05
+a29f	a30f	0.9503	0.0088	-0.4193	0.0247	8.1898e-65	a29f:a30f	Multisite chronic pain	Educational attainment	female	female	a29f:a30f	Educational attainment---Multisite chronic pain	2.09393264864865e-63
+a29f	a8f	1.0475	0.012	0.2697	0.0296	8.7897e-20	a29f:a8f	Multisite chronic pain	Type 2 diabetes	female	female	a29f:a8f	Multisite chronic pain---Type 2 diabetes	8.661516875e-19
+a29f	a9f	1.0584	0.0087	0.6765	0.077	1.6119e-18	a29f:a9f	Multisite chronic pain	ADHD	female	female	a29f:a9f	ADHD---Multisite chronic pain	1.5248574e-17
+a29f	ch1f	0.9979	0.0067	-0.275	0.0643	1.8941e-05	a29f:ch1f	Multisite chronic pain	Nonword reading	female	female	a29f:ch1f	Multisite chronic pain---Nonword reading	7.43493195020747e-05
+a29f	ch6f	1.0025	0.0064	-0.3819	0.0828	3.9989e-06	a29f:ch6f	Multisite chronic pain	Word reading	female	female	a29f:ch6f	Multisite chronic pain---Word reading	1.72737872146119e-05
+a29f	l1f	1.1114	0.036	-0.3121	0.0194	4.9992e-58	a29f:l1f	Multisite chronic pain	HDL	female	female	a29f:l1f	HDL---Multisite chronic pain	1.21262646153846e-56
+a29f	l2f	1.0742	0.03	0.1518	0.0246	6.9526e-10	a29f:l2f	Multisite chronic pain	LDL	female	female	a29f:l2f	LDL---Multisite chronic pain	3.98615733333333e-09
+a29f	l3f	1.1139	0.032	0.0983	0.0231	2.0369e-05	a29f:l3f	Multisite chronic pain	TC	female	female	a29f:l3f	Multisite chronic pain---TC	7.96242727272727e-05
+a29f	l4f	1.0849	0.0317	0.3331	0.0203	9.4852e-61	a29f:l4f	Multisite chronic pain	logTG	female	female	a29f:l4f	logTG---Multisite chronic pain	2.36131557894737e-59
+a29f	l5f	1.0899	0.0298	0.2065	0.0246	5.1251e-17	a29f:l5f	Multisite chronic pain	nonHDL	female	female	a29f:l5f	Multisite chronic pain---nonHDL	4.407586e-16
+a29f	r4f	0.9998	0.0062	0.5608	0.0425	1.0609e-39	a29f:r4f	Multisite chronic pain	PTSD	female	female	a29f:r4f	Multisite chronic pain---PTSD	1.85853962962963e-38
+a29f	r5f	1.0577	0.0097	0.0848	0.0351	0.0157	a29f:r5f	Multisite chronic pain	Schizophrenia	female	female	a29f:r5f	Multisite chronic pain---Schizophrenia	0.0401410810810811
+a29f	r8f	0.9988	0.0073	0.1618	0.0376	1.6625e-05	a29f:r8f	Multisite chronic pain	Risk-taking behaviour	female	female	a29f:r8f	Multisite chronic pain---Risk-taking behaviour	6.60808823529412e-05
+a30f	a8f	1.0479	0.0125	-0.2831	0.0284	2.268e-23	a30f:a8f	Educational attainment	Type 2 diabetes	female	female	a30f:a8f	Educational attainment---Type 2 diabetes	2.6488e-22
+a30f	a9f	1.0573	0.0087	-0.592	0.0763	8.7012e-15	a30f:a9f	Educational attainment	ADHD	female	female	a30f:a9f	ADHD---Educational attainment	6.38088e-14
+a30f	ch1f	0.9987	0.0067	0.5051	0.0711	1.1752e-12	a30f:ch1f	Educational attainment	Nonword reading	female	female	a30f:ch1f	Educational attainment---Nonword reading	7.82914929577465e-12
+a30f	ch6f	1.0029	0.0064	0.6766	0.0987	7.2849e-12	a30f:ch6f	Educational attainment	Word reading	female	female	a30f:ch6f	Educational attainment---Word reading	4.62517812080537e-11
+a30f	l1f	1.1137	0.0359	0.2927	0.0194	1.1709e-51	a30f:l1f	Educational attainment	HDL	female	female	a30f:l1f	Educational attainment---HDL	2.70163756097561e-50
+a30f	l2f	1.079	0.0308	-0.1516	0.02	3.1647e-14	a30f:l2f	Educational attainment	LDL	female	female	a30f:l2f	Educational attainment---LDL	2.28534824427481e-13
+a30f	l3f	1.1175	0.0326	-0.1053	0.019	2.7609e-08	a30f:l3f	Educational attainment	TC	female	female	a30f:l3f	Educational attainment---TC	1.42721934426229e-07
+a30f	l4f	1.0911	0.0327	-0.3438	0.0229	5.2149e-51	a30f:l4f	Educational attainment	logTG	female	female	a30f:l4f	Educational attainment---logTG	1.17459414285714e-49
+a30f	l5f	1.0946	0.0307	-0.2178	0.0209	2.2456e-25	a30f:l5f	Educational attainment	nonHDL	female	female	a30f:l5f	Educational attainment---nonHDL	2.83245013333333e-24
+a30f	r4f	0.9988	0.0063	-0.1448	0.0434	8e-04	a30f:r4f	Educational attainment	PTSD	female	female	a30f:r4f	Educational attainment---PTSD	0.00258293515358362
+a30f	r5f	1.0575	0.0098	0.0985	0.0312	0.0016	a30f:r5f	Educational attainment	Schizophrenia	female	female	a30f:r5f	Educational attainment---Schizophrenia	0.0049953795379538
+a30f	r8f	0.9976	0.0074	0.187	0.0335	2.4349e-08	a30f:r8f	Educational attainment	Risk-taking behaviour	female	female	a30f:r8f	Educational attainment---Risk-taking behaviour	1.26561285714286e-07
+a7f	l4f	1.0942	0.0333	-0.1275	0.0437	0.0035	a7f:l4f	Parkinson's disease	logTG	female	female	a7f:l4f	logTG---Parkinson's disease	0.010250773993808
+a7f	l5f	1.1021	0.0316	-0.1209	0.0397	0.0023	a7f:l5f	Parkinson's disease	nonHDL	female	female	a7f:l5f	nonHDL---Parkinson's disease	0.00704142394822006
+a8f	a9f	1.0584	0.0087	0.2086	0.0633	0.001	a8f:a9f	Type 2 diabetes	ADHD	female	female	a8f:a9f	ADHD---Type 2 diabetes	0.0031744966442953
+a8f	ch1f	0.9982	0.0067	-0.2027	0.0679	0.0029	a8f:ch1f	Type 2 diabetes	Nonword reading	female	female	a8f:ch1f	Nonword reading---Type 2 diabetes	0.00868164556962025
+a8f	ch6f	1.0029	0.0064	-0.2285	0.0776	0.0032	a8f:ch6f	Type 2 diabetes	Word reading	female	female	a8f:ch6f	Type 2 diabetes---Word reading	0.00943052959501558
+a8f	l1f	1.1104	0.0346	-0.5507	0.0229	6.575e-128	a8f:l1f	Type 2 diabetes	HDL	female	female	a8f:l1f	HDL---Type 2 diabetes	2.96188095238095e-126
+a8f	l2f	1.0736	0.0303	0.1879	0.0262	7.916e-13	a8f:l2f	Type 2 diabetes	LDL	female	female	a8f:l2f	LDL---Type 2 diabetes	5.38743597122302e-12
+a8f	l3f	1.1127	0.0316	0.0941	0.0258	3e-04	a8f:l3f	Type 2 diabetes	TC	female	female	a8f:l3f	TC---Type 2 diabetes	0.00105501858736059
+a8f	l4f	1.0841	0.0314	0.6097	0.0272	6.5445e-111	a8f:l4f	Type 2 diabetes	logTG	female	female	a8f:l4f	logTG---Type 2 diabetes	2.69178130434783e-109
+a8f	l5f	1.09	0.0302	0.309	0.0276	3.4492e-29	a8f:l5f	Type 2 diabetes	nonHDL	female	female	a8f:l5f	nonHDL---Type 2 diabetes	4.66134742857143e-28
+a8f	r4f	0.9991	0.0061	0.1792	0.0414	1.4682e-05	a8f:r4f	Type 2 diabetes	PTSD	female	female	a8f:r4f	PTSD---Type 2 diabetes	5.93554358974359e-05
+a8f	r5f	1.0585	0.0097	-0.1475	0.033	7.6634e-06	a8f:r5f	Type 2 diabetes	Schizophrenia	female	female	a8f:r5f	Schizophrenia---Type 2 diabetes	3.20777716814159e-05
+a9f	l1f	1.1348	0.0413	-0.2435	0.0578	2.5378e-05	a9f:l1f	ADHD	HDL	female	female	a9f:l1f	ADHD---HDL	9.83917540983607e-05
+a9f	l2f	1.1014	0.0399	0.1393	0.0572	0.0148	a9f:l2f	ADHD	LDL	female	female	a9f:l2f	ADHD---LDL	0.0384637362637363
+a9f	l4f	1.1112	0.0383	0.2926	0.0618	2.2079e-06	a9f:l4f	ADHD	logTG	female	female	a9f:l4f	ADHD---logTG	1.00416990384615e-05
+a9f	l5f	1.1196	0.0394	0.1884	0.0575	0.0011	a9f:l5f	ADHD	nonHDL	female	female	a9f:l5f	ADHD---nonHDL	0.00345714285714286
+a9f	r4f	1	0.0076	0.5512	0.1003	3.937e-08	a9f:r4f	ADHD	PTSD	female	female	a9f:r4f	ADHD---PTSD	1.98106489361702e-07
+a9f	r8f	0.9973	0.0083	0.4531	0.0896	4.3294e-07	a9f:r8f	ADHD	Risk-taking behaviour	female	female	a9f:r8f	ADHD---Risk-taking behaviour	2.0478062e-06
+bm2f	bm6f	1.0084	0.0086	-0.2522	0.0916	0.0059	bm2f:bm6f	Left 5m area	Left Putamen	female	female	bm2f:bm6f	Left 5m area---Left Putamen	0.0163677419354839
+bm2f	bm7f	1.0081	0.0082	-0.2363	0.084	0.0049	bm2f:bm7f	Left 5m area	Right Putamen	female	female	bm2f:bm7f	Left 5m area---Right Putamen	0.0138784431137725
+bm2f	bm8f	1.0018	0.0067	-0.3275	0.1004	0.0011	bm2f:bm8f	Left 5m area	CC Central	female	female	bm2f:bm8f	CC Central---Left 5m area	0.00345714285714286
+bm5f	bm6f	1.0084	0.0086	0.2197	0.0722	0.0023	bm5f:bm6f	Left Caudate	Left Putamen	female	female	bm5f:bm6f	Left Caudate---Left Putamen	0.00704142394822006
+bm5f	bm7f	1.0081	0.0082	0.2431	0.0704	6e-04	bm5f:bm7f	Left Caudate	Right Putamen	female	female	bm5f:bm7f	Left Caudate---Right Putamen	0.00199157894736842
+bm5f	bm8f	1.0018	0.0067	-0.1967	0.0813	0.0156	bm5f:bm8f	Left Caudate	CC Central	female	female	bm5f:bm8f	CC Central---Left Caudate	0.0401021739130435
+bm6f	bm7f	1.0081	0.0082	0.9901	0.0109	0	bm6f:bm7f	Left Putamen	Right Putamen	female	female	bm6f:bm7f	Left Putamen---Right Putamen	0
+bm6f	r4f	1.0008	0.0062	0.1891	0.0776	0.0148	bm6f:r4f	Left Putamen	PTSD	female	female	bm6f:r4f	Left Putamen---PTSD	0.0384637362637363
+ch1f	ch6f	1.0038	0.0066	1.2026	0.1395	6.6631e-18	ch1f:ch6f	Nonword reading	Word reading	female	female	ch1f:ch6f	Nonword reading---Word reading	6.00313580952381e-17
+ch1f	l1f	1.1185	0.0387	0.2439	0.0495	8.4451e-07	ch1f:l1f	Nonword reading	HDL	female	female	ch1f:l1f	HDL---Nonword reading	3.9162081372549e-06
+ch1f	l4f	1.0934	0.0345	-0.19	0.0543	5e-04	ch1f:l4f	Nonword reading	logTG	female	female	ch1f:l4f	logTG---Nonword reading	0.00170758122743682
+ch6f	l1f	1.1225	0.0401	0.2762	0.0584	2.2868e-06	ch6f:l1f	Word reading	HDL	female	female	ch6f:l1f	HDL---Word reading	1.03507789473684e-05
+ch6f	l2f	1.0844	0.0341	-0.181	0.0683	0.008	ch6f:l2f	Word reading	LDL	female	female	ch6f:l2f	LDL---Word reading	0.022
+ch6f	l4f	1.0996	0.0356	-0.2207	0.0646	6e-04	ch6f:l4f	Word reading	logTG	female	female	ch6f:l4f	logTG---Word reading	0.00199157894736842
+ch6f	l5f	1.1011	0.0341	-0.2055	0.0698	0.0032	ch6f:l5f	Word reading	nonHDL	female	female	ch6f:l5f	nonHDL---Word reading	0.00943052959501558
+ch6f	r4f	1.0001	0.0067	-0.2491	0.1056	0.0184	ch6f:r4f	Word reading	PTSD	female	female	ch6f:r4f	PTSD---Word reading	0.0456860892388451
+l1f	l2f	1.0665	0.0286	-0.1122	0.0238	2.5239e-06	l1f:l2f	HDL	LDL	female	female	l1f:l2f	HDL---LDL	1.13156843601896e-05
+l1f	l3f	1.106	0.03	0.1579	0.024	4.5118e-11	l1f:l3f	HDL	TC	female	female	l1f:l3f	HDL---TC	2.71857503184713e-10
+l1f	l4f	1.0788	0.0298	-0.6924	0.0191	2.2407e-288	l1f:l4f	HDL	logTG	female	female	l1f:l4f	HDL---logTG	1.514073e-286
+l1f	l5f	1.0844	0.0286	-0.2742	0.0247	1.439e-28	l1f:l5f	HDL	nonHDL	female	female	l1f:l5f	HDL---nonHDL	1.89068611111111e-27
+l1f	r4f	0.9988	0.0064	-0.1441	0.0318	5.9627e-06	l1f:r4f	HDL	PTSD	female	female	l1f:r4f	HDL---PTSD	2.52946825112108e-05
+l1f	r5f	1.0597	0.01	0.075	0.0242	0.0019	l1f:r5f	HDL	Schizophrenia	female	female	l1f:r5f	HDL---Schizophrenia	0.00587385620915033
+l1f	r9f	1.0087	0.0063	-0.1186	0.0423	0.0051	l1f:r9f	HDL	Carotid intima-media thickness	female	female	l1f:r9f	Carotid intima-media thickness---HDL	0.0144017910447761
+l2f	l3f	1.1077	0.0285	0.9271	0.0065	0	l2f:l3f	LDL	TC	female	female	l2f:l3f	LDL---TC	0
+l2f	l4f	1.0814	0.0296	0.362	0.0242	1.5558e-50	l2f:l4f	LDL	logTG	female	female	l2f:l4f	LDL---logTG	3.42276e-49
+l2f	l5f	1.0872	0.0272	0.9604	0.0036	0	l2f:l5f	LDL	nonHDL	female	female	l2f:l5f	LDL---nonHDL	0
+l3f	l4f	1.0816	0.0296	0.28	0.0209	8.1537e-41	l3f:l4f	TC	logTG	female	female	l3f:l4f	logTG---TC	1.54268004e-39
+l3f	l5f	1.0953	0.0288	0.8761	0.008	0	l3f:l5f	TC	nonHDL	female	female	l3f:l5f	nonHDL---TC	0
+l4f	l5f	1.0887	0.0295	0.5755	0.0199	2.1669e-184	l4f:l5f	logTG	nonHDL	female	female	l4f:l5f	logTG---nonHDL	1.13882633333333e-182
+l4f	r4f	0.9989	0.0062	0.1809	0.034	1.009e-07	l4f:r4f	logTG	PTSD	female	female	l4f:r4f	logTG---PTSD	4.94566839378238e-07
+l5f	r4f	0.9989	0.0061	0.1172	0.0346	7e-04	l5f:r4f	nonHDL	PTSD	female	female	l5f:r4f	nonHDL---PTSD	0.00228344827586207
+r4f	r5f	1.0586	0.0097	0.4434	0.0525	3.1279e-17	r4f:r5f	PTSD	Schizophrenia	female	female	r4f:r5f	PTSD---Schizophrenia	2.7398087037037e-16
+r4f	r8f	0.9984	0.0074	0.2936	0.0545	7.3114e-08	r4f:r8f	PTSD	Risk-taking behaviour	female	female	r4f:r8f	PTSD---Risk-taking behaviour	3.64030757894737e-07
+r5f	r8f	0.9968	0.0078	0.355	0.0389	7.0276e-20	r5f:r8f	Schizophrenia	Risk-taking behaviour	female	female	r5f:r8f	Risk-taking behaviour---Schizophrenia	6.99801010526316e-19
+100m	126m	0.8379	0.0098	0.498	0.1005	7.2469e-07	100m:126m	Pubertal growth	Height	male	male	100m:126m	Height---Pubertal growth	4.10513017964072e-06
+100m	144m	0.7966	0.008	-0.2811	0.0802	5e-04	100m:144m	Pubertal growth	Body Mass Index	male	male	100m:144m	Body Mass Index---Pubertal growth	0.00205652173913043
+100m	163m	0.8675	0.0095	0.4371	0.1063	3.9013e-05	100m:163m	Pubertal growth	Hip circumference (adjBMI)	male	male	100m:163m	Hip circumference (adjBMI)---Pubertal growth	0.00018523153
+100m	175m	0.8729	0.0081	0.3177	0.0956	9e-04	100m:175m	Pubertal growth	Waist circumference (adjBMI)	male	male	100m:175m	Pubertal growth---Waist circumference (adjBMI)	0.0035475
+100m	181m	0.8903	0.0075	-0.2985	0.1045	0.0043	100m:181m	Pubertal growth	Waist-hip ratio	male	male	100m:181m	Pubertal growth---Waist-hip ratio	0.014373851590106
+100m	a21m	1.0207	0.0074	-0.4261	0.1434	0.003	100m:a21m	Pubertal growth	Grip strength measurement/ Muscle weakness	male	male	100m:a21m	Grip strength measurement/ Muscle weakness---Pubertal growth	0.010589552238806
+100m	a8m	1.0425	0.0157	-0.2446	0.0831	0.0032	100m:a8m	Pubertal growth	Type 2 diabetes	male	male	100m:a8m	Pubertal growth---Type 2 diabetes	0.011170479704797
+126m	136m	0.864	0.0074	0.584	0.0289	1.1098e-90	126m:136m	Height	Weight	male	male	126m:136m	Height---Weight	5.249354e-89
+126m	144m	0.7957	0.0078	-0.073	0.0306	0.017	126m:144m	Height	Body Mass Index	male	male	126m:144m	Body Mass Index---Height	0.0480059701492537
+126m	157m	0.8737	0.0087	0.4591	0.0375	1.5513e-34	126m:157m	Height	Hip circumference	male	male	126m:157m	Height---Hip circumference	3.57934097560976e-33
+126m	163m	0.8672	0.0095	0.8468	0.0251	3.1767e-249	126m:163m	Height	Hip circumference (adjBMI)	male	male	126m:163m	Height---Hip circumference (adjBMI)	2.31166015384615e-247
+126m	169m	0.8607	0.0078	0.2499	0.0365	7.27e-12	126m:169m	Height	Waist circumference	male	male	126m:169m	Height---Waist circumference	6.67710679611650e-11
+126m	175m	0.8741	0.0081	0.652	0.0274	1.0035e-124	126m:175m	Height	Waist circumference (adjBMI)	male	male	126m:175m	Height---Waist circumference (adjBMI)	5.93319375e-123
+126m	181m	0.8903	0.0076	-0.1691	0.0433	9.3537e-05	126m:181m	Height	Waist-hip ratio	male	male	126m:181m	Height---Waist-hip ratio	0.000417386801886792
+126m	187m	0.9035	0.0076	-0.1432	0.0497	0.0039	126m:187m	Height	Waist-hip ratio (adjBMI)	male	male	126m:187m	Height---Waist-hip ratio (adjBMI)	0.0132236559139785
+126m	49m	0.9436	0.0074	0.1967	0.044	7.8326e-06	126m:49m	Height	Age at first birth	male	male	126m:49m	Age at first birth---Height	3.94129765957447e-05
+126m	97m	0.9788	0.0077	0.8434	0.0868	2.5535e-22	126m:97m	Height	Height SDS	male	male	126m:97m	Height---Height SDS	3.96001803278689e-21
+126m	a13m	0.9993	0.0126	-0.1529	0.0338	6.167e-06	126m:a13m	Height	Cardiovascular disease	male	male	126m:a13m	Cardiovascular disease---Height	3.18149054347826e-05
+126m	a21m	1.0198	0.0073	-0.3928	0.0626	3.6143e-10	126m:a21m	Height	Grip strength measurement/ Muscle weakness	male	male	126m:a21m	Grip strength measurement/ Muscle weakness---Height	2.84927316666667e-09
+126m	a22m	1.0137	0.0082	-0.1094	0.0376	0.0036	126m:a22m	Height	Snoring	male	male	126m:a22m	Height---Snoring	0.0122945848375451
+126m	a30m	0.9539	0.0084	0.1024	0.0301	7e-04	126m:a30m	Height	Educational attainment	male	male	126m:a30m	Educational attainment---Height	0.00281787234042553
+126m	ch1m	0.9972	0.0074	0.1814	0.0721	0.0119	126m:ch1m	Height	Nonword reading	male	male	126m:ch1m	Height---Nonword reading	0.0352896551724138
+126m	l2m	1.0532	0.0293	-0.1369	0.0276	7.054e-07	126m:l2m	Height	LDL	male	male	126m:l2m	Height---LDL	4.01993012048193e-06
+126m	l3m	1.091	0.0314	-0.1576	0.0267	3.4256e-09	126m:l3m	Height	TC	male	male	126m:l3m	Height---TC	2.40045748148148e-08
+126m	l5m	1.0627	0.0233	-0.1516	0.0289	1.5297e-07	126m:l5m	Height	nonHDL	male	male	126m:l5m	Height---nonHDL	9.15883670886076e-07
+136m	144m	0.7943	0.0077	0.7813	0.0186	0	136m:144m	Weight	Body Mass Index	male	male	136m:144m	Body Mass Index---Weight	0
+136m	157m	0.8731	0.0087	0.9321	0.0229	0	136m:157m	Weight	Hip circumference	male	male	136m:157m	Hip circumference---Weight	0
+136m	163m	0.8667	0.0096	0.5127	0.0412	1.5703e-35	136m:163m	Weight	Hip circumference (adjBMI)	male	male	136m:163m	Hip circumference (adjBMI)---Weight	3.90922052631579e-34
+136m	169m	0.8603	0.0078	0.8872	0.0221	0	136m:169m	Weight	Waist circumference	male	male	136m:169m	Waist circumference---Weight	0
+136m	175m	0.8736	0.0081	0.3461	0.0402	7.359e-18	136m:175m	Weight	Waist circumference (adjBMI)	male	male	136m:175m	Waist circumference (adjBMI)---Weight	9.16001842105263e-17
+136m	181m	0.8903	0.0076	0.407	0.0501	4.6467e-16	136m:181m	Weight	Waist-hip ratio	male	male	136m:181m	Waist-hip ratio---Weight	5.49472275e-15
+136m	187m	0.9031	0.0076	-0.1619	0.0542	0.0028	136m:187m	Weight	Waist-hip ratio (adjBMI)	male	male	136m:187m	Waist-hip ratio (adjBMI)---Weight	0.00999547169811321
+136m	49m	0.9446	0.0075	-0.1241	0.0407	0.0023	136m:49m	Weight	Age at first birth	male	male	136m:49m	Age at first birth---Weight	0.00853254901960784
+136m	97m	0.9779	0.0076	0.7631	0.0868	1.5166e-18	136m:97m	Weight	Height SDS	male	male	136m:97m	Height SDS---Weight	1.96534739726027e-17
+136m	a21m	1.0195	0.0076	-0.2306	0.0602	1e-04	136m:a21m	Weight	Grip strength measurement/ Muscle weakness	male	male	136m:a21m	Grip strength measurement/ Muscle weakness---Weight	0.00043394495412844
+136m	a22m	1.0135	0.0082	0.1709	0.0378	5.9812e-06	136m:a22m	Weight	Snoring	male	male	136m:a22m	Snoring---Weight	3.12608574585635e-05
+136m	a27m	1.0231	0.031	0.1619	0.0574	0.0048	136m:a27m	Weight	Fasting glucose	male	male	136m:a27m	Fasting glucose---Weight	0.0159326315789474
+136m	a28m	0.9762	0.021	0.4404	0.0831	1.1507e-07	136m:a28m	Weight	Fasting insulin	male	male	136m:a28m	Fasting insulin---Weight	7.20902119205298e-07
+136m	a29m	1.0182	0.0093	0.2095	0.0398	1.4646e-07	136m:a29m	Weight	Multisite chronic pain	male	male	136m:a29m	Multisite chronic pain---Weight	8.82491464968153e-07
+136m	a30m	0.9541	0.0085	-0.1056	0.0361	0.0034	136m:a30m	Weight	Educational attainment	male	male	136m:a30m	Educational attainment---Weight	0.0117386861313869
+136m	a8m	1.0373	0.0155	0.3839	0.0355	3.5108e-27	136m:a8m	Weight	Type 2 diabetes	male	male	136m:a8m	Type 2 diabetes---Weight	6.6424336e-26
+136m	a9m	1.0072	0.0086	0.1259	0.0488	0.0099	136m:a9m	Weight	ADHD	male	male	136m:a9m	ADHD---Weight	0.0303087378640777
+136m	l1m	1.0728	0.0339	-0.3895	0.0283	5.7761e-43	136m:l1m	Weight	HDL	male	male	136m:l1m	HDL---Weight	1.65581533333333e-41
+136m	l2m	1.0549	0.029	-0.1565	0.0312	5.2244e-07	136m:l2m	Weight	LDL	male	male	136m:l2m	LDL---Weight	3.03207509202454e-06
+136m	l3m	1.0927	0.0311	-0.201	0.0314	1.4478e-10	136m:l3m	Weight	TC	male	male	136m:l3m	TC---Weight	1.22287392857143e-09
+136m	l4m	1.0466	0.0324	0.2038	0.0337	1.538e-09	136m:l4m	Weight	logTG	male	male	136m:l4m	logTG---Weight	1.11919076923077e-08
+136m	r9m	0.9965	0.0066	0.19	0.0783	0.0152	136m:r9m	Weight	Carotid intima-media thickness	male	male	136m:r9m	Carotid intima-media thickness---Weight	0.0435733333333333
+144m	157m	0.8766	0.0082	0.7943	0.0204	0	144m:157m	Body Mass Index	Hip circumference	male	male	144m:157m	Body Mass Index---Hip circumference	0
+144m	169m	0.8632	0.0075	0.9146	0.0138	0	144m:169m	Body Mass Index	Waist circumference	male	male	144m:169m	Body Mass Index---Waist circumference	0
+144m	181m	0.8922	0.0074	0.6636	0.028	2.1696e-124	144m:181m	Body Mass Index	Waist-hip ratio	male	male	144m:181m	Body Mass Index---Waist-hip ratio	1.20731858823529e-122
+144m	49m	0.9438	0.0068	-0.3037	0.0407	8.3699e-14	144m:49m	Body Mass Index	Age at first birth	male	male	144m:49m	Age at first birth---Body Mass Index	8.70101692307692e-13
+144m	52m	0.9743	0.0065	0.1518	0.053	0.0042	144m:52m	Body Mass Index	Number of children ever born	male	male	144m:52m	Body Mass Index---Number of children ever born	0.0140893617021277
+144m	97m	0.9763	0.0078	0.2276	0.0643	4e-04	144m:97m	Body Mass Index	Height SDS	male	male	144m:97m	Body Mass Index---Height SDS	0.00166696035242291
+144m	a13m	1.0018	0.0117	0.2086	0.0388	7.7048e-08	144m:a13m	Body Mass Index	Cardiovascular disease	male	male	144m:a13m	Body Mass Index---Cardiovascular disease	4.85916053333333e-07
+144m	a22m	1.0181	0.0076	0.3222	0.0339	1.8278e-21	144m:a22m	Body Mass Index	Snoring	male	male	144m:a22m	Body Mass Index---Snoring	2.660152e-20
+144m	a28m	1.0128	0.0242	0.3939	0.0942	2.8826e-05	144m:a28m	Body Mass Index	Fasting insulin	male	male	144m:a28m	Body Mass Index---Fasting insulin	0.000139129571428571
+144m	a29m	1.0206	0.0092	0.2984	0.0318	5.6743e-21	144m:a29m	Body Mass Index	Multisite chronic pain	male	male	144m:a29m	Body Mass Index---Multisite chronic pain	8.0117728358209e-20
+144m	a30m	0.9522	0.0088	-0.2556	0.0282	1.2485e-19	144m:a30m	Body Mass Index	Educational attainment	male	male	144m:a30m	Body Mass Index---Educational attainment	1.68725857142857e-18
+144m	a8m	1.04	0.0157	0.4581	0.0319	1.2456e-46	144m:a8m	Body Mass Index	Type 2 diabetes	male	male	144m:a8m	Body Mass Index---Type 2 diabetes	3.80108903225807e-45
+144m	a9m	1.008	0.0087	0.239	0.0415	8.5883e-09	144m:a9m	Body Mass Index	ADHD	male	male	144m:a9m	ADHD---Body Mass Index	5.76207929078014e-08
+144m	bm5m	1.0064	0.0073	0.1328	0.0456	0.0036	144m:bm5m	Body Mass Index	Left Caudate	male	male	144m:bm5m	Body Mass Index---Left Caudate	0.0122945848375451
+144m	bm6m	0.9977	0.0085	0.1145	0.0461	0.013	144m:bm6m	Body Mass Index	Left Putamen	male	male	144m:bm6m	Body Mass Index---Left Putamen	0.0381925465838509
+144m	bm7m	1.0049	0.0081	0.1271	0.0498	0.0108	144m:bm7m	Body Mass Index	Right Putamen	male	male	144m:bm7m	Body Mass Index---Right Putamen	0.0324342857142857
+144m	ch1m	0.9992	0.0073	-0.1884	0.0727	0.0095	144m:ch1m	Body Mass Index	Nonword reading	male	male	144m:ch1m	Body Mass Index---Nonword reading	0.0292736156351792
+144m	ch6m	0.9882	0.0066	-0.1685	0.064	0.0085	144m:ch6m	Body Mass Index	Word reading	male	male	144m:ch6m	Body Mass Index---Word reading	0.0265379537953795
+144m	l1m	1.0854	0.0362	-0.4164	0.0242	3.4965e-66	144m:l1m	Body Mass Index	HDL	male	male	144m:l1m	Body Mass Index---HDL	1.27218807692308e-64
+144m	l2m	1.0571	0.0291	-0.0743	0.0246	0.0026	144m:l2m	Body Mass Index	LDL	male	male	144m:l2m	Body Mass Index---LDL	0.00935209125475285
+144m	l3m	1.0982	0.0332	-0.0972	0.0239	4.6315e-05	144m:l3m	Body Mass Index	TC	male	male	144m:l3m	Body Mass Index---TC	0.000216900940594059
+144m	l4m	1.0602	0.0325	0.3098	0.0293	4.0673e-26	144m:l4m	Body Mass Index	logTG	male	male	144m:l4m	Body Mass Index---logTG	7.25974679245283e-25
+144m	r4m	1.0162	0.0071	0.1412	0.0581	0.0151	144m:r4m	Body Mass Index	PTSD	male	male	144m:r4m	Body Mass Index---PTSD	0.0435506097560976
+144m	r5m	1.0046	0.0116	-0.0829	0.0276	0.0026	144m:r5m	Body Mass Index	Schizophrenia	male	male	144m:r5m	Body Mass Index---Schizophrenia	0.00935209125475285
+144m	r8m	1.0038	0.0078	0.1353	0.0389	5e-04	144m:r8m	Body Mass Index	Risk-taking behaviour	male	male	144m:r8m	Body Mass Index---Risk-taking behaviour	0.00205652173913043
+144m	r9m	0.9962	0.0064	0.1557	0.0561	0.0055	144m:r9m	Body Mass Index	Carotid intima-media thickness	male	male	144m:r9m	Body Mass Index---Carotid intima-media thickness	0.0177576791808874
+151m	152m	0.9645	0.0076	0.7853	0.102	1.3833e-14	151m:152m	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio (<= 50 yrs, adjBMI)	male	male	151m:152m	Waist-hip ratio (<= 50 yrs, adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	1.52163e-13
+151m	157m	0.8743	0.0084	-0.2249	0.059	1e-04	151m:157m	Waist-hip ratio (> 50 yrs, adjBMI)	Hip circumference	male	male	151m:157m	Hip circumference---Waist-hip ratio (> 50 yrs, adjBMI)	0.00043394495412844
+151m	163m	0.8679	0.0095	-0.329	0.0524	3.3147e-10	151m:163m	Waist-hip ratio (> 50 yrs, adjBMI)	Hip circumference (adjBMI)	male	male	151m:163m	Hip circumference (adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	2.63504722689076e-09
+151m	169m	0.8612	0.0077	0.2544	0.0564	6.5709e-06	151m:169m	Waist-hip ratio (> 50 yrs, adjBMI)	Waist circumference	male	male	151m:169m	Waist circumference---Waist-hip ratio (> 50 yrs, adjBMI)	3.36003859459459e-05
+151m	175m	0.8733	0.0079	0.5401	0.0436	2.6266e-35	151m:175m	Waist-hip ratio (> 50 yrs, adjBMI)	Waist circumference (adjBMI)	male	male	151m:175m	Waist circumference (adjBMI)---Waist-hip ratio (> 50 yrs, adjBMI)	6.37118871794872e-34
+151m	181m	0.8905	0.0075	0.8024	0.041	2.8587e-85	151m:181m	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio	male	male	151m:181m	Waist-hip ratio---Waist-hip ratio (> 50 yrs, adjBMI)	1.229241e-83
+151m	187m	0.9041	0.0076	1.0308	0.028	3.5372e-297	151m:187m	Waist-hip ratio (> 50 yrs, adjBMI)	Waist-hip ratio (adjBMI)	male	male	151m:187m	Waist-hip ratio (> 50 yrs, adjBMI)---Waist-hip ratio (adjBMI)	2.78849266666667e-295
+151m	a13m	1.0045	0.0128	0.2417	0.0599	5.5231e-05	151m:a13m	Waist-hip ratio (> 50 yrs, adjBMI)	Cardiovascular disease	male	male	151m:a13m	Cardiovascular disease---Waist-hip ratio (> 50 yrs, adjBMI)	0.000256120225490196
+151m	a21m	1.0178	0.0076	0.2158	0.0898	0.0162	151m:a21m	Waist-hip ratio (> 50 yrs, adjBMI)	Grip strength measurement/ Muscle weakness	male	male	151m:a21m	Grip strength measurement/ Muscle weakness---Waist-hip ratio (> 50 yrs, adjBMI)	0.0458838323353293
+151m	a29m	1.0209	0.0097	0.1694	0.0555	0.0023	151m:a29m	Waist-hip ratio (> 50 yrs, adjBMI)	Multisite chronic pain	male	male	151m:a29m	Multisite chronic pain---Waist-hip ratio (> 50 yrs, adjBMI)	0.00853254901960784
+151m	a30m	0.9553	0.0089	-0.2735	0.0443	6.3861e-10	151m:a30m	Waist-hip ratio (> 50 yrs, adjBMI)	Educational attainment	male	male	151m:a30m	Educational attainment---Waist-hip ratio (> 50 yrs, adjBMI)	4.87197629032258e-09
+151m	a8m	1.0422	0.0171	0.2915	0.057	3.1378e-07	151m:a8m	Waist-hip ratio (> 50 yrs, adjBMI)	Type 2 diabetes	male	male	151m:a8m	Type 2 diabetes---Waist-hip ratio (> 50 yrs, adjBMI)	1.86689232704403e-06
+151m	a9m	1.0075	0.0091	0.2416	0.076	0.0015	151m:a9m	Waist-hip ratio (> 50 yrs, adjBMI)	ADHD	male	male	151m:a9m	ADHD---Waist-hip ratio (> 50 yrs, adjBMI)	0.00579183673469388
+151m	ch6m	0.9866	0.0071	-0.3631	0.1193	0.0023	151m:ch6m	Waist-hip ratio (> 50 yrs, adjBMI)	Word reading	male	male	151m:ch6m	Waist-hip ratio (> 50 yrs, adjBMI)---Word reading	0.00853254901960784
+151m	l1m	1.0891	0.0391	-0.2251	0.0427	1.3411e-07	151m:l1m	Waist-hip ratio (> 50 yrs, adjBMI)	HDL	male	male	151m:l1m	HDL---Waist-hip ratio (> 50 yrs, adjBMI)	8.23818571428571e-07
+151m	l4m	1.0698	0.0377	0.3044	0.0452	1.6728e-11	151m:l4m	Waist-hip ratio (> 50 yrs, adjBMI)	logTG	male	male	151m:l4m	logTG---Waist-hip ratio (> 50 yrs, adjBMI)	1.49289509433962e-10
+151m	l5m	1.0693	0.0272	0.1353	0.0496	0.0063	151m:l5m	Waist-hip ratio (> 50 yrs, adjBMI)	nonHDL	male	male	151m:l5m	nonHDL---Waist-hip ratio (> 50 yrs, adjBMI)	0.0199993288590604
+151m	r4m	1.0137	0.0074	0.2229	0.0885	0.0117	151m:r4m	Waist-hip ratio (> 50 yrs, adjBMI)	PTSD	male	male	151m:r4m	PTSD---Waist-hip ratio (> 50 yrs, adjBMI)	0.0348056603773585
+151m	r5m	1.0043	0.0123	0.0965	0.039	0.0134	151m:r5m	Waist-hip ratio (> 50 yrs, adjBMI)	Schizophrenia	male	male	151m:r5m	Schizophrenia---Waist-hip ratio (> 50 yrs, adjBMI)	0.0391246913580247
+152m	157m	0.8743	0.0084	-0.243	0.0679	3e-04	152m:157m	Waist-hip ratio (<= 50 yrs, adjBMI)	Hip circumference	male	male	152m:157m	Hip circumference---Waist-hip ratio (<= 50 yrs, adjBMI)	0.00126696428571429
+152m	163m	0.8679	0.0095	-0.3373	0.0669	4.6418e-07	152m:163m	Waist-hip ratio (<= 50 yrs, adjBMI)	Hip circumference (adjBMI)	male	male	152m:163m	Hip circumference (adjBMI)---Waist-hip ratio (<= 50 yrs, adjBMI)	2.71058197530864e-06
+152m	169m	0.8612	0.0077	0.2293	0.0671	6e-04	152m:169m	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist circumference	male	male	152m:169m	Waist circumference---Waist-hip ratio (<= 50 yrs, adjBMI)	0.00243605150214592
+152m	175m	0.8733	0.0079	0.5818	0.0616	3.5558e-21	152m:175m	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist circumference (adjBMI)	male	male	152m:175m	Waist circumference (adjBMI)---Waist-hip ratio (<= 50 yrs, adjBMI)	5.09664666666667e-20
+152m	181m	0.8905	0.0075	0.7896	0.0574	4.0727e-43	152m:181m	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist-hip ratio	male	male	152m:181m	Waist-hip ratio---Waist-hip ratio (<= 50 yrs, adjBMI)	1.2039919375e-41
+152m	187m	0.9041	0.0076	1.011	0.0512	7.447e-87	152m:187m	Waist-hip ratio (<= 50 yrs, adjBMI)	Waist-hip ratio (adjBMI)	male	male	152m:187m	Waist-hip ratio (<= 50 yrs, adjBMI)---Waist-hip ratio (adjBMI)	3.35469619047619e-85
+152m	a13m	1.0045	0.0128	0.2627	0.0616	1.9968e-05	152m:a13m	Waist-hip ratio (<= 50 yrs, adjBMI)	Cardiovascular disease	male	male	152m:a13m	Cardiovascular disease---Waist-hip ratio (<= 50 yrs, adjBMI)	9.78742383419689e-05
+152m	a30m	0.9553	0.0089	-0.3261	0.0518	3.1673e-10	152m:a30m	Waist-hip ratio (<= 50 yrs, adjBMI)	Educational attainment	male	male	152m:a30m	Educational attainment---Waist-hip ratio (<= 50 yrs, adjBMI)	2.53920830508475e-09
+152m	a8m	1.0422	0.0171	0.2051	0.0675	0.0024	152m:a8m	Waist-hip ratio (<= 50 yrs, adjBMI)	Type 2 diabetes	male	male	152m:a8m	Type 2 diabetes---Waist-hip ratio (<= 50 yrs, adjBMI)	0.00876602316602317
+152m	l1m	1.0891	0.039	-0.2138	0.0452	2.279e-06	152m:l1m	Waist-hip ratio (<= 50 yrs, adjBMI)	HDL	male	male	152m:l1m	HDL---Waist-hip ratio (<= 50 yrs, adjBMI)	1.24620462427746e-05
+152m	l4m	1.0698	0.0376	0.289	0.0476	1.2434e-09	152m:l4m	Waist-hip ratio (<= 50 yrs, adjBMI)	logTG	male	male	152m:l4m	logTG---Waist-hip ratio (<= 50 yrs, adjBMI)	9.4100512e-09
+152m	l5m	1.0693	0.0272	0.1554	0.054	0.004	152m:l5m	Waist-hip ratio (<= 50 yrs, adjBMI)	nonHDL	male	male	152m:l5m	nonHDL---Waist-hip ratio (<= 50 yrs, adjBMI)	0.0134661921708185
+157m	163m	0.8684	0.0091	0.5998	0.0315	9.4203e-81	157m:163m	Hip circumference	Hip circumference (adjBMI)	male	male	157m:163m	Hip circumference---Hip circumference (adjBMI)	3.87461034782609e-79
+157m	169m	0.8629	0.0082	0.8654	0.0132	0	157m:169m	Hip circumference	Waist circumference	male	male	157m:169m	Hip circumference---Waist circumference	0
+157m	175m	0.8777	0.009	0.3289	0.0434	3.3071e-14	157m:175m	Hip circumference	Waist circumference (adjBMI)	male	male	157m:175m	Hip circumference---Waist circumference (adjBMI)	3.5551325e-13
+157m	181m	0.8924	0.0075	0.3185	0.0482	3.9941e-11	157m:181m	Hip circumference	Waist-hip ratio	male	male	157m:181m	Hip circumference---Waist-hip ratio	3.49853574074074e-10
+157m	187m	0.9044	0.0079	-0.2853	0.051	2.2765e-08	157m:187m	Hip circumference	Waist-hip ratio (adjBMI)	male	male	157m:187m	Hip circumference---Waist-hip ratio (adjBMI)	1.49553402777778e-07
+157m	49m	0.9433	0.0081	-0.174	0.0505	6e-04	157m:49m	Hip circumference	Age at first birth	male	male	157m:49m	Age at first birth---Hip circumference	0.00243605150214592
+157m	97m	0.9776	0.0086	0.6941	0.0905	1.687e-14	157m:97m	Hip circumference	Height SDS	male	male	157m:97m	Height SDS---Hip circumference	1.83437011494253e-13
+157m	a22m	1.0164	0.0089	0.1698	0.0446	1e-04	157m:a22m	Hip circumference	Snoring	male	male	157m:a22m	Hip circumference---Snoring	0.00043394495412844
+157m	a28m	1.013	0.0234	0.331	0.1089	0.0024	157m:a28m	Hip circumference	Fasting insulin	male	male	157m:a28m	Fasting insulin---Hip circumference	0.00876602316602317
+157m	a29m	1.0233	0.0098	0.179	0.0398	6.9296e-06	157m:a29m	Hip circumference	Multisite chronic pain	male	male	157m:a29m	Hip circumference---Multisite chronic pain	3.52440946236559e-05
+157m	a30m	0.9619	0.0106	-0.0915	0.0352	0.0092	157m:a30m	Hip circumference	Educational attainment	male	male	157m:a30m	Educational attainment---Hip circumference	0.0286289473684211
+157m	a8m	1.0489	0.0188	0.3311	0.0409	5.5076e-16	157m:a8m	Hip circumference	Type 2 diabetes	male	male	157m:a8m	Hip circumference---Type 2 diabetes	6.43233283950617e-15
+157m	l1m	1.1201	0.0449	-0.3382	0.0323	1.1204e-25	157m:l1m	Hip circumference	HDL	male	male	157m:l1m	HDL---Hip circumference	1.927088e-24
+157m	l2m	1.0661	0.0352	-0.1518	0.0356	2.0295e-05	157m:l2m	Hip circumference	LDL	male	male	157m:l2m	Hip circumference---LDL	9.89642783505155e-05
+157m	l3m	1.1209	0.0419	-0.2025	0.0347	5.3962e-09	157m:l3m	Hip circumference	TC	male	male	157m:l3m	Hip circumference---TC	3.69913420289855e-08
+157m	l4m	1.0918	0.0427	0.1636	0.0362	6.1881e-06	157m:l4m	Hip circumference	logTG	male	male	157m:l4m	Hip circumference---logTG	3.18149054347826e-05
+157m	r9m	0.9982	0.0073	0.2222	0.0793	0.0051	157m:r9m	Hip circumference	Carotid intima-media thickness	male	male	157m:r9m	Carotid intima-media thickness---Hip circumference	0.0166941176470588
+163m	169m	0.8617	0.0094	0.2658	0.0416	1.6622e-10	163m:169m	Hip circumference (adjBMI)	Waist circumference	male	male	163m:169m	Hip circumference (adjBMI)---Waist circumference	1.39154088495575e-09
+163m	175m	0.8763	0.0091	0.6185	0.03	2.1471e-94	163m:175m	Hip circumference (adjBMI)	Waist circumference (adjBMI)	male	male	163m:175m	Hip circumference (adjBMI)---Waist circumference (adjBMI)	1.06902978947368e-92
+163m	181m	0.8919	0.0078	-0.2906	0.0427	1.0152e-11	163m:181m	Hip circumference (adjBMI)	Waist-hip ratio	male	male	163m:181m	Hip circumference (adjBMI)---Waist-hip ratio	9.23441538461538e-11
+163m	187m	0.9049	0.0076	-0.3398	0.0449	3.6277e-14	163m:187m	Hip circumference (adjBMI)	Waist-hip ratio (adjBMI)	male	male	163m:187m	Hip circumference (adjBMI)---Waist-hip ratio (adjBMI)	3.8559597752809e-13
+163m	49m	0.9434	0.0088	0.2288	0.0519	1.0405e-05	163m:49m	Hip circumference (adjBMI)	Age at first birth	male	male	163m:49m	Age at first birth---Hip circumference (adjBMI)	5.1805947368421e-05
+163m	97m	0.9774	0.0089	0.6921	0.0818	2.6098e-17	163m:97m	Hip circumference (adjBMI)	Height SDS	male	male	163m:97m	Height SDS---Hip circumference (adjBMI)	3.20632571428571e-16
+163m	a13m	1.0094	0.0147	-0.2352	0.0398	3.2838e-09	163m:a13m	Hip circumference (adjBMI)	Cardiovascular disease	male	male	163m:a13m	Cardiovascular disease---Hip circumference (adjBMI)	2.3182647761194e-08
+163m	a21m	1.0165	0.0089	-0.3015	0.0666	6.0671e-06	163m:a21m	Hip circumference (adjBMI)	Grip strength measurement/ Muscle weakness	male	male	163m:a21m	Grip strength measurement/ Muscle weakness---Hip circumference (adjBMI)	3.15355857142857e-05
+163m	a30m	0.9635	0.0107	0.1933	0.0322	2.0249e-09	163m:a30m	Hip circumference (adjBMI)	Educational attainment	male	male	163m:a30m	Educational attainment---Hip circumference (adjBMI)	1.44026721804511e-08
+163m	a8m	1.0537	0.0188	-0.1149	0.037	0.0019	163m:a8m	Hip circumference (adjBMI)	Type 2 diabetes	male	male	163m:a8m	Hip circumference (adjBMI)---Type 2 diabetes	0.00721847389558233
+163m	ch6m	0.9856	0.0082	0.2675	0.0921	0.0037	163m:ch6m	Hip circumference (adjBMI)	Word reading	male	male	163m:ch6m	Hip circumference (adjBMI)---Word reading	0.0125906474820144
+163m	l2m	1.0686	0.0356	-0.1622	0.0307	1.3235e-07	163m:l2m	Hip circumference (adjBMI)	LDL	male	male	163m:l2m	Hip circumference (adjBMI)---LDL	8.1832091503268e-07
+163m	l3m	1.1239	0.0426	-0.1865	0.031	1.869e-09	163m:l3m	Hip circumference (adjBMI)	TC	male	male	163m:l3m	Hip circumference (adjBMI)---TC	1.33945e-08
+163m	l4m	1.0973	0.0455	-0.1474	0.0321	4.4314e-06	163m:l4m	Hip circumference (adjBMI)	logTG	male	male	163m:l4m	Hip circumference (adjBMI)---logTG	2.35511483146067e-05
+163m	l5m	1.0809	0.0325	-0.2178	0.0339	1.4143e-10	163m:l5m	Hip circumference (adjBMI)	nonHDL	male	male	163m:l5m	Hip circumference (adjBMI)---nonHDL	1.20534036036036e-09
+163m	r8m	1.0081	0.0087	-0.16	0.0388	3.7021e-05	163m:r8m	Hip circumference (adjBMI)	Risk-taking behaviour	male	male	163m:r8m	Hip circumference (adjBMI)---Risk-taking behaviour	0.000177775969543147
+169m	175m	0.8735	0.0079	0.4084	0.036	7.5154e-30	169m:175m	Waist circumference	Waist circumference (adjBMI)	male	male	169m:175m	Waist circumference---Waist circumference (adjBMI)	1.45093232653061e-28
+169m	181m	0.8918	0.0075	0.7383	0.0255	8.7761e-184	169m:181m	Waist circumference	Waist-hip ratio	male	male	169m:181m	Waist circumference---Waist-hip ratio	5.53479373333333e-182
+169m	187m	0.9042	0.0075	0.1583	0.0517	0.0022	169m:187m	Waist circumference	Waist-hip ratio (adjBMI)	male	male	169m:187m	Waist circumference---Waist-hip ratio (adjBMI)	0.00825873015873016
+169m	49m	0.9456	0.0077	-0.2997	0.0478	3.7582e-10	169m:49m	Waist circumference	Age at first birth	male	male	169m:49m	Age at first birth---Waist circumference	2.93822909090909e-09
+169m	52m	0.9758	0.0072	0.1706	0.0669	0.0108	169m:52m	Waist circumference	Number of children ever born	male	male	169m:52m	Number of children ever born---Waist circumference	0.0324342857142857
+169m	97m	0.9786	0.008	0.5717	0.0918	4.6519e-10	169m:97m	Waist circumference	Height SDS	male	male	169m:97m	Height SDS---Waist circumference	3.57780276422764e-09
+169m	a13m	1.0084	0.0141	0.23	0.0435	1.2655e-07	169m:a13m	Waist circumference	Cardiovascular disease	male	male	169m:a13m	Cardiovascular disease---Waist circumference	7.87607236842105e-07
+169m	a22m	1.0144	0.0087	0.235	0.0399	3.8139e-09	169m:a22m	Waist circumference	Snoring	male	male	169m:a22m	Snoring---Waist circumference	2.6335397080292e-08
+169m	a28m	1.0129	0.0234	0.4195	0.1248	8e-04	169m:a28m	Waist circumference	Fasting insulin	male	male	169m:a28m	Fasting insulin---Waist circumference	0.00320677966101695
+169m	a29m	1.0222	0.0094	0.2859	0.0384	9.6362e-14	169m:a29m	Waist circumference	Multisite chronic pain	male	male	169m:a29m	Multisite chronic pain---Waist circumference	9.80198408602151e-13
+169m	a30m	0.9581	0.0092	-0.2626	0.0333	3.0153e-15	169m:a30m	Waist circumference	Educational attainment	male	male	169m:a30m	Educational attainment---Waist circumference	3.39580214285714e-14
+169m	a8m	1.0435	0.0177	0.4995	0.0419	8.8031e-33	169m:a8m	Waist circumference	Type 2 diabetes	male	male	169m:a8m	Type 2 diabetes---Waist circumference	1.771858e-31
+169m	a9m	1.0061	0.009	0.2262	0.0472	1.6458e-06	169m:a9m	Waist circumference	ADHD	male	male	169m:a9m	ADHD---Waist circumference	9.1048350877193e-06
+169m	bm7m	1.0038	0.0077	0.1602	0.0634	0.0115	169m:bm7m	Waist circumference	Right Putamen	male	male	169m:bm7m	Right Putamen---Waist circumference	0.0343186119873817
+169m	l1m	1.0939	0.0394	-0.4869	0.0303	5.6833e-58	169m:l1m	Waist circumference	HDL	male	male	169m:l1m	HDL---Waist circumference	1.9201435e-56
+169m	l2m	1.057	0.0313	-0.1423	0.0311	4.8482e-06	169m:l2m	Waist circumference	LDL	male	male	169m:l2m	LDL---Waist circumference	2.5622330726257e-05
+169m	l3m	1.107	0.0364	-0.1672	0.0309	6.3301e-08	169m:l3m	Waist circumference	TC	male	male	169m:l3m	TC---Waist circumference	4.01897624161074e-07
+169m	l4m	1.0733	0.0385	0.3483	0.0334	1.9009e-25	169m:l4m	Waist circumference	logTG	male	male	169m:l4m	logTG---Waist circumference	3.21116321428571e-24
+169m	r4m	1.0133	0.0074	0.1765	0.0636	0.0055	169m:r4m	Waist circumference	PTSD	male	male	169m:r4m	PTSD---Waist circumference	0.0177576791808874
+169m	r8m	1.0059	0.0081	0.1125	0.0452	0.0128	169m:r8m	Waist circumference	Risk-taking behaviour	male	male	169m:r8m	Risk-taking behaviour---Waist circumference	0.0377221183800623
+169m	r9m	0.9968	0.0067	0.2308	0.0776	0.0029	169m:r9m	Waist circumference	Carotid intima-media thickness	male	male	169m:r9m	Carotid intima-media thickness---Waist circumference	0.0103135338345865
+175m	181m	0.8914	0.0075	0.3631	0.0392	1.846e-20	175m:181m	Waist circumference (adjBMI)	Waist-hip ratio	male	male	175m:181m	Waist circumference (adjBMI)---Waist-hip ratio	2.53089275362319e-19
+175m	187m	0.9042	0.0075	0.5318	0.0365	4.1016e-48	175m:187m	Waist circumference (adjBMI)	Waist-hip ratio (adjBMI)	male	male	175m:187m	Waist circumference (adjBMI)---Waist-hip ratio (adjBMI)	1.2933712e-46
+175m	97m	0.978	0.0081	0.5973	0.084	1.173e-12	175m:97m	Waist circumference (adjBMI)	Height SDS	male	male	175m:97m	Height SDS---Waist circumference (adjBMI)	1.13230408163265e-11
+175m	l1m	1.0962	0.04	-0.1274	0.031	3.9161e-05	175m:l1m	Waist circumference (adjBMI)	HDL	male	male	175m:l1m	HDL---Waist circumference (adjBMI)	0.00018523153
+175m	l2m	1.0586	0.032	-0.0913	0.0331	0.0058	175m:l2m	Waist circumference (adjBMI)	LDL	male	male	175m:l2m	LDL---Waist circumference (adjBMI)	0.0185364864864865
+175m	l3m	1.1097	0.0374	-0.0837	0.0298	0.005	175m:l3m	Waist circumference (adjBMI)	TC	male	male	175m:l3m	TC---Waist circumference (adjBMI)	0.0164808362369338
+175m	l4m	1.0767	0.0392	0.1023	0.0361	0.0046	175m:l4m	Waist circumference (adjBMI)	logTG	male	male	175m:l4m	logTG---Waist circumference (adjBMI)	0.0153225352112676
+181m	187m	0.9043	0.0075	0.7266	0.025	1.9257e-185	181m:187m	Waist-hip ratio	Waist-hip ratio (adjBMI)	male	male	181m:187m	Waist-hip ratio---Waist-hip ratio (adjBMI)	1.301223e-183
+181m	49m	0.9436	0.0086	-0.3714	0.0588	2.6069e-10	181m:49m	Waist-hip ratio	Age at first birth	male	male	181m:49m	Age at first birth---Waist-hip ratio	2.12597189655172e-09
+181m	a13m	1.0106	0.0145	0.3562	0.0478	9.5248e-14	181m:a13m	Waist-hip ratio	Cardiovascular disease	male	male	181m:a13m	Cardiovascular disease---Waist-hip ratio	9.79397913043478e-13
+181m	a21m	1.0153	0.0087	0.2592	0.0719	3e-04	181m:a21m	Waist-hip ratio	Grip strength measurement/ Muscle weakness	male	male	181m:a21m	Grip strength measurement/ Muscle weakness---Waist-hip ratio	0.00126696428571429
+181m	a22m	1.0181	0.0093	0.2149	0.0444	1.3079e-06	181m:a22m	Waist-hip ratio	Snoring	male	male	181m:a22m	Snoring---Waist-hip ratio	7.27807882352941e-06
+181m	a28m	1.0137	0.0251	0.4044	0.133	0.0024	181m:a28m	Waist-hip ratio	Fasting insulin	male	male	181m:a28m	Fasting insulin---Waist-hip ratio	0.00876602316602317
+181m	a29m	1.0228	0.0104	0.2778	0.0459	1.4232e-09	181m:a29m	Waist-hip ratio	Multisite chronic pain	male	male	181m:a29m	Multisite chronic pain---Waist-hip ratio	1.05183375e-08
+181m	a30m	0.962	0.0106	-0.3887	0.0362	7.2542e-27	181m:a30m	Waist-hip ratio	Educational attainment	male	male	181m:a30m	Educational attainment---Waist-hip ratio	1.34558298039216e-25
+181m	a8m	1.0513	0.0185	0.5308	0.0502	4.0057e-26	181m:a8m	Waist-hip ratio	Type 2 diabetes	male	male	181m:a8m	Type 2 diabetes---Waist-hip ratio	7.25974679245283e-25
+181m	a9m	1.0119	0.0098	0.3184	0.0588	6.0428e-08	181m:a9m	Waist-hip ratio	ADHD	male	male	181m:a9m	ADHD---Waist-hip ratio	3.86249243243243e-07
+181m	bm6m	0.9982	0.0095	0.1905	0.0692	0.0059	181m:bm6m	Waist-hip ratio	Left Putamen	male	male	181m:bm6m	Left Putamen---Waist-hip ratio	0.0187925925925926
+181m	bm7m	1.0062	0.0091	0.203	0.075	0.0068	181m:bm7m	Waist-hip ratio	Right Putamen	male	male	181m:bm7m	Right Putamen---Waist-hip ratio	0.021514381270903
+181m	ch6m	0.9851	0.0079	-0.2434	0.0962	0.0114	181m:ch6m	Waist-hip ratio	Word reading	male	male	181m:ch6m	Waist-hip ratio---Word reading	0.0341278481012658
+181m	l1m	1.1221	0.0448	-0.4805	0.0354	4.6559e-42	181m:l1m	Waist-hip ratio	HDL	male	male	181m:l1m	HDL---Waist-hip ratio	1.29543570588235e-40
+181m	l4m	1.0927	0.0441	0.4629	0.0374	3.1067e-35	181m:l4m	Waist-hip ratio	logTG	male	male	181m:l4m	logTG---Waist-hip ratio	7.3473455e-34
+181m	l5m	1.0782	0.0317	0.1794	0.0435	3.7811e-05	181m:l5m	Waist-hip ratio	nonHDL	male	male	181m:l5m	nonHDL---Waist-hip ratio	0.000180652555555556
+181m	r4m	1.018	0.0079	0.27	0.0739	3e-04	181m:r4m	Waist-hip ratio	PTSD	male	male	181m:r4m	PTSD---Waist-hip ratio	0.00126696428571429
+181m	r8m	1.0088	0.0086	0.1577	0.0497	0.0015	181m:r8m	Waist-hip ratio	Risk-taking behaviour	male	male	181m:r8m	Risk-taking behaviour---Waist-hip ratio	0.00579183673469388
+187m	4373m	1.0023	0.0088	0.1877	0.0767	0.0143	187m:4373m	Waist-hip ratio (adjBMI)	Free thyroxine (FT4)	male	male	187m:4373m	Free thyroxine (FT4)---Waist-hip ratio (adjBMI)	0.041624
+187m	a13m	1.0127	0.0148	0.2345	0.0472	6.9028e-07	187m:a13m	Waist-hip ratio (adjBMI)	Cardiovascular disease	male	male	187m:a13m	Cardiovascular disease---Waist-hip ratio (adjBMI)	3.95760533333333e-06
+187m	a21m	1.0154	0.0092	0.2622	0.0791	9e-04	187m:a21m	Waist-hip ratio (adjBMI)	Grip strength measurement/ Muscle weakness	male	male	187m:a21m	Grip strength measurement/ Muscle weakness---Waist-hip ratio (adjBMI)	0.0035475
+187m	a29m	1.0205	0.0105	0.1132	0.0439	0.0099	187m:a29m	Waist-hip ratio (adjBMI)	Multisite chronic pain	male	male	187m:a29m	Multisite chronic pain---Waist-hip ratio (adjBMI)	0.0303087378640777
+187m	a30m	0.9618	0.0109	-0.2582	0.037	3.0635e-12	187m:a30m	Waist-hip ratio (adjBMI)	Educational attainment	male	male	187m:a30m	Educational attainment---Waist-hip ratio (adjBMI)	2.898071e-11
+187m	a8m	1.0565	0.019	0.24	0.0507	2.1838e-06	187m:a8m	Waist-hip ratio (adjBMI)	Type 2 diabetes	male	male	187m:a8m	Type 2 diabetes---Waist-hip ratio (adjBMI)	1.20109e-05
+187m	a9m	1.0108	0.0101	0.194	0.0655	0.003	187m:a9m	Waist-hip ratio (adjBMI)	ADHD	male	male	187m:a9m	ADHD---Waist-hip ratio (adjBMI)	0.010589552238806
+187m	ch6m	0.9833	0.0086	-0.2738	0.0952	0.004	187m:ch6m	Waist-hip ratio (adjBMI)	Word reading	male	male	187m:ch6m	Waist-hip ratio (adjBMI)---Word reading	0.0134661921708185
+187m	l1m	1.1313	0.0468	-0.2234	0.0424	1.4039e-07	187m:l1m	Waist-hip ratio (adjBMI)	HDL	male	male	187m:l1m	HDL---Waist-hip ratio (adjBMI)	8.51339358974359e-07
+187m	l4m	1.1031	0.0474	0.3145	0.038	1.1885e-16	187m:l4m	Waist-hip ratio (adjBMI)	logTG	male	male	187m:l4m	logTG---Waist-hip ratio (adjBMI)	1.42319113924051e-15
+187m	l5m	1.0855	0.0332	0.1765	0.0472	2e-04	187m:l5m	Waist-hip ratio (adjBMI)	nonHDL	male	male	187m:l5m	nonHDL---Waist-hip ratio (adjBMI)	0.00086
+187m	r4m	1.0171	0.0078	0.2235	0.076	0.0033	187m:r4m	Waist-hip ratio (adjBMI)	PTSD	male	male	187m:r4m	PTSD---Waist-hip ratio (adjBMI)	0.0114351648351648
+4373m	a28m	0.929	0.0169	-0.253	0.0983	0.01	4373m:a28m	Free thyroxine (FT4)	Fasting insulin	male	male	4373m:a28m	Fasting insulin---Free thyroxine (FT4)	0.0303205128205128
+49m	52m	0.9708	0.0061	-0.5935	0.0675	1.4292e-18	49m:52m	Age at first birth	Number of children ever born	male	male	49m:52m	Age at first birth---Number of children ever born	1.87781e-17
+49m	a13m	0.9981	0.0117	-0.2825	0.0502	1.8681e-08	49m:a13m	Age at first birth	Cardiovascular disease	male	male	49m:a13m	Age at first birth---Cardiovascular disease	1.23582e-07
+49m	a1m	1.0003	0.008	-0.2036	0.0632	0.0013	49m:a1m	Age at first birth	Insomnia	male	male	49m:a1m	Age at first birth---Insomnia	0.00506090534979424
+49m	a22m	1.017	0.0075	-0.16	0.0543	0.0032	49m:a22m	Age at first birth	Snoring	male	male	49m:a22m	Age at first birth---Snoring	0.011170479704797
+49m	a29m	1.0162	0.0084	-0.497	0.0518	9.2493e-22	49m:a29m	Age at first birth	Multisite chronic pain	male	male	49m:a29m	Age at first birth---Multisite chronic pain	1.38886314285714e-20
+49m	a30m	0.9461	0.0079	0.6523	0.0443	3.5727e-49	49m:a30m	Age at first birth	Educational attainment	male	male	49m:a30m	Age at first birth---Educational attainment	1.16543937931034e-47
+49m	a8m	1.0348	0.0139	-0.2607	0.0412	2.4317e-10	49m:a8m	Age at first birth	Type 2 diabetes	male	male	49m:a8m	Age at first birth---Type 2 diabetes	2.00033756521739e-09
+49m	a9m	1.0065	0.0082	-0.4584	0.0637	6.3664e-13	49m:a9m	Age at first birth	ADHD	male	male	49m:a9m	ADHD---Age at first birth	6.33959410526316e-12
+49m	ch1m	1.0013	0.007	0.3804	0.1158	0.001	49m:ch1m	Age at first birth	Nonword reading	male	male	49m:ch1m	Age at first birth---Nonword reading	0.0039253112033195
+49m	ch6m	0.9896	0.0064	0.4462	0.114	9.0924e-05	49m:ch6m	Age at first birth	Word reading	male	male	49m:ch6m	Age at first birth---Word reading	0.000407649781990521
+49m	l1m	1.0713	0.0323	0.2498	0.0312	1.2228e-15	49m:l1m	Age at first birth	HDL	male	male	49m:l1m	Age at first birth---HDL	1.39369734939759e-14
+49m	l2m	1.0533	0.0272	-0.0996	0.0375	0.0079	49m:l2m	Age at first birth	LDL	male	male	49m:l2m	Age at first birth---LDL	0.024746357615894
+49m	l3m	1.0914	0.0302	-0.1236	0.0346	4e-04	49m:l3m	Age at first birth	TC	male	male	49m:l3m	Age at first birth---TC	0.00166696035242291
+49m	l4m	1.044	0.0307	-0.2952	0.0366	7.7266e-16	49m:l4m	Age at first birth	logTG	male	male	49m:l4m	Age at first birth---logTG	8.91385804878049e-15
+49m	l5m	1.0681	0.0243	-0.2089	0.0414	4.4274e-07	49m:l5m	Age at first birth	nonHDL	male	male	49m:l5m	Age at first birth---nonHDL	2.60144124223602e-06
+49m	r4m	1.0153	0.0063	-0.4556	0.0864	1.3522e-07	49m:r4m	Age at first birth	PTSD	male	male	49m:r4m	Age at first birth---PTSD	8.25278193548387e-07
+49m	r8m	1.0058	0.0078	-0.3384	0.0542	4.3728e-10	49m:r8m	Age at first birth	Risk-taking behaviour	male	male	49m:r8m	Age at first birth---Risk-taking behaviour	3.39071213114754e-09
+49m	r9m	0.995	0.0066	-0.2637	0.0806	0.0011	49m:r9m	Age at first birth	Carotid intima-media thickness	male	male	49m:r9m	Age at first birth---Carotid intima-media thickness	0.0043
+52m	a13m	0.998	0.0116	0.1626	0.0633	0.0102	52m:a13m	Number of children ever born	Cardiovascular disease	male	male	52m:a13m	Cardiovascular disease---Number of children ever born	0.0308281150159744
+52m	a1m	1.0002	0.008	0.2906	0.071	4.2096e-05	52m:a1m	Number of children ever born	Insomnia	male	male	52m:a1m	Insomnia---Number of children ever born	0.000198123462686567
+52m	a29m	1.0161	0.0084	0.253	0.0641	7.8869e-05	52m:a29m	Number of children ever born	Multisite chronic pain	male	male	52m:a29m	Multisite chronic pain---Number of children ever born	0.000358702278846154
+52m	a30m	0.9461	0.0079	-0.2902	0.0479	1.3819e-09	52m:a30m	Number of children ever born	Educational attainment	male	male	52m:a30m	Educational attainment---Number of children ever born	1.02935228346457e-08
+52m	a8m	1.0347	0.0139	0.1374	0.0436	0.0016	52m:a8m	Number of children ever born	Type 2 diabetes	male	male	52m:a8m	Number of children ever born---Type 2 diabetes	0.00612793522267206
+52m	a9m	1.0065	0.0082	0.5076	0.0755	1.7998e-11	52m:a9m	Number of children ever born	ADHD	male	male	52m:a9m	ADHD---Number of children ever born	1.59122504672897e-10
+52m	ch6m	0.9896	0.0064	-0.3443	0.1408	0.0145	52m:ch6m	Number of children ever born	Word reading	male	male	52m:ch6m	Number of children ever born---Word reading	0.0420766871165644
+52m	l1m	1.0711	0.0322	-0.1414	0.0395	3e-04	52m:l1m	Number of children ever born	HDL	male	male	52m:l1m	HDL---Number of children ever born	0.00126696428571429
+52m	l4m	1.0444	0.0307	0.0978	0.0377	0.0094	52m:l4m	Number of children ever born	logTG	male	male	52m:l4m	logTG---Number of children ever born	0.0291554098360656
+52m	r4m	1.0157	0.0064	0.3469	0.0971	4e-04	52m:r4m	Number of children ever born	PTSD	male	male	52m:r4m	Number of children ever born---PTSD	0.00166696035242291
+52m	r8m	1.0058	0.0078	0.4164	0.0719	7.0092e-09	52m:r8m	Number of children ever born	Risk-taking behaviour	male	male	52m:r8m	Number of children ever born---Risk-taking behaviour	4.73621657142857e-08
+97m	a8m	1.04	0.0167	0.1644	0.0596	0.0058	97m:a8m	Height SDS	Type 2 diabetes	male	male	97m:a8m	Height SDS---Type 2 diabetes	0.0185364864864865
+97m	bm6m	0.9967	0.0085	-0.2534	0.1012	0.0122	97m:bm6m	Height SDS	Left Putamen	male	male	97m:bm6m	Height SDS---Left Putamen	0.03606625
+97m	l1m	1.1	0.0392	-0.1902	0.0502	2e-04	97m:l1m	Height SDS	HDL	male	male	97m:l1m	HDL---Height SDS	0.00086
+a13m	a1m	0.9947	0.0088	0.2314	0.0415	2.441e-08	a13m:a1m	Cardiovascular disease	Insomnia	male	male	a13m:a1m	Cardiovascular disease---Insomnia	1.59254206896552e-07
+a13m	a22m	1.0198	0.0085	0.139	0.0363	1e-04	a13m:a22m	Cardiovascular disease	Snoring	male	male	a13m:a22m	Cardiovascular disease---Snoring	0.00043394495412844
+a13m	a28m	0.975	0.0185	0.2649	0.1091	0.0152	a13m:a28m	Cardiovascular disease	Fasting insulin	male	male	a13m:a28m	Cardiovascular disease---Fasting insulin	0.0435733333333333
+a13m	a29m	1.0288	0.0094	0.3013	0.0422	9.8567e-13	a13m:a29m	Cardiovascular disease	Multisite chronic pain	male	male	a13m:a29m	Cardiovascular disease---Multisite chronic pain	9.71295645833333e-12
+a13m	a30m	0.9563	0.0077	-0.2943	0.0297	3.406e-23	a13m:a30m	Cardiovascular disease	Educational attainment	male	male	a13m:a30m	Cardiovascular disease---Educational attainment	5.55530344827586e-22
+a13m	a8m	1.0455	0.0159	0.4092	0.0336	3.9743e-34	a13m:a8m	Cardiovascular disease	Type 2 diabetes	male	male	a13m:a8m	Cardiovascular disease---Type 2 diabetes	8.95163761904762e-33
+a13m	a9m	1.0141	0.009	0.2711	0.0467	6.6058e-09	a13m:a9m	Cardiovascular disease	ADHD	male	male	a13m:a9m	ADHD---Cardiovascular disease	4.49574589928058e-08
+a13m	l1m	1.1193	0.0403	-0.3295	0.025	8.0416e-40	a13m:l1m	Cardiovascular disease	HDL	male	male	a13m:l1m	Cardiovascular disease---HDL	2.1735296e-38
+a13m	l2m	1.0848	0.0307	0.0918	0.0354	0.0095	a13m:l2m	Cardiovascular disease	LDL	male	male	a13m:l2m	Cardiovascular disease---LDL	0.0292736156351792
+a13m	l4m	1.0759	0.0371	0.3478	0.0293	1.5367e-32	a13m:l4m	Cardiovascular disease	logTG	male	male	a13m:l4m	Cardiovascular disease---logTG	3.02857958333333e-31
+a13m	l5m	1.0953	0.0264	0.2482	0.0377	4.8557e-11	a13m:l5m	Cardiovascular disease	nonHDL	male	male	a13m:l5m	Cardiovascular disease---nonHDL	4.21421302752294e-10
+a13m	r4m	1.0186	0.0074	0.1886	0.0615	0.0022	a13m:r4m	Cardiovascular disease	PTSD	male	male	a13m:r4m	Cardiovascular disease---PTSD	0.00825873015873016
+a1m	a21m	1.019	0.0074	0.1637	0.0681	0.0162	a1m:a21m	Insomnia	Grip strength measurement/ Muscle weakness	male	male	a1m:a21m	Grip strength measurement/ Muscle weakness---Insomnia	0.0458838323353293
+a1m	a29m	1.0192	0.0088	0.5388	0.043	4.7575e-36	a1m:a29m	Insomnia	Multisite chronic pain	male	male	a1m:a29m	Insomnia---Multisite chronic pain	1.21637702702703e-34
+a1m	a30m	0.9477	0.0079	-0.1996	0.0426	2.742e-06	a1m:a30m	Insomnia	Educational attainment	male	male	a1m:a30m	Educational attainment---Insomnia	1.49076551724138e-05
+a1m	a8m	1.0425	0.0147	0.1712	0.0423	5.2155e-05	a1m:a8m	Insomnia	Type 2 diabetes	male	male	a1m:a8m	Insomnia---Type 2 diabetes	0.000243047438423645
+a1m	a9m	1.006	0.0081	0.2676	0.0582	4.1919e-06	a1m:a9m	Insomnia	ADHD	male	male	a1m:a9m	ADHD---Insomnia	2.24041661016949e-05
+a1m	l1m	1.0791	0.0355	-0.1138	0.029	8.6554e-05	a1m:l1m	Insomnia	HDL	male	male	a1m:l1m	HDL---Insomnia	0.000389905161904762
+a1m	l4m	1.047	0.0323	0.1342	0.0302	9.0496e-06	a1m:l4m	Insomnia	logTG	male	male	a1m:l4m	Insomnia---logTG	4.52958814814815e-05
+a1m	r4m	1.0184	0.0065	0.3746	0.0685	4.4393e-08	a1m:r4m	Insomnia	PTSD	male	male	a1m:r4m	Insomnia---PTSD	2.8568556462585e-07
+a1m	r5m	1.0037	0.0114	0.1434	0.0356	5.7073e-05	a1m:r5m	Insomnia	Schizophrenia	male	male	a1m:r5m	Insomnia---Schizophrenia	0.000263371014634146
+a21m	a29m	1.021	0.0086	0.1683	0.0601	0.0051	a21m:a29m	Grip strength measurement/ Muscle weakness	Multisite chronic pain	male	male	a21m:a29m	Grip strength measurement/ Muscle weakness---Multisite chronic pain	0.0166941176470588
+a21m	a8m	1.0393	0.0144	0.1391	0.052	0.0075	a21m:a8m	Grip strength measurement/ Muscle weakness	Type 2 diabetes	male	male	a21m:a8m	Grip strength measurement/ Muscle weakness---Type 2 diabetes	0.02365
+a21m	l4m	1.0516	0.0342	0.1095	0.0373	0.0033	a21m:l4m	Grip strength measurement/ Muscle weakness	logTG	male	male	a21m:l4m	Grip strength measurement/ Muscle weakness---logTG	0.0114351648351648
+a22m	a28m	0.9052	0.0165	0.1924	0.0776	0.0131	a22m:a28m	Snoring	Fasting insulin	male	male	a22m:a28m	Fasting insulin---Snoring	0.0383671826625387
+a22m	a29m	1.0207	0.0087	0.2266	0.0395	1.0073e-08	a22m:a29m	Snoring	Multisite chronic pain	male	male	a22m:a29m	Multisite chronic pain---Snoring	6.71060422535211e-08
+a22m	a30m	0.9478	0.0076	-0.1327	0.034	9.6209e-05	a22m:a30m	Snoring	Educational attainment	male	male	a22m:a30m	Educational attainment---Snoring	0.000427294431924883
+a22m	a8m	1.0376	0.0144	0.2443	0.0337	4.4034e-13	a22m:a8m	Snoring	Type 2 diabetes	male	male	a22m:a8m	Snoring---Type 2 diabetes	4.43150680851064e-12
+a22m	a9m	1.0064	0.0081	0.1626	0.0536	0.0024	a22m:a9m	Snoring	ADHD	male	male	a22m:a9m	ADHD---Snoring	0.00876602316602317
+a22m	l1m	1.0835	0.0357	-0.1587	0.0262	1.3417e-09	a22m:l1m	Snoring	HDL	male	male	a22m:l1m	HDL---Snoring	1.00733984126984e-08
+a22m	l3m	1.1048	0.0316	0.0723	0.0297	0.0151	a22m:l3m	Snoring	TC	male	male	a22m:l3m	Snoring---TC	0.0435506097560976
+a22m	l4m	1.0509	0.0339	0.1814	0.026	3.2718e-12	a22m:l4m	Snoring	logTG	male	male	a22m:l4m	logTG---Snoring	3.06447801980198e-11
+a22m	l5m	1.077	0.0246	0.1466	0.0322	5.4364e-06	a22m:l5m	Snoring	nonHDL	male	male	a22m:l5m	nonHDL---Snoring	2.85713022222222e-05
+a22m	r4m	1.0184	0.0064	0.2019	0.0724	0.0053	a22m:r4m	Snoring	PTSD	male	male	a22m:r4m	PTSD---Snoring	0.0172889655172414
+a22m	r5m	1.0067	0.0114	-0.2016	0.0312	1.0142e-10	a22m:r5m	Snoring	Schizophrenia	male	male	a22m:r5m	Schizophrenia---Snoring	8.72212e-10
+a27m	a8m	1.1374	0.072	0.5527	0.0527	1.0538e-25	a27m:a8m	Fasting glucose	Type 2 diabetes	male	male	a27m:a8m	Fasting glucose---Type 2 diabetes	1.84610148148148e-24
+a27m	l2m	1.2752	0.1083	-0.169	0.0561	0.0026	a27m:l2m	Fasting glucose	LDL	male	male	a27m:l2m	Fasting glucose---LDL	0.00935209125475285
+a28m	a30m	0.9533	0.0203	-0.2046	0.0648	0.0016	a28m:a30m	Fasting insulin	Educational attainment	male	male	a28m:a30m	Educational attainment---Fasting insulin	0.00612793522267206
+a28m	a8m	1.1225	0.0691	0.4075	0.0673	1.4386e-09	a28m:a8m	Fasting insulin	Type 2 diabetes	male	male	a28m:a8m	Fasting insulin---Type 2 diabetes	1.05497333333333e-08
+a28m	l1m	1.3125	0.1103	-0.4872	0.0525	1.7352e-20	a28m:l1m	Fasting insulin	HDL	male	male	a28m:l1m	Fasting insulin---HDL	2.41396941176471e-19
+a28m	l3m	1.446	0.1237	-0.1319	0.0548	0.0161	a28m:l3m	Fasting insulin	TC	male	male	a28m:l3m	Fasting insulin---TC	0.0458838323353293
+a28m	l4m	1.3387	0.1342	0.4291	0.0603	1.1485e-12	a28m:l4m	Fasting insulin	logTG	male	male	a28m:l4m	Fasting insulin---logTG	1.12008350515464e-11
+a29m	a30m	0.9489	0.0078	-0.5398	0.029	2.6291e-77	a29m:a30m	Multisite chronic pain	Educational attainment	male	male	a29m:a30m	Educational attainment---Multisite chronic pain	9.9485144e-76
+a29m	a8m	1.0415	0.0146	0.2938	0.0341	6.3317e-18	a29m:a8m	Multisite chronic pain	Type 2 diabetes	male	male	a29m:a8m	Multisite chronic pain---Type 2 diabetes	7.98638426666667e-17
+a29m	a9m	1.0066	0.0081	0.5819	0.0479	5.0358e-34	a29m:a9m	Multisite chronic pain	ADHD	male	male	a29m:a9m	ADHD---Multisite chronic pain	1.107876e-32
+a29m	ch1m	0.9978	0.0067	-0.243	0.0875	0.0055	a29m:ch1m	Multisite chronic pain	Nonword reading	male	male	a29m:ch1m	Multisite chronic pain---Nonword reading	0.0177576791808874
+a29m	ch6m	0.9898	0.0062	-0.3428	0.0897	1e-04	a29m:ch6m	Multisite chronic pain	Word reading	male	male	a29m:ch6m	Multisite chronic pain---Word reading	0.00043394495412844
+a29m	l1m	1.0893	0.0369	-0.2926	0.0241	5.6704e-34	a29m:l1m	Multisite chronic pain	HDL	male	male	a29m:l1m	HDL---Multisite chronic pain	1.219136e-32
+a29m	l2m	1.0669	0.0298	0.1002	0.0303	9e-04	a29m:l2m	Multisite chronic pain	LDL	male	male	a29m:l2m	LDL---Multisite chronic pain	0.0035475
+a29m	l3m	1.1102	0.0322	0.1175	0.0273	1.6614e-05	a29m:l3m	Multisite chronic pain	TC	male	male	a29m:l3m	Multisite chronic pain---TC	8.18585625e-05
+a29m	l4m	1.0537	0.0345	0.3159	0.033	1.0989e-21	a29m:l4m	Multisite chronic pain	logTG	male	male	a29m:l4m	logTG---Multisite chronic pain	1.6243115625e-20
+a29m	l5m	1.0789	0.0248	0.1635	0.0337	1.1876e-06	a29m:l5m	Multisite chronic pain	nonHDL	male	male	a29m:l5m	Multisite chronic pain---nonHDL	6.64774911242604e-06
+a29m	r4m	1.0175	0.0065	0.5359	0.0638	4.6796e-17	a29m:r4m	Multisite chronic pain	PTSD	male	male	a29m:r4m	Multisite chronic pain---PTSD	5.67551487179487e-16
+a29m	r8m	1.0053	0.0074	0.2851	0.0446	1.6963e-10	a29m:r8m	Multisite chronic pain	Risk-taking behaviour	male	male	a29m:r8m	Multisite chronic pain---Risk-taking behaviour	1.40763140350877e-09
+a30m	a7m	0.9589	0.0076	0.1312	0.0395	9e-04	a30m:a7m	Educational attainment	Parkinson's disease	male	male	a30m:a7m	Educational attainment---Parkinson's disease	0.0035475
+a30m	a8m	1.0392	0.0148	-0.2658	0.0268	3.0908e-23	a30m:a8m	Educational attainment	Type 2 diabetes	male	male	a30m:a8m	Educational attainment---Type 2 diabetes	5.12964350877193e-22
+a30m	a9m	1.0066	0.0082	-0.5467	0.0436	4.2525e-36	a30m:a9m	Educational attainment	ADHD	male	male	a30m:a9m	ADHD---Educational attainment	1.1174625e-34
+a30m	ch1m	0.9983	0.0066	0.523	0.0867	1.6414e-09	a30m:ch1m	Educational attainment	Nonword reading	male	male	a30m:ch1m	Educational attainment---Nonword reading	1.18531633587786e-08
+a30m	ch6m	0.9893	0.0061	0.6154	0.0818	5.4843e-14	a30m:ch6m	Educational attainment	Word reading	male	male	a30m:ch6m	Educational attainment---Word reading	5.76460866666667e-13
+a30m	l1m	1.0843	0.036	0.2603	0.0216	2.6719e-33	a30m:l1m	Educational attainment	HDL	male	male	a30m:l1m	Educational attainment---HDL	5.49482043478261e-32
+a30m	l2m	1.0638	0.029	-0.0813	0.0237	6e-04	a30m:l2m	Educational attainment	LDL	male	male	a30m:l2m	Educational attainment---LDL	0.00243605150214592
+a30m	l3m	1.1061	0.0316	-0.0825	0.0243	7e-04	a30m:l3m	Educational attainment	TC	male	male	a30m:l3m	Educational attainment---TC	0.00281787234042553
+a30m	l4m	1.0582	0.0348	-0.2776	0.0229	8.5038e-34	a30m:l4m	Educational attainment	logTG	male	male	a30m:l4m	Educational attainment---logTG	1.78768773333333e-32
+a30m	l5m	1.0769	0.0248	-0.1537	0.0279	3.5634e-08	a30m:l5m	Educational attainment	nonHDL	male	male	a30m:l5m	Educational attainment---nonHDL	2.30888794520548e-07
+a30m	r4m	1.0197	0.0067	-0.1642	0.0535	0.0021	a30m:r4m	Educational attainment	PTSD	male	male	a30m:r4m	Educational attainment---PTSD	0.0079464
+a30m	r8m	1.0059	0.0074	-0.1432	0.0341	2.6946e-05	a30m:r8m	Educational attainment	Risk-taking behaviour	male	male	a30m:r8m	Educational attainment---Risk-taking behaviour	0.000130722646153846
+a7m	bm5m	1.0058	0.0075	0.172	0.0668	0.01	a7m:bm5m	Parkinson's disease	Left Caudate	male	male	a7m:bm5m	Left Caudate---Parkinson's disease	0.0303205128205128
+a8m	a9m	1.0065	0.0081	0.3697	0.0412	2.6721e-19	a8m:a9m	Type 2 diabetes	ADHD	male	male	a8m:a9m	ADHD---Type 2 diabetes	3.56029098591549e-18
+a8m	ch1m	0.9998	0.0067	-0.2263	0.0748	0.0025	a8m:ch1m	Type 2 diabetes	Nonword reading	male	male	a8m:ch1m	Nonword reading---Type 2 diabetes	0.00909615384615385
+a8m	ch6m	0.9893	0.0061	-0.1727	0.0718	0.0162	a8m:ch6m	Type 2 diabetes	Word reading	male	male	a8m:ch6m	Type 2 diabetes---Word reading	0.0458838323353293
+a8m	l1m	1.0827	0.0355	-0.515	0.0229	3.7181e-112	a8m:l1m	Type 2 diabetes	HDL	male	male	a8m:l1m	HDL---Type 2 diabetes	1.95406811111111e-110
+a8m	l4m	1.0503	0.0337	0.5573	0.0343	2.2164e-59	a8m:l4m	Type 2 diabetes	logTG	male	male	a8m:l4m	logTG---Type 2 diabetes	7.76560888888889e-58
+a8m	l5m	1.0766	0.0243	0.1914	0.0303	2.7046e-10	a8m:l5m	Type 2 diabetes	nonHDL	male	male	a8m:l5m	nonHDL---Type 2 diabetes	2.18679623931624e-09
+a8m	r4m	1.0185	0.0064	0.1718	0.0497	5e-04	a8m:r4m	Type 2 diabetes	PTSD	male	male	a8m:r4m	PTSD---Type 2 diabetes	0.00205652173913043
+a8m	r8m	1.0045	0.0073	0.0971	0.0377	0.01	a8m:r8m	Type 2 diabetes	Risk-taking behaviour	male	male	a8m:r8m	Risk-taking behaviour---Type 2 diabetes	0.0303205128205128
+a9m	ch1m	0.9966	0.0077	-0.3657	0.1171	0.0018	a9m:ch1m	ADHD	Nonword reading	male	male	a9m:ch1m	ADHD---Nonword reading	0.00686612903225806
+a9m	ch6m	0.9869	0.0079	-0.4879	0.1042	2.8542e-06	a9m:ch6m	ADHD	Word reading	male	male	a9m:ch6m	ADHD---Word reading	1.54289897142857e-05
+a9m	l1m	1.1107	0.0433	-0.2525	0.0324	6.7884e-15	a9m:l1m	ADHD	HDL	male	male	a9m:l1m	ADHD---HDL	7.55508988235294e-14
+a9m	l4m	1.0829	0.0405	0.2358	0.0338	3.0204e-12	a9m:l4m	ADHD	logTG	male	male	a9m:l4m	ADHD---logTG	2.88616e-11
+a9m	l5m	1.0868	0.0311	0.1041	0.0376	0.0056	a9m:l5m	ADHD	nonHDL	male	male	a9m:l5m	ADHD---nonHDL	0.0180190476190476
+a9m	r4m	1.0152	0.0078	0.322	0.0802	5.9842e-05	a9m:r4m	ADHD	PTSD	male	male	a9m:r4m	ADHD---PTSD	0.00027480840776699
+a9m	r5m	1.0295	0.0133	0.1855	0.0413	6.9672e-06	a9m:r5m	ADHD	Schizophrenia	male	male	a9m:r5m	ADHD---Schizophrenia	3.52458352941176e-05
+a9m	r8m	1.0055	0.0086	0.4327	0.0493	1.5637e-18	a9m:r8m	ADHD	Risk-taking behaviour	male	male	a9m:r8m	ADHD---Risk-taking behaviour	1.99900027027027e-17
+bm5m	bm6m	0.9989	0.0076	0.4329	0.0847	3.2155e-07	bm5m:bm6m	Left Caudate	Left Putamen	male	male	bm5m:bm6m	Left Caudate---Left Putamen	1.901164375e-06
+bm5m	bm7m	1.0051	0.0071	0.3851	0.0876	1.1102e-05	bm5m:bm7m	Left Caudate	Right Putamen	male	male	bm5m:bm7m	Left Caudate---Right Putamen	5.49868691099476e-05
+bm5m	r4m	1.0178	0.0064	0.2158	0.081	0.0077	bm5m:r4m	Left Caudate	PTSD	male	male	bm5m:r4m	Left Caudate---PTSD	0.0242
+bm6m	bm7m	1.0051	0.0071	0.983	0.0114	0	bm6m:bm7m	Left Putamen	Right Putamen	male	male	bm6m:bm7m	Left Putamen---Right Putamen	0
+bm6m	ch1m	0.9956	0.0066	-0.3008	0.1021	0.0032	bm6m:ch1m	Left Putamen	Nonword reading	male	male	bm6m:ch1m	Left Putamen---Nonword reading	0.011170479704797
+bm7m	ch1m	0.9956	0.0066	-0.3207	0.1073	0.0028	bm7m:ch1m	Right Putamen	Nonword reading	male	male	bm7m:ch1m	Nonword reading---Right Putamen	0.00999547169811321
+ch1m	ch6m	0.9883	0.0061	1.131	0.1142	3.9879e-23	ch1m:ch6m	Nonword reading	Word reading	male	male	ch1m:ch6m	Nonword reading---Word reading	6.39415830508475e-22
+l1m	l2m	1.0621	0.0281	0.1636	0.0238	6.0642e-12	l1m:l2m	HDL	LDL	male	male	l1m:l2m	HDL---LDL	5.62424823529412e-11
+l1m	l3m	1.0952	0.0299	0.2388	0.0243	8.3215e-23	l1m:l3m	HDL	TC	male	male	l1m:l3m	HDL---TC	1.31202316666667e-21
+l1m	l4m	1.0468	0.0328	-0.6698	0.0179	8.5094e-308	l1m:l4m	HDL	logTG	male	male	l1m:l4m	HDL---logTG	7.318084e-306
+l1m	l5m	1.0698	0.023	-0.1165	0.0291	6.389e-05	l1m:l5m	HDL	nonHDL	male	male	l1m:l5m	HDL---nonHDL	0.00029198038647343
+l1m	r4m	1.0175	0.0065	-0.2102	0.0429	9.4811e-07	l1m:r4m	HDL	PTSD	male	male	l1m:r4m	HDL---PTSD	5.33876226190476e-06
+l2m	l3m	1.0992	0.0286	0.9423	0.0072	0	l2m:l3m	LDL	TC	male	male	l2m:l3m	LDL---TC	0
+l2m	l4m	1.0502	0.0326	0.126	0.032	8.0905e-05	l2m:l4m	LDL	logTG	male	male	l2m:l4m	LDL---logTG	0.000366201578947368
+l2m	l5m	1.0734	0.0203	0.8852	0.0113	0	l2m:l5m	LDL	nonHDL	male	male	l2m:l5m	LDL---nonHDL	0
+l2m	r5m	1.0077	0.0115	0.0662	0.0228	0.0036	l2m:r5m	LDL	Schizophrenia	male	male	l2m:r5m	LDL---Schizophrenia	0.0122945848375451
+l3m	l4m	1.0506	0.0328	0.2356	0.0245	7.2039e-22	l3m:l4m	TC	logTG	male	male	l3m:l4m	logTG---TC	1.09917570967742e-20
+l3m	l5m	1.0803	0.0222	0.8998	0.0097	0	l3m:l5m	TC	nonHDL	male	male	l3m:l5m	nonHDL---TC	0
+l3m	r5m	1.0078	0.0114	0.0596	0.0212	0.0049	l3m:r5m	TC	Schizophrenia	male	male	l3m:r5m	Schizophrenia---TC	0.0162076923076923
+l4m	l5m	1.0716	0.0233	0.4823	0.0256	6.0246e-79	l4m:l5m	logTG	nonHDL	male	male	l4m:l5m	logTG---nonHDL	2.3746965e-77
+l4m	r4m	1.0178	0.0064	0.2445	0.0414	3.6284e-09	l4m:r4m	logTG	PTSD	male	male	l4m:r4m	logTG---PTSD	2.52387235294118e-08
+r4m	r5m	1.0071	0.0115	0.3573	0.0526	1.1028e-11	r4m:r5m	PTSD	Schizophrenia	male	male	r4m:r5m	PTSD---Schizophrenia	9.93570285714286e-11
+r4m	r8m	1.0048	0.0073	0.301	0.065	3.6667e-06	r4m:r8m	PTSD	Risk-taking behaviour	male	male	r4m:r8m	PTSD---Risk-taking behaviour	1.97085125e-05
+r5m	r8m	1.0044	0.0076	0.1606	0.0323	6.6431e-07	r5m:r8m	Schizophrenia	Risk-taking behaviour	male	male	r5m:r8m	Risk-taking behaviour---Schizophrenia	3.83193451219512e-06
