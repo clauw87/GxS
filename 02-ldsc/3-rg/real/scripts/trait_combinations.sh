@@ -70,5 +70,6 @@ cat ${tmpfolder}/phenosself >> ${tmpfolder}/phenoscomballmin
 # pairs m-f
 cat ${tmpfolder}/combipairs >> ${tmpfolder}/phenoscomballmin
 
-# cross m-f
-cat ./${tmpfolder}/phenoscomb | grep -v -f ${tmpfolder}/phenoscomballmin > ./${tmpfolder}/crosscross
+
+# cross m-f - no memory anyway
+# cat ./${tmpfolder}/phenoscomb | grep -v -f ${tmpfolder}/phenoscomballmin > ./${tmpfolder}/crosscross

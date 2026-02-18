@@ -1,17 +1,21 @@
 #!/bin/bash
 #
-#SBATCH -p normal # partition (queue)
+#SBATCH -p haswell # partition (queue)
 #SBATCH -N 1 # number of nodes
 #SBATCH -J LDSCgenCorr
-#SBATCH --mem 120G # memory pool for all cores
-##SBATCH -t 0-02:00 # time (D-HH:MM)
+#SBATCH --mem 80G # memory pool for all cores
+##SBATCH -t 0-06:00 # time (D-HH:MM)
 #SBATCH -o ./real/outputs/log.%j.out # STDOUT
 #SBATCH -e ./real/outputs/log.%j.err # STDERR
 #SBATCH --mail-type=END,FAIL # notifications for job done & fail
 #SBATCH --mail-user=claudia.vasallo@upf.edu # send-to address
 
 # Modules
-module load ldsc/v1.0.1-Miniconda2-4.6.14
+#module load ldsc/v1.0.1-Miniconda2-4.6.14
+module purge
+module load modulepath/noarch
+module load ldsc/v1.0.1-Miniconda3-23.9.0-0
+
 source activate ldsc
 
 # Config
@@ -52,5 +56,8 @@ ldsc.py --ref-ld-chr ${EUR_REFERENCE} \
         --out ${LDSC_OUTPUT_DIR}/${CODE1}.${CODE2}-genetic-correlation \
         --rg ${FILE1},${FILE2} \
         --w-ld-chr ${EUR_REFERENCE} \
+
+
+
 
 conda deactivate
