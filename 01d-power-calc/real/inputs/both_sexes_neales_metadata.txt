@@ -1,0 +1,28 @@
+Trait Name	Trait Full Name	Panel	Author	Year	Cases*	Controls
+20117_2	Alcohol drinker status: Current	UK Biobank (UKBB)	Neale Lab	2018	336919	23807
+20118_5	Home area population density - urban or rural: England/Wales - Urban - less sparse	UK Biobank (UKBB)	Neale Lab	2018	279000	78712
+20160	Ever smoked	UK Biobank (UKBB)	Neale Lab	2018	218191	141560
+1980	Worrier / anxious feelings	UK Biobank (UKBB)	Neale Lab	2018	199463	152370
+6154_100	Medication for pain relief, constipation, heartburn: None of the above	UK Biobank (UKBB)	Neale Lab	2018	198043	159041
+20116_0	Smoking status: Never	UK Biobank (UKBB)	Neale Lab	2018	195068	164638
+1950	Sensitivity / hurt feelings	UK Biobank (UKBB)	Neale Lab	2018	194755	156066
+1677	Breastfed as a baby	UK Biobank (UKBB)	Neale Lab	2018	193838	79905
+1920	Mood swings	UK Biobank (UKBB)	Neale Lab	2018	158982	193622
+1930	Miserableness	UK Biobank (UKBB)	Neale Lab	2018	151752	203430
+22616_0	Breathing problems during period of job: No	UK Biobank (UKBB)	Neale Lab	2018	89591	1558
+20110_10_v2	Illnesses of mother: Alzheimer's disease/dementia	UK Biobank (UKBB)	Neale Lab	2018	28507	302534
+20544_11_v2	Mental health problems ever diagnosed by a professional: Depression	UK Biobank (UKBB)	Neale Lab	2018	25087	92695
+20107_10_v2	Illnesses of father: Alzheimer's disease/dementia	UK Biobank (UKBB)	Neale Lab	2018	15022	297644
+189_irnt	Townsend deprivation index at recruitment	UK Biobank (UKBB)	Neale Lab	2018	0	360763
+1200	Sleeplessness / insomnia	UK Biobank (UKBB)	Neale Lab	2018	0	360738
+1558	Alcohol intake frequency.	UK Biobank (UKBB)	Neale Lab	2018	0	360726
+1349	Processed meat intake	UK Biobank (UKBB)	Neale Lab	2018	0	360468
+1220	Daytime dozing / sleeping (narcolepsy)	UK Biobank (UKBB)	Neale Lab	2018	0	359752
+1160	Sleep duration	UK Biobank (UKBB)	Neale Lab	2018	0	359020
+24019_irnt	Particulate matter air pollution (pm10); 2007	UK Biobank (UKBB)	Neale Lab	2018	0	355245
+30510_irnt	Creatinine (enzymatic) in urine	UK Biobank (UKBB)	Neale Lab	2018	0	350812
+2110	Able to confide	UK Biobank (UKBB)	Neale Lab	2018	0	350618
+30030_irnt	Haematocrit percentage	UK Biobank (UKBB)	Neale Lab	2018	0	350475
+20127_irnt	Neuroticism score	UK Biobank (UKBB)	Neale Lab	2018	0	293006
+4526	Happiness	UK Biobank (UKBB)	Neale Lab	2018	0	119535
+20016_irnt	Fluid intelligence score	UK Biobank (UKBB)	Neale Lab	2018	0	117131

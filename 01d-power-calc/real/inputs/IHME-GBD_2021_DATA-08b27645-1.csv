@@ -1,0 +1,21 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,73,Western Europe,1,Male,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,1413.71362643968,1913.91061058903,1059.2387116203302
+5,Prevalence,73,Western Europe,2,Female,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,530.25994049385,718.34435484896,389.89102931279
+5,Prevalence,73,Western Europe,1,Male,22,All ages,964,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",3,Rate,2019,202.83978201410002,241.96694271327002,169.88453977
+5,Prevalence,73,Western Europe,2,Female,22,All ages,964,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",3,Rate,2019,133.84848629302,157.66000058843,113.57331531329
+5,Prevalence,73,Western Europe,1,Male,22,All ages,441,Colon and rectum cancer,3,Rate,2019,573.86368283911,603.1083689615,540.10477434408
+5,Prevalence,73,Western Europe,2,Female,22,All ages,441,Colon and rectum cancer,3,Rate,2019,433.84569916959,463.88201440336,390.98121991459
+5,Prevalence,73,Western Europe,1,Male,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,148.27195761075998,155.55353026660998,139.23775775896002
+5,Prevalence,73,Western Europe,2,Female,22,All ages,426,"Tracheal, bronchus, and lung cancer",3,Rate,2019,86.68158445025999,91.95282799832,80.14360875126
+5,Prevalence,73,Western Europe,1,Male,22,All ages,976,Diabetes mellitus type 2,3,Rate,2019,7921.22498821322,8493.26167069461,7380.188919349789
+5,Prevalence,73,Western Europe,2,Female,22,All ages,976,Diabetes mellitus type 2,3,Rate,2019,6849.442255431671,7450.80437890686,6333.100322517051
+5,Prevalence,73,Western Europe,1,Male,22,All ages,544,Parkinson's disease,3,Rate,2019,366.57766750986,403.79021226118005,331.0390102458
+5,Prevalence,73,Western Europe,2,Female,22,All ages,544,Parkinson's disease,3,Rate,2019,346.46337799030005,377.67567052354,307.27932875154
+5,Prevalence,73,Western Europe,1,Male,22,All ages,568,Major depressive disorder,3,Rate,2019,2445.9076410534,2821.11620388741,2150.75906917129
+5,Prevalence,73,Western Europe,2,Female,22,All ages,568,Major depressive disorder,3,Rate,2019,4474.32619422661,5141.41804408686,3959.90764869275
+5,Prevalence,73,Western Europe,1,Male,22,All ages,491,Cardiovascular diseases,3,Rate,2019,13864.62505643614,14652.303911537509,13128.98988162401
+5,Prevalence,73,Western Europe,2,Female,22,All ages,491,Cardiovascular diseases,3,Rate,2019,13210.97410492281,14063.466910983068,12366.37371010801
+5,Prevalence,73,Western Europe,1,Male,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2019,1206.10953689447,1388.67459201205,1029.50454549413
+5,Prevalence,73,Western Europe,2,Female,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2019,2219.45022307375,2509.8040410748,1946.34014397543
+5,Prevalence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,2019,314.05208556098,368.4929020251,266.85127938666
+5,Prevalence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,2019,299.91052080074,354.6271147184,252.86037367451002

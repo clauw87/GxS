@@ -1,0 +1,1077 @@
+sid	phenotype	description	variable_type	N	Ncontrol	Ncase	sex
+K57_f	K57	Diagnoses - main ICD10: K57 Diverticular disease of intestine	categorical	194174	187183	6991	female
+M17_f	M17	Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	categorical	194174	188346	5828	female
+R07_f	R07	Diagnoses - main ICD10: R07 Pain in throat and chest	categorical	194174	182027	12147	female
+R10_f	R10	Diagnoses - main ICD10: R10 Abdominal and pelvic pain	categorical	194174	181146	13028	female
+I84_f	I84	Diagnoses - main ICD10: I84 Haemorrhoids	categorical	194174	188131	6043	female
+H26_f	H26	Diagnoses - main ICD10: H26 Other cataract	categorical	194174	187980	6194	female
+K29_f	K29	Diagnoses - main ICD10: K29 Gastritis and duodenitis	categorical	194174	187011	7163	female
+M23_f	M23	Diagnoses - main ICD10: M23 Internal derangement of knee	categorical	194174	189167	5007	female
+K62_f	K62	Diagnoses - main ICD10: K62 Other diseases of anus and rectum	categorical	194174	186988	7186	female
+K11_HERNIA_f	K11_HERNIA	Hernia	categorical	194174	186124	8050	female
+XIX_INJURY_POISON_f	XIX_INJURY_POISON	Injury, poisoning and certain other consequences of external causes	categorical	194174	171642	22532	female
+XVIII_MISCFINDINGS_f	XVIII_MISCFINDINGS	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	categorical	194174	142793	51381	female
+H7_LENS_f	H7_LENS	Disorders of lens	categorical	194174	184759	9415	female
+C_OTHER_SKIN_f	C_OTHER_SKIN	Other malignant neoplasms of skin	categorical	194174	187339	6835	female
+PULMONARYDG_f	PULMONARYDG	Other pulmonary diagnosis	categorical	194174	182385	11789	female
+ILD_DIFF_DG_f	ILD_DIFF_DG	ILD differential diagnosis	categorical	194174	181734	12440	female
+XXI_HEALTHFACTORS_f	XXI_HEALTHFACTORS	Factors influencing health status and contact with health services	categorical	194174	170277	23897	female
+XII_SKIN_SUBCUTAN_f	XII_SKIN_SUBCUTAN	Diseases of the skin and subcutaneous tissue	categorical	194174	180062	14112	female
+KNEE_ARTHROSIS_f	KNEE_ARTHROSIS	Gonarthrosis [arthrosis of knee](FG)	categorical	194174	188093	6081	female
+VII_EYE_ADNEXA_f	VII_EYE_ADNEXA	Diseases of the eye and adnexa	categorical	194174	177775	16399	female
+II_NEOPLASM_f	II_NEOPLASM	Neoplasms	categorical	194174	153520	40654	female
+XIV_GENITOURINARY_f	XIV_GENITOURINARY	Diseases of the genitourinary system	categorical	194174	144529	49645	female
+I9_IHD_f	I9_IHD	Ischaemic heart disease, wide definition	categorical	194174	188373	5801	female
+X_RESPIRATORY_f	X_RESPIRATORY	Diseases of the respiratory system	categorical	194174	182385	11789	female
+C3_SKIN_f	C3_SKIN	Malignant neoplasm of skin	categorical	194174	186074	8100	female
+VI_NERVOUS_f	VI_NERVOUS	Diseases of the nervous system	categorical	194174	182232	11942	female
+ICDMAIN_ANY_ENTRY_f	ICDMAIN_ANY_ENTRY	Any ICDMAIN event in hilmo or causes of death	categorical	194174	40228	153946	female
+C_SKIN_f	C_SKIN	NA	categorical	194174	186074	8100	female
+M13_OTHERJOINT_f	M13_OTHERJOINT	#Other joint disorders	categorical	194174	178357	15817	female
+IX_CIRCULATORY_f	IX_CIRCULATORY	Diseases of the circulatory system	categorical	194174	168403	25771	female
+ASTHMA_MEDICATIO_COMORB_f	ASTHMA_MEDICATIO_COMORB	Medication related adverse effects	categorical	194174	183712	10462	female
+XIII_MUSCULOSKELET_f	XIII_MUSCULOSKELET	Diseases of the musculoskeletal system and connective tissue	categorical	194174	151630	42544	female
+COPD_EXCL_f	COPD_EXCL	COPD differential diagnosis	categorical	194174	181734	12440	female
+PULM_MEDICATIO_COMORB_f	PULM_MEDICATIO_COMORB	Medication related adverse effects (Asthma/COPD)	categorical	194174	182770	11404	female
+XI_DIGESTIVE_f	XI_DIGESTIVE	Diseases of the digestive system	categorical	194174	134890	59284	female
+M13_ARTHROSIS_f	M13_ARTHROSIS	#Arthrosis	categorical	194174	180332	13842	female
+C3_OTHER_SKIN_f	C3_OTHER_SKIN	Other malignant neoplasms of skin	categorical	194174	187339	6835	female
+24009_f	24009	Traffic intensity on the nearest road	ordinal	191505	NA	NA	female
+24013_f	24013	Total traffic load on major roads	ordinal	191505	NA	NA	female
+24015_f	24015	Sum of road length of major roads within 100m	ordinal	191505	NA	NA	female
+30150_f	30150	Eosinophill count	ordinal	187758	NA	NA	female
+30160_f	30160	Basophill count	ordinal	187758	NA	NA	female
+30170_f	30170	Nucleated red blood cell count	ordinal	187752	NA	NA	female
+30230_f	30230	Nucleated red blood cell percentage	ordinal	187750	NA	NA	female
+40009_f	40009	Reported occurrences of cancer	ordinal	33610	NA	NA	female
+22606_1_f	22606_1	Workplace very noisy: Sometimes	binary	49999	21034	28965	female
+22606_2_f	22606_2	Workplace very noisy: Often	binary	49918	41674	8244	female
+22607_1_f	22607_1	Workplace very cold: Sometimes	binary	49773	27275	22498	female
+22608_1_f	22608_1	Workplace very hot: Sometimes	binary	49810	21747	28063	female
+22609_1_f	22609_1	Workplace very dusty: Sometimes	binary	49362	34499	14863	female
+22610_1_f	22610_1	Workplace full of chemical or other fumes: Sometimes	binary	48729	40438	8291	female
+22611_1_f	22611_1	Workplace had a lot of cigarette smoke from other people smoking: Sometimes	binary	49562	27097	22465	female
+22611_2_f	22611_2	Workplace had a lot of cigarette smoke from other people smoking: Often	binary	49326	41735	7591	female
+22620_1_f	22620_1	Job involved shift work: Yes	binary	50213	38412	11801	female
+24014_f	24014	Close to major road	binary	191505	178511	12994	female
+20018_f	20018	Prospective memory result	ordinal	64129	NA	NA	female
+20077_f	20077	Number of diet questionnaires completed	ordinal	84976	NA	NA	female
+20128_f	20128	Number of fluid intelligence questions attempted within time limit	ordinal	62810	NA	NA	female
+20403_f	20403	Amount of alcohol drunk on a typical drinking day	ordinal	59472	NA	NA	female
+20407_f	20407	Frequency of failure to fulfil normal expectations due to drinking alcohol in last year	ordinal	29781	NA	NA	female
+20408_f	20408	Frequency of memory loss due to drinking alcohol in last year	ordinal	29760	NA	NA	female
+20409_f	20409	Frequency of feeling guilt or remorse after drinking alcohol in last year	ordinal	29751	NA	NA	female
+20412_f	20412	Frequency of needing morning drink of alcohol after heavy drinking session in last year	ordinal	29799	NA	NA	female
+20413_f	20413	Frequency of inability to cease drinking in last year	ordinal	29732	NA	NA	female
+20414_f	20414	Frequency of drinking alcohol	ordinal	66040	NA	NA	female
+20416_f	20416	Frequency of consuming six or more units of alcohol	ordinal	59630	NA	NA	female
+20436_f	20436	Fraction of day affected during worst episode of depression	ordinal	39766	NA	NA	female
+20438_f	20438	Duration of worst depression	ordinal	41638	NA	NA	female
+20439_f	20439	Frequency of depressed days during worst episode of depression	ordinal	41138	NA	NA	female
+20440_f	20440	Impact on normal roles during worst period of depression	ordinal	42269	NA	NA	female
+20453_f	20453	Ever taken cannabis	ordinal	66042	NA	NA	female
+20458_f	20458	General happiness	ordinal	65691	NA	NA	female
+20459_f	20459	General happiness with own health	ordinal	65904	NA	NA	female
+20460_f	20460	Belief that own life is meaningful	ordinal	64851	NA	NA	female
+20479_f	20479	Ever thought that life not worth living	ordinal	65589	NA	NA	female
+20485_f	20485	Ever contemplated self-harm	ordinal	65820	NA	NA	female
+20487_f	20487	Felt hated by family member as a child	ordinal	65904	NA	NA	female
+20488_f	20488	Physically abused by family as a child	ordinal	65969	NA	NA	female
+20489_f	20489	Felt loved as a child	ordinal	65867	NA	NA	female
+20490_f	20490	Sexually molested as a child	ordinal	65117	NA	NA	female
+20491_f	20491	Someone to take to doctor when needed as a child	ordinal	65629	NA	NA	female
+20495_f	20495	Avoided activities or situations because of previous stressful experience in past month	ordinal	65984	NA	NA	female
+20497_f	20497	Repeated disturbing thoughts of stressful experience in past month	ordinal	66006	NA	NA	female
+20498_f	20498	Felt very upset when reminded of stressful experience in past month	ordinal	65995	NA	NA	female
+20505_f	20505	Recent easy annoyance or irritability	ordinal	65758	NA	NA	female
+20506_f	20506	Recent feelings or nervousness or anxiety	ordinal	65805	NA	NA	female
+20507_f	20507	Recent feelings of inadequacy	ordinal	65744	NA	NA	female
+20508_f	20508	Recent trouble concentrating on things	ordinal	66015	NA	NA	female
+20509_f	20509	Recent inability to stop or control worrying	ordinal	65796	NA	NA	female
+20510_f	20510	Recent feelings of depression	ordinal	65842	NA	NA	female
+20511_f	20511	Recent poor appetite or overeating	ordinal	65999	NA	NA	female
+20512_f	20512	Recent feelings of foreboding	ordinal	65721	NA	NA	female
+20513_f	20513	Recent thoughts of suicide or self-harm	ordinal	65572	NA	NA	female
+20514_f	20514	Recent lack of interest or pleasure in doing things	ordinal	65901	NA	NA	female
+20515_f	20515	Recent trouble relaxing	ordinal	65873	NA	NA	female
+20516_f	20516	Recent restlessness	ordinal	65931	NA	NA	female
+20517_f	20517	Trouble falling or staying asleep, or sleeping too much	ordinal	65978	NA	NA	female
+20518_f	20518	Recent changes in speed/amount of moving or speaking	ordinal	65989	NA	NA	female
+20519_f	20519	Recent feelings of tiredness or low energy	ordinal	65973	NA	NA	female
+20520_f	20520	Recent worrying too much about different things	ordinal	65794	NA	NA	female
+20521_f	20521	Belittlement by partner or ex-partner as an adult	ordinal	65906	NA	NA	female
+20522_f	20522	Been in a confiding relationship as an adult	ordinal	64141	NA	NA	female
+20523_f	20523	Physical violence by partner or ex-partner as an adult	ordinal	65891	NA	NA	female
+20524_f	20524	Sexual interference by partner or ex-partner without consent as an adult	ordinal	65854	NA	NA	female
+20525_f	20525	Able to pay rent/mortgage as an adult	ordinal	65093	NA	NA	female
+22599_f	22599	Number of jobs held	ordinal	49711	NA	NA	female
+6138_3_f	6138_3	Qualifications: O levels/GCSEs or equivalent	binary	192300	96711	95589	female
+6138_1_f	6138_1	Qualifications: College or University degree	binary	192300	132289	60011	female
+6138_100_f	6138_100	Qualifications: None of the above	binary	192300	159672	32628	female
+6138_2_f	6138_2	Qualifications: A levels/AS levels or equivalent	binary	192300	139144	53156	female
+6138_6_f	6138_6	Qualifications: Other professional qualifications eg: nursing, teaching	binary	192300	133832	58468	female
+6138_5_f	6138_5	Qualifications: NVQ or HND or HNC or equivalent	binary	192300	163998	28302	female
+6138_4_f	6138_4	Qualifications: CSEs or equivalent	binary	192300	166699	25601	female
+6139_100_f	6139_100	Gas or solid-fuel cooking/heating: None of the above	binary	193639	159726	33913	female
+6139_1_f	6139_1	Gas or solid-fuel cooking/heating: A gas hob or gas cooker	binary	193639	58505	135134	female
+6139_3_f	6139_3	Gas or solid-fuel cooking/heating: An open solid fuel fire that you use regularly in winter time	binary	193639	175786	17853	female
+6139_2_f	6139_2	Gas or solid-fuel cooking/heating: A gas fire that you use regularly in winter time	binary	193639	116171	77468	female
+6141_1_f	6141_1	How are people in household related to participant: Husband, wife or partner	binary	193057	55963	137094	female
+6141_2_f	6141_2	How are people in household related to participant: Son and/or daughter (include step-children)	binary	193057	127356	65701	female
+6142_2_f	6142_2	Current employment status: Retired	binary	193538	119331	74207	female
+6142_1_f	6142_1	Current employment status: In paid employment or self-employed	binary	193538	88215	105323	female
+6142_4_f	6142_4	Current employment status: Unable to work because of sickness or disability	binary	193538	187419	6119	female
+6143_1_f	6143_1	Transport type for commuting to job workplace: Car/motor vehicle	binary	98821	21605	77216	female
+6143_3_f	6143_3	Transport type for commuting to job workplace: Public transport	binary	98821	77422	21399	female
+6143_2_f	6143_2	Transport type for commuting to job workplace: Walk	binary	98821	79936	18885	female
+6143_4_f	6143_4	Transport type for commuting to job workplace: Cycle	binary	98821	93549	5272	female
+6144_5_f	6144_5	Never eat eggs, dairy, wheat, sugar: I eat all of the above	binary	193385	43480	149905	female
+6144_4_f	6144_4	Never eat eggs, dairy, wheat, sugar: Sugar or foods/drinks containing sugar	binary	193385	158165	35220	female
+6145_1_f	6145_1	Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself	binary	192839	177030	15809	female
+6145_100_f	6145_100	Illness, injury, bereavement, stress in last 2 years: None of the above	binary	192839	86952	105887	female
+6145_2_f	6145_2	Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault of a close relative	binary	192839	166059	26780	female
+6145_3_f	6145_3	Illness, injury, bereavement, stress in last 2 years: Death of a close relative	binary	192839	150540	42299	female
+6145_6_f	6145_6	Illness, injury, bereavement, stress in last 2 years: Financial difficulties	binary	192839	171325	21514	female
+6146_2_f	6146_2	Attendance/disability/mobility allowance: Disability living allowance	binary	192987	185004	7983	female
+6146_3_f	6146_3	Attendance/disability/mobility allowance: Blue badge	binary	192987	186266	6721	female
+6147_3_f	6147_3	Reason for glasses/contact lenses: For just reading/near work as you are getting older (called 'presbyopia')	binary	193912	176695	17217	female
+6147_2_f	6147_2	Reason for glasses/contact lenses: For long-sightedness, i.e. for distance and near, but particularly for near tasks like reading (called 'hypermetropia')	binary	193912	185231	8681	female
+6147_1_f	6147_1	Reason for glasses/contact lenses: For short-sightedness, i.e. only or mainly for distance viewing such as driving, cinema etc (called 'myopia')	binary	193912	178181	15731	female
+6149_100_f	6149_100	Mouth/teeth dental problems: None of the above	binary	193456	78169	115287	female
+6149_6_f	6149_6	Mouth/teeth dental problems: Dentures	binary	193456	162310	31146	female
+6149_4_f	6149_4	Mouth/teeth dental problems: Loose teeth	binary	193456	186239	7217	female
+6149_3_f	6149_3	Mouth/teeth dental problems: Bleeding gums	binary	193456	164483	28973	female
+6149_1_f	6149_1	Mouth/teeth dental problems: Mouth ulcers	binary	193456	171810	21646	female
+6149_5_f	6149_5	Mouth/teeth dental problems: Toothache	binary	193456	186457	6999	female
+6150_100_f	6150_100	Vascular/heart problems diagnosed by doctor: None of the above	binary	193757	49340	144417	female
+6150_4_f	6150_4	Vascular/heart problems diagnosed by doctor: High blood pressure	binary	193757	147476	46281	female
+6151_7_f	6151_7	Fractured bone site(s): Other bones	binary	193291	183572	9719	female
+6152_100_f	6152_100	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: None of the above	binary	193832	66016	127816	female
+6152_8_f	6152_8	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Asthma	binary	193832	169915	23917	female
+6152_9_f	6152_9	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Hayfever, allergic rhinitis or eczema	binary	193832	145346	48486	female
+6154_1_f	6154_1	Medication for pain relief, constipation, heartburn: Aspirin	binary	192214	173302	18912	female
+6154_100_f	6154_100	Medication for pain relief, constipation, heartburn: None of the above	binary	192214	89857	102357	female
+6154_3_f	6154_3	Medication for pain relief, constipation, heartburn: Paracetamol	binary	192214	141761	50453	female
+6154_2_f	6154_2	Medication for pain relief, constipation, heartburn: Ibuprofen (e.g. Nurofen)	binary	192214	158757	33457	female
+6154_5_f	6154_5	Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol)	binary	192214	180025	12189	female
+6155_2_f	6155_2	Vitamin and mineral supplements: Vitamin B	binary	193391	183646	9745	female
+6155_100_f	6155_100	Vitamin and mineral supplements: None of the above	binary	193391	68429	124962	female
+6155_3_f	6155_3	Vitamin and mineral supplements: Vitamin C	binary	193391	176499	16892	female
+6155_7_f	6155_7	Vitamin and mineral supplements: Multivitamins +/- minerals	binary	193391	146200	47191	female
+6157_100_f	6157_100	Why stopped smoking: None of the above	binary	39854	31111	8743	female
+6157_3_f	6157_3	Why stopped smoking: Health precaution	binary	39854	15154	24700	female
+6157_4_f	6157_4	Why stopped smoking: Financial reasons	binary	39854	30974	8880	female
+6159_4_f	6159_4	Pain type(s) experienced in last month: Back pain	binary	193727	146309	47418	female
+6159_100_f	6159_100	Pain type(s) experienced in last month: None of the above	binary	193727	117920	75807	female
+6159_3_f	6159_3	Pain type(s) experienced in last month: Neck or shoulder pain	binary	193727	147569	46158	female
+6159_5_f	6159_5	Pain type(s) experienced in last month: Stomach or abdominal pain	binary	193727	175401	18326	female
+6159_7_f	6159_7	Pain type(s) experienced in last month: Knee pain	binary	193727	154053	39674	female
+6159_1_f	6159_1	Pain type(s) experienced in last month: Headache	binary	193727	148379	45348	female
+6159_6_f	6159_6	Pain type(s) experienced in last month: Hip pain	binary	193727	168674	25053	female
+6160_100_f	6160_100	Leisure/social activities: None of the above	binary	193554	134699	58855	female
+6160_2_f	6160_2	Leisure/social activities: Pub or social club	binary	193554	156024	37530	female
+6160_3_f	6160_3	Leisure/social activities: Religious group	binary	193554	159616	33938	female
+6160_1_f	6160_1	Leisure/social activities: Sports club or gym	binary	193554	134209	59345	female
+6160_5_f	6160_5	Leisure/social activities: Other group activity	binary	193554	141640	51914	female
+6160_4_f	6160_4	Leisure/social activities: Adult education class	binary	193554	175046	18508	female
+6162_1_f	6162_1	Types of transport used (excluding work): Car/motor vehicle	binary	193169	40565	152604	female
+6162_3_f	6162_3	Types of transport used (excluding work): Public transport	binary	193169	130949	62220	female
+6162_2_f	6162_2	Types of transport used (excluding work): Walk	binary	193169	96010	97159	female
+6162_4_f	6162_4	Types of transport used (excluding work): Cycle	binary	193169	183562	9607	female
+6164_1_f	6164_1	Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport)	binary	193096	49675	143421	female
+6164_100_f	6164_100	Types of physical activity in last 4 weeks: None of the above	binary	193096	180698	12398	female
+6164_2_f	6164_2	Types of physical activity in last 4 weeks: Other exercises (eg: swimming, cycling, keep fit, bowling)	binary	193096	96858	96238	female
+6164_5_f	6164_5	Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding, lawn mowing, carpentry, digging)	binary	193096	126089	67007	female
+6164_4_f	6164_4	Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)	binary	193096	89863	103233	female
+6164_3_f	6164_3	Types of physical activity in last 4 weeks: Strenuous sports	binary	193096	179419	13677	female
+6179_100_f	6179_100	Mineral and other dietary supplements: None of the above	binary	193605	91798	101807	female
+6179_1_f	6179_1	Mineral and other dietary supplements: Fish oil (including cod liver oil)	binary	193605	129680	63925	female
+6179_2_f	6179_2	Mineral and other dietary supplements: Glucosamine	binary	193605	150188	43417	female
+6179_4_f	6179_4	Mineral and other dietary supplements: Zinc	binary	193605	184576	9029	female
+20002_1065_f	20002_1065	Non-cancer illness code, self-reported: hypertension	binary	194153	150337	43816	female
+20002_1111_f	20002_1111	Non-cancer illness code, self-reported: asthma	binary	194153	170192	23961	female
+20002_1473_f	20002_1473	Non-cancer illness code, self-reported: high cholesterol	binary	194153	175450	18703	female
+20002_1220_f	20002_1220	Non-cancer illness code, self-reported: diabetes	binary	194153	189120	5033	female
+20002_1286_f	20002_1286	Non-cancer illness code, self-reported: depression	binary	194153	180661	13492	female
+20002_1465_f	20002_1465	Non-cancer illness code, self-reported: osteoarthritis	binary	194153	174756	19397	female
+20002_1387_f	20002_1387	Non-cancer illness code, self-reported: hayfever/allergic rhinitis	binary	194153	183190	10963	female
+20002_99999_f	20002_99999	Non-cancer illness code, self-reported: unclassifiable	binary	194153	186013	8140	female
+20002_1138_f	20002_1138	Non-cancer illness code, self-reported: gastro-oesophageal reflux (gord) / gastric reflux	binary	194153	186228	7925	female
+20003_1140868226_f	20003_1140868226	Treatment/medication code: aspirin	binary	194153	176077	18076	female
+20003_1140879802_f	20003_1140879802	Treatment/medication code: amlodipine	binary	194153	188814	5339	female
+20003_2038460150_f	20003_2038460150	Treatment/medication code: paracetamol	binary	194153	151128	43025	female
+20003_1140861958_f	20003_1140861958	Treatment/medication code: simvastatin	binary	194153	178485	15668	female
+20003_1141194794_f	20003_1141194794	Treatment/medication code: bendroflumethiazide	binary	194153	182628	11525	female
+20003_1140871310_f	20003_1140871310	Treatment/medication code: ibuprofen	binary	194153	165781	28372	female
+20003_1193_f	20003_1193	Treatment/medication code: omega-3/fish oil supplement	binary	194153	185572	8581	female
+20003_1140909674_f	20003_1140909674	Treatment/medication code: cod liver oil capsule	binary	194153	182152	12001	female
+20003_1140866738_f	20003_1140866738	Treatment/medication code: atenolol	binary	194153	188207	5946	female
+20003_1141188442_f	20003_1141188442	Treatment/medication code: glucosamine product	binary	194153	178804	15349	female
+20003_1140864752_f	20003_1140864752	Treatment/medication code: lansoprazole	binary	194153	187461	6692	female
+20003_1140860806_f	20003_1140860806	Treatment/medication code: ramipril	binary	194153	188258	5895	female
+20003_1140865634_f	20003_1140865634	Treatment/medication code: omeprazole	binary	194153	182374	11779	female
+20084_472_f	20084_472	Vitamin and/or mineral supplement use: Fish oil	binary	27958	20737	7221	female
+20090_353_f	20090_353	Type of fat/oil used in cooking: Olive oil	binary	27958	17549	10409	female
+20107_100_f	20107_100	Illnesses of father: None of the above (group 1)	binary	171793	110178	61615	female
+20107_1_f	20107_1	Illnesses of father: Heart disease	binary	173754	115456	58298	female
+20107_8_f	20107_8	Illnesses of father: High blood pressure	binary	171816	131924	39892	female
+20107_10_f	20107_10	Illnesses of father: Alzheimer's disease/dementia	binary	170769	162364	8405	female
+20107_3_f	20107_3	Illnesses of father: Lung cancer	binary	171375	155386	15989	female
+20107_13_f	20107_13	Illnesses of father: Prostate cancer	binary	170718	157728	12990	female
+20107_9_f	20107_9	Illnesses of father: Diabetes	binary	171094	154375	16719	female
+20107_2_f	20107_2	Illnesses of father: Stroke	binary	171732	145190	26542	female
+20107_6_f	20107_6	Illnesses of father: Chronic bronchitis/emphysema	binary	171824	151173	20651	female
+20107_4_f	20107_4	Illnesses of father: Bowel cancer	binary	170780	161003	9777	female
+20107_101_f	20107_101	Illnesses of father: None of the above (group 2)	binary	173462	44832	128630	female
+20110_100_f	20110_100	Illnesses of mother: None of the above (group 1)	binary	182659	112780	69879	female
+20110_9_f	20110_9	Illnesses of mother: Diabetes	binary	182054	164819	17235	female
+20110_8_f	20110_8	Illnesses of mother: High blood pressure	binary	182924	121202	61722	female
+20110_5_f	20110_5	Illnesses of mother: Breast cancer	binary	181961	166515	15446	female
+20110_1_f	20110_1	Illnesses of mother: Heart disease	binary	182934	143152	39782	female
+20110_4_f	20110_4	Illnesses of mother: Bowel cancer	binary	181813	172769	9044	female
+20110_10_f	20110_10	Illnesses of mother: Alzheimer's disease/dementia	binary	182053	165870	16183	female
+20110_12_f	20110_12	Illnesses of mother: Severe depression	binary	181949	168223	13726	female
+20110_2_f	20110_2	Illnesses of mother: Stroke	binary	182456	154815	27641	female
+20110_3_f	20110_3	Illnesses of mother: Lung cancer	binary	181851	174513	7338	female
+20110_6_f	20110_6	Illnesses of mother: Chronic bronchitis/emphysema	binary	182044	170229	11815	female
+20110_101_f	20110_101	Illnesses of mother: None of the above (group 2)	binary	183307	43739	139568	female
+20111_100_f	20111_100	Illnesses of siblings: None of the above (group 1)	binary	155489	53322	102167	female
+20111_8_f	20111_8	Illnesses of siblings: High blood pressure	binary	155321	120113	35208	female
+20111_1_f	20111_1	Illnesses of siblings: Heart disease	binary	154954	138525	16429	female
+20111_12_f	20111_12	Illnesses of siblings: Severe depression	binary	154587	141637	12950	female
+20111_5_f	20111_5	Illnesses of siblings: Breast cancer	binary	154349	147175	7174	female
+20111_9_f	20111_9	Illnesses of siblings: Diabetes	binary	154646	141201	13445	female
+20111_101_f	20111_101	Illnesses of siblings: None of the above (group 2)	binary	156712	26579	130133	female
+20116_0_f	20116_0	Smoking status: Never	binary	193387	79300	114087	female
+20116_1_f	20116_1	Smoking status: Previous	binary	193387	131082	62305	female
+20116_2_f	20116_2	Smoking status: Current	binary	193387	176392	16995	female
+20117_1_f	20117_1	Alcohol drinker status: Previous	binary	193933	186902	7031	female
+20118_5_f	20118_5	Home area population density - urban or rural: England/Wales - Urban - less sparse	binary	192473	43042	149431	female
+20118_6_f	20118_6	Home area population density - urban or rural: England/Wales - Town and Fringe - less sparse	binary	192473	178765	13708	female
+20118_7_f	20118_7	Home area population density - urban or rural: England/Wales - Village - less sparse	binary	192473	182563	9910	female
+20118_11_f	20118_11	Home area population density - urban or rural: Scotland - Large Urban Area	binary	192473	180824	11649	female
+20152_f	20152	Reproduciblity of spirometry measurement using ERS/ATS criteria	binary	144852	24210	120642	female
+20160_f	20160	Ever smoked	binary	193408	84469	108939	female
+20421_f	20421	Ever felt worried, tense, or anxious for most of a month or longer	binary	60832	42043	18789	female
+20425_f	20425	Ever worried more than most people would in similar situation	binary	54784	38739	16045	female
+20441_f	20441	Ever had prolonged loss of interest in normal activities	binary	65898	35998	29900	female
+20446_f	20446	Ever had prolonged feelings of sadness or depression	binary	65924	24389	41535	female
+20499_f	20499	Ever sought or received professional help for mental distress	binary	65886	35381	30505	female
+20500_f	20500	Ever suffered mental distress preventing usual activities	binary	65350	40079	25271	female
+20502_f	20502	Ever had period extreme irritability	binary	63899	46778	17121	female
+20528_f	20528	Diagnosed with life-threatening illness	binary	65818	55869	9949	female
+20529_f	20529	Victim of physically violent crime	binary	65959	56716	9243	female
+20530_f	20530	Witnessed sudden violent death	binary	65994	60104	5890	female
+20544_11_f	20544_11	Mental health problems ever diagnosed by a professional: Depression	binary	65941	49020	16921	female
+20544_15_f	20544_15	Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder	binary	65926	54845	11081	female
+20546_3_f	20546_3	Substances taken for depression: Medication prescribed to you (for at least two weeks)	binary	65924	46377	19547	female
+20547_1_f	20547_1	Activities undertaken to treat depression: Talking therapies, such as psychotherapy, counselling, group therapy or CBT	binary	65924	47997	17927	female
+20548_2_f	20548_2	Manifestations of mania or irritability: I was more restless than usual	binary	63899	56907	6992	female
+22126_f	22126	Doctor diagnosed hayfever or allergic rhinitis	binary	50553	38691	11862	female
+22127_f	22127	Doctor diagnosed asthma	binary	50553	43838	6715	female
+22502_f	22502	Cough on most days	binary	50553	44008	6545	female
+22506_114_f	22506_114	Tobacco smoking: Never smoked	binary	50288	18061	32227	female
+22506_113_f	22506_113	Tobacco smoking: Ex-smoker	binary	50288	33886	16402	female
+100022_f	100022	Alcohol	ordinal	27970	NA	NA	female
+100150_f	100150	Drinking water intake	ordinal	27958	NA	NA	female
+100160_f	100160	Low calorie drink intake	ordinal	27958	NA	NA	female
+100170_f	100170	Fizzy drink intake	ordinal	27958	NA	NA	female
+100190_f	100190	Orange juice intake	ordinal	27955	NA	NA	female
+100250_f	100250	Instant coffee intake	ordinal	27958	NA	NA	female
+100270_f	100270	Filtered coffee intake	ordinal	27958	NA	NA	female
+100370_f	100370	Intake of sugar added to coffee	ordinal	27958	NA	NA	female
+100400_f	100400	Standard tea intake	ordinal	27958	NA	NA	female
+100520_f	100520	Milk intake	ordinal	27953	NA	NA	female
+100590_f	100590	Red wine intake	ordinal	27958	NA	NA	female
+100630_f	100630	Rose wine intake	ordinal	27958	NA	NA	female
+100670_f	100670	White wine intake	ordinal	27958	NA	NA	female
+100710_f	100710	Beer/cider intake	ordinal	27958	NA	NA	female
+100720_f	100720	Fortified wine intake	ordinal	27953	NA	NA	female
+100730_f	100730	Spirits intake	ordinal	27958	NA	NA	female
+102190_f	102190	Cake intake	ordinal	27958	NA	NA	female
+102280_f	102280	Milk chocolate intake	ordinal	27958	NA	NA	female
+102290_f	102290	Dark chocolate intake	ordinal	27956	NA	NA	female
+102330_f	102330	Sweets intake	ordinal	27958	NA	NA	female
+102360_f	102360	Sweet biscuits intake	ordinal	27958	NA	NA	female
+102440_f	102440	Unsalted nuts intake	ordinal	27958	NA	NA	female
+102460_f	102460	Crisp intake	ordinal	27958	NA	NA	female
+102820_f	102820	Hard cheese intake	ordinal	27958	NA	NA	female
+102830_f	102830	Soft cheese intake	ordinal	27958	NA	NA	female
+102840_f	102840	Blue cheese intake	ordinal	27957	NA	NA	female
+103020_f	103020	Beef intake	ordinal	27958	NA	NA	female
+103060_f	103060	Poultry intake	ordinal	27958	NA	NA	female
+103070_f	103070	Bacon intake	ordinal	27958	NA	NA	female
+104020_f	104020	Fried potatoes intake	ordinal	27958	NA	NA	female
+104090_f	104090	Side salad intake	ordinal	27958	NA	NA	female
+104170_f	104170	Carrot intake	ordinal	27958	NA	NA	female
+104210_f	104210	Cucumber intake	ordinal	27958	NA	NA	female
+104240_f	104240	Lettuce intake	ordinal	27958	NA	NA	female
+104290_f	104290	Sweet pepper intake	ordinal	27958	NA	NA	female
+104340_f	104340	Fresh tomato intake	ordinal	27958	NA	NA	female
+104450_f	104450	Apple intake	ordinal	27958	NA	NA	female
+104460_f	104460	Banana intake	ordinal	27958	NA	NA	female
+104530_f	104530	Orange intake	ordinal	27958	NA	NA	female
+104900_f	104900	Time spent doing vigorous physical activity	ordinal	27958	NA	NA	female
+104910_f	104910	Time spent doing moderate physical activity	ordinal	27958	NA	NA	female
+104920_f	104920	Time spent doing light physical activity	ordinal	27958	NA	NA	female
+41215_0_f	41215_0	Detention categories: Informal, not formally detained	binary	194174	177724	16450	female
+41231_1_f	41231_1	Hospital episode type: General episode	binary	194174	60151	134023	female
+41248_1000_f	41248_1000	Destinations on discharge from hospital (recoded): Usual Place of residence	binary	194100	65570	128530	female
+100460_f	100460	Added milk to standard tea	binary	27958	17851	10107	female
+102080_f	102080	Yogurt/ice-cream consumers	binary	27958	15562	12396	female
+102130_f	102130	Dessert consumers	binary	27958	18772	9186	female
+102700_f	102700	Starchy food consumers	binary	27958	20158	7800	female
+102930_f	102930	Egg consumers	binary	27958	22267	5691	female
+103140_f	103140	Fish consumer	binary	27958	19443	8515	female
+104670_f	104670	Vitamin supplement user	binary	27958	15003	12955	female
+110001_f	110001	Invitation to complete online 24-hour recall dietary questionnaire, acceptance	binary	115087	38115	76972	female
+136_f	136	Number of operations, self-reported	ordinal	194153	NA	NA	female
+137_f	137	Number of treatments/medications taken	ordinal	194153	NA	NA	female
+398_f	398	Number of correct matches in round	ordinal	193902	NA	NA	female
+403_f	403	Number of times snap-button pressed	ordinal	193427	NA	NA	female
+709_f	709	Number in household	ordinal	193057	NA	NA	female
+728_f	728	Number of vehicles in household	ordinal	193022	NA	NA	female
+738_f	738	Average total household income before tax	ordinal	161256	NA	NA	female
+777_f	777	Frequency of travelling from home to job workplace	ordinal	103461	NA	NA	female
+806_f	806	Job involves mainly walking or standing	ordinal	105214	NA	NA	female
+816_f	816	Job involves heavy manual or physical work	ordinal	105221	NA	NA	female
+826_f	826	Job involves shift work	ordinal	105118	NA	NA	female
+845_f	845	Age completed full time education	ordinal	131639	NA	NA	female
+864_f	864	Number of days/week walked 10+ minutes	ordinal	190593	NA	NA	female
+884_f	884	Number of days/week of moderate physical activity 10+ minutes	ordinal	183097	NA	NA	female
+894_f	894	Duration of moderate activity	ordinal	140769	NA	NA	female
+904_f	904	Number of days/week of vigorous physical activity 10+ minutes	ordinal	183840	NA	NA	female
+924_f	924	Usual walking pace	ordinal	193007	NA	NA	female
+943_f	943	Frequency of stair climbing in last 4 weeks	ordinal	192228	NA	NA	female
+971_f	971	Frequency of walking for pleasure in last 4 weeks	ordinal	142775	NA	NA	female
+981_f	981	Duration walking for pleasure	ordinal	142677	NA	NA	female
+1011_f	1011	Frequency of light DIY in last 4 weeks	ordinal	97969	NA	NA	female
+1021_f	1021	Duration of light DIY	ordinal	97395	NA	NA	female
+1031_f	1031	Frequency of friend/family visits	ordinal	193057	NA	NA	female
+1050_f	1050	Time spend outdoors in summer	ordinal	173138	NA	NA	female
+1060_f	1060	Time spent outdoors in winter	ordinal	146033	NA	NA	female
+1070_f	1070	Time spent watching television (TV)	ordinal	182831	NA	NA	female
+1080_f	1080	Time spent using computer	ordinal	143553	NA	NA	female
+1090_f	1090	Time spent driving	ordinal	123661	NA	NA	female
+1100_f	1100	Drive faster than motorway speed limit	ordinal	170009	NA	NA	female
+1110_f	1110	Length of mobile phone use	ordinal	191522	NA	NA	female
+1120_f	1120	Weekly usage of mobile phone in last 3 months	ordinal	162550	NA	NA	female
+1130_f	1130	Hands-free device/speakerphone use with mobile phone in last 3 month	ordinal	163699	NA	NA	female
+1140_f	1140	Difference in mobile phone use compared to two years previously	ordinal	161109	NA	NA	female
+1160_f	1160	Sleep duration	ordinal	192810	NA	NA	female
+1170_f	1170	Getting up in morning	ordinal	193717	NA	NA	female
+1180_f	1180	Morning/evening person (chronotype)	ordinal	177604	NA	NA	female
+1190_f	1190	Nap during day	ordinal	194002	NA	NA	female
+1200_f	1200	Sleeplessness / insomnia	ordinal	193987	NA	NA	female
+1220_f	1220	Daytime dozing / sleeping (narcolepsy)	ordinal	193472	NA	NA	female
+1239_f	1239	Current tobacco smoking	ordinal	193956	NA	NA	female
+1249_f	1249	Past tobacco smoking	ordinal	180295	NA	NA	female
+1259_f	1259	Smoking/smokers in household	ordinal	180491	NA	NA	female
+1269_f	1269	Exposure to tobacco smoke at home	ordinal	176884	NA	NA	female
+1279_f	1279	Exposure to tobacco smoke outside home	ordinal	164561	NA	NA	female
+1289_f	1289	Cooked vegetable intake	ordinal	189511	NA	NA	female
+1299_f	1299	Salad / raw vegetable intake	ordinal	185476	NA	NA	female
+1309_f	1309	Fresh fruit intake	ordinal	189137	NA	NA	female
+1319_f	1319	Dried fruit intake	ordinal	177090	NA	NA	female
+1329_f	1329	Oily fish intake	ordinal	193350	NA	NA	female
+1339_f	1339	Non-oily fish intake	ordinal	193492	NA	NA	female
+1349_f	1349	Processed meat intake	ordinal	193815	NA	NA	female
+1359_f	1359	Poultry intake	ordinal	193828	NA	NA	female
+1369_f	1369	Beef intake	ordinal	193478	NA	NA	female
+1379_f	1379	Lamb/mutton intake	ordinal	193167	NA	NA	female
+1389_f	1389	Pork intake	ordinal	193169	NA	NA	female
+1408_f	1408	Cheese intake	ordinal	189335	NA	NA	female
+1458_f	1458	Cereal intake	ordinal	185405	NA	NA	female
+1478_f	1478	Salt added to food	ordinal	194052	NA	NA	female
+1498_f	1498	Coffee intake	ordinal	179723	NA	NA	female
+1518_f	1518	Hot drink temperature	ordinal	192064	NA	NA	female
+1528_f	1528	Water intake	ordinal	181962	NA	NA	female
+1548_f	1548	Variation in diet	ordinal	193481	NA	NA	female
+1558_f	1558	Alcohol intake frequency.	ordinal	193933	NA	NA	female
+1568_f	1568	Average weekly red wine intake	ordinal	125699	NA	NA	female
+1578_f	1578	Average weekly champagne plus white wine intake	ordinal	125588	NA	NA	female
+1588_f	1588	Average weekly beer plus cider intake	ordinal	125842	NA	NA	female
+1598_f	1598	Average weekly spirits intake	ordinal	125454	NA	NA	female
+1608_f	1608	Average weekly fortified wine intake	ordinal	125895	NA	NA	female
+1628_f	1628	Alcohol intake versus 10 years previously	ordinal	177195	NA	NA	female
+1687_f	1687	Comparative body size at age 10	ordinal	191344	NA	NA	female
+1697_f	1697	Comparative height size at age 10	ordinal	190776	NA	NA	female
+1717_f	1717	Skin colour	ordinal	192151	NA	NA	female
+1727_f	1727	Ease of skin tanning	ordinal	189637	NA	NA	female
+1737_f	1737	Childhood sunburn occasions	ordinal	147280	NA	NA	female
+1757_f	1757	Facial ageing	ordinal	177280	NA	NA	female
+1873_f	1873	Number of full brothers	ordinal	191144	NA	NA	female
+1883_f	1883	Number of full sisters	ordinal	191161	NA	NA	female
+2050_f	2050	Frequency of depressed mood in last 2 weeks	ordinal	185244	NA	NA	female
+2060_f	2060	Frequency of unenthusiasm / disinterest in last 2 weeks	ordinal	187724	NA	NA	female
+2070_f	2070	Frequency of tenseness / restlessness in last 2 weeks	ordinal	186430	NA	NA	female
+2080_f	2080	Frequency of tiredness / lethargy in last 2 weeks	ordinal	188176	NA	NA	female
+2110_f	2110	Able to confide	ordinal	189010	NA	NA	female
+2149_f	2149	Lifetime number of sexual partners	ordinal	160093	NA	NA	female
+2178_f	2178	Overall health rating	ordinal	193397	NA	NA	female
+2237_f	2237	Plays computer games	ordinal	193989	NA	NA	female
+2267_f	2267	Use of sun/uv protection	ordinal	192695	NA	NA	female
+2277_f	2277	Frequency of solarium/sunlamp use	ordinal	182669	NA	NA	female
+2296_f	2296	Falls in the last year	ordinal	193754	NA	NA	female
+2306_f	2306	Weight change compared with 1 year ago	ordinal	191038	NA	NA	female
+2355_f	2355	Most recent bowel cancer screening	ordinal	41163	NA	NA	female
+2624_f	2624	Frequency of heavy DIY in last 4 weeks	ordinal	59161	NA	NA	female
+2634_f	2634	Duration of heavy DIY	ordinal	59310	NA	NA	female
+2887_f	2887	Number of cigarettes previously smoked daily	ordinal	39743	NA	NA	female
+2926_f	2926	Number of unsuccessful stop-smoking attempts	ordinal	36632	NA	NA	female
+2936_f	2936	Likelihood of resuming smoking	ordinal	39121	NA	NA	female
+3637_f	3637	Frequency of other exercises in last 4 weeks	ordinal	95441	NA	NA	female
+3647_f	3647	Duration of other exercises	ordinal	95516	NA	NA	female
+4269_f	4269	Number of triplets attempted (left)	ordinal	63184	NA	NA	female
+4270_f	4270	Volume level set by participant (left)	ordinal	62607	NA	NA	female
+4276_f	4276	Number of triplets attempted (right)	ordinal	63197	NA	NA	female
+4277_f	4277	Volume level set by participant (right)	ordinal	62560	NA	NA	female
+4526_f	4526	Happiness	ordinal	63983	NA	NA	female
+4537_f	4537	Work/job satisfaction	ordinal	43352	NA	NA	female
+4548_f	4548	Health satisfaction	ordinal	63968	NA	NA	female
+4559_f	4559	Family relationship satisfaction	ordinal	63716	NA	NA	female
+4570_f	4570	Friendships satisfaction	ordinal	63715	NA	NA	female
+4581_f	4581	Financial situation satisfaction	ordinal	63897	NA	NA	female
+4674_f	4674	Private healthcare	ordinal	63883	NA	NA	female
+4825_f	4825	Noisy workplace	ordinal	63811	NA	NA	female
+4836_f	4836	Loud music exposure frequency	ordinal	63515	NA	NA	female
+5057_f	5057	Number of older siblings	ordinal	55626	NA	NA	female
+5221_f	5221	Index of best refractometry result (right)	ordinal	41577	NA	NA	female
+5237_f	5237	3mm index of best keratometry results (right)	ordinal	40236	NA	NA	female
+5251_f	5251	6mm index of best keratometry results (right)	ordinal	36428	NA	NA	female
+5276_f	5276	Index of best refractometry result (left)	ordinal	41444	NA	NA	female
+5292_f	5292	3mm index of best keratometry results (left)	ordinal	40300	NA	NA	female
+5306_f	5306	6mm index of best keratometry results (left)	ordinal	36286	NA	NA	female
+5364_f	5364	Average weekly intake of other alcoholic drinks	ordinal	41367	NA	NA	female
+670_1_f	670_1	Type of accommodation lived in: A house or bungalow	binary	193588	16591	176997	female
+670_2_f	670_2	Type of accommodation lived in: A flat, maisonette or apartment	binary	193588	177652	15936	female
+680_1_f	680_1	Own or rent accommodation lived in: Own outright (by you or someone in your household)	binary	191729	84946	106783	female
+680_2_f	680_2	Own or rent accommodation lived in: Own with a mortgage	binary	191729	122599	69130	female
+680_3_f	680_3	Own or rent accommodation lived in: Rent - from local authority, local council, housing association	binary	191729	181957	9772	female
+1150_2_f	1150_2	Usual side of head for mobile phone use: Right	binary	163828	68384	95444	female
+1150_1_f	1150_1	Usual side of head for mobile phone use: Left	binary	163828	105291	58537	female
+1150_3_f	1150_3	Usual side of head for mobile phone use: Equally left and right	binary	163828	153981	9847	female
+1210_f	1210	Snoring	binary	178728	128271	50457	female
+1418_2_f	1418_2	Milk type used: Semi-skimmed	binary	194026	73709	120317	female
+1418_1_f	1418_1	Milk type used: Full cream	binary	194026	185335	8691	female
+1418_3_f	1418_3	Milk type used: Skimmed	binary	194026	147398	46628	female
+1428_3_f	1428_3	Spread type: Other type of spread/margarine	binary	193750	99327	94423	female
+1428_0_f	1428_0	Spread type: Never/rarely use spread	binary	193750	170126	23624	female
+1428_1_f	1428_1	Spread type: Butter/spreadable butter	binary	193750	118990	74760	female
+1448_3_f	1448_3	Bread type: Wholemeal or wholegrain	binary	184832	67741	117091	female
+1448_1_f	1448_1	Bread type: White	binary	184832	146910	37922	female
+1448_2_f	1448_2	Bread type: Brown	binary	184832	164645	20187	female
+1468_3_f	1468_3	Cereal type: Oat cereal (e.g. Ready Brek, porridge)	binary	162340	114681	47659	female
+1468_1_f	1468_1	Cereal type: Bran cereal (e.g. All Bran, Branflakes)	binary	162340	133596	28744	female
+1468_2_f	1468_2	Cereal type: Biscuit cereal (e.g. Weetabix)	binary	162340	135464	26876	female
+1468_4_f	1468_4	Cereal type: Muesli	binary	162340	129277	33063	female
+1468_5_f	1468_5	Cereal type: Other (e.g. Cornflakes, Frosties)	binary	162340	136342	25998	female
+1508_2_f	1508_2	Coffee type: Instant coffee	binary	149448	70507	78941	female
+1508_1_f	1508_1	Coffee type: Decaffeinated coffee (any type)	binary	149448	114810	34638	female
+1508_3_f	1508_3	Coffee type: Ground coffee (include espresso, filter etc)	binary	149448	116501	32947	female
+1538_0_f	1538_0	Major dietary changes in the last 5 years: No	binary	193626	78487	115139	female
+1538_1_f	1538_1	Major dietary changes in the last 5 years: Yes, because of illness	binary	193626	174682	18944	female
+1538_2_f	1538_2	Major dietary changes in the last 5 years: Yes, because of other reasons	binary	193626	134083	59543	female
+1618_f	1618	Alcohol usually taken with meals	binary	95822	21955	73867	female
+1677_f	1677	Breastfed as a baby	binary	156387	49290	107097	female
+1707_1_f	1707_1	Handedness (chirality/laterality): Right-handed	binary	194039	19431	174608	female
+1707_2_f	1707_2	Handedness (chirality/laterality): Left-handed	binary	194039	177193	16846	female
+1747_3_f	1747_3	Hair colour (natural, before greying): Light brown	binary	193913	111966	81947	female
+1747_1_f	1747_1	Hair colour (natural, before greying): Blonde	binary	193913	169194	24719	female
+1747_2_f	1747_2	Hair colour (natural, before greying): Red	binary	193913	183736	10177	female
+1747_4_f	1747_4	Hair colour (natural, before greying): Dark brown	binary	193913	121460	72453	female
+1787_f	1787	Maternal smoking around birth	binary	167814	117727	50087	female
+1797_f	1797	Father still alive	binary	189038	144449	44589	female
+1835_f	1835	Mother still alive	binary	191053	113816	77237	female
+1920_f	1920	Mood swings	binary	189711	100302	89409	female
+1930_f	1930	Miserableness	binary	191063	97623	93440	female
+1940_f	1940	Irritability	binary	185252	137598	47654	female
+1950_f	1950	Sensitivity / hurt feelings	binary	188917	67228	121689	female
+1960_f	1960	Fed-up feelings	binary	190162	108874	81288	female
+1970_f	1970	Nervous feelings	binary	188370	137224	51146	female
+1980_f	1980	Worrier / anxious feelings	binary	189455	67673	121782	female
+1990_f	1990	Tense / 'highly strung'	binary	187755	151616	36139	female
+2000_f	2000	Worry too long after embarrassment	binary	185729	84812	100917	female
+2010_f	2010	Suffer from 'nerves'	binary	186332	147286	39046	female
+2020_f	2020	Loneliness, isolation	binary	191014	151794	39220	female
+2030_f	2030	Guilty feelings	binary	188864	124114	64750	female
+2040_f	2040	Risk taking	binary	186820	151595	35225	female
+2090_f	2090	Seen doctor (GP) for nerves, anxiety, tension or depression	binary	192680	112704	79976	female
+2100_f	2100	Seen a psychiatrist for nerves, anxiety, tension or depression	binary	193244	169269	23975	female
+2188_f	2188	Long-standing illness, disability or infirmity	binary	189271	132697	56574	female
+2207_f	2207	Wears glasses or contact lenses	binary	193912	17826	176086	female
+2227_f	2227	Other eye problems	binary	193638	165665	27973	female
+2247_0_f	2247_0	Hearing difficulty/problems: No	binary	185384	40186	145198	female
+2247_1_f	2247_1	Hearing difficulty/problems: Yes	binary	185384	145239	40145	female
+2257_f	2257	Hearing difficulty/problems with background noise	binary	190120	127946	62174	female
+2316_f	2316	Wheeze or whistling in the chest in last year	binary	190988	153658	37330	female
+2335_f	2335	Chest pain or discomfort	binary	192247	165066	27181	female
+2345_f	2345	Ever had bowel cancer screening	binary	192103	132712	59391	female
+2443_f	2443	Diabetes diagnosed by doctor	binary	193726	187137	6589	female
+2453_f	2453	Cancer diagnosed by doctor	binary	193369	175410	17959	female
+2463_f	2463	Fractured/broken bones in last 5 years	binary	193291	173049	20242	female
+2473_f	2473	Other serious medical condition/disability diagnosed by doctor	binary	190106	151963	38143	female
+2492_f	2492	Taking other prescription medications	binary	193645	99095	94550	female
+2644_f	2644	Light smokers, at least 100 smokes in lifetime	binary	52800	30938	21862	female
+2654_7_f	2654_7	Non-butter spread type details: Polyunsaturated/sunflower oil based spread (eg: Flora)	binary	94329	63187	31142	female
+2654_2_f	2654_2	Non-butter spread type details: Flora Pro-Active or Benecol	binary	94329	79656	14673	female
+2654_4_f	2654_4	Non-butter spread type details: Soft (tub) margarine	binary	94329	86232	8097	female
+2654_6_f	2654_6	Non-butter spread type details: Olive oil based spread (eg: Bertolli)	binary	94329	69726	24603	female
+2654_8_f	2654_8	Non-butter spread type details: Other low or reduced fat spread	binary	94329	82850	11479	female
+2664_5_f	2664_5	Reason for reducing amount of alcohol drunk: Other reason	binary	63598	27799	35799	female
+2664_3_f	2664_3	Reason for reducing amount of alcohol drunk: Health precaution	binary	63598	43131	20467	female
+2907_f	2907	Ever stopped smoking for 6+ months	binary	39609	21770	17839	female
+3799_f	3799	Headaches for 3+ months	binary	44413	21803	22610	female
+4501_f	4501	Non-accidental death in close genetic family	binary	61234	45655	15579	female
+4598_f	4598	Ever depressed for a whole week	binary	63054	25307	37747	female
+4631_f	4631	Ever unenthusiastic/disinterested for a whole week	binary	61465	35921	25544	female
+4653_f	4653	Ever highly irritable/argumentative for 2 days	binary	62711	50901	11810	female
+4728_f	4728	Leg pain on walking	binary	63606	49696	13910	female
+4803_0_f	4803_0	Tinnitus: No, never	binary	63180	16661	46519	female
+4803_13_f	4803_13	Tinnitus: Yes, now some of the time	binary	63180	57878	5302	female
+4803_14_f	4803_14	Tinnitus: Yes, but not now, but have in the past	binary	63180	56207	6973	female
+4979_f	4979	FI5 : family relationship calculation	binary	61001	29140	31861	female
+189_irnt_f	189_irnt	Townsend deprivation index at recruitment	continuous_irnt	193944	NA	NA	female
+20016_irnt_f	20016_irnt	Fluid intelligence score	continuous_irnt	62810	NA	NA	female
+20127_irnt_f	20127_irnt	Neuroticism score	continuous_irnt	155126	NA	NA	female
+24019_irnt_f	24019_irnt	Particulate matter air pollution (pm10); 2007	continuous_irnt	191032	NA	NA	female
+30030_irnt_f	30030_irnt	Haematocrit percentage	continuous_irnt	188076	NA	NA	female
+30510_irnt_f	30510_irnt	Creatinine (enzymatic) in urine	continuous_irnt	188059	NA	NA	female
+K57_m	K57	Diagnoses - main ICD10: K57 Diverticular disease of intestine	categorical	167020	161349	5671	male
+M17_m	M17	Diagnoses - main ICD10: M17 Gonarthrosis [arthrosis of knee]	categorical	167020	161351	5669	male
+R07_m	R07	Diagnoses - main ICD10: R07 Pain in throat and chest	categorical	167020	154637	12383	male
+R10_m	R10	Diagnoses - main ICD10: R10 Abdominal and pelvic pain	categorical	167020	159808	7212	male
+I84_m	I84	Diagnoses - main ICD10: I84 Haemorrhoids	categorical	167020	160961	6059	male
+H26_m	H26	Diagnoses - main ICD10: H26 Other cataract	categorical	167020	161908	5112	male
+K29_m	K29	Diagnoses - main ICD10: K29 Gastritis and duodenitis	categorical	167020	161505	5515	male
+M23_m	M23	Diagnoses - main ICD10: M23 Internal derangement of knee	categorical	167020	160196	6824	male
+K62_m	K62	Diagnoses - main ICD10: K62 Other diseases of anus and rectum	categorical	167020	160324	6696	male
+K11_HERNIA_m	K11_HERNIA	Hernia	categorical	167020	148873	18147	male
+XIX_INJURY_POISON_m	XIX_INJURY_POISON	Injury, poisoning and certain other consequences of external causes	categorical	167020	144756	22264	male
+XVIII_MISCFINDINGS_m	XVIII_MISCFINDINGS	Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified	categorical	167020	120799	46221	male
+H7_LENS_m	H7_LENS	Disorders of lens	categorical	167020	159359	7661	male
+C_OTHER_SKIN_m	C_OTHER_SKIN	Other malignant neoplasms of skin	categorical	167020	159453	7567	male
+PULMONARYDG_m	PULMONARYDG	Other pulmonary diagnosis	categorical	167020	153428	13592	male
+ILD_DIFF_DG_m	ILD_DIFF_DG	ILD differential diagnosis	categorical	167020	152750	14270	male
+XXI_HEALTHFACTORS_m	XXI_HEALTHFACTORS	Factors influencing health status and contact with health services	categorical	167020	144970	22050	male
+XII_SKIN_SUBCUTAN_m	XII_SKIN_SUBCUTAN	Diseases of the skin and subcutaneous tissue	categorical	167020	154058	12962	male
+KNEE_ARTHROSIS_m	KNEE_ARTHROSIS	Gonarthrosis [arthrosis of knee](FG)	categorical	167020	161201	5819	male
+VII_EYE_ADNEXA_m	VII_EYE_ADNEXA	Diseases of the eye and adnexa	categorical	167020	153541	13479	male
+II_NEOPLASM_m	II_NEOPLASM	Neoplasms	categorical	167020	137496	29524	male
+XIV_GENITOURINARY_m	XIV_GENITOURINARY	Diseases of the genitourinary system	categorical	167020	145045	21975	male
+I9_IHD_m	I9_IHD	Ischaemic heart disease, wide definition	categorical	167020	151964	15056	male
+X_RESPIRATORY_m	X_RESPIRATORY	Diseases of the respiratory system	categorical	167020	153428	13592	male
+C3_SKIN_m	C3_SKIN	Malignant neoplasm of skin	categorical	167020	158589	8431	male
+VI_NERVOUS_m	VI_NERVOUS	Diseases of the nervous system	categorical	167020	157639	9381	male
+ICDMAIN_ANY_ENTRY_m	ICDMAIN_ANY_ENTRY	Any ICDMAIN event in hilmo or causes of death	categorical	167020	38957	128063	male
+C_SKIN_m	C_SKIN	NA	categorical	167020	158589	8431	male
+M13_OTHERJOINT_m	M13_OTHERJOINT	#Other joint disorders	categorical	167020	155490	11530	male
+IX_CIRCULATORY_m	IX_CIRCULATORY	Diseases of the circulatory system	categorical	167020	132287	34733	male
+ASTHMA_MEDICATIO_COMORB_m	ASTHMA_MEDICATIO_COMORB	Medication related adverse effects	categorical	167020	157388	9632	male
+XIII_MUSCULOSKELET_m	XIII_MUSCULOSKELET	Diseases of the musculoskeletal system and connective tissue	categorical	167020	132465	34555	male
+COPD_EXCL_m	COPD_EXCL	COPD differential diagnosis	categorical	167020	152750	14270	male
+PULM_MEDICATIO_COMORB_m	PULM_MEDICATIO_COMORB	Medication related adverse effects (Asthma/COPD)	categorical	167020	156718	10302	male
+XI_DIGESTIVE_m	XI_DIGESTIVE	Diseases of the digestive system	categorical	167020	110411	56609	male
+M13_ARTHROSIS_m	M13_ARTHROSIS	#Arthrosis	categorical	167020	155885	11135	male
+C3_OTHER_SKIN_m	C3_OTHER_SKIN	Other malignant neoplasms of skin	categorical	167020	159453	7567	male
+136_m	136	Number of operations, self-reported	ordinal	166988	NA	NA	male
+137_m	137	Number of treatments/medications taken	ordinal	166988	NA	NA	male
+398_m	398	Number of correct matches in round	ordinal	166784	NA	NA	male
+403_m	403	Number of times snap-button pressed	ordinal	166251	NA	NA	male
+709_m	709	Number in household	ordinal	165906	NA	NA	male
+728_m	728	Number of vehicles in household	ordinal	165732	NA	NA	male
+738_m	738	Average total household income before tax	ordinal	149772	NA	NA	male
+777_m	777	Frequency of travelling from home to job workplace	ordinal	97806	NA	NA	male
+806_m	806	Job involves mainly walking or standing	ordinal	99742	NA	NA	male
+816_m	816	Job involves heavy manual or physical work	ordinal	99779	NA	NA	male
+826_m	826	Job involves shift work	ordinal	99665	NA	NA	male
+845_m	845	Age completed full time education	ordinal	108908	NA	NA	male
+864_m	864	Number of days/week walked 10+ minutes	ordinal	164437	NA	NA	male
+884_m	884	Number of days/week of moderate physical activity 10+ minutes	ordinal	160846	NA	NA	male
+894_m	894	Duration of moderate activity	ordinal	128057	NA	NA	male
+904_m	904	Number of days/week of vigorous physical activity 10+ minutes	ordinal	160244	NA	NA	male
+924_m	924	Usual walking pace	ordinal	165967	NA	NA	male
+943_m	943	Frequency of stair climbing in last 4 weeks	ordinal	165492	NA	NA	male
+971_m	971	Frequency of walking for pleasure in last 4 weeks	ordinal	114703	NA	NA	male
+981_m	981	Duration walking for pleasure	ordinal	114653	NA	NA	male
+1011_m	1011	Frequency of light DIY in last 4 weeks	ordinal	82525	NA	NA	male
+1021_m	1021	Duration of light DIY	ordinal	82153	NA	NA	male
+1031_m	1031	Frequency of friend/family visits	ordinal	165764	NA	NA	male
+1050_m	1050	Time spend outdoors in summer	ordinal	154579	NA	NA	male
+1060_m	1060	Time spent outdoors in winter	ordinal	138856	NA	NA	male
+1070_m	1070	Time spent watching television (TV)	ordinal	159028	NA	NA	male
+1080_m	1080	Time spent using computer	ordinal	137197	NA	NA	male
+1090_m	1090	Time spent driving	ordinal	117696	NA	NA	male
+1100_m	1100	Drive faster than motorway speed limit	ordinal	157183	NA	NA	male
+1110_m	1110	Length of mobile phone use	ordinal	165096	NA	NA	male
+1120_m	1120	Weekly usage of mobile phone in last 3 months	ordinal	138607	NA	NA	male
+1130_m	1130	Hands-free device/speakerphone use with mobile phone in last 3 month	ordinal	139034	NA	NA	male
+1140_m	1140	Difference in mobile phone use compared to two years previously	ordinal	137130	NA	NA	male
+1160_m	1160	Sleep duration	ordinal	166210	NA	NA	male
+1170_m	1170	Getting up in morning	ordinal	166514	NA	NA	male
+1180_m	1180	Morning/evening person (chronotype)	ordinal	144884	NA	NA	male
+1190_m	1190	Nap during day	ordinal	166853	NA	NA	male
+1200_m	1200	Sleeplessness / insomnia	ordinal	166751	NA	NA	male
+1220_m	1220	Daytime dozing / sleeping (narcolepsy)	ordinal	166280	NA	NA	male
+1239_m	1239	Current tobacco smoking	ordinal	166841	NA	NA	male
+1249_m	1249	Past tobacco smoking	ordinal	151846	NA	NA	male
+1259_m	1259	Smoking/smokers in household	ordinal	152082	NA	NA	male
+1269_m	1269	Exposure to tobacco smoke at home	ordinal	149792	NA	NA	male
+1279_m	1279	Exposure to tobacco smoke outside home	ordinal	141630	NA	NA	male
+1289_m	1289	Cooked vegetable intake	ordinal	160893	NA	NA	male
+1299_m	1299	Salad / raw vegetable intake	ordinal	154125	NA	NA	male
+1309_m	1309	Fresh fruit intake	ordinal	159147	NA	NA	male
+1319_m	1319	Dried fruit intake	ordinal	152044	NA	NA	male
+1329_m	1329	Oily fish intake	ordinal	165990	NA	NA	male
+1339_m	1339	Non-oily fish intake	ordinal	166190	NA	NA	male
+1349_m	1349	Processed meat intake	ordinal	166653	NA	NA	male
+1359_m	1359	Poultry intake	ordinal	166562	NA	NA	male
+1369_m	1369	Beef intake	ordinal	166306	NA	NA	male
+1379_m	1379	Lamb/mutton intake	ordinal	165835	NA	NA	male
+1389_m	1389	Pork intake	ordinal	165946	NA	NA	male
+1408_m	1408	Cheese intake	ordinal	163123	NA	NA	male
+1458_m	1458	Cereal intake	ordinal	159614	NA	NA	male
+1478_m	1478	Salt added to food	ordinal	166902	NA	NA	male
+1498_m	1498	Coffee intake	ordinal	154936	NA	NA	male
+1518_m	1518	Hot drink temperature	ordinal	165192	NA	NA	male
+1528_m	1528	Water intake	ordinal	151401	NA	NA	male
+1548_m	1548	Variation in diet	ordinal	166271	NA	NA	male
+1558_m	1558	Alcohol intake frequency.	ordinal	166793	NA	NA	male
+1568_m	1568	Average weekly red wine intake	ordinal	132074	NA	NA	male
+1578_m	1578	Average weekly champagne plus white wine intake	ordinal	132035	NA	NA	male
+1588_m	1588	Average weekly beer plus cider intake	ordinal	132414	NA	NA	male
+1598_m	1598	Average weekly spirits intake	ordinal	131972	NA	NA	male
+1608_m	1608	Average weekly fortified wine intake	ordinal	132296	NA	NA	male
+1628_m	1628	Alcohol intake versus 10 years previously	ordinal	157794	NA	NA	male
+1687_m	1687	Comparative body size at age 10	ordinal	163652	NA	NA	male
+1697_m	1697	Comparative height size at age 10	ordinal	164555	NA	NA	male
+1717_m	1717	Skin colour	ordinal	164379	NA	NA	male
+1727_m	1727	Ease of skin tanning	ordinal	164060	NA	NA	male
+1737_m	1737	Childhood sunburn occasions	ordinal	122454	NA	NA	male
+1757_m	1757	Facial ageing	ordinal	153129	NA	NA	male
+1873_m	1873	Number of full brothers	ordinal	164182	NA	NA	male
+1883_m	1883	Number of full sisters	ordinal	164229	NA	NA	male
+2050_m	2050	Frequency of depressed mood in last 2 weeks	ordinal	160713	NA	NA	male
+2060_m	2060	Frequency of unenthusiasm / disinterest in last 2 weeks	ordinal	161907	NA	NA	male
+2070_m	2070	Frequency of tenseness / restlessness in last 2 weeks	ordinal	161535	NA	NA	male
+2080_m	2080	Frequency of tiredness / lethargy in last 2 weeks	ordinal	162404	NA	NA	male
+2110_m	2110	Able to confide	ordinal	161608	NA	NA	male
+2149_m	2149	Lifetime number of sexual partners	ordinal	136516	NA	NA	male
+2178_m	2178	Overall health rating	ordinal	166284	NA	NA	male
+2237_m	2237	Plays computer games	ordinal	166828	NA	NA	male
+2267_m	2267	Use of sun/uv protection	ordinal	165864	NA	NA	male
+2277_m	2277	Frequency of solarium/sunlamp use	ordinal	157974	NA	NA	male
+2296_m	2296	Falls in the last year	ordinal	166590	NA	NA	male
+2306_m	2306	Weight change compared with 1 year ago	ordinal	164091	NA	NA	male
+2355_m	2355	Most recent bowel cancer screening	ordinal	40245	NA	NA	male
+2624_m	2624	Frequency of heavy DIY in last 4 weeks	ordinal	86029	NA	NA	male
+2634_m	2634	Duration of heavy DIY	ordinal	86063	NA	NA	male
+2887_m	2887	Number of cigarettes previously smoked daily	ordinal	44713	NA	NA	male
+2926_m	2926	Number of unsuccessful stop-smoking attempts	ordinal	44394	NA	NA	male
+2936_m	2936	Likelihood of resuming smoking	ordinal	48112	NA	NA	male
+3637_m	3637	Frequency of other exercises in last 4 weeks	ordinal	77064	NA	NA	male
+3647_m	3647	Duration of other exercises	ordinal	77134	NA	NA	male
+4269_m	4269	Number of triplets attempted (left)	ordinal	54668	NA	NA	male
+4270_m	4270	Volume level set by participant (left)	ordinal	54183	NA	NA	male
+4276_m	4276	Number of triplets attempted (right)	ordinal	54706	NA	NA	male
+4277_m	4277	Volume level set by participant (right)	ordinal	54195	NA	NA	male
+4526_m	4526	Happiness	ordinal	55552	NA	NA	male
+4537_m	4537	Work/job satisfaction	ordinal	38838	NA	NA	male
+4548_m	4548	Health satisfaction	ordinal	55599	NA	NA	male
+4559_m	4559	Family relationship satisfaction	ordinal	55102	NA	NA	male
+4570_m	4570	Friendships satisfaction	ordinal	54934	NA	NA	male
+4581_m	4581	Financial situation satisfaction	ordinal	55497	NA	NA	male
+4674_m	4674	Private healthcare	ordinal	55417	NA	NA	male
+4825_m	4825	Noisy workplace	ordinal	55161	NA	NA	male
+4836_m	4836	Loud music exposure frequency	ordinal	54884	NA	NA	male
+5057_m	5057	Number of older siblings	ordinal	47827	NA	NA	male
+5221_m	5221	Index of best refractometry result (right)	ordinal	36406	NA	NA	male
+5237_m	5237	3mm index of best keratometry results (right)	ordinal	35174	NA	NA	male
+5251_m	5251	6mm index of best keratometry results (right)	ordinal	29828	NA	NA	male
+5276_m	5276	Index of best refractometry result (left)	ordinal	36295	NA	NA	male
+5292_m	5292	3mm index of best keratometry results (left)	ordinal	35098	NA	NA	male
+5306_m	5306	6mm index of best keratometry results (left)	ordinal	29265	NA	NA	male
+5364_m	5364	Average weekly intake of other alcoholic drinks	ordinal	44053	NA	NA	male
+670_1_m	670_1	Type of accommodation lived in: A house or bungalow	binary	166500	16643	149857	male
+670_2_m	670_2	Type of accommodation lived in: A flat, maisonette or apartment	binary	166500	150585	15915	male
+680_1_m	680_1	Own or rent accommodation lived in: Own outright (by you or someone in your household)	binary	164611	78036	86575	male
+680_2_m	680_2	Own or rent accommodation lived in: Own with a mortgage	binary	164611	102508	62103	male
+680_3_m	680_3	Own or rent accommodation lived in: Rent - from local authority, local council, housing association	binary	164611	155415	9196	male
+1150_2_m	1150_2	Usual side of head for mobile phone use: Right	binary	139181	59270	79911	male
+1150_1_m	1150_1	Usual side of head for mobile phone use: Left	binary	139181	89916	49265	male
+1150_3_m	1150_3	Usual side of head for mobile phone use: Equally left and right	binary	139181	129176	10005	male
+1210_m	1210	Snoring	binary	157592	82393	75199	male
+1418_2_m	1418_2	Milk type used: Semi-skimmed	binary	166780	52227	114553	male
+1418_1_m	1418_1	Milk type used: Full cream	binary	166780	152569	14211	male
+1418_3_m	1418_3	Milk type used: Skimmed	binary	166780	139321	27459	male
+1428_3_m	1428_3	Spread type: Other type of spread/margarine	binary	166541	70371	96170	male
+1428_0_m	1428_0	Spread type: Never/rarely use spread	binary	166541	153586	12955	male
+1428_1_m	1428_1	Spread type: Butter/spreadable butter	binary	166541	110111	56430	male
+1448_3_m	1448_3	Bread type: Wholemeal or wholegrain	binary	163592	79670	83922	male
+1448_1_m	1448_1	Bread type: White	binary	163592	110062	53530	male
+1448_2_m	1448_2	Bread type: Brown	binary	163592	142261	21331	male
+1468_3_m	1468_3	Cereal type: Oat cereal (e.g. Ready Brek, porridge)	binary	137558	108866	28692	male
+1468_1_m	1468_1	Cereal type: Bran cereal (e.g. All Bran, Branflakes)	binary	137558	115693	21865	male
+1468_2_m	1468_2	Cereal type: Biscuit cereal (e.g. Weetabix)	binary	137558	111124	26434	male
+1468_4_m	1468_4	Cereal type: Muesli	binary	137558	109098	28460	male
+1468_5_m	1468_5	Cereal type: Other (e.g. Cornflakes, Frosties)	binary	137558	105451	32107	male
+1508_2_m	1508_2	Coffee type: Instant coffee	binary	134001	54556	79445	male
+1508_1_m	1508_1	Coffee type: Decaffeinated coffee (any type)	binary	134001	113329	20672	male
+1508_3_m	1508_3	Coffee type: Ground coffee (include espresso, filter etc)	binary	134001	101986	32015	male
+1538_0_m	1538_0	Major dietary changes in the last 5 years: No	binary	166668	60439	106229	male
+1538_1_m	1538_1	Major dietary changes in the last 5 years: Yes, because of illness	binary	166668	147561	19107	male
+1538_2_m	1538_2	Major dietary changes in the last 5 years: Yes, because of other reasons	binary	166668	125336	41332	male
+1618_m	1618	Alcohol usually taken with meals	binary	88894	37597	51297	male
+1677_m	1677	Breastfed as a baby	binary	117356	30615	86741	male
+1707_1_m	1707_1	Handedness (chirality/laterality): Right-handed	binary	166874	21240	145634	male
+1707_2_m	1707_2	Handedness (chirality/laterality): Left-handed	binary	166874	149135	17739	male
+1747_3_m	1747_3	Hair colour (natural, before greying): Light brown	binary	166357	100744	65613	male
+1747_1_m	1747_1	Hair colour (natural, before greying): Blonde	binary	166357	149898	16459	male
+1747_2_m	1747_2	Hair colour (natural, before greying): Red	binary	166357	159919	6438	male
+1747_4_m	1747_4	Hair colour (natural, before greying): Dark brown	binary	166357	104183	62174	male
+1787_m	1787	Maternal smoking around birth	binary	142128	97033	45095	male
+1797_m	1797	Father still alive	binary	162500	125860	36640	male
+1835_m	1835	Mother still alive	binary	163976	100967	63009	male
+1920_m	1920	Mood swings	binary	162893	93320	69573	male
+1930_m	1930	Miserableness	binary	164119	105807	58312	male
+1940_m	1940	Irritability	binary	159979	110771	49208	male
+1950_m	1950	Sensitivity / hurt feelings	binary	161904	88838	73066	male
+1960_m	1960	Fed-up feelings	binary	163602	101558	62044	male
+1970_m	1970	Nervous feelings	binary	163459	131485	31974	male
+1980_m	1980	Worrier / anxious feelings	binary	162378	84697	77681	male
+1990_m	1990	Tense / 'highly strung'	binary	162404	138030	24374	male
+2000_m	2000	Worry too long after embarrassment	binary	160798	96405	64393	male
+2010_m	2010	Suffer from 'nerves'	binary	161750	126858	34892	male
+2020_m	2020	Loneliness, isolation	binary	164569	140281	24288	male
+2030_m	2030	Guilty feelings	binary	163043	127665	35378	male
+2040_m	2040	Risk taking	binary	161729	106454	55275	male
+2090_m	2090	Seen doctor (GP) for nerves, anxiety, tension or depression	binary	166013	122461	43552	male
+2100_m	2100	Seen a psychiatrist for nerves, anxiety, tension or depression	binary	166291	149033	17258	male
+2188_m	2188	Long-standing illness, disability or infirmity	binary	163527	105303	58224	male
+2207_m	2207	Wears glasses or contact lenses	binary	166765	21083	145682	male
+2227_m	2227	Other eye problems	binary	166496	142749	23747	male
+2247_0_m	2247_0	Hearing difficulty/problems: No	binary	161251	50611	110640	male
+2247_1_m	2247_1	Hearing difficulty/problems: Yes	binary	161251	110686	50565	male
+2257_m	2257	Hearing difficulty/problems with background noise	binary	163863	91896	71967	male
+2316_m	2316	Wheeze or whistling in the chest in last year	binary	163535	127037	36498	male
+2335_m	2335	Chest pain or discomfort	binary	165260	136208	29052	male
+2345_m	2345	Ever had bowel cancer screening	binary	163250	108166	55084	male
+2443_m	2443	Diabetes diagnosed by doctor	binary	166466	155780	10686	male
+2453_m	2453	Cancer diagnosed by doctor	binary	166612	156062	10550	male
+2463_m	2463	Fractured/broken bones in last 5 years	binary	165950	151412	14538	male
+2473_m	2473	Other serious medical condition/disability diagnosed by doctor	binary	164482	129660	34822	male
+2492_m	2492	Taking other prescription medications	binary	166382	91939	74443	male
+2644_m	2644	Light smokers, at least 100 smokes in lifetime	binary	44221	21830	22391	male
+2654_7_m	2654_7	Non-butter spread type details: Polyunsaturated/sunflower oil based spread (eg: Flora)	binary	95765	62582	33183	male
+2654_2_m	2654_2	Non-butter spread type details: Flora Pro-Active or Benecol	binary	95765	81390	14375	male
+2654_4_m	2654_4	Non-butter spread type details: Soft (tub) margarine	binary	95765	80237	15528	male
+2654_6_m	2654_6	Non-butter spread type details: Olive oil based spread (eg: Bertolli)	binary	95765	73338	22427	male
+2654_8_m	2654_8	Non-butter spread type details: Other low or reduced fat spread	binary	95765	88209	7556	male
+2664_5_m	2664_5	Reason for reducing amount of alcohol drunk: Other reason	binary	70435	35625	34810	male
+2664_3_m	2664_3	Reason for reducing amount of alcohol drunk: Health precaution	binary	70435	47034	23401	male
+2907_m	2907	Ever stopped smoking for 6+ months	binary	48328	28264	20064	male
+3799_m	3799	Headaches for 3+ months	binary	25768	16303	9465	male
+4501_m	4501	Non-accidental death in close genetic family	binary	52471	37006	15465	male
+4598_m	4598	Ever depressed for a whole week	binary	54651	29279	25372	male
+4631_m	4631	Ever unenthusiastic/disinterested for a whole week	binary	53680	36850	16830	male
+4653_m	4653	Ever highly irritable/argumentative for 2 days	binary	54648	45528	9120	male
+4728_m	4728	Leg pain on walking	binary	55299	43212	12087	male
+4803_0_m	4803_0	Tinnitus: No, never	binary	54702	17606	37096	male
+4803_13_m	4803_13	Tinnitus: Yes, now some of the time	binary	54702	49515	5187	male
+4803_14_m	4803_14	Tinnitus: Yes, but not now, but have in the past	binary	54702	48595	6107	male
+4979_m	4979	FI5 : family relationship calculation	binary	52355	28294	24061	male
+20018_m	20018	Prospective memory result	ordinal	55600	NA	NA	male
+20077_m	20077	Number of diet questionnaires completed	ordinal	71425	NA	NA	male
+20128_m	20128	Number of fluid intelligence questions attempted within time limit	ordinal	54321	NA	NA	male
+20403_m	20403	Amount of alcohol drunk on a typical drinking day	ordinal	48784	NA	NA	male
+20407_m	20407	Frequency of failure to fulfil normal expectations due to drinking alcohol in last year	ordinal	35273	NA	NA	male
+20408_m	20408	Frequency of memory loss due to drinking alcohol in last year	ordinal	35269	NA	NA	male
+20409_m	20409	Frequency of feeling guilt or remorse after drinking alcohol in last year	ordinal	35258	NA	NA	male
+20412_m	20412	Frequency of needing morning drink of alcohol after heavy drinking session in last year	ordinal	35300	NA	NA	male
+20413_m	20413	Frequency of inability to cease drinking in last year	ordinal	35241	NA	NA	male
+20414_m	20414	Frequency of drinking alcohol	ordinal	51874	NA	NA	male
+20416_m	20416	Frequency of consuming six or more units of alcohol	ordinal	48855	NA	NA	male
+20436_m	20436	Fraction of day affected during worst episode of depression	ordinal	22698	NA	NA	male
+20438_m	20438	Duration of worst depression	ordinal	23908	NA	NA	male
+20439_m	20439	Frequency of depressed days during worst episode of depression	ordinal	23386	NA	NA	male
+20440_m	20440	Impact on normal roles during worst period of depression	ordinal	24160	NA	NA	male
+20453_m	20453	Ever taken cannabis	ordinal	51869	NA	NA	male
+20458_m	20458	General happiness	ordinal	51751	NA	NA	male
+20459_m	20459	General happiness with own health	ordinal	51849	NA	NA	male
+20460_m	20460	Belief that own life is meaningful	ordinal	50501	NA	NA	male
+20479_m	20479	Ever thought that life not worth living	ordinal	51702	NA	NA	male
+20485_m	20485	Ever contemplated self-harm	ordinal	51790	NA	NA	male
+20487_m	20487	Felt hated by family member as a child	ordinal	51845	NA	NA	male
+20488_m	20488	Physically abused by family as a child	ordinal	51869	NA	NA	male
+20489_m	20489	Felt loved as a child	ordinal	51757	NA	NA	male
+20490_m	20490	Sexually molested as a child	ordinal	51656	NA	NA	male
+20491_m	20491	Someone to take to doctor when needed as a child	ordinal	51672	NA	NA	male
+20495_m	20495	Avoided activities or situations because of previous stressful experience in past month	ordinal	51884	NA	NA	male
+20497_m	20497	Repeated disturbing thoughts of stressful experience in past month	ordinal	51894	NA	NA	male
+20498_m	20498	Felt very upset when reminded of stressful experience in past month	ordinal	51898	NA	NA	male
+20505_m	20505	Recent easy annoyance or irritability	ordinal	51725	NA	NA	male
+20506_m	20506	Recent feelings or nervousness or anxiety	ordinal	51789	NA	NA	male
+20507_m	20507	Recent feelings of inadequacy	ordinal	51758	NA	NA	male
+20508_m	20508	Recent trouble concentrating on things	ordinal	51884	NA	NA	male
+20509_m	20509	Recent inability to stop or control worrying	ordinal	51787	NA	NA	male
+20510_m	20510	Recent feelings of depression	ordinal	51814	NA	NA	male
+20511_m	20511	Recent poor appetite or overeating	ordinal	51908	NA	NA	male
+20512_m	20512	Recent feelings of foreboding	ordinal	51753	NA	NA	male
+20513_m	20513	Recent thoughts of suicide or self-harm	ordinal	51605	NA	NA	male
+20514_m	20514	Recent lack of interest or pleasure in doing things	ordinal	51856	NA	NA	male
+20515_m	20515	Recent trouble relaxing	ordinal	51833	NA	NA	male
+20516_m	20516	Recent restlessness	ordinal	51855	NA	NA	male
+20517_m	20517	Trouble falling or staying asleep, or sleeping too much	ordinal	51844	NA	NA	male
+20518_m	20518	Recent changes in speed/amount of moving or speaking	ordinal	51879	NA	NA	male
+20519_m	20519	Recent feelings of tiredness or low energy	ordinal	51855	NA	NA	male
+20520_m	20520	Recent worrying too much about different things	ordinal	51773	NA	NA	male
+20521_m	20521	Belittlement by partner or ex-partner as an adult	ordinal	51835	NA	NA	male
+20522_m	20522	Been in a confiding relationship as an adult	ordinal	50958	NA	NA	male
+20523_m	20523	Physical violence by partner or ex-partner as an adult	ordinal	51855	NA	NA	male
+20524_m	20524	Sexual interference by partner or ex-partner without consent as an adult	ordinal	51873	NA	NA	male
+20525_m	20525	Able to pay rent/mortgage as an adult	ordinal	51203	NA	NA	male
+22599_m	22599	Number of jobs held	ordinal	40155	NA	NA	male
+6138_3_m	6138_3	Qualifications: O levels/GCSEs or equivalent	binary	165249	92166	73083	male
+6138_1_m	6138_1	Qualifications: College or University degree	binary	165249	109279	55970	male
+6138_100_m	6138_100	Qualifications: None of the above	binary	165249	136784	28465	male
+6138_2_m	6138_2	Qualifications: A levels/AS levels or equivalent	binary	165249	120101	45148	male
+6138_6_m	6138_6	Qualifications: Other professional qualifications eg: nursing, teaching	binary	165249	119476	45773	male
+6138_5_m	6138_5	Qualifications: NVQ or HND or HNC or equivalent	binary	165249	127007	38242	male
+6138_4_m	6138_4	Qualifications: CSEs or equivalent	binary	165249	144178	21071	male
+6139_100_m	6139_100	Gas or solid-fuel cooking/heating: None of the above	binary	166427	136687	29740	male
+6139_1_m	6139_1	Gas or solid-fuel cooking/heating: A gas hob or gas cooker	binary	166427	49881	116546	male
+6139_3_m	6139_3	Gas or solid-fuel cooking/heating: An open solid fuel fire that you use regularly in winter time	binary	166427	151618	14809	male
+6139_2_m	6139_2	Gas or solid-fuel cooking/heating: A gas fire that you use regularly in winter time	binary	166427	98580	67847	male
+6141_1_m	6141_1	How are people in household related to participant: Husband, wife or partner	binary	165906	37262	128644	male
+6141_2_m	6141_2	How are people in household related to participant: Son and/or daughter (include step-children)	binary	165906	110536	55370	male
+6142_2_m	6142_2	Current employment status: Retired	binary	166393	107669	58724	male
+6142_1_m	6142_1	Current employment status: In paid employment or self-employed	binary	166393	66567	99826	male
+6142_4_m	6142_4	Current employment status: Unable to work because of sickness or disability	binary	166393	158756	7637	male
+6143_1_m	6143_1	Transport type for commuting to job workplace: Car/motor vehicle	binary	92011	16746	75265	male
+6143_3_m	6143_3	Transport type for commuting to job workplace: Public transport	binary	92011	73755	18256	male
+6143_2_m	6143_2	Transport type for commuting to job workplace: Walk	binary	92011	80609	11402	male
+6143_4_m	6143_4	Transport type for commuting to job workplace: Cycle	binary	92011	82398	9613	male
+6144_5_m	6144_5	Never eat eggs, dairy, wheat, sugar: I eat all of the above	binary	166392	38135	128257	male
+6144_4_m	6144_4	Never eat eggs, dairy, wheat, sugar: Sugar or foods/drinks containing sugar	binary	166392	134320	32072	male
+6145_1_m	6145_1	Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself	binary	165997	148565	17432	male
+6145_100_m	6145_100	Illness, injury, bereavement, stress in last 2 years: None of the above	binary	165997	70033	95964	male
+6145_2_m	6145_2	Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault of a close relative	binary	165997	151318	14679	male
+6145_3_m	6145_3	Illness, injury, bereavement, stress in last 2 years: Death of a close relative	binary	165997	132991	33006	male
+6145_6_m	6145_6	Illness, injury, bereavement, stress in last 2 years: Financial difficulties	binary	165997	146841	19156	male
+6146_2_m	6146_2	Attendance/disability/mobility allowance: Disability living allowance	binary	165610	157896	7714	male
+6146_3_m	6146_3	Attendance/disability/mobility allowance: Blue badge	binary	165610	159598	6012	male
+6147_3_m	6147_3	Reason for glasses/contact lenses: For just reading/near work as you are getting older (called 'presbyopia')	binary	166765	152486	14279	male
+6147_2_m	6147_2	Reason for glasses/contact lenses: For long-sightedness, i.e. for distance and near, but particularly for near tasks like reading (called 'hypermetropia')	binary	166765	160355	6410	male
+6147_1_m	6147_1	Reason for glasses/contact lenses: For short-sightedness, i.e. only or mainly for distance viewing such as driving, cinema etc (called 'myopia')	binary	166765	153178	13587	male
+6149_100_m	6149_100	Mouth/teeth dental problems: None of the above	binary	166385	63326	103059	male
+6149_6_m	6149_6	Mouth/teeth dental problems: Dentures	binary	166385	136554	29831	male
+6149_4_m	6149_4	Mouth/teeth dental problems: Loose teeth	binary	166385	159238	7147	male
+6149_3_m	6149_3	Mouth/teeth dental problems: Bleeding gums	binary	166385	148664	17721	male
+6149_1_m	6149_1	Mouth/teeth dental problems: Mouth ulcers	binary	166385	151200	15185	male
+6149_5_m	6149_5	Mouth/teeth dental problems: Toothache	binary	166385	158907	7478	male
+6150_100_m	6150_100	Vascular/heart problems diagnosed by doctor: None of the above	binary	166663	57515	109148	male
+6150_4_m	6150_4	Vascular/heart problems diagnosed by doctor: High blood pressure	binary	166663	115805	50858	male
+6151_7_m	6151_7	Fractured bone site(s): Other bones	binary	165950	156882	9068	male
+6152_100_m	6152_100	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: None of the above	binary	166695	49989	116706	male
+6152_8_m	6152_8	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Asthma	binary	166695	148979	17716	male
+6152_9_m	6152_9	Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor: Hayfever, allergic rhinitis or eczema	binary	166695	131774	34921	male
+6154_1_m	6154_1	Medication for pain relief, constipation, heartburn: Aspirin	binary	164870	133578	31292	male
+6154_100_m	6154_100	Medication for pain relief, constipation, heartburn: None of the above	binary	164870	69184	95686	male
+6154_3_m	6154_3	Medication for pain relief, constipation, heartburn: Paracetamol	binary	164870	137387	27483	male
+6154_2_m	6154_2	Medication for pain relief, constipation, heartburn: Ibuprofen (e.g. Nurofen)	binary	164870	145278	19592	male
+6154_5_m	6154_5	Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol)	binary	164870	155595	9275	male
+6155_2_m	6155_2	Vitamin and mineral supplements: Vitamin B	binary	165854	160807	5047	male
+6155_100_m	6155_100	Vitamin and mineral supplements: None of the above	binary	165854	44035	121819	male
+6155_3_m	6155_3	Vitamin and mineral supplements: Vitamin C	binary	165854	151796	14058	male
+6155_7_m	6155_7	Vitamin and mineral supplements: Multivitamins +/- minerals	binary	165854	135573	30281	male
+6157_100_m	6157_100	Why stopped smoking: None of the above	binary	48662	39657	9005	male
+6157_3_m	6157_3	Why stopped smoking: Health precaution	binary	48662	17699	30963	male
+6157_4_m	6157_4	Why stopped smoking: Financial reasons	binary	48662	35889	12773	male
+6159_4_m	6159_4	Pain type(s) experienced in last month: Back pain	binary	166664	122733	43931	male
+6159_100_m	6159_100	Pain type(s) experienced in last month: None of the above	binary	166664	96957	69707	male
+6159_3_m	6159_3	Pain type(s) experienced in last month: Neck or shoulder pain	binary	166664	130702	35962	male
+6159_5_m	6159_5	Pain type(s) experienced in last month: Stomach or abdominal pain	binary	166664	154684	11980	male
+6159_7_m	6159_7	Pain type(s) experienced in last month: Knee pain	binary	166664	129710	36954	male
+6159_1_m	6159_1	Pain type(s) experienced in last month: Headache	binary	166664	140340	26324	male
+6159_6_m	6159_6	Pain type(s) experienced in last month: Hip pain	binary	166664	151217	15447	male
+6160_100_m	6160_100	Leisure/social activities: None of the above	binary	166509	116660	49849	male
+6160_2_m	6160_2	Leisure/social activities: Pub or social club	binary	166509	105540	60969	male
+6160_3_m	6160_3	Leisure/social activities: Religious group	binary	166509	147750	18759	male
+6160_1_m	6160_1	Leisure/social activities: Sports club or gym	binary	166509	117381	49128	male
+6160_5_m	6160_5	Leisure/social activities: Other group activity	binary	166509	138245	28264	male
+6160_4_m	6160_4	Leisure/social activities: Adult education class	binary	166509	159175	7334	male
+6162_1_m	6162_1	Types of transport used (excluding work): Car/motor vehicle	binary	166155	33300	132855	male
+6162_3_m	6162_3	Types of transport used (excluding work): Public transport	binary	166155	120648	45507	male
+6162_2_m	6162_2	Types of transport used (excluding work): Walk	binary	166155	86380	79775	male
+6162_4_m	6162_4	Types of transport used (excluding work): Cycle	binary	166155	149703	16452	male
+6164_1_m	6164_1	Types of physical activity in last 4 weeks: Walking for pleasure (not as a means of transport)	binary	166167	51014	115153	male
+6164_100_m	6164_100	Types of physical activity in last 4 weeks: None of the above	binary	166167	157310	8857	male
+6164_2_m	6164_2	Types of physical activity in last 4 weeks: Other exercises (eg: swimming, cycling, keep fit, bowling)	binary	166167	88163	78004	male
+6164_5_m	6164_5	Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding, lawn mowing, carpentry, digging)	binary	166167	76577	89590	male
+6164_4_m	6164_4	Types of physical activity in last 4 weeks: Light DIY (eg: pruning, watering the lawn)	binary	166167	82721	83446	male
+6164_3_m	6164_3	Types of physical activity in last 4 weeks: Strenuous sports	binary	166167	142547	23620	male
+6179_100_m	6179_100	Mineral and other dietary supplements: None of the above	binary	166411	63408	103003	male
+6179_1_m	6179_1	Mineral and other dietary supplements: Fish oil (including cod liver oil)	binary	166411	116205	50206	male
+6179_2_m	6179_2	Mineral and other dietary supplements: Glucosamine	binary	166411	139610	26801	male
+6179_4_m	6179_4	Mineral and other dietary supplements: Zinc	binary	166411	161038	5373	male
+20002_1065_m	20002_1065	Non-cancer illness code, self-reported: hypertension	binary	166988	117244	49744	male
+20002_1111_m	20002_1111	Non-cancer illness code, self-reported: asthma	binary	166988	149015	17973	male
+20002_1473_m	20002_1473	Non-cancer illness code, self-reported: high cholesterol	binary	166988	141734	25254	male
+20002_1220_m	20002_1220	Non-cancer illness code, self-reported: diabetes	binary	166988	157907	9081	male
+20002_1286_m	20002_1286	Non-cancer illness code, self-reported: depression	binary	166988	159832	7156	male
+20002_1465_m	20002_1465	Non-cancer illness code, self-reported: osteoarthritis	binary	166988	156339	10649	male
+20002_1387_m	20002_1387	Non-cancer illness code, self-reported: hayfever/allergic rhinitis	binary	166988	157284	9704	male
+20002_99999_m	20002_99999	Non-cancer illness code, self-reported: unclassifiable	binary	166988	160531	6457	male
+20002_1138_m	20002_1138	Non-cancer illness code, self-reported: gastro-oesophageal reflux (gord) / gastric reflux	binary	166988	159703	7285	male
+20003_1140868226_m	20003_1140868226	Treatment/medication code: aspirin	binary	166988	136983	30005	male
+20003_1140879802_m	20003_1140879802	Treatment/medication code: amlodipine	binary	166988	157739	9249	male
+20003_2038460150_m	20003_2038460150	Treatment/medication code: paracetamol	binary	166988	143666	23322	male
+20003_1140861958_m	20003_1140861958	Treatment/medication code: simvastatin	binary	166988	141735	25253	male
+20003_1141194794_m	20003_1141194794	Treatment/medication code: bendroflumethiazide	binary	166988	158317	8671	male
+20003_1140871310_m	20003_1140871310	Treatment/medication code: ibuprofen	binary	166988	150355	16633	male
+20003_1193_m	20003_1193	Treatment/medication code: omega-3/fish oil supplement	binary	166988	161880	5108	male
+20003_1140909674_m	20003_1140909674	Treatment/medication code: cod liver oil capsule	binary	166988	157955	9033	male
+20003_1140866738_m	20003_1140866738	Treatment/medication code: atenolol	binary	166988	158983	8005	male
+20003_1141188442_m	20003_1141188442	Treatment/medication code: glucosamine product	binary	166988	158124	8864	male
+20003_1140864752_m	20003_1140864752	Treatment/medication code: lansoprazole	binary	166988	160848	6140	male
+20003_1140860806_m	20003_1140860806	Treatment/medication code: ramipril	binary	166988	156014	10974	male
+20003_1140865634_m	20003_1140865634	Treatment/medication code: omeprazole	binary	166988	157648	9340	male
+20084_472_m	20084_472	Vitamin and/or mineral supplement use: Fish oil	binary	23469	18228	5241	male
+20090_353_m	20090_353	Type of fat/oil used in cooking: Olive oil	binary	23469	15859	7610	male
+20107_100_m	20107_100	Illnesses of father: None of the above (group 1)	binary	143004	87883	55121	male
+20107_1_m	20107_1	Illnesses of father: Heart disease	binary	144816	99004	45812	male
+20107_8_m	20107_8	Illnesses of father: High blood pressure	binary	143205	111961	31244	male
+20107_10_m	20107_10	Illnesses of father: Alzheimer's disease/dementia	binary	141897	135280	6617	male
+20107_3_m	20107_3	Illnesses of father: Lung cancer	binary	142697	129480	13217	male
+20107_13_m	20107_13	Illnesses of father: Prostate cancer	binary	141826	130609	11217	male
+20107_9_m	20107_9	Illnesses of father: Diabetes	binary	142200	128909	13291	male
+20107_2_m	20107_2	Illnesses of father: Stroke	binary	143069	120438	22631	male
+20107_6_m	20107_6	Illnesses of father: Chronic bronchitis/emphysema	binary	142856	127381	15475	male
+20107_4_m	20107_4	Illnesses of father: Bowel cancer	binary	141975	133062	8913	male
+20107_101_m	20107_101	Illnesses of father: None of the above (group 2)	binary	145083	36039	109044	male
+20110_100_m	20110_100	Illnesses of mother: None of the above (group 1)	binary	149952	81540	68412	male
+20110_9_m	20110_9	Illnesses of mother: Diabetes	binary	149088	135551	13537	male
+20110_8_m	20110_8	Illnesses of mother: High blood pressure	binary	150124	110158	39966	male
+20110_5_m	20110_5	Illnesses of mother: Breast cancer	binary	148867	136691	12176	male
+20110_1_m	20110_1	Illnesses of mother: Heart disease	binary	150032	123471	26561	male
+20110_4_m	20110_4	Illnesses of mother: Bowel cancer	binary	148779	140559	8220	male
+20110_10_m	20110_10	Illnesses of mother: Alzheimer's disease/dementia	binary	148988	136664	12324	male
+20110_12_m	20110_12	Illnesses of mother: Severe depression	binary	148704	140426	8278	male
+20110_2_m	20110_2	Illnesses of mother: Stroke	binary	149517	129673	19844	male
+20110_3_m	20110_3	Illnesses of mother: Lung cancer	binary	148838	142487	6351	male
+20110_6_m	20110_6	Illnesses of mother: Chronic bronchitis/emphysema	binary	148964	141142	7822	male
+20110_101_m	20110_101	Illnesses of mother: None of the above (group 2)	binary	151094	32945	118149	male
+20111_100_m	20111_100	Illnesses of siblings: None of the above (group 1)	binary	126490	37688	88802	male
+20111_8_m	20111_8	Illnesses of siblings: High blood pressure	binary	126298	103011	23287	male
+20111_1_m	20111_1	Illnesses of siblings: Heart disease	binary	125830	113563	12267	male
+20111_12_m	20111_12	Illnesses of siblings: Severe depression	binary	125271	118114	7157	male
+20111_5_m	20111_5	Illnesses of siblings: Breast cancer	binary	125129	119858	5271	male
+20111_9_m	20111_9	Illnesses of siblings: Diabetes	binary	125565	115564	10001	male
+20111_101_m	20111_101	Illnesses of siblings: None of the above (group 2)	binary	128184	18261	109923	male
+20116_0_m	20116_0	Smoking status: Never	binary	166319	85338	80981	male
+20116_1_m	20116_1	Smoking status: Previous	binary	166319	101074	65245	male
+20116_2_m	20116_2	Smoking status: Current	binary	166319	146226	20093	male
+20117_1_m	20117_1	Alcohol drinker status: Previous	binary	166793	161260	5533	male
+20118_5_m	20118_5	Home area population density - urban or rural: England/Wales - Urban - less sparse	binary	165239	35670	129569	male
+20118_6_m	20118_6	Home area population density - urban or rural: England/Wales - Town and Fringe - less sparse	binary	165239	153619	11620	male
+20118_7_m	20118_7	Home area population density - urban or rural: England/Wales - Village - less sparse	binary	165239	157024	8215	male
+20118_11_m	20118_11	Home area population density - urban or rural: Scotland - Large Urban Area	binary	165239	155957	9282	male
+20152_m	20152	Reproduciblity of spirometry measurement using ERS/ATS criteria	binary	127486	35598	91888	male
+20160_m	20160	Ever smoked	binary	166343	57091	109252	male
+20421_m	20421	Ever felt worried, tense, or anxious for most of a month or longer	binary	49483	38921	10562	male
+20425_m	20425	Ever worried more than most people would in similar situation	binary	44206	34628	9578	male
+20441_m	20441	Ever had prolonged loss of interest in normal activities	binary	51829	35399	16430	male
+20446_m	20446	Ever had prolonged feelings of sadness or depression	binary	51839	29000	22839	male
+20499_m	20499	Ever sought or received professional help for mental distress	binary	51791	36276	15515	male
+20500_m	20500	Ever suffered mental distress preventing usual activities	binary	51177	37767	13410	male
+20502_m	20502	Ever had period extreme irritability	binary	50523	37897	12626	male
+20528_m	20528	Diagnosed with life-threatening illness	binary	51799	42457	9342	male
+20529_m	20529	Victim of physically violent crime	binary	51887	39204	12683	male
+20530_m	20530	Witnessed sudden violent death	binary	51868	41799	10069	male
+20544_11_m	20544_11	Mental health problems ever diagnosed by a professional: Depression	binary	51841	43675	8166	male
+20544_15_m	20544_15	Mental health problems ever diagnosed by a professional: Anxiety, nerves or generalized anxiety disorder	binary	51825	46176	5649	male
+20546_3_m	20546_3	Substances taken for depression: Medication prescribed to you (for at least two weeks)	binary	51839	43035	8804	male
+20547_1_m	20547_1	Activities undertaken to treat depression: Talking therapies, such as psychotherapy, counselling, group therapy or CBT	binary	51839	43806	8033	male
+20548_2_m	20548_2	Manifestations of mania or irritability: I was more restless than usual	binary	50523	44639	5884	male
+22126_m	22126	Doctor diagnosed hayfever or allergic rhinitis	binary	41234	32192	9042	male
+22127_m	22127	Doctor diagnosed asthma	binary	41234	36232	5002	male
+22502_m	22502	Cough on most days	binary	41234	35186	6048	male
+22506_114_m	22506_114	Tobacco smoking: Never smoked	binary	41065	18772	22293	male
+22506_113_m	22506_113	Tobacco smoking: Ex-smoker	binary	41065	24132	16933	male
+100022_m	100022	Alcohol	ordinal	23483	NA	NA	male
+100150_m	100150	Drinking water intake	ordinal	23469	NA	NA	male
+100160_m	100160	Low calorie drink intake	ordinal	23469	NA	NA	male
+100170_m	100170	Fizzy drink intake	ordinal	23469	NA	NA	male
+100190_m	100190	Orange juice intake	ordinal	23459	NA	NA	male
+100250_m	100250	Instant coffee intake	ordinal	23469	NA	NA	male
+100270_m	100270	Filtered coffee intake	ordinal	23469	NA	NA	male
+100370_m	100370	Intake of sugar added to coffee	ordinal	23469	NA	NA	male
+100400_m	100400	Standard tea intake	ordinal	23469	NA	NA	male
+100520_m	100520	Milk intake	ordinal	23460	NA	NA	male
+100590_m	100590	Red wine intake	ordinal	23469	NA	NA	male
+100630_m	100630	Rose wine intake	ordinal	23469	NA	NA	male
+100670_m	100670	White wine intake	ordinal	23469	NA	NA	male
+100710_m	100710	Beer/cider intake	ordinal	23469	NA	NA	male
+100720_m	100720	Fortified wine intake	ordinal	23463	NA	NA	male
+100730_m	100730	Spirits intake	ordinal	23469	NA	NA	male
+102190_m	102190	Cake intake	ordinal	23469	NA	NA	male
+102280_m	102280	Milk chocolate intake	ordinal	23467	NA	NA	male
+102290_m	102290	Dark chocolate intake	ordinal	23460	NA	NA	male
+102330_m	102330	Sweets intake	ordinal	23469	NA	NA	male
+102360_m	102360	Sweet biscuits intake	ordinal	23469	NA	NA	male
+102440_m	102440	Unsalted nuts intake	ordinal	23469	NA	NA	male
+102460_m	102460	Crisp intake	ordinal	23469	NA	NA	male
+102820_m	102820	Hard cheese intake	ordinal	23469	NA	NA	male
+102830_m	102830	Soft cheese intake	ordinal	23469	NA	NA	male
+102840_m	102840	Blue cheese intake	ordinal	23465	NA	NA	male
+103020_m	103020	Beef intake	ordinal	23464	NA	NA	male
+103060_m	103060	Poultry intake	ordinal	23464	NA	NA	male
+103070_m	103070	Bacon intake	ordinal	23469	NA	NA	male
+104020_m	104020	Fried potatoes intake	ordinal	23469	NA	NA	male
+104090_m	104090	Side salad intake	ordinal	23469	NA	NA	male
+104170_m	104170	Carrot intake	ordinal	23469	NA	NA	male
+104210_m	104210	Cucumber intake	ordinal	23469	NA	NA	male
+104240_m	104240	Lettuce intake	ordinal	23469	NA	NA	male
+104290_m	104290	Sweet pepper intake	ordinal	23469	NA	NA	male
+104340_m	104340	Fresh tomato intake	ordinal	23469	NA	NA	male
+104450_m	104450	Apple intake	ordinal	23469	NA	NA	male
+104460_m	104460	Banana intake	ordinal	23469	NA	NA	male
+104530_m	104530	Orange intake	ordinal	23469	NA	NA	male
+104900_m	104900	Time spent doing vigorous physical activity	ordinal	23469	NA	NA	male
+104910_m	104910	Time spent doing moderate physical activity	ordinal	23469	NA	NA	male
+104920_m	104920	Time spent doing light physical activity	ordinal	23469	NA	NA	male
+41215_0_m	41215_0	Detention categories: Informal, not formally detained	binary	167020	155242	11778	male
+41231_1_m	41231_1	Hospital episode type: General episode	binary	167020	54236	112784	male
+41248_1000_m	41248_1000	Destinations on discharge from hospital (recoded): Usual Place of residence	binary	166958	62854	104104	male
+100460_m	100460	Added milk to standard tea	binary	23469	15890	7579	male
+102080_m	102080	Yogurt/ice-cream consumers	binary	23469	15062	8407	male
+102130_m	102130	Dessert consumers	binary	23469	16037	7432	male
+102700_m	102700	Starchy food consumers	binary	23469	17563	5906	male
+102930_m	102930	Egg consumers	binary	23469	18343	5126	male
+103140_m	103140	Fish consumer	binary	23469	17151	6318	male
+104670_m	104670	Vitamin supplement user	binary	23469	15305	8164	male
+110001_m	110001	Invitation to complete online 24-hour recall dietary questionnaire, acceptance	binary	103147	31950	71197	male
+24009_m	24009	Traffic intensity on the nearest road	ordinal	164573	NA	NA	male
+24013_m	24013	Total traffic load on major roads	ordinal	164573	NA	NA	male
+24015_m	24015	Sum of road length of major roads within 100m	ordinal	164573	NA	NA	male
+30150_m	30150	Eosinophill count	ordinal	162098	NA	NA	male
+30160_m	30160	Basophill count	ordinal	162098	NA	NA	male
+30170_m	30170	Nucleated red blood cell count	ordinal	162096	NA	NA	male
+30230_m	30230	Nucleated red blood cell percentage	ordinal	162095	NA	NA	male
+40009_m	40009	Reported occurrences of cancer	ordinal	24997	NA	NA	male
+22606_1_m	22606_1	Workplace very noisy: Sometimes	binary	40778	18054	22724	male
+22606_2_m	22606_2	Workplace very noisy: Often	binary	40735	31510	9225	male
+22607_1_m	22607_1	Workplace very cold: Sometimes	binary	40727	20402	20325	male
+22608_1_m	22608_1	Workplace very hot: Sometimes	binary	40734	16588	24146	male
+22609_1_m	22609_1	Workplace very dusty: Sometimes	binary	40603	23880	16723	male
+22610_1_m	22610_1	Workplace full of chemical or other fumes: Sometimes	binary	40331	26913	13418	male
+22611_1_m	22611_1	Workplace had a lot of cigarette smoke from other people smoking: Sometimes	binary	40606	18018	22588	male
+22611_2_m	22611_2	Workplace had a lot of cigarette smoke from other people smoking: Often	binary	40477	33127	7350	male
+22620_1_m	22620_1	Job involved shift work: Yes	binary	40936	27039	13897	male
+24014_m	24014	Close to major road	binary	164573	153011	11562	male
+189_irnt_m	189_irnt	Townsend deprivation index at recruitment	continuous_irnt	166819	NA	NA	male
+20016_irnt_m	20016_irnt	Fluid intelligence score	continuous_irnt	54321	NA	NA	male
+20127_irnt_m	20127_irnt	Neuroticism score	continuous_irnt	137880	NA	NA	male
+24019_irnt_m	24019_irnt	Particulate matter air pollution (pm10); 2007	continuous_irnt	164213	NA	NA	male
+30030_irnt_m	30030_irnt	Haematocrit percentage	continuous_irnt	162399	NA	NA	male
+30510_irnt_m	30510_irnt	Creatinine (enzymatic) in urine	continuous_irnt	162753	NA	NA	male

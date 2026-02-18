@@ -1,0 +1,59 @@
+sid	PMID	Year	File	Website	Consortium	Domain	ChapterLevel	SubchapterLevel	Trait	uniqTrait	Population	Ncase	Ncontrol	N	Genome	Nsnps	sex	Info	Notes
+a1f	35835914	2022	https://ctg.cncr.nl/documents/p1651/insomnia_female_ukb2b_EUR_sumstats_20190311_with_chrX_mac_100.txt.gz	https://sleep.hugeamp.org/datasets.html					Insomnia		EUR	66976	141982	208958			female	https://ctg.cncr.nl/documents/p1651/insomnia_20190311_README	
+a2f	28604731	2017	https://ctg.cncr.nl/documents/p1651/Hammerschlag_NatGenet2017_insomnia_sumstats-females_090617.txt.gz						Insomnia		EUR	19521	39846	59367			female		already in GWAS Atlas
+a3f	36284158	2022	https://ctg.cncr.nl/documents/p1651/broadABC2022_Final_Females.txt.gz		ALSPAC, ADH, COGA, iPSYCH, TRAILS, etc				Broad antisocial behaviour					26895			female		
+a4f	28979981	2017	http://broadabc.ctglab.nl/documents/p12/BroadABC_METALoutput_Females.tbl						Broad antisocial behaviour					7772			female		already in GWAS Atlas > 3958, 3959
+a5f	29077507	2018	https://personal.broadinstitute.org/ryank/chen_and_cade_et_al_2018_ahi_3_percent_combined_females.zip		ARIC, CFS, FHS, MESA, MrOS				Sleep apnea		Mix						female		
+a6f	34122051	2021	https://www.niagads.org/system/tdf/public_docs/ADGC.phase12.sex2_.grm_.assoc_.logistic_p-value.gz?file=1&type=field_collection_item&id=184&force=		ADGC				Alzheimer			5705	7067	12772	GRCh38	38043163	female		
+a7f	33901317		https://drive.google.com/u/0/uc?id=1C9Tn-glwSOsJRGv8WCXMoMbQ6DQ8EiJE&export=download		IPDGC, UKBB				Parkinson		EUR	7947	90662	98609			female		
+a8f	30297969	2018	SHA1:aa0db522c78dc3da76596adbd867908e0b9e5b3b, MD5:530cb9af0b0ed5246d45c7ef74161dd9	http://diagram-consortium.org/downloads.html 					T2D		EUR	30053	434336				female		
+a9f	29325848	2018	https://figshare.com/ndownloader/files/35310529		PGC, iPSYCH				AHDH		EUR	4945	16246	21191			female		
+a10f			http://134.160.84.25:8080/download/Gastric_cancer_stratified_meta						Gastric Cancer								female		not stratified
+a11f			http://134.160.84.25:8080/download/Glaucoma_stratified_meta						Glaucoma								female		not stratified
+a12f			http://134.160.84.25:8080/download/Ischemic_stroke_stratified_meta						Ischemic stroke								female		not stratified
+a13f	36474045	2022	https://personal.broadinstitute.org/ryank/Aragam_2022_CARDIoGRAM_CAD_GWAS.zip						CAD		EUR	38728	413794	452522			female		
+a14f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/8/8d/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_BMI_WOMEN_N.txt						BMI								female		already in GWAS Atlas
+a15f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/f/fe/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_HEIGHT_WOMEN_N.txt						height								female		already in GWAS Atlas
+a16f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/9/99/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_HIP_WOMEN_N.txt						HIP								female		already in GWAS Atlas
+a17f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/e/e5/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_HIPadjBMI_WOMEN_N.txt						HIPadjBMI								female		already in GWAS Atlas
+a18f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/2/24/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_WCadjBMI_WOMEN_N.txt						WCadjBMI								female		already in GWAS Atlas
+a19f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/c/cc/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_WEIGHT_WOMEN_N.txt						Weight								female		already in GWAS Atlas
+a20f	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/4/40/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_WHRadjBMI_WOMEN_N.txt						WHRadjBMI								female		already in GWAS Atlas
+a21f	33510174	2021	http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90007001-GCST90008000/GCST90007527/GCST90007527_buildGRCh37.tsv.gz						Grip strength measurement/ Muscle weakness			34589	100879	135468			female		
+a22f	32060260	2020	http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST009001-GCST010000/GCST009763/Campos_prePMID_Snoring-femalesOnly.gz						Snoring			61792	156554	218346			female		
+a23f	30239722	2019	https://zenodo.org/record/1251813/files/bmi.giant-ukbb.meta-analysis.females.23May2018.txt.gz?download=1						BMI					434794			female		
+a24f	30239722	2019	https://zenodo.org/record/1251813/files/whr.giant-ukbb.meta-analysis.females.23May2018.txt.gz?download=1						WHR					381152			female		
+a25f	30239722	2019	https://zenodo.org/record/1251813/files/whradjbmi.giant-ukbb.meta-analysis.females.23May2018.txt.gz?download=1						WHRadjBMI					379501			female		
+a26f	34446064	2021	https://personal.broadinstitute.org/ryank/cade_et_al_2021.zip		ARIC,  CHS, FHS MESA, CFS				Sleep apnea		EUR			1700			female		
+a27f	33402679	2021	https://magicinvestigators.org/downloads/FG_female_1000G_density_formatted_21-03-29.txt.gz						Fasting glucose					73089			female		
+a28f	33402679	2021	https://magicinvestigators.org/downloads/FI_female_1000G_density_formatted_21-03-29.txt.gz						Fasting insuline					50404			female		
+a29f	33830993	2021	https://researchdata.gla.ac.uk/1050/1/female_chronic_pain-bgen.stats.gz		UKBB				Multisite chronic pain		EUR			206093			female		
+a1m	35835914	2022	https://ctg.cncr.nl/documents/p1651/insomnia_male_ukb2b_EUR_sumstats_20190311_with_chrX_mac_100.txt.gz						Insomnia			42572	135458	178030			male	https://ctg.cncr.nl/documents/p1651/insomnia_20190311_README	
+a2m	28604731	2017	https://ctg.cncr.nl/documents/p1651/Hammerschlag_NatGenet2017_insomnia_sumstats-males_090617.txt.gz						Insomnia		EUR	12863	40776	53639			male		
+a3m	36284158	2022	https://ctg.cncr.nl/documents/p1651/broadABC2022_Final_Males.txt.gz		ALSPAC, ADH, COGA, iPSYCH, TRAILS, etc				Broad antisocial behaviour					22322			male		
+a4m	28979981	2017	http://broadabc.ctglab.nl/documents/p12/BroadABC_METALoutput__Males.tbl						Broad antisocial behaviour					8535			male		
+a5m	29077507	2018	https://personal.broadinstitute.org/ryank/chen_and_cade_et_al_2018_ahi_3_percent_combined_males.zip						Sleep apnea		Mix						male		
+a6m	34122051	2021	https://www.niagads.org/system/tdf/public_docs/ADGC.phase12.sex1_.grm_.assoc_.logistic_p-value.gz?file=1&type=field_collection_item&id=183&force=		ADGC				Alzheimer		EUR	4010	4672	8682	GRCh38	38043163	male		
+a7m	33901317	2021	https://drive.google.com/u/0/uc?id=1C9Tn-glwSOsJRGv8WCXMoMbQ6DQ8EiJE&export=download						Parkinson		EUR	13020	89660	102680			male		
+a8m	30297969	2018	SHA1:b7638707f0c5302442a7faeff4bf88a81610fe21, MD5:a1999595056edf6971ede4ea7473951b	http://diagram-consortium.org/downloads.html 					T2D		EUR	41846	383767				male		
+a9m	29325848	2018	https://figshare.com/ndownloader/files/35310532		PGC, iPSYCH				AHDH		EUR	14154	17948	32102			male		
+a10m			http://134.160.84.25:8080/download/Gastric_cancer_stratified_meta						Gastric Cancer								male		not stratified
+a11m			http://134.160.84.25:8080/download/Glaucoma_stratified_meta						Glaucoma								male		not stratified
+a12m			http://134.160.84.25:8080/download/Ischemic_stroke_stratified_meta						Ischemic stroke								male		not stratified
+a13m	36474045	2022	https://personal.broadinstitute.org/ryank/Aragam_2022_CARDIoGRAM_CAD_GWAS.zip						CAD		EUR	83210	437690	559628			male		
+a14m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/3/30/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_BMI_MEN_N.txt						BMI								male		
+a15m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/5/5c/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_HEIGHT_MEN_N.txt						height								male		
+a16m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/a/a9/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_HIP_MEN_N.txt						HIP								male		
+a17m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/2/2f/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_HIPadjBMI_MEN_N.txt						HIPadjBMI								male		
+a18m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/0/08/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_WCadjBMI_MEN_N.txt						WCadjBMI								male		
+a19m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/f/f8/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_WEIGHT_MEN_N.txt						Weight								male		
+a20m	23754948	2013	https://portals.broadinstitute.org/collaboration/giant/images/f/f7/GIANT_Randall2013PlosGenet_stage1_publicrelease_HapMapCeuFreq_WHRadjBMI_MEN_N.txt						WHRadjBMI								male		
+a21m	33510174	2021	http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90007001-GCST90008000/GCST90007528/GCST90007528_buildGRCh37.tsv.gz						Grip strength measurement/ Muscle weakness		EUR	14007	107048	121055			male		
+a22m	32060260	2020	http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST009001-GCST010000/GCST009762/Campos_prePMID_Snoring-malesOnly.gz						Snoring			90806	99165	189971			male		
+a23m	30239722	2019	https://zenodo.org/record/1251813/files/bmi.giant-ukbb.meta-analysis.males.23May2018.txt.gz?download=1						BMI					374756			male		we can use GWAS Atlas (GIANT only)
+a24m	30239722	2019	https://zenodo.org/record/1251813/files/whr.giant-ukbb.meta-analysis.males.23May2018.txt.gz?download=1						WHR					316772			male		
+a25m	30239722	2019	https://zenodo.org/record/1251813/files/whradjbmi.giant-ukbb.meta-analysis.males.23May2018.txt.gz?download=1						WHRadjBMI					315284			male		
+a26m	34446064	2021	https://personal.broadinstitute.org/ryank/cade_et_al_2021.zip						Sleep apnea		EUR			1546			male		
+a27m	33402679	2021	https://magicinvestigators.org/downloads/FG_male_1000G_density_formatted_21-03-29.txt.gz						Fasting glucose					67506			male		
+a28m	33402679	2021	https://magicinvestigators.org/downloads/FI_male_1000G_density_formatted_21-03-29.txt.gz		MAGIC				Fasting insuline					47806			male		
+a29m	33830993	2021	https://researchdata.gla.ac.uk/1050/2/male_chronic_pain-bgen.stats.gz		UKBB				Multisite chronic pain		EUR			178556			male		
