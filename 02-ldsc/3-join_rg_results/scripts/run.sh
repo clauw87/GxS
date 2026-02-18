@@ -74,3 +74,13 @@ cat real/tmp/* | grep -v -w gcov_int >> ./real/outputs/genetic-correlations-raw.
 
 
 Rscript ./real/scripts/joinedresformat.R ${RES_FILE} ${METAF} ${POWERF}
+
+
+
+
+
+
+# in their dedicated folders outside
+##Rscript ./real/scripts/intratrait_diff.R
+##Rscript	./real/scripts/crosstrait_diff.R
+##Rscript ./real/scripts/heatmaps_ct.R
